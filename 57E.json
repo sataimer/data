@@ -1,0 +1,922 @@
+﻿{
+  "SlotKey": "57E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 3775,
+      "Polarization": "L",
+      "SymbolRateKs": 9583,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3798,
+      "Polarization": "R",
+      "SymbolRateKs": 19167,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "01 BBC One",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "02 BBC Two",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "03 ITV",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "06 BFBS Extra",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "18 Sky Sports",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "19 TNT Sports",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "20 BFBS Sport",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "17 Sky News",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "04 Channel 4",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "05 Channel 5",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "BFBS Extra 2",
+          "Package": "BFBS",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kantipur TV",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "61 BFBS Ops",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "67 BFBS UK Bases",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "52 BFBS Radio 2",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "75 BFBS Best of British",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "53 BFBS UK National",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "51 BFBS Radio",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "71 BFBS Beats",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "69 BFBS Gurkha Radio",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "72 BFBS Edge",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "73 BFBS Rewind",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "74 BFBS Samishran",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "64 BFBS Falklands",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Quadrille Data",
+          "Package": "BFBS",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3813,
+      "Polarization": "R",
+      "SymbolRateKs": 2400,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Benishangul Gumuz TV",
+          "Package": "BGM",
+          "Languages": [
+            "amh"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3816,
+      "Polarization": "R",
+      "SymbolRateKs": 2400,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "NBC Ethiopia",
+          "Package": "Vislink",
+          "Languages": [
+            "amh"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3833,
+      "Polarization": "L",
+      "SymbolRateKs": 2400,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Harari TV Ethiopia",
+          "Package": "Harmonic",
+          "Languages": [
+            "amh"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3840,
+      "Polarization": "L",
+      "SymbolRateKs": 2400,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "First_service",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3855,
+      "Polarization": "L",
+      "SymbolRateKs": 4440,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Walta TV HD",
+          "Package": null,
+          "Languages": [
+            "amh"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3858,
+      "Polarization": "R",
+      "SymbolRateKs": 9075,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Addis TV",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "AMN Plus",
+          "Package": "Harmonic",
+          "Languages": [
+            "amh"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio 1",
+          "Package": "Harmoni",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3916,
+      "Polarization": "R",
+      "SymbolRateKs": 4167,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "OBN Horn of Africa",
+          "Package": "none",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3932,
+      "Polarization": "L",
+      "SymbolRateKs": 3920,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Amhara TV HD",
+          "Package": "Service Provider",
+          "Languages": [
+            "amh",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3941,
+      "Polarization": "L",
+      "SymbolRateKs": 3585,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Fana TV",
+          "Package": "Service Provider",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4060,
+      "Polarization": "L",
+      "SymbolRateKs": 7043,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4065,
+      "Polarization": "L",
+      "SymbolRateKs": 1500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4069,
+      "Polarization": "L",
+      "SymbolRateKs": 1040,
+      "Fec": "1/2",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4071,
+      "Polarization": "L",
+      "SymbolRateKs": 2722,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4095,
+      "Polarization": "L",
+      "SymbolRateKs": 11000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "AFN Prime Atlantic Eifel",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AFN News",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AFN Sports",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AFN Sports 2",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AFN Eagle",
+          "Package": null,
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "AFN The Voice",
+          "Package": null,
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "AFN Music Service 1",
+          "Package": null,
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "AFN Music Service 2",
+          "Package": null,
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "INV1-dtsatl",
+          "Package": "Inview Ltd",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4095,
+      "Polarization": "R",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "MTN INFO",
+          "Package": "MTNTV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "MTN SE HD",
+          "Package": "MTNTV",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MSNBC",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "FOX NEWS",
+          "Package": "MTNTV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CNBC HD",
+          "Package": "MTNTV",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sky News",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC News",
+          "Package": "MTNTV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "PRIME JOURNEY",
+          "Package": "MTNTV",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "SKY SPORT NEWS",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport 24/24",
+          "Package": "MTNTTV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prime one",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SPORT24 EXTRA",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "RTL",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "AU CH NEWS",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Asia Comedy",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TFC",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Prime Favorites",
+          "Package": "MTNTV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC Marine HD",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVE",
+          "Package": "MTNTV",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal 24 Horas",
+          "Package": "MTNTV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AU COMEDY AND DRAMA",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ABC News 24 Channel",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNN International",
+          "Package": "MTTNTV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "FOOD",
+          "Package": "MTNTV",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "HGTV",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TRAVEL",
+          "Package": "MTNTV",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TEMP 1",
+          "Package": "MTNNTV",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TEMP 2",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "FRANCE24",
+          "Package": "MTNTV",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Mediaset Italia",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Rai Italia",
+          "Package": "MTNTV",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hunan TV",
+          "Package": "Harmonic",
+          "Languages": [
+            "chi"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CCTV Movie",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CCTV Entertainment",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CCTV 4",
+          "Package": "MTNTV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Metro TV",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Movies Now and Then",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "National Geographic UK",
+          "Package": "MTNTV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTN Special Events",
+          "Package": "MTNTV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4133,
+      "Polarization": "R",
+      "SymbolRateKs": 6050,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4159,
+      "Polarization": "L",
+      "SymbolRateKs": 2962,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "BBC News Burmese",
+          "Package": "BBC",
+          "Languages": [
+            "bur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Encompass - NOR",
+          "Package": "EDM",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10985,
+      "Polarization": "H",
+      "SymbolRateKs": 45000,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11044,
+      "Polarization": "V",
+      "SymbolRateKs": 1775,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11055.5,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "4/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11105,
+      "Polarization": "H",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11184,
+      "Polarization": "V",
+      "SymbolRateKs": 1211,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11566,
+      "Polarization": "H",
+      "SymbolRateKs": 10750,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11588,
+      "Polarization": "H",
+      "SymbolRateKs": 16532,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11613,
+      "Polarization": "H",
+      "SymbolRateKs": 4800,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    }
+  ]
+}

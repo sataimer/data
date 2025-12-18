@@ -1,0 +1,843 @@
+﻿{
+  "SlotKey": "15W",
+  "Transponders": [
+    {
+      "FrequencyMHz": 11043,
+      "Polarization": "V",
+      "SymbolRateKs": 44100,
+      "Fec": "9/10",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "BBC One London",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC One Scotland",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC One Northern Ireland",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC One Wales",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC Two England",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC Three",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC News",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CBBC",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CBeebies",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC Parliament",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC Red Button 1",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC Two HD",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC One HD",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ITV 1 London HD",
+          "Package": "ITV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Channel 4 HD",
+          "Package": "Channel 4 Broadcasting",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Channel 5 HD",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "STV HD",
+          "Package": "STV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Three HD",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC Four HD",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CBBC HD",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CBeebies HD",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "U\u0026Eden",
+          "Package": "U\u0026Eden",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Legend Xtra",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "UTV HD",
+          "Package": "UTV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "TBN UK",
+          "Package": "Governance Ministries",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "5 Select",
+          "Package": "Channel 5 Broadcasting Ltd",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC R5L",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC R5SX",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC 6 Music",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Radio 4 Ex",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC 1 Xtra",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Asian Net.",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC World Sv.",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Radio 1",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Radio 2",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Radio 3",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Radio 4",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "SIPSI In-band configurations",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "Fat CSI",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Red Button",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC FOUR",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Alba",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Scotland",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Scotland",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio N Gael",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Ulster",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Foyle",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Wales",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Cymru",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Cymru 2",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Scotland HD",
+          "Package": "BBC",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "S4C HD",
+          "Package": "S4C",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11117.85,
+      "Polarization": "V",
+      "SymbolRateKs": 6000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11128,
+      "Polarization": "H",
+      "SymbolRateKs": 438,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11162.9,
+      "Polarization": "H",
+      "SymbolRateKs": 1500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11178.2,
+      "Polarization": "H",
+      "SymbolRateKs": 4344,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11188.5,
+      "Polarization": "H",
+      "SymbolRateKs": 9692,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11341,
+      "Polarization": "V",
+      "SymbolRateKs": 20170,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Reuters World News Service",
+          "Package": "Reuters",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11431.8,
+      "Polarization": "V",
+      "SymbolRateKs": 29900,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11457.4,
+      "Polarization": "V",
+      "SymbolRateKs": 1100,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11457.4,
+      "Polarization": "V",
+      "SymbolRateKs": 1100,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11474.7,
+      "Polarization": "V",
+      "SymbolRateKs": 2300,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11489.1,
+      "Polarization": "V",
+      "SymbolRateKs": 4286,
+      "Fec": "NONE",
+      "Standard": "DVB-S2",
+      "Modulation": "",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11506,
+      "Polarization": "V",
+      "SymbolRateKs": 2895,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11523.4,
+      "Polarization": "H",
+      "SymbolRateKs": 2000,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11563.5,
+      "Polarization": "V",
+      "SymbolRateKs": 3333,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11565.1,
+      "Polarization": "V",
+      "SymbolRateKs": 1089,
+      "Fec": "1/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11568,
+      "Polarization": "H",
+      "SymbolRateKs": 2678,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11590,
+      "Polarization": "V",
+      "SymbolRateKs": 5000,
+      "Fec": "2/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11610.7,
+      "Polarization": "V",
+      "SymbolRateKs": 556,
+      "Fec": "4/5",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11652.7,
+      "Polarization": "V",
+      "SymbolRateKs": 4881,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11662.7,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11687.9,
+      "Polarization": "V",
+      "SymbolRateKs": 12000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12516.2,
+      "Polarization": "H",
+      "SymbolRateKs": 640,
+      "Fec": "4/5",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12521,
+      "Polarization": "H",
+      "SymbolRateKs": 3200,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12523,
+      "Polarization": "V",
+      "SymbolRateKs": 25000,
+      "Fec": "Auto",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12534.8,
+      "Polarization": "V",
+      "SymbolRateKs": 51427,
+      "Fec": "13/18",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12580,
+      "Polarization": "H",
+      "SymbolRateKs": 11000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12589,
+      "Polarization": "H",
+      "SymbolRateKs": 3400,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12597,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": [
+        {
+          "Name": "Navy TV",
+          "Package": "BFBS",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12599,
+      "Polarization": "H",
+      "SymbolRateKs": 6420,
+      "Fec": "2/3",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12601.5,
+      "Polarization": "H",
+      "SymbolRateKs": 3426,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12609,
+      "Polarization": "H",
+      "SymbolRateKs": 7552,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12621.2,
+      "Polarization": "H",
+      "SymbolRateKs": 4250,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12621.2,
+      "Polarization": "H",
+      "SymbolRateKs": 4250,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12645.3,
+      "Polarization": "V",
+      "SymbolRateKs": 20165,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12658.9,
+      "Polarization": "H",
+      "SymbolRateKs": 51428,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12658.9,
+      "Polarization": "H",
+      "SymbolRateKs": 51428,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12673,
+      "Polarization": "V",
+      "SymbolRateKs": 7850,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12707,
+      "Polarization": "H",
+      "SymbolRateKs": 3700,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12717,
+      "Polarization": "V",
+      "SymbolRateKs": 24910,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Navy TV",
+          "Package": "BFBS",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12720.8,
+      "Polarization": "H",
+      "SymbolRateKs": 51420,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSKStream",
+      "Channels": []
+    }
+  ]
+}

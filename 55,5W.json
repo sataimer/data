@@ -1,0 +1,2183 @@
+﻿{
+  "SlotKey": "55.5W",
+  "Transponders": [
+    {
+      "FrequencyMHz": 3724,
+      "Polarization": "H",
+      "SymbolRateKs": 20709,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3739,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Love Nature HD",
+          "Package": "iKOMG",
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Zoomoo HD",
+          "Package": "iKOMG",
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "BabyFirst",
+          "Package": "iKOMG",
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Euronews Spanish HD",
+          "Package": "iKOMG",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Eurochannel",
+          "Package": "iKOMG",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Trace Sports Stars HD",
+          "Package": "iKOMG",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Trace Brazuca HD",
+          "Package": "iKOMG",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3757,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3758,
+      "Polarization": "H",
+      "SymbolRateKs": 7500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3768,
+      "Polarization": "V",
+      "SymbolRateKs": 8330,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Winsports",
+          "Package": "WinSports",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3777,
+      "Polarization": "V",
+      "SymbolRateKs": 7600,
+      "Fec": "8/15",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3788,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3792,
+      "Polarization": "H",
+      "SymbolRateKs": 4500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3797,
+      "Polarization": "H",
+      "SymbolRateKs": 3330,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3805,
+      "Polarization": "V",
+      "SymbolRateKs": 23330,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3812,
+      "Polarization": "H",
+      "SymbolRateKs": 19167,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "LoveNature HD",
+          "Package": "iKOMG",
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ZooMoo",
+          "Package": "iKOMG",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "EFBY TV",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Euro News",
+          "Package": "iKOMG",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurochannel",
+          "Package": "iKOMG",
+          "Languages": [
+            "esp",
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Trace Sport Stars",
+          "Package": "iKOMG",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Trace Brazuca HD",
+          "Package": "iKOMG",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TIN TV",
+          "Package": "IKOMG",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "OU Sport",
+          "Package": "iKOMG",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TravelXP HD",
+          "Package": "iKOMG",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3820,
+      "Polarization": "V",
+      "SymbolRateKs": 5000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3845,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Cinecanal HD",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "STAR CTA Test",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "STAR Peru",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinecanal Colombia HD",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "FX Colombia",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Channel Chile",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Channel Colombia",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "National Geographic Latin America HD",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3846,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "LAST Channel 1",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 2",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 3",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 4",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 5",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 6",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 7",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 8",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 9",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 10",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 11",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 12",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 13",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 14",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 15",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 16",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 17",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 18",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 19",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 20",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 21",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 22",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 23",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 24",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 25",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 26",
+          "Package": "Roberts Communications Network",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 27",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 28",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LAST Channel 29",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Hip\u00F3dromo Maro\u00F1as",
+          "Package": "Roberts Communications Network",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Met Opera",
+          "Package": "Roberts Communications Network",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Caliente 1",
+          "Package": "Roberts Communications Network",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Caliente 2",
+          "Package": "Roberts Communications Network",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Caliente 3",
+          "Package": "Roberts Communications Network",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Caliente 4",
+          "Package": "Roberts Communications Network",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Caliente 5",
+          "Package": "Roberts Communications Network",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Caliente 6",
+          "Package": "Roberts Communications Network",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3885,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Canal 13 HD",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "METRO",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MAGAZINE",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TN Internacional",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VOLVER",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CANAL A",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "QUIERO MUSICA",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal Rural Satelital",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "America Sports",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TyCS ALTERNATIVO",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TyCS LATINOAMERICA",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TyCS USA",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3885,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3911,
+      "Polarization": "H",
+      "SymbolRateKs": 4632,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Canal 9 Tabasco",
+          "Package": "TES",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canal 5 Chiapas HD",
+          "Package": "CSU",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3919,
+      "Polarization": "H",
+      "SymbolRateKs": 7916,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Canal 10 (Nicaragua)",
+          "Package": "Adtec Digital",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal 9 Nicaragua",
+          "Package": "PTK",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canal 8 (Nicaragua)",
+          "Package": "ALBAVISION",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Televicentro",
+          "Package": "Unnamed",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canal 11 (Nicaragua)",
+          "Package": "PTK",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3924,
+      "Polarization": "H",
+      "SymbolRateKs": 2000,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3925,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Disney Sur HD",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney Junior Sur HD",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ESPN 4 Chile",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ESPN 5 Sur (ESPN07)",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ESPN 6 Sur (ESPN 09)",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ESPN 7 Sur (ESPN 10)",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "STAR Channel Argentina (ST211)",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ESPN Premium (ESPN32)",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3926,
+      "Polarization": "H",
+      "SymbolRateKs": 1360,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3930,
+      "Polarization": "H",
+      "SymbolRateKs": 4000,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3934,
+      "Polarization": "H",
+      "SymbolRateKs": 10560,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Canal 3 El Super Canal",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Televisiete",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TeleOnce",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Trecevision",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Feed",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Canal Gobierno",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TN23",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TeleCentro",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Fiesta",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Ranchera",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Tropic\u00E0lida",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Galaxia",
+          "Package": "Albavision",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Alfa",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio joya",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3958,
+      "Polarization": "H",
+      "SymbolRateKs": 3330,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3962,
+      "Polarization": "H",
+      "SymbolRateKs": 3333,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3966,
+      "Polarization": "V",
+      "SymbolRateKs": 15000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3967,
+      "Polarization": "H",
+      "SymbolRateKs": 5000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TELEMEDIOS HD",
+          "Package": "none",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "COLORVISION HD",
+          "Package": "none",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3984,
+      "Polarization": "H",
+      "SymbolRateKs": 16415,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Canal 9 HD",
+          "Package": "Telearte",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "IP",
+          "Package": "IP",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "America Internacional HD",
+          "Package": "America",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal 10 HD",
+          "Package": "America",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "America Interior HD",
+          "Package": "America",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "A24 HD",
+          "Package": "America",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ASPEN",
+          "Package": "ASPEN",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ASPEN Pinamar",
+          "Package": null,
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "La red",
+          "Package": "America",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3985,
+      "Polarization": "V",
+      "SymbolRateKs": 15570,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4003,
+      "Polarization": "V",
+      "SymbolRateKs": 10000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4015,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4015,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "HTV HD",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "HTV AC3 HD",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "DOWNLOAD LA6",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CARTOON PNR HD MPEG",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CARTOON PNR D9865",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "SPACE PNR HD AC3",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TNT PNR HD AC3",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CARTOON PNR HD AC3",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CTO PNR HD",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TNT PNR HD MPEG",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TNT SPORTS",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TNT SPORTS AC3",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TNT ARG HD",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TNT ARG D9865",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TNT ARG HD AC3",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TNT PNR D9865",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TCM PNR HD",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TCM PNR D9865",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TCM PNR HD AC3",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TOONCAST PNR HD",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TOONCAST PNR D9865",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TOONCAST PNR HD AC3",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TOONCAST BRA HD",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TOONCAST BRA D9865",
+          "Package": null,
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TOONCAST BRA HD AC3",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TOONCAST INTERNAL USE",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "por",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "SPACE ARGENTINA HD",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "SPACE ARGENTINA HD AC3",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "SPACE PNR HD",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "SPACE PNR HD ENG",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CTO ARG HD",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CTO ARG D9865",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CTO ARG AC3 HD",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CTO PNR HD AC3",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CTO PNR D9865",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4042,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4050,
+      "Polarization": "V",
+      "SymbolRateKs": 3330,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4055,
+      "Polarization": "H",
+      "SymbolRateKs": 32700,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4062,
+      "Polarization": "V",
+      "SymbolRateKs": 17500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4080,
+      "Polarization": "V",
+      "SymbolRateKs": 5000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4086,
+      "Polarization": "H",
+      "SymbolRateKs": 15000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "CH13 NACIONAL",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CH13 Internacional",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Todo Noticias",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TyCS NACIONAL",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4086,
+      "Polarization": "V",
+      "SymbolRateKs": 15000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Cinecanal Argentina (CC21)",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinecanal Colombia (CC26)",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "FX Colombia (FX28)",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "STAR Colombia (ST30)",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NG Latam (NG31)",
+          "Package": null,
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4099,
+      "Polarization": "V",
+      "SymbolRateKs": 4953,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Al Jazeera English HD",
+          "Package": "Globecast",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4100,
+      "Polarization": "H",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Bloomberg Brasil",
+          "Package": null,
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bloomberg Latin America",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4105,
+      "Polarization": "V",
+      "SymbolRateKs": 4000,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Igreja Crist\u00E3 Maranata",
+          "Package": "CBOL",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ICM HD2",
+          "Package": "CBOL",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4107,
+      "Polarization": "H",
+      "SymbolRateKs": 3333,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4109,
+      "Polarization": "V",
+      "SymbolRateKs": 3333,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV Globo",
+          "Package": null,
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4111,
+      "Polarization": "H",
+      "SymbolRateKs": 3750,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Telesur HD",
+          "Package": "Net 1",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4112,
+      "Polarization": "V",
+      "SymbolRateKs": 2222,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "RTP International Am\u00E9rica",
+          "Package": "MEO - Servicos de Comunicacoes e Multimedia S.A.",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RDP Internacional",
+          "Package": "MEO - Servicos de Comunicacoes e Multimedia S.A.",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4120,
+      "Polarization": "H",
+      "SymbolRateKs": 4167,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Canal UM",
+          "Package": "Canal UM",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RIT TV",
+          "Package": "Scopus",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Nossa Radio SP",
+          "Package": "Scopus",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Relogio RJ",
+          "Package": "Scopus",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4126,
+      "Polarization": "V",
+      "SymbolRateKs": 15237,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4130,
+      "Polarization": "H",
+      "SymbolRateKs": 5422,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4135,
+      "Polarization": "H",
+      "SymbolRateKs": 1000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4137,
+      "Polarization": "H",
+      "SymbolRateKs": 2000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4139,
+      "Polarization": "V",
+      "SymbolRateKs": 12500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Canal 9 HD",
+          "Package": "Telearte",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "IP",
+          "Package": "IP",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "America Internacional HD",
+          "Package": "America",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal 10 HD",
+          "Package": "America",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "America Interior HD",
+          "Package": "America",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "A24 HD",
+          "Package": "America",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ASPEN",
+          "Package": "ASPEN",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ASPEN Pinamar",
+          "Package": null,
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "La red",
+          "Package": "America",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4141,
+      "Polarization": "H",
+      "SymbolRateKs": 5000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4142,
+      "Polarization": "V",
+      "SymbolRateKs": 15555,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4149,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IMG AM",
+          "Package": "Eurovision Services",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4175,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "CCTV 4 America HD",
+          "Package": "CCTV",
+          "Languages": [
+            "chi"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CGTN HD",
+          "Package": "CCTV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CGTN Documentary HD",
+          "Package": "CCTV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CGTN Espa\u0148ol HD",
+          "Package": "CCTV",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CGTN Fran\u00E7ais HD",
+          "Package": "CCTV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4180,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    }
+  ]
+}

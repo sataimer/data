@@ -1,0 +1,330 @@
+﻿{
+  "SlotKey": "45E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 3720,
+      "Polarization": "L",
+      "SymbolRateKs": 25760,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3720,
+      "Polarization": "L",
+      "SymbolRateKs": 25730,
+      "Fec": "2/3",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3760,
+      "Polarization": "L",
+      "SymbolRateKs": 25760,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11469,
+      "Polarization": "H",
+      "SymbolRateKs": 19000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Perviy Kanal Europa",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bober International",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Dom Kino Premium International",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Dom Kino",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Karusel Int",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Muzika International",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "O! International",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Perviy Kanal",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Podeba International",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Poehali International",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Telecafe International",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Vremya International",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Lapki Live int",
+          "Package": "Azercosmos",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11475,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11501,
+      "Polarization": "V",
+      "SymbolRateKs": 2167,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11504.3,
+      "Polarization": "V",
+      "SymbolRateKs": 6901,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11520,
+      "Polarization": "H",
+      "SymbolRateKs": 2857,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11522.5,
+      "Polarization": "V",
+      "SymbolRateKs": 19090,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11555,
+      "Polarization": "V",
+      "SymbolRateKs": 34286,
+      "Fec": "2/3",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11612.8,
+      "Polarization": "V",
+      "SymbolRateKs": 36666,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11612.8,
+      "Polarization": "V",
+      "SymbolRateKs": 36666,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11635,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11665.1,
+      "Polarization": "V",
+      "SymbolRateKs": 51428,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11665.1,
+      "Polarization": "V",
+      "SymbolRateKs": 51428,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11667.8,
+      "Polarization": "H",
+      "SymbolRateKs": 20476,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11684.1,
+      "Polarization": "H",
+      "SymbolRateKs": 17100,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12520,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12560,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12560.1,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12588.1,
+      "Polarization": "H",
+      "SymbolRateKs": 17391,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12600,
+      "Polarization": "V",
+      "SymbolRateKs": 32727,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12600,
+      "Polarization": "V",
+      "SymbolRateKs": 32727,
+      "Fec": "13/45",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    }
+  ]
+}

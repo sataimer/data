@@ -1,0 +1,603 @@
+﻿{
+  "SlotKey": "20E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 3747,
+      "Polarization": "L",
+      "SymbolRateKs": 4270,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "EBRU TV",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "REJO MEDIA",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Shabelle TV",
+          "Package": "DalSat Global",
+          "Languages": [
+            "som"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "STN",
+          "Package": "Dalsat Global",
+          "Languages": [
+            "som"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "REJO SPORTS",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "EBRU-FM",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3769,
+      "Polarization": "L",
+      "SymbolRateKs": 31000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3818,
+      "Polarization": "R",
+      "SymbolRateKs": 1600,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3830,
+      "Polarization": "L",
+      "SymbolRateKs": 3330,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3866,
+      "Polarization": "L",
+      "SymbolRateKs": 1150,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "HITRADIO CI",
+          "Package": "HITRADIO GROUP",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "HITRADIO CONGO BRAZZA",
+          "Package": "HITRADIO GROUP",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "HITRADIO GABON",
+          "Package": "HITRADIO GROUP",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "HITRADIO TOGO",
+          "Package": "HITRADIO GROUP",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "AZAWAN MA",
+          "Package": "HITRADIO GROUP",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "HITRADIO BURKINA",
+          "Package": "HITRADIO GROUP",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "HITRADIO MAROC",
+          "Package": "HITRADIO GROUP",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "HITRADIO NIGER_TCHAD",
+          "Package": "HITRADIO GROUP",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3884,
+      "Polarization": "R",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Southern Sudan TV",
+          "Package": "Cyprus",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Zad TV",
+          "Package": "Cyprus",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ERI TV",
+          "Package": "Cyprus",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Ekhbaria",
+          "Package": "Cyprus",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Saudi Sport 2",
+          "Package": "Cyprus",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Test",
+          "Package": "Cyprus",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "El Mouritaniya TV",
+          "Package": "Cyprus",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canal Alg\u00E9rie",
+          "Package": "Cyprus",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Maghribia",
+          "Package": "Cyprus",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ERI R2",
+          "Package": "Cyprus",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ERI R1",
+          "Package": "Cyprus",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ERI R3",
+          "Package": "Cyprus",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ERI R4",
+          "Package": "Cyprus",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Coran Radio",
+          "Package": "Cyprus",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Mauritania Radio",
+          "Package": "Cyprus",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Ifrikiya FM",
+          "Package": "Cyprus",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3914,
+      "Polarization": "R",
+      "SymbolRateKs": 8000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3934,
+      "Polarization": "L",
+      "SymbolRateKs": 27500,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Oman TV",
+          "Package": "JMC",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kuwait TV",
+          "Package": "JMC",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Saudi TV",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Sharjah TV",
+          "Package": "JMC",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Quran TV",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Sudan TV",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Saudi Sunnah HD",
+          "Package": "JMC",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Libya Al Watan",
+          "Package": "Harmonic",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Oman - Holy Quran",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Bayan Radio",
+          "Package": "JMC",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Nedaa Al-Islam",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Program One",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Quran",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Sudan Radio",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Saudi Radio-2",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Umdurman Holy Quran",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Oman radio",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Sharjah FM",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "European Progrm",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Kuwait R1",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Kuwait R2",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Oman Radio FM",
+          "Package": "JMC",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3964,
+      "Polarization": "R",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4004,
+      "Polarization": "R",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4069,
+      "Polarization": "R",
+      "SymbolRateKs": 3800,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Southern Sudan TV",
+          "Package": "Service Provider",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4104,
+      "Polarization": "L",
+      "SymbolRateKs": 16585,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4193,
+      "Polarization": "L",
+      "SymbolRateKs": 1262,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Vision 4",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4194,
+      "Polarization": "L",
+      "SymbolRateKs": 400,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "EYE RADIO",
+          "Package": "SVS TELEKOM",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}
