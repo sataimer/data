@@ -1,0 +1,6554 @@
+﻿{
+  "SlotKey": "39E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 10730,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "RIK Sat",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Eurobet 11",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurobet 12",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurobet 13",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurobet 14",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurobet 15",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Virtual Games1",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Virtual Games 2",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Racing Channel",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "LiveSports Channel",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Virtual Games 3",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ERT World HD",
+          "Package": null,
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "4E Hellas Orthodox",
+          "Package": null,
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RIK1",
+          "Package": null,
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RIK2",
+          "Package": null,
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RIK3",
+          "Package": null,
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RIK4",
+          "Package": null,
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ELLADA FM",
+          "Package": null,
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Voice of Greece",
+          "Package": null,
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanali 6",
+          "Package": null,
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10730,
+      "Polarization": "V",
+      "SymbolRateKs": 34286,
+      "Fec": "1/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10761.1,
+      "Polarization": "V",
+      "SymbolRateKs": 17143,
+      "Fec": "13/18",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10770,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10770,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10779,
+      "Polarization": "V",
+      "SymbolRateKs": 17143,
+      "Fec": "7/9",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10796,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10810,
+      "Polarization": "H",
+      "SymbolRateKs": 34286,
+      "Fec": "1/2",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10810,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "1/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10850,
+      "Polarization": "H",
+      "SymbolRateKs": 15000,
+      "Fec": "1/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10853.5,
+      "Polarization": "H",
+      "SymbolRateKs": 29900,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10860.3,
+      "Polarization": "V",
+      "SymbolRateKs": 14000,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10866,
+      "Polarization": "H",
+      "SymbolRateKs": 3809,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10881.1,
+      "Polarization": "V",
+      "SymbolRateKs": 17143,
+      "Fec": "9/10",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10890,
+      "Polarization": "H",
+      "SymbolRateKs": 29999,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Vizion Plus HD",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Teve 1 HD",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ATV HD Albania",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Classic HD",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTV 21 HD",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Fax News",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ABC News (Albania)",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "A1 Report",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "News 24 Albania",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanali 7",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Syri Vision",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Tring",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TIP TV",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Living HD",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Series HD",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "3 Plus",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanal D Drama",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Smile (Albania)",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Shqip",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Super HD",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Action HD",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Life",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Comedy",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Fantasy",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Planet",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring World",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Sport News",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport 1 HD Albania",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport 2 HD Albania",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport 3 HD Albania",
+          "Package": "Tring Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport 4 HD Albania",
+          "Package": "Tring Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Folk Plus",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Sport 5 HD",
+          "Package": "Tring TV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Desire",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Elrodi TV",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTSH 1 HD",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Collection HD",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Novelas",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NRG RADIO",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10890,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "11/15",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10906,
+      "Polarization": "V",
+      "SymbolRateKs": 22000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10913.5,
+      "Polarization": "V",
+      "SymbolRateKs": 2895,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10913.5,
+      "Polarization": "V",
+      "SymbolRateKs": 2895,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10913.5,
+      "Polarization": "V",
+      "SymbolRateKs": 2895,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10913.5,
+      "Polarization": "V",
+      "SymbolRateKs": 2895,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10925,
+      "Polarization": "V",
+      "SymbolRateKs": 1481,
+      "Fec": "1/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10929.71,
+      "Polarization": "V",
+      "SymbolRateKs": 2895,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10930,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "RTK 1 Sat (Kosovo)",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Original",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kids",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Muse",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Family HD",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Telegraf TV",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring History",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Click TV",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bizarre",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bunga Bunga",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBF",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rai 1",
+          "Package": "Tring Digital",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bubble",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Euronews Albania",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NTV Albania",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "IN TV (Albania)",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTSH Sport",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rai 2",
+          "Package": "MediasetTring Digital",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Turkish Stories",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Premium Channel",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Mediaset Italia",
+          "Package": "MediasetTring Digital",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTSH 24",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTSH 24",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTSH Femije",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNA TV",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Klan HD",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Klan Kosova",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Klan Plus",
+          "Package": "Tring Digital",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Klan Music",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Klan News",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Supersport 6 HD Albania",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tring Sport 7 HD",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Big Brother VIP Kosova 1",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Big Brother VIP Kosova 2",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Love Radio",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10930,
+      "Polarization": "V",
+      "SymbolRateKs": 2895,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10930,
+      "Polarization": "V",
+      "SymbolRateKs": 2895,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10930,
+      "Polarization": "V",
+      "SymbolRateKs": 2895,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10930,
+      "Polarization": "V",
+      "SymbolRateKs": 2895,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10930,
+      "Polarization": "V",
+      "SymbolRateKs": 2895,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10930,
+      "Polarization": "V",
+      "SymbolRateKs": 2895,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10957.6,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10962.1,
+      "Polarization": "V",
+      "SymbolRateKs": 17143,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10967.3,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10975,
+      "Polarization": "V",
+      "SymbolRateKs": 4100,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10985.5,
+      "Polarization": "V",
+      "SymbolRateKs": 17142,
+      "Fec": "7/9",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10998.5,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11007.6,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11012,
+      "Polarization": "V",
+      "SymbolRateKs": 8572,
+      "Fec": "9/10",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11016.5,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11025.6,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11027.5,
+      "Polarization": "V",
+      "SymbolRateKs": 4855,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11044,
+      "Polarization": "V",
+      "SymbolRateKs": 1905,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11053,
+      "Polarization": "V",
+      "SymbolRateKs": 25000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11054,
+      "Polarization": "V",
+      "SymbolRateKs": 1905,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11091.5,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11094.5,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "4/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11100.5,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11133.5,
+      "Polarization": "V",
+      "SymbolRateKs": 3333,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11138.9,
+      "Polarization": "V",
+      "SymbolRateKs": 1000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "EQUtv",
+          "Package": "EPIQA",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11147,
+      "Polarization": "V",
+      "SymbolRateKs": 6300,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11167,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "9/10",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11174.5,
+      "Polarization": "V",
+      "SymbolRateKs": 4166,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11185,
+      "Polarization": "V",
+      "SymbolRateKs": 17143,
+      "Fec": "5/9",
+      "Standard": "DVB-S2",
+      "Modulation": "",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11185.5,
+      "Polarization": "V",
+      "SymbolRateKs": 22000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11472,
+      "Polarization": "H",
+      "SymbolRateKs": 2000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Al Sumaria HD",
+          "Package": "Alsumaria TV",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11478,
+      "Polarization": "H",
+      "SymbolRateKs": 1197,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11505,
+      "Polarization": "H",
+      "SymbolRateKs": 3500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11511,
+      "Polarization": "H",
+      "SymbolRateKs": 4444,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "The Media Office",
+          "Package": "TANDBERG Television",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11514,
+      "Polarization": "H",
+      "SymbolRateKs": 2141,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11523.5,
+      "Polarization": "V",
+      "SymbolRateKs": 2720,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11523.5,
+      "Polarization": "V",
+      "SymbolRateKs": 2720,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11556,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11716.3,
+      "Polarization": "H",
+      "SymbolRateKs": 4167,
+      "Fec": "1/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11716.3,
+      "Polarization": "V",
+      "SymbolRateKs": 4167,
+      "Fec": "1/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11723.3,
+      "Polarization": "H",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11723.3,
+      "Polarization": "H",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11723.3,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11733.3,
+      "Polarization": "H",
+      "SymbolRateKs": 24167,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11733.3,
+      "Polarization": "H",
+      "SymbolRateKs": 24167,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11769,
+      "Polarization": "H",
+      "SymbolRateKs": 28333,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11807.6,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11846.1,
+      "Polarization": "H",
+      "SymbolRateKs": 29170,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12118,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "MAX Sport 1 HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MAX Sport 2 HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "STS International",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "STS Kids",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BNT 3 HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Detski Mir",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Teleklub",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Code Fashion",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nashe Kino",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV Hits",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BNT 1 HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nova HD Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MAX Sport 3 HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Diema",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MAX Sport 4 HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 1",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinemania TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bloomberg BG",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BNT 4",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Box TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BTV Cinema",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "bTV Comedy",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "bTV Story HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Discovery Channel",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Tourism",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Peretz",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Filmbox Arthouse",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Filmbox Stars",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Investigation Discovery Xtra",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Planeta TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Planeta HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Penthouse Gold",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "The Voice Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "BNT 2",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bulgaria 24",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Ohota \u0026 Rybalka",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Al Jazeera English",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Domashniy",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney Channel Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng",
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nickelodeon Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "XYPlus",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Planeta Folk",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Fightbox",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Euronews Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tiankov TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanal 3",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 2",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Zhivi",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Freedom",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNBC Europe HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12137,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Diema Sport 2 HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Diema Sport HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinemax HD Eastern Europe",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinemax 2 HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat History",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat Epic Drama HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV 8 Russia",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "7/8 TV HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Mediaset Italia",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Filmbox Extra HD Romania",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Stingray Classica HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BTV HD Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "bTV Action HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Channel Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Crime Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Life Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Animal Planet",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AXN Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AXN Black",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AXN White",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bulgaria On Air",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Crime \u0026 Investigation Network",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kino Nova",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Super Toons",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Code Health",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Diema Family",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Penthouse Passion",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DW-TV (Deutsche Welle)",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "English Club",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MyZen.tv",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "History Channel Eastern Europe",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Reality Kings",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TLC Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Travelxp",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV 00s",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hit Mix",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cartoon Network",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DM Sat",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "ser"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Duck TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "EKids",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "France 24 (en Fran\u00E7ais)",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV5 Monde Europe",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Fix \u0026 Foxi",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Evrokom HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sky News International",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nova News HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BH TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nicktoons Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12156,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Code Health",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV 90s",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Epic Drama",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SKY Showtime 2 HD",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Dizi TV",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nicktoons Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nicktoons Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Diema Sport HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Diema Sport 2 HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MAX Sport 1 HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MAX Sport 2 HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MAX Sport 3 HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BNT 3 HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MAX Sport 4 HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Love Nature HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TravelXP HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "The World",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Food Network",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Super Toons",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV 80s",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV 00s",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bulgaria 24",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "H2",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HBO Bulgaria",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HBO 2 Bulgaria",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HBO 3 Bulgaria",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BNT 4",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Auto Motor Sport",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Chasse et P\u00EAche",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12175,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Film M\u00E1nia",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Brazzers TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Private TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVR Sport",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HGTV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Dizi TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DocuBox",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "JimJam Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Erd\u00E9ly TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nickelodeon Hungary",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Paprika",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat Explore",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "E! Entertainment TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Crime \u0026 Investigation Network",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "4! Story TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Speranta TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Traditional TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12194,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "7/8 TV",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Animal Planet",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "France 24 (in English)",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "24 Kitchen",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "History Channel Eastern Europe",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC Earth",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Arena Action",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bulgaria On Air",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Dorcel XXX HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tiankov Folk",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Euronews Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "XYPlus",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bloomberg BG",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rodina TV",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "VIVACOM Arena HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Pickbox HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat True Crime",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Arena Comedy",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Arena Life",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "The Voice Bulgaria",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Fen TV HD",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Balkanika",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Planeta Folk",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Folklor TV",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Fen Folk TV",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Magic TV (Bulgaria)",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Cartoon Network Eastern Europe",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cartoonito Balkans",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Evrokom",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Skat TV",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Filmbox Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Peretz International",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BH TV",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SKY Showtime 1 HD",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Marquee TV HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "VTK",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Vivid TV",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Radio 1 Rock",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRJ",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BG Radio",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Darik Radio",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Tangra MegaRock",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Payner",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "radio Vitosha E",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "radio Vitosha W",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "radio Veselina E",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "radio Veselina W",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "radio Magic FM",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "The Voice",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "radio Veselina N",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "radio Veselina S",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12213,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12224,
+      "Polarization": "H",
+      "SymbolRateKs": 13383,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Kanali Voulis",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ERT 1",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ERT 2 Sport",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ERT 3",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ERT 1 HD",
+          "Package": "ERT",
+          "Languages": [
+            "gre",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ERT News",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ErtNews Radio",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Kosmos",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Trito Maestro",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Deftero Paradosiaka",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Trito",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Deftero 103,7",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "DefteroLaika",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Era Sport",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Voice Of Greece",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Zeppelin",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Kosmos Jazz",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12241.3,
+      "Polarization": "H",
+      "SymbolRateKs": 13383,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "ERT2 SPORT HD",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ERT 3 HD",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ERT 1",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RIK Sat",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV5 Monde Europe",
+          "Package": "ERT",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC News",
+          "Package": "ERT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ERT News",
+          "Package": "ERT",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12251,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Discovery Channel HD Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 1 HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Investigation Discovery HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Motorvision HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TLC HD Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 2 HD Hungary",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 3 HD Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena Stars HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "B1 TV HD",
+          "Package": null,
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Cinemaraton HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prima Sport 3 HD",
+          "Package": "Orange Romania",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Trinitas HD",
+          "Package": null,
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SSU",
+          "Package": null,
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "SSU CAM",
+          "Package": null,
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12271,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Crime \u0026 Investigation Network",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Da Vinci Learning",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Travel TV Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Travel Channel",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HGTV",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BG\u002B",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat History",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat Nature CEE",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinestar TV 1 HD Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CineStar Action and Thriller",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nova News",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 2",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nova Sport Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat Explore",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TLC Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BTV Cinema",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "bTV Comedy",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Investigation Discovery Xtra",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Diema Family",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Channel Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Life Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Crime Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "bTV Story",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "City TV",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney Channel Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nick Jr Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Baby TV",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nickelodeon Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney Junior Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNN International Europe",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BNT 2",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hustler TV",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DM Sat",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "ser"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Private TV",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV1 Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nastoyashcheye Vremya",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kino Nova",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Discovery Channel Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Diema",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12290,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Kanal D HD Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinemax 2 HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun",
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinemax HD Eastern Europe",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun",
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Happy Channel HD Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HBO 2 HD Hungary \u0026 Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun",
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HBO 3 HD Central Europe",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prima Sport 2 HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prima Sport 1 HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Acas\u00E1 TV HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Pro Cinema HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVR Info HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prima Sport 4 HD",
+          "Package": "Orange Romania",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12309,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Agro TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney Junior Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng",
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HBO 2 HD Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nova Sport HD Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "EroXXX HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nostalgia Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AutoMotorSport HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "The World",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Travel TV Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SKY Showtime 1 HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "VTK",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HGTV HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Ring.BG HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat Kino",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "National Geographic Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NatGeo Wild Central Europe",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "24 Kitchen",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AMC Balkan",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Diema Sport 3 HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Soul and Pepper HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bloomberg Europe",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Dizi TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "City TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SKY Showtime 2 HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNN International Europe",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Brazzers TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Erox",
+          "Package": "A1 Bulgaria",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Euronews English",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Lolly Kids HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TgCom24",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Mezzo",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Magic TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat Explore",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat Nature CEE",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Wness TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Baby TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC News",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cartoonito Balkans",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Skat TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Jim Jam",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nick Jr Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng",
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MovieStar HD",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HBO HD Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rodina TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HBO 3 HD Central Europe",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DSTV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Folklor TV",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BG\u002B",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Max Movies",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV1 Bulgaria",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTA A1 BG DTS3495",
+          "Package": "A1 BG",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "OTA A1 BG",
+          "Package": "A1 Bulgaria",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12328,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Nat Geo Wild Romania HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Travel Mix",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVR 1 HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Pro TV HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng",
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 1 HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HBO HD Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng",
+            "rom",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Orange Info (Romania)",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Moldova TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nasul TV",
+          "Package": "Orange Romania",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "iConcert",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Inedit TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Atomic TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV 2 Hungary",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTL Harom",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Pro Arena HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prima TV HD",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12337.3,
+      "Polarization": "H",
+      "SymbolRateKs": 11570,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Alpha TV HD",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Skai HD",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ANT 1 HD",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Open Beyond HD",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12352,
+      "Polarization": "H",
+      "SymbolRateKs": 11568,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Star Channel HD",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Mega HD",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Macedonia TV HD",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12367,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Hustler TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nicktoons Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kiss TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinemax 2 Europe",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AXN White Hungary",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AXN Black Hungary",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HBO 2 HD Hungary \u0026 Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "National Geographic Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prima Sport 3",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport Extra",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Filmbox Premium Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Magic TV (Bulgaria)",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Warner TV Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cartoon Network Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom",
+            "hun",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Penthouse Gold",
+          "Package": "Orange Romania",
+          "Languages": [
+            "cze"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Aleph News",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVR Cultural",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV-AS",
+          "Package": "Orange Romania",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12385.8,
+      "Polarization": "H",
+      "SymbolRateKs": 28333,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12405,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "MiniMax Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "FilmBox Extra",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "A7 TV",
+          "Package": "Orange Romania",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Agro TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prima Sport 4",
+          "Package": "Orange Romania",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NatGeo Wild Central Europe",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Euronews Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "FilmBox Basic",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AXN Spin Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "History",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Metropola TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat Kino",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat History",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat Nature CEE",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Comedy Central Bulgaria \u0026 Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Digi 24",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Investigation Discovery Hungary",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV4 Hungary",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12414,
+      "Polarization": "H",
+      "SymbolRateKs": 11568,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Alpha TV Greece",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Skai",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ANT 1",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Open Beyond TV",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Channel",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Mega Channel",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Macedonia TV",
+          "Package": "DIGEA",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12428.3,
+      "Polarization": "H",
+      "SymbolRateKs": 13198,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12428.3,
+      "Polarization": "H",
+      "SymbolRateKs": 13198,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12428.4,
+      "Polarization": "H",
+      "SymbolRateKs": 13198,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12438.2,
+      "Polarization": "H",
+      "SymbolRateKs": 4444,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "The Media Office",
+          "Package": "TANDBERG Television",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12444,
+      "Polarization": "V",
+      "SymbolRateKs": 28333,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12463,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Eurosport 1 HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BNT 1 HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "EKids",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Ring BG HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "bTV Action HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "FilmBox Extra",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "National Geographic HD East Europe",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng",
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Diema Sport 3 HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Planeta HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BTV HD Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NatGeo Wild HD",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nova HD Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Lovno Ribarski club",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinemax East Europe",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinemax 2 Europe",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat Kino",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AMC Balkan",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Filmbox Stars",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Movie Star",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nostalgia Bulgaria",
+          "Package": "A1 BulgariaBulsatcom",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12482,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12524,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Happy Channel Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prima Sport 1",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVR 1",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVR 2",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Diva Universal Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Party Mix",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cartoonito Central \u0026 East Europe",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom",
+            "hun",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanal D Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CBS Reality",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 2 Romania \u0026 Hungary",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Epic Drama",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "M1 - Magyar TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Magyar TV 2",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Zu TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cool TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hit Music",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CineMax",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Radio Itsy Bitsy",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12551.2,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12560.3,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12565,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Antena 1",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena Stars",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 3 Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AXN Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "B1 TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Favorit TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney Junior Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "National TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prima TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Realitatea Plus",
+          "Package": "Orange Romania",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney Channel Romania, Bulgaria \u0026 Ukraine",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prima Sport 2",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Duna TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Film \u002B",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTL Klub",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVR Folclor",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Orizont TV",
+          "Package": "Orange Romania",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Acas\u00E1 TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Pro TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nick Jr Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12567,
+      "Polarization": "H",
+      "SymbolRateKs": 3600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12600,
+      "Polarization": "V",
+      "SymbolRateKs": 19367,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Pro TV",
+          "Package": "PROTV",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Acas\u00E1 TV",
+          "Package": "PROTV",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Pro TV International",
+          "Package": "PROTV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Pro Cinema",
+          "Package": "PROTV",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Pro Arena",
+          "Package": "PROTV",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Acas\u00E1 Gold HD",
+          "Package": "PROTV",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TEST HD 2",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TEST HD",
+          "Package": "PROTV",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12619.6,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12630.3,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12633.6,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12636.2,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12643.8,
+      "Polarization": "H",
+      "SymbolRateKs": 5000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12645.2,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12647,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12656,
+      "Polarization": "H",
+      "SymbolRateKs": 15155,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Antena 1",
+          "Package": "Antena Group",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena Stars",
+          "Package": "Antena Group",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 3 Romania",
+          "Package": "Antena Group",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Happy Channel Romania",
+          "Package": "Antena Group",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Zu TV",
+          "Package": "Antena Group",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena International",
+          "Package": "Antena Group",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena HD",
+          "Package": "Antena Group",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Radio Zu",
+          "Package": "Antena Group",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Romantic",
+          "Package": "Antena Group",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12656,
+      "Polarization": "V",
+      "SymbolRateKs": 16363,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12656.1,
+      "Polarization": "V",
+      "SymbolRateKs": 16363,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12671,
+      "Polarization": "H",
+      "SymbolRateKs": 2150,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12686.2,
+      "Polarization": "H",
+      "SymbolRateKs": 400,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12686.9,
+      "Polarization": "H",
+      "SymbolRateKs": 700,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12688,
+      "Polarization": "H",
+      "SymbolRateKs": 700,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12688,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Pro Cinema",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Pro Arena",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Discovery Channel Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Etno TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Taraf TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Trinitas TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV5 Monde Europe",
+          "Package": "Orange Romania",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVR 3",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Romania TV",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "N 24 Plus",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Acasa TV Gold",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "U TV Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bollywood Classic TV",
+          "Package": "Orange Romania",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prima News",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "1 Music Channel",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HBO 3 Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HBO Romania",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanal D2",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12697,
+      "Polarization": "H",
+      "SymbolRateKs": 800,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12697.9,
+      "Polarization": "H",
+      "SymbolRateKs": 500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12698.3,
+      "Polarization": "H",
+      "SymbolRateKs": 800,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12699.2,
+      "Polarization": "H",
+      "SymbolRateKs": 500,
+      "Fec": "1/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12700.2,
+      "Polarization": "H",
+      "SymbolRateKs": 550,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12700.3,
+      "Polarization": "H",
+      "SymbolRateKs": 500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12702.5,
+      "Polarization": "H",
+      "SymbolRateKs": 550,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12715.3,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12724,
+      "Polarization": "H",
+      "SymbolRateKs": 6250,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Kanal D HD Romania",
+          "Package": "Dogan Media International",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12738,
+      "Polarization": "H",
+      "SymbolRateKs": 1182,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12739.3,
+      "Polarization": "H",
+      "SymbolRateKs": 2455,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12739.3,
+      "Polarization": "H",
+      "SymbolRateKs": 2455,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12744.6,
+      "Polarization": "H",
+      "SymbolRateKs": 3809,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12746.2,
+      "Polarization": "H",
+      "SymbolRateKs": 1242,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    }
+  ]
+}
