@@ -1,0 +1,2348 @@
+{
+  "SlotKey": "40E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 3559,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3565,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3575,
+      "Polarization": "L",
+      "SymbolRateKs": 34440,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3575,
+      "Polarization": "L",
+      "SymbolRateKs": 34440,
+      "Fec": "1/2",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3586,
+      "Polarization": "L",
+      "SymbolRateKs": 15284,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3592,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3608,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "02 \u0420\u041E\u0421\u0421\u0418\u042F-1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "07 \u0420\u041E\u0421\u0421\u0418\u042F-24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "09 \u041E\u0422\u0420",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3615,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3622,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3628,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3635,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3642,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3665,
+      "Polarization": "L",
+      "SymbolRateKs": 15284,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3665,
+      "Polarization": "L",
+      "SymbolRateKs": 15284,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3665,
+      "Polarization": "R",
+      "SymbolRateKs": 15284,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3675,
+      "Polarization": "R",
+      "SymbolRateKs": 34440,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3675,
+      "Polarization": "R",
+      "SymbolRateKs": 34440,
+      "Fec": "1/2",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3685,
+      "Polarization": "L",
+      "SymbolRateKs": 15284,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3708,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3715,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3722,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3728,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3735,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3739,
+      "Polarization": "R",
+      "SymbolRateKs": 1922,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "TV KBR",
+          "Package": "KBR",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3743,
+      "Polarization": "R",
+      "SymbolRateKs": 2905,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3758,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3765,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3772,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3778,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3780,
+      "Polarization": "R",
+      "SymbolRateKs": 2905,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3785,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3792,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3808,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "RTRN KBR",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "RTRN KBR",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Radio Rossii KBR",
+          "Package": "RTRN KBR",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3815,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3822,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3828,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3835,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3842,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3858,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3865,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3867,
+      "Polarization": "R",
+      "SymbolRateKs": 3600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3867,
+      "Polarization": "R",
+      "SymbolRateKs": 3600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3872,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3875,
+      "Polarization": "R",
+      "SymbolRateKs": 5064,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "T2_MI_0",
+          "Package": "RTRN_Bryansk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3878,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3879,
+      "Polarization": "R",
+      "SymbolRateKs": 3610,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3879,
+      "Polarization": "R",
+      "SymbolRateKs": 3610,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3884,
+      "Polarization": "R",
+      "SymbolRateKs": 3600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3884,
+      "Polarization": "R",
+      "SymbolRateKs": 3600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3885,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3888,
+      "Polarization": "R",
+      "SymbolRateKs": 3610,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3888,
+      "Polarization": "R",
+      "SymbolRateKs": 3610,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3892,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3893,
+      "Polarization": "R",
+      "SymbolRateKs": 3600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3893,
+      "Polarization": "R",
+      "SymbolRateKs": 3600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3908,
+      "Polarization": "L",
+      "SymbolRateKs": 5140,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Alania FM",
+          "Package": "RTRN",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3908,
+      "Polarization": "L",
+      "SymbolRateKs": 5140,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "T2_MI_0",
+          "Package": "RTRN_VLADIKAVKAZ",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3915,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3922,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3928,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3942,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3965,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3972,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3978,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3985,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3992,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4008,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4015,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4022,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4028,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4035,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4042,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4058,
+      "Polarization": "L",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4065,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4071,
+      "Polarization": "L",
+      "SymbolRateKs": 5120,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4085,
+      "Polarization": "L",
+      "SymbolRateKs": 15245,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Perviy Kanal",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Match!",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NTV Russia",
+          "Package": "\u0413\u041F \u041A\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "5 Kanal",
+          "Package": "\u0413\u041F \u041A\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rossiya K",
+          "Package": "\u0413\u041F \u041A\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Karusel",
+          "Package": "\u0413\u041F \u041A\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV Centr",
+          "Package": "\u0413\u041F \u041A\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0412\u0415\u0421\u0422\u0418 \u0424\u041C",
+          "Package": "\u0413\u041F \u041A\u0421",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "\u041C\u0410\u042F\u041A",
+          "Package": "\u0413\u041F \u041A\u0421",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4085,
+      "Polarization": "L",
+      "SymbolRateKs": 15245,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rossiya 1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "\u0413\u041F \u041A\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "OTR",
+          "Package": "\u0413\u041F \u041A\u0421",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0420\u0430\u0434\u0438\u043E \u0420\u043E\u0441\u0441\u0438\u0438",
+          "Package": "\u0413\u041F \u041A\u0421",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11191,
+      "Polarization": "H",
+      "SymbolRateKs": 10110,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    }
+  ]
+}

@@ -1,0 +1,6758 @@
+{
+  "SlotKey": "42E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 10952.84,
+      "Polarization": "V",
+      "SymbolRateKs": 1800,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10958,
+      "Polarization": "V",
+      "SymbolRateKs": 6250,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TRT Arabi HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT World HD",
+          "Package": "TRT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10964.3,
+      "Polarization": "H",
+      "SymbolRateKs": 22000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10967.3,
+      "Polarization": "V",
+      "SymbolRateKs": 7917,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IC YAPIMLAR",
+          "Package": "Service Provider",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TRT Spor HD",
+          "Package": "TRT",
+          "Languages": [
+            "eng",
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TRT Haber HD",
+          "Package": "TRT",
+          "Languages": [
+            "eng",
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TRT 2 HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10975,
+      "Polarization": "H",
+      "SymbolRateKs": 2962,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10975,
+      "Polarization": "V",
+      "SymbolRateKs": 4444,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10982,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10985.1,
+      "Polarization": "H",
+      "SymbolRateKs": 5000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10986.1,
+      "Polarization": "V",
+      "SymbolRateKs": 3333,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10998.1,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11007.1,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11012,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11012,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11016.1,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11026.1,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11045,
+      "Polarization": "H",
+      "SymbolRateKs": 4800,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11053,
+      "Polarization": "H",
+      "SymbolRateKs": 8000,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Haber Turk TV",
+          "Package": "HABERTURK",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Bloomberg HT",
+          "Package": "BLOOMBERG HT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Show T\u00FCrk HD",
+          "Package": "SHOW TURK HD",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "HT Spor HD",
+          "Package": "HT SPOR HD",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "HABERTURK RADYO",
+          "Package": "HABERTURK RADYO",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BLOOMBERGHT RD",
+          "Package": "BLOOMBERGHT RD",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "HABERTURK INTERCOM",
+          "Package": "HABERTURK INTERCOM",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11054,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TRT \u00C7ocuk HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT 1 HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Haber HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT 3 HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Belgesel HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT World HD",
+          "Package": "TRT",
+          "Languages": [
+            "eng",
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT T\u00FCrk HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT M\u00FCzik HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Kurdi HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT World Radio",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11062,
+      "Polarization": "H",
+      "SymbolRateKs": 4820,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11069,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11082.6,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11091.5,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11096,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "TRT 1",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Haber",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT T\u00FCrk",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT M\u00FCzik",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT \u00C7ocuk",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Avaz HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Arabi HD",
+          "Package": "TRT",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Arabi",
+          "Package": null,
+          "Languages": [
+            "ara",
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Spor",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Kurdi",
+          "Package": "TRT",
+          "Languages": [
+            "kur",
+            "zaz",
+            "sor"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RADYO 1",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADYO 3",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "INTERCOM",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "TRT FM",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Kurdi Radyo",
+          "Package": "TRT",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "VOT WORLD",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TSR TURKCE",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT NAGME",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT TURKU",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "VOT EAST",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Antalya Radyosu",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Cukurova Radyosu",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Erzurum Radyosu",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Trabzon Radyosu",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "VOT WEST",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT VOT 1",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "DIS YAY ORTA DALGA ARAPCA",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11096,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11100.5,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11105,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11109.5,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11127.08,
+      "Polarization": "V",
+      "SymbolRateKs": 400,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11127.84,
+      "Polarization": "V",
+      "SymbolRateKs": 400,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11128.58,
+      "Polarization": "V",
+      "SymbolRateKs": 400,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "CUKUROVA 1",
+          "Package": "TRT CUKUROVA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "CUKUROVA 2",
+          "Package": "TRT CUKUROVA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11129.34,
+      "Polarization": "V",
+      "SymbolRateKs": 400,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "CUKUROVA 1",
+          "Package": "TRT CUKUROVA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "CUKUROVA 2",
+          "Package": "TRT CUKUROVA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "CUKUROVA 3",
+          "Package": "TRT CUKUROVA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11130.03,
+      "Polarization": "V",
+      "SymbolRateKs": 400,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11132,
+      "Polarization": "V",
+      "SymbolRateKs": 1800,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11139.1,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11178.3,
+      "Polarization": "V",
+      "SymbolRateKs": 2700,
+      "Fec": "1/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11180,
+      "Polarization": "H",
+      "SymbolRateKs": 29750,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11226,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11265,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "BBC News HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 2 HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo",
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MCM Top HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV Live HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CBeebies HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "France 24 HD (in English)",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV5 Monde Europe HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Euronews HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CGTN HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Earth HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo",
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports 2 HD Turkey",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Taraftar 2 HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Ticari beIN Sports 2 HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports 4 HD Turkey",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Ticari beIN Sports 4",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "test_i1",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "test_i2",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "test_i3",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11305,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "HOTTEST HITS",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LOVE SONGS",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "In Love",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "90\u0027S HITS",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "80\u0027S HITS",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "PARTY",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CONCERTS",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "AMERICA\u0027S CLASSICS",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CLASSICAL MUSIC",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ROCK",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ENERGETIC",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CLASSIC ROCK",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NU JAZZ",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "JAZZ",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Blues",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "REGGAE",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LATIN",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "OLDIES BUT GOLDIES",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MORNING COFFEE",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CHILL OUT / LOUNGE",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "HIP HOP R\u0026B",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "EASY LISTENING",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "RELAXATION",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "INTERNATIONAL",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "DREAMY",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MELANCHOLIC",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "SMOOTH JAZZ",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "HAPPY",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "5\u002B1 CONCERTS",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "BEST FM",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MASAL RADYO",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Yaban TV HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CGTN Documentary HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "beIN Sports International HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Da Vinci HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nickelodeon Turkey",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Box Office 1",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Digiturk 4K",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN SPORTS INTERNATIONAL TICARI",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Al Jazeera English HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Fenerbah\u00E7e TV HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TRT 1 HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Al Jazeera Satellite Channel",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "GREEK SONGS",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "\u015E\u00D6M\u0130NE KEYF\u0130",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11345,
+      "Polarization": "V",
+      "SymbolRateKs": 29750,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "beIN Sports Max 2 HD Turkey",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Movies Premiere 2 HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN H\u0026E HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports 5 HD Turkey",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Ticari beIN Sports 5 HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 1 HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "National Geographic HD Turkey",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN H\u0026E",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "National Geographic Wild HD Polska",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TJK TV HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Nick Junior Turkey",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "test_i4",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "DT9505R",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "PID_86",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "HM9504R",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "HD3501",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "IRDETO-T3",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "Sagem4KSSU",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "HM9506HD Replacement",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "IRDETO-T2",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "DVBSSU test 1",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "DT9502R",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "DT 9103",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "DVBSSU_9104",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11385,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11385,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11425,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Kablo Info",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tarim Orman",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Semerkand HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Semerkand Way",
+          "Package": "TURKSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ASTV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Quran Al Kareem TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Sunnah Al Nabawiyah TV HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Witness Eye",
+          "Package": "TURKSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TYT T\u00FCrk",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ONS TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "BI Kanal",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Telenews",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SEMERKAND RADYO",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11460.3,
+      "Polarization": "V",
+      "SymbolRateKs": 6800,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11469.3,
+      "Polarization": "V",
+      "SymbolRateKs": 6800,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11478.22,
+      "Polarization": "V",
+      "SymbolRateKs": 6800,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11487.22,
+      "Polarization": "V",
+      "SymbolRateKs": 6800,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11496.5,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11503.1,
+      "Polarization": "V",
+      "SymbolRateKs": 1515,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11503.5,
+      "Polarization": "V",
+      "SymbolRateKs": 2720,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11505.5,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11510,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11514.5,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11523.5,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11558,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Kabe TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Saudi Sunnah HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Zahra",
+          "Package": "TURKSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "PAL NOSTALJI",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "PAL STATION",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ERKAM RADYO",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "AKRA FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11589.5,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11598.1,
+      "Polarization": "V",
+      "SymbolRateKs": 6200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11606.2,
+      "Polarization": "V",
+      "SymbolRateKs": 6200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11676,
+      "Polarization": "V",
+      "SymbolRateKs": 24444,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Rai 1",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bloomberg Europe",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV Hits",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV 00s",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNN International HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Fashion TV T\u00FCrkiye",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Mezzo",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tarih TV",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TRT Spor HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "IRDETO-T",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "DVBSSU 403",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11727,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "RTR Planeta",
+          "Package": "TURKSAT",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "TURKSAT",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NTV Styl",
+          "Package": "TURKSAT",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NTV Pravo",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NTV Serial",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NTV Mir",
+          "Package": "TURKSAT",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Domashniy International",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Izvestia",
+          "Package": "TURKSAT",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ren TV International",
+          "Package": "TURKSAT",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "STS International",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Peretz International",
+          "Package": "TURKSAT",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "5 Kanal",
+          "Package": "TURKSAT",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TNT international",
+          "Package": "TURKSAT",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TNT Myzicalni",
+          "Package": "TURKSAT",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11747,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11767,
+      "Polarization": "V",
+      "SymbolRateKs": 15000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TRT 4K",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11789,
+      "Polarization": "H",
+      "SymbolRateKs": 20000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Investigation Discovery HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Epic Drama",
+          "Package": "TTNET",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sinema Aksiyon 2 HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Perviy Kanal",
+          "Package": "TTNET",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "S\u0130NEMA A\u0130LE",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sinema Aile 2 HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sinema Komedi HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sinema Komedi 2 HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sinema1001 HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sinema 1001 2 HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sinemax TV Yerli",
+          "Package": "TTNET",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11795,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TRT \u00C7ocuk HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT 1 HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Spor HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Belgesel HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT M\u00FCzik HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT \u00C7ocuk HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TEST TONE",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11822,
+      "Polarization": "H",
+      "SymbolRateKs": 14166,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11837.1,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV 100 HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ekot\u00FCrk HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SZC",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Gozde TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Genc TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Agro TV turkey",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Van TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal 3 (Afyon)",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tek Rumeli",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ekol TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "KTV (Kibris)",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "HT Spor",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CNBC-e",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "GZT HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TKGS DATA",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11853,
+      "Polarization": "H",
+      "SymbolRateKs": 25000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11865,
+      "Polarization": "V",
+      "SymbolRateKs": 15000,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "TGRT FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11880,
+      "Polarization": "H",
+      "SymbolRateKs": 20000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11883,
+      "Polarization": "V",
+      "SymbolRateKs": 4800,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "ATV Avrupa",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "A Haber",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11896.8,
+      "Polarization": "V",
+      "SymbolRateKs": 952,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11916.1,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Kanal B",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Eba TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TGRT EU HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Turksat HD Promo",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TGRT Haber",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Euro Star",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "KRT TV HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Flash Haber HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Neo Haber",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TINT",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TKGS TEST",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "TKGS TEST 2",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11957.7,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "TRT 1",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Haber",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT T\u00FCrk",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT 3 Spor",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT \u00C7ocuk",
+          "Package": "TRT",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Belgesel",
+          "Package": "TRT",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT 2 HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT M\u00FCzik",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Spor 2 HD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RADYO 1",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADYO 3",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADYO GAP",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT FM",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Radyo Haber",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Kurdi Radyo",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "VOT WORLD",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TSR TURKCE",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Meteorolojinin Sesi",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "VOT WEST",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT NAGME",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Memleketim FM",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT TURKU",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "INTERCOM",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "VOT EAST",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Antalya Radyosu",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Cukurova Radyosu",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Erzurum Radyosu",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Trabzon Radyosu",
+          "Package": "TRT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11977,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Kanal D Turkiye",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NHK World",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "eng",
+            "jap"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Cartoon Network Turkey",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ilke TV",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Da Vinci Learning",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Azoomee",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SHOW RADYO",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADYO V\u0130VA",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TEK-1",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "TEK-4",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "iKANALDTrigger",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11999,
+      "Polarization": "V",
+      "SymbolRateKs": 11666,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "A News HD",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "A Para HD",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "A2 HD",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VAV TV HD",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12009,
+      "Polarization": "V",
+      "SymbolRateKs": 4444,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Turkmeneli HD",
+          "Package": "Service Provider",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12015,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Star TV",
+          "Package": "DOGUS",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NTV Turkey",
+          "Package": "DOGUS",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "DMAX Turkey",
+          "Package": "DOGUS",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Star TV HD",
+          "Package": "DOGUS",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NTV HD",
+          "Package": "DOGUS",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "DMAX HD Turkey",
+          "Package": "DOGUS",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TLC HD",
+          "Package": "DOGUS",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TLC Turkey",
+          "Package": "DOGUS",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NTV RADYO",
+          "Package": "DOGUS",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "KRAL POP",
+          "Package": "DOGUS",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "KRAL FM",
+          "Package": "DOGUS",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "INTERCOMM",
+          "Package": "DOGUS",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12034.2,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "CNN T\u00FCrk",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV2 (Turkey)",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RUMEL\u0130 TV",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "ASFTV",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Euro D",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV 8 Turkey",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tele 1 HD",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tele 1",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Anadolu Dernek TV",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ASFTV",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rumeli TV",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ekin Turk",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CNN T\u00DCRK RADYO",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADYO D",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "SLOWT\u00DCRK",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radyo mars",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RD SEYMEN",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "45\u0027lik",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "METRO FM",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "S\u00DCPER FM",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "JOYT\u00DCRK FM",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "VIRGIN RADIO T\u00DCRK\u0130YE",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "JOY FM T\u00DCRK\u0130YE",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "SERVICE 1",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "SERVICE 2",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Kalp FM",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12054,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "ATV",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "A Haber",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "A Spor",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Minikago",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Minikago",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ATV HD",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "A Haber HD",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "A Spor HD",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "A2 Turkey",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "A HABER RADYO",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "A SPOR RADYO",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "INT 1",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "INT 2",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "INT 3",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "VAV RADYO",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radyo Turkuvaz",
+          "Package": "TURKUVAZ",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "INT 4",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "INT 5",
+          "Package": "TURKUVAZ",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12073,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "beIN Sports Max 1 HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Movies Premiere HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Series 1 Turkey",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Series 2 Turkey",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Movies Stars HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Movies T\u00FCrk HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Iz HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Gurme HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Iz HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports 1 HD Turkey",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Taraftar HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Ticari beIN Sports 1 HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports 3 HD Turkey",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Taraftar 3",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Ticari beIN Sports 3 HD",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SSU TEST3",
+          "Package": "Digit\u00FCrk",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12083,
+      "Polarization": "H",
+      "SymbolRateKs": 13750,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Ucankus TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Eba TV",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TURKSAT TANITIM",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12103,
+      "Polarization": "H",
+      "SymbolRateKs": 8333,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Kanal 7 HD",
+          "Package": "KANAL 7",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u00DClke TV HD",
+          "Package": "KANAL 7",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12109.8,
+      "Polarization": "H",
+      "SymbolRateKs": 29900,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12111,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Kablo Info",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT World HD",
+          "Package": "TRT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12149,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "COLORBAR H264",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT World HD",
+          "Package": "TRT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12188,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "iTVGAMETEST",
+          "Package": "D-Smart",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Discovery Channel HD Turkey",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Dream TV",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Smart Spor HD",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat History",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Filmscreen",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC News",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Fashion TV T\u00FCrkiye",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NATURE ESCAPE",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Dizi Premium",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Movie Classic",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Movie T\u00FCrk",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Baby TV",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Investigation Discovery HD",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DiziSmart Max",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DocuScreen",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cartoonito Turkey",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NATURE ESCAPE",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "eng",
+            "tur"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Cosmosports",
+          "Package": "D-SmartTivibu",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TRACE URBAN",
+          "Package": "D-Smart",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "2000\u0027ler",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "\u002790\u0027lar",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "\u002780\u0027ler",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Soho \u002770s",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "\u002760\u0027lar",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "DANCEFLOOR FILLERS",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CLASSIC MASTERS",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CHILLOUT",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "SMOOTH JAZZ",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "COOL JAZZ",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "JAZZ CLASSICS",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CLASSICAL ORCHESTRAL",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CLASSICAL GREATS",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "T\u00DCRK\u00C7E POP",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "DEEP BLUES",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "HOT COUNTRY UK",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "RIDDIM",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "HIP HOP",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TRANCE",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "LATINO TROPICAL",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "GROOVE (DISCO \u0026 FUNK)",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "THE CHILL LOUNGE",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "FOLK ROOTS",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ROCK\u0027N ROLL",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ROCK ANTHEMS",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CLASSIC ROCK",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "SILK (LOVE SONGS)",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CHANSONS",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "T\u00DCRK\u00C7E M\u00DCZ\u0130K",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "T\u00DCRK SANAT M\u00DCZ\u0130\u011E\u0130",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TURKISH SILK",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "HOUSE",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ROMANCE LATINO",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NICE \u0026 COZY",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "EASY LISTENING",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CLASSICAL CALM",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "JAZZ LATINO",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "JAZZ NOW",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MEDITERRANEAN MUSIC",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "GREATEST HITS",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "HIT LIST",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "URBAN BEATS",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "DANCE CLUBBIN\u0027",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MAXIMUM PARTY",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "AROUND THE WORLD",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "BROADWAY",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "OPERA",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "BAROQUE",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "POPCORN",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TANGO",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "T\u00DCRK\u00C7E POP",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TURKISH SILK",
+          "Package": "D-SmartTivibu",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "EPG DU Targeting112",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "EPG DU 2 (SD 306)",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "EPG DU 4 (HD)",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "EPG DU QAM",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "EPG DU 6",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "EPG DU 7",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "EPG DU 8",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "EPG DU 9",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "EPG DU 10",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "EPG DU 12",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "EPG DU 13",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "EPG DU 14",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "EPG DU 15",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12196,
+      "Polarization": "H",
+      "SymbolRateKs": 8888,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12207,
+      "Polarization": "V",
+      "SymbolRateKs": 29700,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12209,
+      "Polarization": "H",
+      "SymbolRateKs": 10000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Show TV HD",
+          "Package": "CINER MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Habert\u00FCrk HD",
+          "Package": "CINER MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Bloomberg HT HD",
+          "Package": "CINER MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Showmax HD",
+          "Package": "SHOW MAX HD",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12213,
+      "Polarization": "V",
+      "SymbolRateKs": 5833,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV Net HD",
+          "Package": "TVNET",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TVNET RADYO",
+          "Package": "TVNET",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12219,
+      "Polarization": "H",
+      "SymbolRateKs": 6500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Show TV",
+          "Package": "SHOW TV",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal 1",
+          "Package": "KANAL 1",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SHOW INTERCOM",
+          "Package": "INTERCOM",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "HT SPOR RADYO",
+          "Package": "HT SPOR INTERCOM",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12220,
+      "Polarization": "V",
+      "SymbolRateKs": 4800,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12228,
+      "Polarization": "V",
+      "SymbolRateKs": 8400,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "TGRT HABER.",
+          "Package": "TGRT HABER.",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "T2.",
+          "Package": "Service Provider",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "T3.",
+          "Package": "Service Provider",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12245,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Kanal D HD",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CNN T\u00FCrk HD",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Teve 2 HD",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Eurosport 1 HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 2 HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Dream Turk",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ucankus TV",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NBA TV HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "\u00C7ocuk Smart HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "T.A.Y TV",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CNN International HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Love Nature HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC Earth HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sporsmart 2 HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Insight TV HD",
+          "Package": "D-Smart",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Yeni Kocaeli TV",
+          "Package": "DEMIROREN MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12246,
+      "Polarization": "V",
+      "SymbolRateKs": 30937,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12264.3,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Sun RTV",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal V",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tivi6",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal 26",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "GRT TV",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Aksu TV K.Mara\u015F",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ES TV (Turkey)",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CIFTCI TV",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ER TV",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Mercan TV",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal Firat",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "BRTV Anadolu",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV 41",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Mavi Karadeniz TV",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tempo TV (Turkey)",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal 23",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal 15",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Sat7 T\u00FCrk",
+          "Package": "GUC TELEKOM",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "BI Kanal",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Anadoluda Vuslat",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ORT Turkey",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "EGE TV",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "\u0130kra",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal 58",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal 12",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "POWER FM",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "POWERTURK FM",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADYO BOOMBOX",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADYO BOOMBOX",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "FENOMEN TURK",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADYO FENOMEN",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "PRD 2",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "PRD 4",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "SEYR FM",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "PRD 6",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "KAFA RADYO",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ISTANBUL FM",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "PRD 7",
+          "Package": "GUC TELEKOM MEDYA",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12298,
+      "Polarization": "V",
+      "SymbolRateKs": 4800,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "24",
+          "Package": "TURKMEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SkyT\u00FCrk 360",
+          "Package": "TURKMEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ALEM FM",
+          "Package": "TURKMEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ALEM FM",
+          "Package": "TURKMEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "LIG RADYO",
+          "Package": "TURKMEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TEK.KOOR.",
+          "Package": "TURKMEDYA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADYO ABC",
+          "Package": "TURKMEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12310,
+      "Polarization": "V",
+      "SymbolRateKs": 15000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "24 HD",
+          "Package": "TURK MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "360 HD",
+          "Package": "TURK MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV 4 HD Turkey",
+          "Package": "TURK MEDYA",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12329,
+      "Polarization": "H",
+      "SymbolRateKs": 6666,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12336,
+      "Polarization": "H",
+      "SymbolRateKs": 5520,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12344,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "BRT HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "BRT 2 HD",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV 2020",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal T",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ada TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "DIYALOG FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TKGS DATA",
+          "Package": null,
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12346,
+      "Polarization": "H",
+      "SymbolRateKs": 9600,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "TV 8 Turkey",
+          "Package": "TV8",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV 8.5",
+          "Package": "TV8 5",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV8Ifb",
+          "Package": "TV8",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12356,
+      "Polarization": "H",
+      "SymbolRateKs": 7100,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12380,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Discovery Channel HD Turkey",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports Haber HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Baby TV HD Europe",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12380,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Anadolum TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Beyaz TV HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TGRT Haber HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Diyanet HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Belgesel HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Haber Global",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SToon TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "POLIS RADYOSU",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "DIYANET RADYO",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "KUR AN RADYO",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RISALET RADYO",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "KUPE FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADYO SPOR",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BEST FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "KARADENIZ FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BAYRAM FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RD 2000 FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TGRT FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "SAHIL GUVENLIK RADYO",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TKGS DATA",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12422,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "TURKSAT TANITIM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Diyanet",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TRT Avaz HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Ayaz TV",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "POLIS RADYOSU",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TKGS DATA",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12423,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Halk TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "BRT 3",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Gonca TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "AL EKhbaria HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Y\u0131ld\u0131z TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Hadath",
+          "Package": "TURKSAT",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "T\u00E9l\u00E9 Sahel",
+          "Package": "TURKSAT",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VOIX DU SAHEL",
+          "Package": "TURKSAT",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BRT RADYO",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BAYRAK FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TKGS DATA",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12457,
+      "Polarization": "H",
+      "SymbolRateKs": 15000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12458,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12460.5,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12515,
+      "Polarization": "H",
+      "SymbolRateKs": 11666,
+      "Fec": "2/3",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12530,
+      "Polarization": "H",
+      "SymbolRateKs": 15000,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12539,
+      "Polarization": "V",
+      "SymbolRateKs": 3900,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12542.7,
+      "Polarization": "V",
+      "SymbolRateKs": 68571,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12559,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "2/3",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12570.8,
+      "Polarization": "H",
+      "SymbolRateKs": 3300,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12574.3,
+      "Polarization": "H",
+      "SymbolRateKs": 2480,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12577,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12589,
+      "Polarization": "H",
+      "SymbolRateKs": 22500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12605,
+      "Polarization": "V",
+      "SymbolRateKs": 34284,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12610,
+      "Polarization": "H",
+      "SymbolRateKs": 20830,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12634,
+      "Polarization": "V",
+      "SymbolRateKs": 6666,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12641,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12643.7,
+      "Polarization": "V",
+      "SymbolRateKs": 10000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12653,
+      "Polarization": "V",
+      "SymbolRateKs": 10000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12655,
+      "Polarization": "V",
+      "SymbolRateKs": 1808,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12669.5,
+      "Polarization": "V",
+      "SymbolRateKs": 23500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12685,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Akit TV HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TMB",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kon TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV 1",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV Kayseri",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal 32",
+          "Package": "TURKSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Freedom",
+          "Package": "TURKSAT",
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV 42",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Beng\u00FC T\u00FCrk TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "K\u00F6y TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Alta\u015F TV Ordu",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Haber Global HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV 52 (Ordu)",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV Den",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV 264",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Bir TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Egemax TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RIBAT FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "HG INTERCOM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TKGS DATA",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12685,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Kadirga TV (Trabzon)",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal 7 Avrupa HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Zarok TV Kurmanci",
+          "Package": "TURKSAT",
+          "Languages": [
+            "kur",
+            "zaz"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Meltem TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Edessa TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal Urfa",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Guneydogu TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Line TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rehber TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Cay TV (Rize)",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Dost TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TH T\u00FCrk Haber",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "FM TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Lalegul TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "HRT Akdeniz (Hatay)",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "GRT TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ulusal Kanal",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Adana Koza TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kardelen TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Halk TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CAGRI FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADYO 7",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "LALEGUL FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "TKGS DATA",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12728.9,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12729,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Turksat HD Promo",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kudus TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal Avrupa",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal 33",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NR1 Turk TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV 100 HD",
+          "Package": "TURKSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV 5 Turkey",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "On4 TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Fenerbah\u00E7e TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Luys TV",
+          "Package": "TURKSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NR1 TURK FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NR1 FM",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NR1 FM.",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}

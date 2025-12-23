@@ -1,0 +1,132 @@
+{
+  "SlotKey": "50E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 10959,
+      "Polarization": "H",
+      "SymbolRateKs": 2222,
+      "Fec": "1/2",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "T\u00FCrksat Promo",
+          "Package": "TURKSAT",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10959.1,
+      "Polarization": "V",
+      "SymbolRateKs": 9090,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10985.1,
+      "Polarization": "V",
+      "SymbolRateKs": 8333,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10985.1,
+      "Polarization": "V",
+      "SymbolRateKs": 8333,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11001.6,
+      "Polarization": "V",
+      "SymbolRateKs": 12500,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11142.5,
+      "Polarization": "V",
+      "SymbolRateKs": 1033,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11148.2,
+      "Polarization": "V",
+      "SymbolRateKs": 8333,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11148.2,
+      "Polarization": "V",
+      "SymbolRateKs": 8333,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11196,
+      "Polarization": "V",
+      "SymbolRateKs": 2220,
+      "Fec": "1/2",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "T\u00FCrksat Promo",
+          "Package": "TURKSAT",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11675,
+      "Polarization": "H",
+      "SymbolRateKs": 13960,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11688,
+      "Polarization": "H",
+      "SymbolRateKs": 2220,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "T\u00FCrksat Promo",
+          "Package": null,
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}
