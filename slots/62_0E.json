@@ -1,0 +1,1608 @@
+{
+  "SlotKey": "62.0E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 3715,
+      "Polarization": "L",
+      "SymbolRateKs": 5574,
+      "Fec": "5/6",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3872,
+      "Polarization": "L",
+      "SymbolRateKs": 2150,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "FM CARRIER 1",
+          "Package": "CITIZEN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "FM CARRIER 2",
+          "Package": "Unnamed",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3878,
+      "Polarization": "L",
+      "SymbolRateKs": 5574,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSKStream",
+      "Channels": [
+        {
+          "Name": "NTV (Kenya)",
+          "Package": "ADN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Citizen TV",
+          "Package": "ADN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Inooro TV",
+          "Package": "ADN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "QTV (Kenya)",
+          "Package": "ADN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ramogi TV",
+          "Package": "ADN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3911,
+      "Polarization": "R",
+      "SymbolRateKs": 5757,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3917,
+      "Polarization": "R",
+      "SymbolRateKs": 5000,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "ZNBC 2",
+          "Package": "ZNBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ZNBC",
+          "Package": "ZNBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3940,
+      "Polarization": "L",
+      "SymbolRateKs": 2083,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "NTV (Kenya)",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4066,
+      "Polarization": "R",
+      "SymbolRateKs": 5140,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4110,
+      "Polarization": "L",
+      "SymbolRateKs": 2600,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4160,
+      "Polarization": "L",
+      "SymbolRateKs": 1200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10958,
+      "Polarization": "V",
+      "SymbolRateKs": 1250,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10977,
+      "Polarization": "V",
+      "SymbolRateKs": 1300,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10988,
+      "Polarization": "V",
+      "SymbolRateKs": 1600,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB YAZD",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO NAMA YAZD",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO YAZD",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10991,
+      "Polarization": "V",
+      "SymbolRateKs": 1580,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB SEMNAN",
+          "Package": null,
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIONAMA SEMNAN",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO SEMNAN",
+          "Package": null,
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10993,
+      "Polarization": "V",
+      "SymbolRateKs": 1560,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB ESHRAGH",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO NAMA ZANJAN",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO ZANJAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10995,
+      "Polarization": "V",
+      "SymbolRateKs": 1540,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB-JAHANBIN",
+          "Package": "IRIB-JAHANBIN",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIONAMA JAHANBIN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO-SHAHREKORD",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10997,
+      "Polarization": "V",
+      "SymbolRateKs": 1520,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB ESFAHAN",
+          "Package": "IRIB Esfahan",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB ESFAHAN",
+          "Package": "IRIB Esfahan",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIONAMA ESFAHAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO ESFAHAN",
+          "Package": "IRIB Esfahan",
+          "Languages": [
+            "far",
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10999,
+      "Polarization": "V",
+      "SymbolRateKs": 1500,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB AZARBAYJAN",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIONAMA AZARBAYJAN GHARBI",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO AZARBAYEJAN",
+          "Package": null,
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11002,
+      "Polarization": "V",
+      "SymbolRateKs": 3500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB-ILAM",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB KERMANSHAH",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB-KORDESTAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO NAMA- ILAM",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Ra.Na.kermanshah",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio-Nama-Kurdistan",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO ILAM.",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO KERMANSHAH",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO-KORDESTAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11005.4,
+      "Polarization": "V",
+      "SymbolRateKs": 2300,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB-GOLESTAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB MAZANDARAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO NAMA GORGAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Nama Mazandaran",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO GOLESTAN",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO MAZANDARAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO TURKMEN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11009,
+      "Polarization": "V",
+      "SymbolRateKs": 3500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB-Kerman",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB-HAMOON",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB-Khalijefars",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIONAMA-KERMAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Nama ZAHEDAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "radionama_KHALIJEFARS",
+          "Package": "IRIB",
+          "Languages": [
+            "vo",
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio-Kerman",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO-ZAHEDAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO-Bandarabas",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11012,
+      "Polarization": "V",
+      "SymbolRateKs": 2300,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB-BARAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB-Qazvin",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Radionama_Guilan",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO NAMA QAZVIN",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO-RASHT",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO-Qazvin",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO BRONMARZE",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11016,
+      "Polarization": "V",
+      "SymbolRateKs": 3500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB Noor",
+          "Package": "IRIB QOM",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Hamedan",
+          "Package": "IRIB QOM",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Aftab",
+          "Package": "IRIB QOM",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO NAMA QOM",
+          "Package": "IRIB QOM",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RAADIO NAMA HAMEDAN",
+          "Package": "IRIB QOM",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio-Nama-Markazi",
+          "Package": "IRIB QOM",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio-QOM",
+          "Package": "IRIB QOM",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO-HAMEDAN",
+          "Package": "IRIB QOM",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO-MARKAZI",
+          "Package": "IRIB QOM",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11020,
+      "Polarization": "V",
+      "SymbolRateKs": 2300,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB Aflak",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Khoozestan",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio-Nama-LORESTAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO NAMA KHOUZESTAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio-LORESTAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO-KHOOZESTAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11023,
+      "Polarization": "V",
+      "SymbolRateKs": 3500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB FARS",
+          "Package": "FARS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Bushehr",
+          "Package": "FARS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Dena",
+          "Package": "FARS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO NAMA FARS",
+          "Package": "FARS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO NAMA BUSHEHR",
+          "Package": "FARS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIONAMA  KOHGILUYE VA BOYERAHMAD",
+          "Package": "FARS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO FARS",
+          "Package": "FARS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO BUSHEHR",
+          "Package": "FARS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO YASUJ",
+          "Package": "FARS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11026,
+      "Polarization": "V",
+      "SymbolRateKs": 2300,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB Sahand",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Sabalan",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIONAMA ARDABIL",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO NAMA TABRIZ",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO AZARBAYJAN SHARGHI",
+          "Package": "IRIB",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO ARDABIL",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO BROONMARZI(TAB)",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11030,
+      "Polarization": "V",
+      "SymbolRateKs": 3500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB KH.RAZAVI",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB KH.JONOOBI",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB KH.SHOMALI",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO KH.RAZAVI",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO KH.SHOMALI",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO KH.JONOOBI",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO BOROONMARZI(RAZAVI)",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11192,
+      "Polarization": "V",
+      "SymbolRateKs": 1600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11485,
+      "Polarization": "H",
+      "SymbolRateKs": 1161,
+      "Fec": "2/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11555,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "IRIB TV 1",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB TV 2",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB TV 3",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB TV 4",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Irib Nasim",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB TV 5",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRINN - Iranian News Network",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Amoozesh",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Quran",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Mostanad",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Omid",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Pouya",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Namayesh",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Ofogh",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "iFilm",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tamasha TV",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRINN 2",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Varzesh TV 1",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Salamat",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tehran TV 24",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Sepehr",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Salamat",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB Tamasha",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB TV 3 HD",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Mostanad HD",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Varzesh TV 1",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RADIO 02 WORLD SERVICE",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO 04 WORLD SERVICE",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO 05 WORLD SERVICE",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO 06 WORLD SERVICE",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO IRAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO AVA",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO AVA",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO JAVAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO PAYAM",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO VARZESH",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO MAAREF",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO QURAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO FARHANG",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO SALAMAT",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO EGHTESAD",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO GOFTOGO",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO NAMAYESH",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO TEHRAN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO SABA",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO ARBAEEN",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO TALAVAT",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO TARTIL",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ENGLISH RADIO WORLD SERVICE",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ARABIC RADIO WORLD SERVICE",
+          "Package": "IRIB",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO BOROONMARZI",
+          "Package": "IRIB",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO DARI",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO ZIARAT",
+          "Package": "IRIB",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}

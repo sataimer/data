@@ -1,0 +1,4418 @@
+{
+  "SlotKey": "30.0W",
+  "Transponders": [
+    {
+      "FrequencyMHz": 10730,
+      "Polarization": "H",
+      "SymbolRateKs": 34285,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10730,
+      "Polarization": "V",
+      "SymbolRateKs": 25000,
+      "Fec": "1/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10755.1,
+      "Polarization": "V",
+      "SymbolRateKs": 5454,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10755.1,
+      "Polarization": "V",
+      "SymbolRateKs": 5454,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10755.1,
+      "Polarization": "V",
+      "SymbolRateKs": 5454,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10770,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Canal Parlamento",
+          "Package": "TSA",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TVI Internacional",
+          "Package": "TSA",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "GOD Europe",
+          "Package": "TSA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SonLife Broadcasting Network",
+          "Package": "SES",
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV Record HD",
+          "Package": "TSA",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Record News",
+          "Package": "TSA",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RTP 3",
+          "Package": "TSA",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Feeds 2",
+          "Package": "TSA",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Feeds 3",
+          "Package": "TSA",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Telesur HD",
+          "Package": "TSA",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10770,
+      "Polarization": "V",
+      "SymbolRateKs": 34290,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10810,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10810,
+      "Polarization": "V",
+      "SymbolRateKs": 34286,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10810.1,
+      "Polarization": "H",
+      "SymbolRateKs": 34210,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10850,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10850,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10850.1,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10850.1,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10890,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10890,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10913.9,
+      "Polarization": "V",
+      "SymbolRateKs": 3220,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10914,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
+      "Fec": "9/10",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Bom",
+          "Package": "M-Three Satcom",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10917,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "13/45",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10918.7,
+      "Polarization": "H",
+      "SymbolRateKs": 6250,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10918.8,
+      "Polarization": "H",
+      "SymbolRateKs": 6250,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10926,
+      "Polarization": "H",
+      "SymbolRateKs": 6250,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10928.3,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10939,
+      "Polarization": "H",
+      "SymbolRateKs": 14167,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "RTVi Europe",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11209,
+      "Polarization": "V",
+      "SymbolRateKs": 8036,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11222,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11222.36,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11262,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11262.3,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11277,
+      "Polarization": "H",
+      "SymbolRateKs": 5182,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11277,
+      "Polarization": "H",
+      "SymbolRateKs": 5182,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11302,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11302,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11302.1,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "Stream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11302.1,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "Stream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11330,
+      "Polarization": "H",
+      "SymbolRateKs": 9140,
+      "Fec": "3/4",
+      "Standard": "DVB-S2PLS:",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Aragon TV HD",
+          "Package": "CARTV",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ARAGON RADIO ZARAGOZA",
+          "Package": "CARTV",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ARAGON RADIO HUESCA",
+          "Package": "CARTV",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ARAGON RADIO TERUEL",
+          "Package": "CARTV",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11342,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11347,
+      "Polarization": "H",
+      "SymbolRateKs": 20858,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11355.1,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11382,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "R1_NACION_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R5_ANDALU_TORRE",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R5_BALEAR_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R1_CLMANC_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R2_NACION_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R1_MADRID_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R1_BALEAR_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R5_CLMANC_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R3_NACION_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R5_MADRID_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R1_ANDALU_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R4_CATALU_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R5_ARAGON_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R1_CATALU_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R1_MURCIA_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R5_NACION_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R1_ARAGON_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R5_CATALU_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "R5_MURCIA_PRADO",
+          "Package": "RNE",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11393.5,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11422,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2X",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11422,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11422,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11422,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11491,
+      "Polarization": "V",
+      "SymbolRateKs": 7522,
+      "Fec": "8/9",
+      "Standard": "DVB-S2PLS:",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Television Castilla - La Mancha HD",
+          "Package": "CMT",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RCLM TO",
+          "Package": "CMT",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCLM AB",
+          "Package": "CMT",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCLM CR",
+          "Package": "CMT",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCLM CU",
+          "Package": "CMT",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCLM GU",
+          "Package": "CMT",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCLM TLV",
+          "Package": "CMT",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11501,
+      "Polarization": "V",
+      "SymbolRateKs": 10200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11509.1,
+      "Polarization": "H",
+      "SymbolRateKs": 3000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11525.1,
+      "Polarization": "H",
+      "SymbolRateKs": 9600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11537.1,
+      "Polarization": "H",
+      "SymbolRateKs": 9600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11549.1,
+      "Polarization": "H",
+      "SymbolRateKs": 9600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11568.1,
+      "Polarization": "V",
+      "SymbolRateKs": 17143,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11603.1,
+      "Polarization": "H",
+      "SymbolRateKs": 9600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11644,
+      "Polarization": "V",
+      "SymbolRateKs": 4000,
+      "Fec": "2/3",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Onda Cero",
+          "Package": "Onda Cero",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Europa FM",
+          "Package": "Europa FM",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "esRadio",
+          "Package": "esRadio",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO MARIA",
+          "Package": "RADIO MARIA",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Cadena 100",
+          "Package": "Cadena 100",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ROCK FM",
+          "Package": "ROCK FM",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Kiss FM",
+          "Package": "Kiss FM",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "HIT FM",
+          "Package": "HIT FM",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "COPE SAT 2",
+          "Package": "COPE SAT 2",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "COPE",
+          "Package": "COPE",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "MegaStar",
+          "Package": "MegaStar",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "FM ZARAGOZA",
+          "Package": "FM ZARAGOZA",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "FM HUESCA",
+          "Package": "FM HUESCA",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "FM TERUEL",
+          "Package": "FM TERUEL",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "EXTREMADURA FM",
+          "Package": "EXTREMADURA FM",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11653.1,
+      "Polarization": "H",
+      "SymbolRateKs": 19680,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11674.9,
+      "Polarization": "H",
+      "SymbolRateKs": 15750,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11676.2,
+      "Polarization": "V",
+      "SymbolRateKs": 1768,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11687.7,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11695.4,
+      "Polarization": "V",
+      "SymbolRateKs": 1481,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11730.8,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11730.8,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11731,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11770.9,
+      "Polarization": "V",
+      "SymbolRateKs": 34286,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11770.9,
+      "Polarization": "V",
+      "SymbolRateKs": 34286,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11771,
+      "Polarization": "V",
+      "SymbolRateKs": 34286,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11797.4,
+      "Polarization": "V",
+      "SymbolRateKs": 2000,
+      "Fec": "32/45",
+      "Standard": "DVB-S2X",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11811,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11812.5,
+      "Polarization": "V",
+      "SymbolRateKs": 500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11850.8,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11851,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11890.9,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "4/5",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11890.9,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "4/5",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11891,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11917.2,
+      "Polarization": "H",
+      "SymbolRateKs": 1000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11921.9,
+      "Polarization": "V",
+      "SymbolRateKs": 17143,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11926.7,
+      "Polarization": "H",
+      "SymbolRateKs": 1000,
+      "Fec": "32/45",
+      "Standard": "DVB-S2X",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11931,
+      "Polarization": "V",
+      "SymbolRateKs": 34286,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11962.8,
+      "Polarization": "V",
+      "SymbolRateKs": 17143,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12007.3,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12011.9,
+      "Polarization": "V",
+      "SymbolRateKs": 29900,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12015.2,
+      "Polarization": "H",
+      "SymbolRateKs": 27499,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12092,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12130,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "RTP 1",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP 2",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Record Europa",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "MEO",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP 3",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP Madeira",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP A\u00E7ores",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "A Bola TV",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Lolly Kids HD",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal Cinemundo",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Channel 1 Russia",
+          "Package": "Nos",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Hist\u00F3ria",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Ca\u00E7avision",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Cartoonito Portugal",
+          "Package": "Nos",
+          "Languages": [
+            "por",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP Madeira",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP A\u00E7ores",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ARTV",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV Portugal",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNN Portugal",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Globo",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP 1 HD",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP 2 HD",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC HD",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVI HD",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP 3",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNN Portugal",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CMTV",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Globo",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Porto Canal",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "A Bola TV",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cartoonito",
+          "Package": "MeoNos",
+          "Languages": [
+            "por",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal de Historia",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP Memoria",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV Portugal",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ARTV",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP Africa",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP A\u00E7ores",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP Madeira",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Record",
+          "Package": "TV Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SIC Mulher",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNN",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Comedy Portugal",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Movies",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Euronews",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV 00s",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sky News International",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TVI",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CMTV",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Porto Canal",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP Memoria",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTP Africa",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "S\u002B TV",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC Mulher",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNN",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Comedy Portugal",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "STAR Movies",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Euronews",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV 00s",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sky News",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 1",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 2",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 3",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "RDP \u00C1frica",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "R\u00E1dio Lusit\u00D0nia",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Cidade FM",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Smooth FM",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "RFM",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Mega Hits",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Renascen\u00E7a",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "R\u00E1dio Comercial",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "M80",
+          "Package": "MeoNos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 1",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 2",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 3",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "RDP \u00C1frica",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Lusit\u00E2nia",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Cidade FM",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Smooth FM",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "RFM",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Mega Hits",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Renascen\u00E7a",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "R\u00E1dio Comercial",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "M80",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "80s RFM",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 1 - Fado",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 1 - Mem\u00F3ria",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 1 - Vida",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Antena 2 - \u00D3pera",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Oceano Pac\u00EDfico",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "RFM Clubbing",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12149.3,
+      "Polarization": "V",
+      "SymbolRateKs": 31428,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12149.3,
+      "Polarization": "V",
+      "SymbolRateKs": 31429,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "Stream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12168.5,
+      "Polarization": "H",
+      "SymbolRateKs": 31428,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12168.5,
+      "Polarization": "H",
+      "SymbolRateKs": 31428,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12187.8,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12207,
+      "Polarization": "H",
+      "SymbolRateKs": 31428,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12245.3,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "NONE",
+      "Standard": "DVB-S2",
+      "Modulation": "Stream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12246,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12264,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12283.5,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "7/9",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12322,
+      "Polarization": "H",
+      "SymbolRateKs": 31428,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12341.1,
+      "Polarization": "V",
+      "SymbolRateKs": 31428,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12341.1,
+      "Polarization": "V",
+      "SymbolRateKs": 31428,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12341.1,
+      "Polarization": "V",
+      "SymbolRateKs": 31428,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12360,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Canal Hollywood Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Odisseia",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 2",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cartoon Network",
+          "Package": "MeoNos",
+          "Languages": [
+            "por",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal Q",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC Radical",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC Caras",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "E! Entertainment TV",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Fashion TV",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MCM Pop",
+          "Package": "MeoNos",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bloomberg",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CNBC",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Galicia",
+          "Package": "MeoNos",
+          "Languages": [
+            "gal"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal Panda",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V\u002BTVI",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "HOT",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MCM TOP",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Mezzo",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "OneToro TV",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Panda Kids",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVE 24H",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TVEi",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV 5",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV 1 HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV 6 HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV 2 HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV 3 HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BTV 1 HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV 7",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "France 24 (I)",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Hot",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Mezzo",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "OneToro TV",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Panda Kids",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVE 24h",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TVE Internacional",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "AMC Crime",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC Noticias",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V\u002B TVI",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV 4",
+          "Package": "Nos",
+          "Languages": [
+            "por",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal Panda",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hollywood HD",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Odisseia",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 2",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Cartoon Network",
+          "Package": "Nos",
+          "Languages": [
+            "por",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal Q",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC Radical",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC Caras",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "E! Entertainment",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Fashion TV",
+          "Package": "Nos",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MCM Pop",
+          "Package": "Nos",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bloomberg",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CNBC Europe",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Galicia",
+          "Package": "Nos",
+          "Languages": [
+            "gal"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "AMC Crime",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV 5 HD",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV 6 HD",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV 1 HD",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV 2 HD",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV 3 HD",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BTV HD",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV 7",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12382,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12399,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "24 Kitchen HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "STAR Crime HD Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Travel Channel HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AXN White HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Investigation Discovery Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NatGeo Wild HD Spain",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DAZN 1 Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DAZN 4 Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DAZN 5 Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Cine Emotion HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Casa e Cozinha HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Cine Edition HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SyFy",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TLC",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TV5 Monde",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TVI Reality",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV \u002B",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sporting TV",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DAZN 2 Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DAZN 3 Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC Kids",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal NOS",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ZAP Viva HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SYFY",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TLC",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TV5 Monde",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TVI Reality",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SPORT TV\u002B",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sporting TV",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AXN Movies HD",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AXN White HD",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 1 HD",
+          "Package": "Nos",
+          "Languages": [
+            "por",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Life HD Portugal",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "STAR Crime HD Portugal",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "24 Kitchen HD",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DAZN 1 HD",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "DAZN 4",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "DAZN 5",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "ID Investigation Discovery",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Cine Edition",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Cine Emotion",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "National Geographic Wild",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Trace Urban",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Casa e Cozinha HD",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DAZN 2 HD",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "DAZN 3",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC Kids",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal NOS",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12418,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12437,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV Cine Action HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Trace Toca",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Fuel TV",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Ca\u00E7a \u0026 Pesca",
+          "Package": "MeoNos",
+          "Languages": [
+            "esp",
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nick Jr. Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Discovery HD Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Cine Top HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Motorvision",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "News Now",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC Novelas",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal 11 HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AMC Break",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Baby TV",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Biggs",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Can\u00E7\u00E3o Nova",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney J\u00FAnior",
+          "Package": "Nos",
+          "Languages": [
+            "eng",
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Playboy TV",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "National Geographic HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Channel HD Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AXN HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NOS Studios HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kuriakos TV HD",
+          "Package": "Kuriakos TV HD",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "AMC Break",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Baby TV",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Biggs",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Can\u00E7\u00E3o Nova",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney Junior",
+          "Package": "MeoNos",
+          "Languages": [
+            "por",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal de Teste",
+          "Package": "Canal de Teste",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "11",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney Channel Portugal",
+          "Package": "Nos",
+          "Languages": [
+            "por",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Cine Top",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Cine Action",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AMC HD Portugal",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Discovery Channel HD",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Nickelodeon Portugal",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Trace Toca",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "News Now",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Afro Music Channel",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NHK World",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC Novelas",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Venus TV Argentina",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Playboy TV",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "National Geographic HD",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "STAR Channel HD",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "AXN HD",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Nick Jr.",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NOS Studios HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TSF",
+          "Package": null,
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "R\u00E1dio Amalia",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Marginal",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Oxig\u00E9nio",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Radar",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "R\u00E1dio Regional",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "CMR",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "SuperFM",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12476,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TVI Reality",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC Mulher",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TLC",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "AMC Break",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport TV \u002B",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV 00s",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Mezzo",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVE International",
+          "Package": "MeoNos",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Panda Biggs",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal 24 Horas",
+          "Package": "MeoNos",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNN International Europe",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sky News International",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Euronews Portuguese",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "France 24 (in English)",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hot",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney Junior Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "por",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sporting TV",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sy Fy Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kuriakos TV HD",
+          "Package": null,
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV5 Monde Europe",
+          "Package": "MeoNos",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal NOS",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal NOS",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Comedy Portugal",
+          "Package": "MeoNos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal de Teste",
+          "Package": "SID Canal de Teste",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Baby TV",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NOS Studios HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NOS Studios HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ZAP Viva HD",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Can\u00E7\u00E3o Nova",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OneToro TV",
+          "Package": "MeoNos",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Panda Kids",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SIC Mulher",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TLC",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Movies Portugal",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AMC Break",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SPORT TV \u002B",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV 00s",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Mezzo",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVEi",
+          "Package": "Nos",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Biggs",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TVE 24H",
+          "Package": "Nos",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CNN",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sky News",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Euronews",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "France 24",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Hot",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney J\u00FAnior",
+          "Package": "Nos",
+          "Languages": [
+            "por",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Sporting TV",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TV5 Monde",
+          "Package": "Nos",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TVI Reality",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SyFy",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Kuriakos TV",
+          "Package": null,
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "MCM Top",
+          "Package": "Nos",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Baby TV",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "STAR Comedy",
+          "Package": "Nos",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Panda Kids",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Can\u00E7\u00E3o Nova",
+          "Package": "Nos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Onetoro TV",
+          "Package": "Nos",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "R\u00E1dio Amalia",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Oxig\u00E9nio",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Radar",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Marginal",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "CMR",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "SuperFM",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "R\u00E1dio Regional",
+          "Package": "MeoNos",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12513.4,
+      "Polarization": "H",
+      "SymbolRateKs": 1207,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12518,
+      "Polarization": "H",
+      "SymbolRateKs": 1125,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12518,
+      "Polarization": "V",
+      "SymbolRateKs": 1482,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12519,
+      "Polarization": "H",
+      "SymbolRateKs": 718,
+      "Fec": "2/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12519,
+      "Polarization": "V",
+      "SymbolRateKs": 1481,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "ANTENA 1",
+          "Package": "RTP",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ANTENA 2",
+          "Package": "RTP",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ANTENA 3",
+          "Package": "RTP",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RDP AFRICA",
+          "Package": "RTP",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "OCASIONAIS",
+          "Package": "RTP",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ACORES",
+          "Package": "RTP",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ONDA MEDIA",
+          "Package": "RTP",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ANT1 MADEIRA",
+          "Package": "RTP",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ANT3 MADEIRA",
+          "Package": "RTP",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12520.3,
+      "Polarization": "V",
+      "SymbolRateKs": 512,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12528.54,
+      "Polarization": "H",
+      "SymbolRateKs": 8000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12528.8,
+      "Polarization": "V",
+      "SymbolRateKs": 1041,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12537.3,
+      "Polarization": "V",
+      "SymbolRateKs": 13917,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12548.5,
+      "Polarization": "V",
+      "SymbolRateKs": 29600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12552.7,
+      "Polarization": "H",
+      "SymbolRateKs": 1000,
+      "Fec": "4/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12553.8,
+      "Polarization": "H",
+      "SymbolRateKs": 1000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12563,
+      "Polarization": "H",
+      "SymbolRateKs": 8000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12577.4,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12579.1,
+      "Polarization": "H",
+      "SymbolRateKs": 8470,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12589.2,
+      "Polarization": "H",
+      "SymbolRateKs": 10000,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12631,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12671,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12671,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12707.04,
+      "Polarization": "H",
+      "SymbolRateKs": 12000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12715.5,
+      "Polarization": "V",
+      "SymbolRateKs": 26550,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    }
+  ]
+}
