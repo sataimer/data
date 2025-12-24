@@ -1,482 +1,302 @@
 [
   {
-    "Slot": "58W",
+    "Name": "Intelsat 21",
     "Longitude": -58,
-    "Satellites": [
-      { "Name": "Intelsat 21" }
-    ],
-    "Transponders": []
+    "Slot": "58.0W"
   },
   {
-    "Slot": "55.5W",
+    "Name": "Intelsat 34",
     "Longitude": -55.5,
-    "Satellites": [
-      { "Name": "Intelsat 34" }
-    ],
-    "Transponders": []
+    "Slot": "55.5W"
   },
   {
-    "Slot": "53W",
+    "Name": "Intelsat 23",
     "Longitude": -53,
-    "Satellites": [
-      { "Name": "Intelsat 23" }
-    ],
-    "Transponders": []
+    "Slot": "53.0W"
   },
   {
-    "Slot": "47.5W",
+    "Name": "SES 14",
     "Longitude": -47.5,
-    "Satellites": [
-      { "Name": "SES 14" }
-    ],
-    "Transponders": []
+    "Slot": "47.5W"
   },
   {
-    "Slot": "45W",
+    "Name": "Intelsat 14 (IS-14)",
     "Longitude": -45,
-    "Satellites": [
-      { "Name": "Intelsat 14 (IS-14)" }
-    ],
-    "Transponders": []
+    "Slot": "45.0W"
   },
   {
-    "Slot": "40.5W",
+    "Name": "SES-6",
     "Longitude": -40.5,
-    "Satellites": [
-      { "Name": "SES-6" }
-    ],
-    "Transponders": []
+    "Slot": "40.5W"
   },
   {
-    "Slot": "34.5W",
+    "Name": "Intelsat 35",
     "Longitude": -34.5,
-    "Satellites": [
-      { "Name": "Intelsat 35" }
-    ],
-    "Transponders": []
+    "Slot": "34.5W"
   },
   {
-    "Slot": "30W",
+    "Name": "Hispasat 30W-5",
     "Longitude": -30,
-    "Satellites": [
-      { "Name": "Hispasat 30W-5" }
-    ],
-    "Transponders": []
+    "Slot": "30.0W"
   },
   {
-    "Slot": "27.5W",
+    "Name": "Intelsat 901",
     "Longitude": -27.5,
-    "Satellites": [
-      { "Name": "Intelsat 901" }
-    ],
-    "Transponders": []
+    "Slot": "27.5W"
   },
   {
-    "Slot": "24.5W",
+    "Name": "AlComSat 1",
     "Longitude": -24.5,
-    "Satellites": [
-      { "Name": "AlComSat 1" }
-    ],
-    "Transponders": []
+    "Slot": "24.5W"
   },
   {
-    "Slot": "22W",
+    "Name": "SES 4",
     "Longitude": -22,
-    "Satellites": [
-      { "Name": "SES 4" }
-    ],
-    "Transponders": []
+    "Slot": "22.0W"
   },
   {
-    "Slot": "18W",
+    "Name": "Intelsat 37e",
     "Longitude": -18,
-    "Satellites": [
-      { "Name": "Intelsat 37e" }
-    ],
-    "Transponders": []
+    "Slot": "18.0W"
   },
   {
-    "Slot": "15W",
+    "Name": "Telstar 12 Vantage",
     "Longitude": -15,
-    "Satellites": [
-      { "Name": "Telstar 12 Vantage" }
-    ],
-    "Transponders": []
+    "Slot": "15.0W"
   },
   {
-    "Slot": "14W",
+    "Name": "Express AM 8",
     "Longitude": -14,
-    "Satellites": [
-      { "Name": "Express AM 8" }
-    ],
-    "Transponders": []
+    "Slot": "14.0W"
   },
   {
-    "Slot": "11W",
+    "Name": "Express AM44",
     "Longitude": -11,
-    "Satellites": [
-      { "Name": "Express AM44" }
-    ],
-    "Transponders": []
+    "Slot": "11.0W"
   },
   {
-    "Slot": "8W",
+    "Name": "Eutelsat 8 West D",
     "Longitude": -8,
-    "Satellites": [
-      { "Name": "Eutelsat 8 West D" }
-    ],
-    "Transponders": []
+    "Slot": "8.0W"
   },
   {
-    "Slot": "7W",
+    "Name": "Nilesat 102",
     "Longitude": -7,
-    "Satellites": [
-      { "Name": "Nilesat 102" }
-    ],
-    "Transponders": []
+    "Slot": "7.0W"
   },
   {
-    "Slot": "5W",
+    "Name": "Eutelsat 5 West B",
     "Longitude": -5,
-    "Satellites": [
-      { "Name": "Eutelsat 5 West B" }
-    ],
-    "Transponders": []
+    "Slot": "5.0W"
   },
   {
-    "Slot": "4W",
+    "Name": "Dror 1",
     "Longitude": -4,
-    "Satellites": [
-      { "Name": "Dror 1" }
-    ],
-    "Transponders": []
+    "Slot": "4.0W"
   },
   {
-    "Slot": "3W",
+    "Name": "ABS-3A",
     "Longitude": -3,
-    "Satellites": [
-      { "Name": "ABS-3A" }
-    ],
-    "Transponders": []
+    "Slot": "3.0W"
   },
   {
-    "Slot": "0.8W",
+    "Name": "Thor 7",
     "Longitude": -0.8,
-    "Satellites": [
-      { "Name": "Thor 7" }
-    ],
-    "Transponders": []
+    "Slot": "0.8W"
   },
   {
-    "Slot": "1.9E",
+    "Name": "BulgariaSat",
     "Longitude": 1.9,
-    "Satellites": [
-      { "Name": "BulgariaSat" }
-    ],
-    "Transponders": []
+    "Slot": "1.9E"
   },
   {
-    "Slot": "3E",
+    "Name": "Eutelsat 3B",
     "Longitude": 3,
-    "Satellites": [
-      { "Name": "Eutelsat 3B" }
-    ],
-    "Transponders": []
+    "Slot": "3.0E"
   },
   {
-    "Slot": "4.8E",
+    "Name": "SES 5",
     "Longitude": 4.8,
-    "Satellites": [
-      { "Name": "SES 5" }
-    ],
-    "Transponders": []
+    "Slot": "4.8E"
   },
   {
-    "Slot": "7E",
+    "Name": "Eutelsat 7C",
     "Longitude": 7,
-    "Satellites": [
-      { "Name": "Eutelsat 7C" }
-    ],
-    "Transponders": []
+    "Slot": "7.0E"
   },
   {
-    "Slot": "9E",
+    "Name": "Eutelsat 9B",
     "Longitude": 9,
-    "Satellites": [
-      { "Name": "Eutelsat 9B" }
-    ],
-    "Transponders": []
+    "Slot": "9.0E"
   },
   {
-    "Slot": "10E",
+    "Name": "Eutelsat 10B",
     "Longitude": 10,
-    "Satellites": [
-      { "Name": "Eutelsat 10B" }
-    ],
-    "Transponders": []
+    "Slot": "10.0E"
   },
   {
-    "Slot": "13E",
+    "Name": "Hot Bird 13G",
     "Longitude": 13,
-    "Satellites": [
-      { "Name": "Hot Bird 13G" }
-    ],
-    "Transponders": []
+    "Slot": "13.0E"
   },
   {
-    "Slot": "16E",
+    "Name": "Eutelsat 16A",
     "Longitude": 16,
-    "Satellites": [
-      { "Name": "Eutelsat 16A" }
-    ],
-    "Transponders": []
+    "Slot": "16.0E"
   },
   {
-    "Slot": "17E",
+    "Name": "Amos 17",
     "Longitude": 17,
-    "Satellites": [
-      { "Name": "Amos 17" }
-    ],
-    "Transponders": []
+    "Slot": "17.0E"
   },
   {
-    "Slot": "19.2E",
+    "Name": "Astra 1L",
     "Longitude": 19.2,
-    "Satellites": [
-      { "Name": "Astra 1L" }
-    ],
-    "Transponders": []
+    "Slot": "19.2E"
   },
   {
-    "Slot": "20E",
+    "Name": "Arabsat 5C",
     "Longitude": 20,
-    "Satellites": [
-      { "Name": "Arabsat 5C" }
-    ],
-    "Transponders": []
+    "Slot": "20.0E"
   },
   {
-    "Slot": "21.6E",
+    "Name": "Eutelsat 21B",
     "Longitude": 21.6,
-    "Satellites": [
-      { "Name": "Eutelsat 21B" }
-    ],
-    "Transponders": []
+    "Slot": "21.6E"
   },
   {
-    "Slot": "23.5E",
+    "Name": "Astra 3B",
     "Longitude": 23.5,
-    "Satellites": [
-      { "Name": "Astra 3B" }
-    ],
-    "Transponders": []
+    "Slot": "23.5E"
   },
   {
-    "Slot": "25.5E",
+    "Name": "Es\u0027hail 1",
     "Longitude": 25.5,
-    "Satellites": [
-      { "Name": "Es'hail 1" }
-    ],
-    "Transponders": []
+    "Slot": "25.5E"
   },
   {
-    "Slot": "26E",
+    "Name": "Badr 4",
     "Longitude": 26,
-    "Satellites": [
-      { "Name": "Badr 4" }
-    ],
-    "Transponders": []
+    "Slot": "26.0E"
   },
   {
-    "Slot": "28.2E",
+    "Name": "Astra 2E",
     "Longitude": 28.2,
-    "Satellites": [
-      { "Name": "Astra 2E" }
-    ],
-    "Transponders": []
+    "Slot": "28.2E"
   },
   {
-    "Slot": "30.5E",
+    "Name": "Arabsat 6A",
     "Longitude": 30.5,
-    "Satellites": [
-      { "Name": "Arabsat 6A" }
-    ],
-    "Transponders": []
+    "Slot": "30.5E"
   },
   {
-    "Slot": "31E",
+    "Name": "Turksat 5A",
     "Longitude": 31,
-    "Satellites": [
-      { "Name": "Turksat 5A" }
-    ],
-    "Transponders": []
+    "Slot": "31.0E"
   },
   {
-    "Slot": "36E",
+    "Name": "Express AMU1",
     "Longitude": 36,
-    "Satellites": [
-      { "Name": "Express AMU1" }
-    ],
-    "Transponders": []
+    "Slot": "36.0E"
   },
   {
-    "Slot": "38E",
+    "Name": "Paksat MM1R",
     "Longitude": 38,
-    "Satellites": [
-      { "Name": "Paksat MM1R" }
-    ],
-    "Transponders": []
+    "Slot": "38.0E"
   },
   {
-    "Slot": "39E",
+    "Name": "Hellas Sat 3",
     "Longitude": 39,
-    "Satellites": [
-      { "Name": "Hellas Sat 3" }
-    ],
-    "Transponders": []
+    "Slot": "39.0E"
   },
   {
-    "Slot": "40E",
+    "Name": "Express AM 7",
     "Longitude": 40,
-    "Satellites": [
-      { "Name": "Express AM 7" }
-    ],
-    "Transponders": []
+    "Slot": "40.0E"
   },
   {
-    "Slot": "42E",
+    "Name": "Turksat 6A",
     "Longitude": 42,
-    "Satellites": [
-      { "Name": "Turksat 6A" }
-    ],
-    "Transponders": []
+    "Slot": "42.0E"
   },
   {
-    "Slot": "45E",
+    "Name": "Intelsat 38",
     "Longitude": 45,
-    "Satellites": [
-      { "Name": "Intelsat 38" }
-    ],
-    "Transponders": []
+    "Slot": "45.0E"
   },
   {
-    "Slot": "46E",
+    "Name": "Azerspace-1",
     "Longitude": 46,
-    "Satellites": [
-      { "Name": "Azerspace-1" }
-    ],
-    "Transponders": []
+    "Slot": "46.0E"
   },
   {
-    "Slot": "49E",
+    "Name": "Yamal 601",
     "Longitude": 49,
-    "Satellites": [
-      { "Name": "Yamal 601" }
-    ],
-    "Transponders": []
+    "Slot": "49.0E"
   },
   {
-    "Slot": "50E",
+    "Name": "Turksat 4B",
     "Longitude": 50,
-    "Satellites": [
-      { "Name": "Turksat 4B" }
-    ],
-    "Transponders": []
+    "Slot": "50.0E"
   },
   {
-    "Slot": "51.5E",
+    "Name": "Belintersat 1",
     "Longitude": 51.5,
-    "Satellites": [
-      { "Name": "Belintersat 1" }
-    ],
-    "Transponders": []
+    "Slot": "51.5E"
   },
   {
-    "Slot": "52E",
+    "Name": "Turkmen\u00C4lem / MonacoSat",
     "Longitude": 52,
-    "Satellites": [
-      { "Name": "TurkmenÄlem / MonacoSat" }
-    ],
-    "Transponders": []
+    "Slot": "52.0E"
   },
   {
-    "Slot": "52.5E",
+    "Name": "Yahsat 1A",
     "Longitude": 52.5,
-    "Satellites": [
-      { "Name": "Yahsat 1A" }
-    ],
-    "Transponders": []
+    "Slot": "52.5E"
   },
   {
-    "Slot": "53E",
+    "Name": "Express AM6",
     "Longitude": 53,
-    "Satellites": [
-      { "Name": "Express AM6" }
-    ],
-    "Transponders": []
+    "Slot": "53.0E"
   },
   {
-    "Slot": "55E",
+    "Name": "Yamal 402",
     "Longitude": 55,
-    "Satellites": [
-      { "Name": "Yamal 402" }
-    ],
-    "Transponders": []
+    "Slot": "55.0E"
   },
   {
-    "Slot": "56E",
+    "Name": "Express AT1",
     "Longitude": 56,
-    "Satellites": [
-      { "Name": "Express AT1" }
-    ],
-    "Transponders": []
+    "Slot": "56.0E"
   },
   {
-    "Slot": "57E",
+    "Name": "NSS 12",
     "Longitude": 57,
-    "Satellites": [
-      { "Name": "NSS 12" }
-    ],
-    "Transponders": []
+    "Slot": "57.0E"
   },
   {
-    "Slot": "62E",
+    "Name": "Intelsat 39",
     "Longitude": 62,
-    "Satellites": [
-      { "Name": "Intelsat 39" }
-    ],
-    "Transponders": []
+    "Slot": "62.0E"
   },
   {
-    "Slot": "66E",
+    "Name": "Intelsat 17",
     "Longitude": 66,
-    "Satellites": [
-      { "Name": "Intelsat 17" }
-    ],
-    "Transponders": []
+    "Slot": "66.0E"
   },
   {
-    "Slot": "68.5E",
+    "Name": "Intelsat 20 (IS-20)",
     "Longitude": 68.5,
-    "Satellites": [
-      { "Name": "Intelsat 20 (IS-20)" }
-    ],
-    "Transponders": []
+    "Slot": "68.5E"
   },
   {
-    "Slot": "70.5E",
+    "Name": "Eutelsat 70B",
     "Longitude": 70.5,
-    "Satellites": [
-      { "Name": "Eutelsat 70B" }
-    ],
-    "Transponders": []
+    "Slot": "70.5E"
   },
   {
-    "Slot": "72E",
+    "Name": "Intelsat 22",
     "Longitude": 72,
-    "Satellites": [
-      { "Name": "Intelsat 22" }
-    ],
-    "Transponders": []
+    "Slot": "72.0E"
   }
 ]
