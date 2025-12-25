@@ -1,635 +1,242 @@
 [
   {
-    "Slot": "58.0W",
-    "Longitude": -58,
-    "Satellites": [
-      {
-        "Name": "Intelsat 21"
-      }
-    ]
-  },
-  {
-    "Slot": "55.5W",
-    "Longitude": -55.5,
-    "Satellites": [
-      {
-        "Name": "Intelsat 34"
-      }
-    ]
-  },
-  {
-    "Slot": "53.0W",
-    "Longitude": -53,
-    "Satellites": [
-      {
-        "Name": "Intelsat 23"
-      }
-    ]
-  },
-  {
-    "Slot": "47.5W",
-    "Longitude": -47.5,
-    "Satellites": [
-      {
-        "Name": "SES 14"
-      }
-    ]
-  },
-  {
-    "Slot": "45.0W",
-    "Longitude": -45,
-    "Satellites": [
-      {
-        "Name": "Intelsat 14 (IS-14)"
-      }
-    ]
-  },
-  {
-    "Slot": "40.5W",
-    "Longitude": -40.5,
-    "Satellites": [
-      {
-        "Name": "SES-6"
-      }
-    ]
-  },
-  {
-    "Slot": "34.5W",
-    "Longitude": -34.5,
-    "Satellites": [
-      {
-        "Name": "Intelsat 35"
-      }
-    ]
-  },
-  {
-    "Slot": "30.0W",
-    "Longitude": -30,
-    "Satellites": [
-      {
-        "Name": "Hispasat 30W-5"
-      },
-      {
-        "Name": "Hispasat 30W-6"
-      }
-    ]
-  },
-  {
-    "Slot": "27.5W",
-    "Longitude": -27.5,
-    "Satellites": [
-      {
-        "Name": "Intelsat 901"
-      }
-    ]
-  },
-  {
-    "Slot": "24.5W",
-    "Longitude": -24.5,
-    "Satellites": [
-      {
-        "Name": "AlComSat 1"
-      }
-    ]
-  },
-  {
-    "Slot": "22.0W",
-    "Longitude": -22,
-    "Satellites": [
-      {
-        "Name": "SES 4"
-      }
-    ]
-  },
-  {
-    "Slot": "18.0W",
-    "Longitude": -18,
-    "Satellites": [
-      {
-        "Name": "Intelsat 37e"
-      }
-    ]
-  },
-  {
-    "Slot": "15.0W",
-    "Longitude": -15,
-    "Satellites": [
-      {
-        "Name": "Telstar 12 Vantage"
-      }
-    ]
-  },
-  {
-    "Slot": "14.0W",
-    "Longitude": -14,
-    "Satellites": [
-      {
-        "Name": "Express AM 8"
-      }
-    ]
-  },
-  {
-    "Slot": "11.0W",
-    "Longitude": -11,
-    "Satellites": [
-      {
-        "Name": "Express AM44"
-      }
-    ]
-  },
-  {
-    "Slot": "8.0W",
-    "Longitude": -8,
-    "Satellites": [
-      {
-        "Name": "Eutelsat 8 West D"
-      },
-      {
-        "Name": "Eutelsat 8 West B"
-      }
-    ]
-  },
-  {
-    "Slot": "7.0W",
-    "Longitude": -7,
-    "Satellites": [
-      {
-        "Name": "Nilesat 102"
-      },
-      {
-        "Name": "Nilesat 201"
-      },
-      {
-        "Name": "Nilesat 301"
-      },
-      {
-        "Name": "Eutelsat 7 West A"
-      }
-    ]
-  },
-  {
-    "Slot": "5.0W",
-    "Longitude": -5,
-    "Satellites": [
-      {
-        "Name": "Eutelsat 5 West B"
-      }
-    ]
-  },
-  {
-    "Slot": "4.0W",
-    "Longitude": -4,
-    "Satellites": [
-      {
-        "Name": "Dror 1"
-      },
-      {
-        "Name": "Amos 3"
-      }
-    ]
-  },
-  {
-    "Slot": "3.0W",
-    "Longitude": -3,
-    "Satellites": [
-      {
-        "Name": "ABS-3A"
-      }
-    ]
-  },
-  {
     "Slot": "0.8W",
-    "Longitude": -0.8,
-    "Satellites": [
-      {
-        "Name": "Thor 7"
-      },
-      {
-        "Name": "Thor 5"
-      },
-      {
-        "Name": "Thor 6"
-      },
-      {
-        "Name": "Intelsat 10-02"
-      }
-    ]
+    "DisplayName": "Thor / Intelsat 10-02"
   },
   {
     "Slot": "1.9E",
-    "Longitude": 1.9,
-    "Satellites": [
-      {
-        "Name": "BulgariaSat"
-      }
-    ]
-  },
-  {
-    "Slot": "3.0E",
-    "Longitude": 3,
-    "Satellites": [
-      {
-        "Name": "Eutelsat 3B"
-      },
-      {
-        "Name": "Rascom QAF 1R"
-      }
-    ]
-  },
-  {
-    "Slot": "4.8E",
-    "Longitude": 4.8,
-    "Satellites": [
-      {
-        "Name": "SES 5"
-      },
-      {
-        "Name": "Astra 4A"
-      }
-    ]
-  },
-  {
-    "Slot": "7.0E",
-    "Longitude": 7,
-    "Satellites": [
-      {
-        "Name": "Eutelsat 7C"
-      },
-      {
-        "Name": "Eutelsat 7B"
-      }
-    ]
-  },
-  {
-    "Slot": "9.0E",
-    "Longitude": 9,
-    "Satellites": [
-      {
-        "Name": "Eutelsat 9B"
-      }
-    ]
+    "DisplayName": "Bulgariasat"
   },
   {
     "Slot": "10.0E",
-    "Longitude": 10,
-    "Satellites": [
-      {
-        "Name": "Eutelsat 10B"
-      }
-    ]
+    "DisplayName": "Eutelsat 10"
+  },
+  {
+    "Slot": "11.0W",
+    "DisplayName": "Express"
   },
   {
     "Slot": "13.0E",
-    "Longitude": 13,
-    "Satellites": [
-      {
-        "Name": "Hot Bird 13G"
-      },
-      {
-        "Name": "Hot Bird 13F"
-      }
-    ]
+    "DisplayName": "Hot Bird"
+  },
+  {
+    "Slot": "14.0W",
+    "DisplayName": "Express"
+  },
+  {
+    "Slot": "15.0W",
+    "DisplayName": "Telstar 12"
   },
   {
     "Slot": "16.0E",
-    "Longitude": 16,
-    "Satellites": [
-      {
-        "Name": "Eutelsat 16A"
-      }
-    ]
+    "DisplayName": "Eutelsat 16"
   },
   {
     "Slot": "17.0E",
-    "Longitude": 17,
-    "Satellites": [
-      {
-        "Name": "Amos 17"
-      }
-    ]
+    "DisplayName": "Amos 17"
+  },
+  {
+    "Slot": "18.0W",
+    "DisplayName": "Intelsat 37"
   },
   {
     "Slot": "19.2E",
-    "Longitude": 19.2,
-    "Satellites": [
-      {
-        "Name": "Astra 1L"
-      },
-      {
-        "Name": "Astra 1N"
-      },
-      {
-        "Name": "Astra 1P"
-      },
-      {
-        "Name": "Astra 1M"
-      },
-      {
-        "Name": "Astra 1KR"
-      }
-    ]
+    "DisplayName": "Astra 1"
   },
   {
     "Slot": "20.0E",
-    "Longitude": 20,
-    "Satellites": [
-      {
-        "Name": "Arabsat 5C"
-      }
-    ]
+    "DisplayName": "Arabsat 5"
   },
   {
     "Slot": "21.6E",
-    "Longitude": 21.6,
-    "Satellites": [
-      {
-        "Name": "Eutelsat 21B"
-      }
-    ]
+    "DisplayName": "Eutelsat 21"
+  },
+  {
+    "Slot": "22.0W",
+    "DisplayName": "SES 4"
   },
   {
     "Slot": "23.5E",
-    "Longitude": 23.5,
-    "Satellites": [
-      {
-        "Name": "Astra 3B"
-      },
-      {
-        "Name": "Astra 3C"
-      }
-    ]
+    "DisplayName": "Astra 3"
+  },
+  {
+    "Slot": "24.5W",
+    "DisplayName": "Alcomsat 1"
   },
   {
     "Slot": "25.5E",
-    "Longitude": 25.5,
-    "Satellites": [
-      {
-        "Name": "Es\u0027hail 1"
-      }
-    ]
+    "DisplayName": "Es"
   },
   {
     "Slot": "26.0E",
-    "Longitude": 26,
-    "Satellites": [
-      {
-        "Name": "Badr 4"
-      },
-      {
-        "Name": "Badr 5"
-      },
-      {
-        "Name": "Badr 7"
-      },
-      {
-        "Name": "Badr 8"
-      },
-      {
-        "Name": "Es\u0027hail 2"
-      }
-    ]
+    "DisplayName": "Badr 4 / Badr 5"
+  },
+  {
+    "Slot": "27.5W",
+    "DisplayName": "Intelsat 901"
   },
   {
     "Slot": "28.2E",
-    "Longitude": 28.2,
-    "Satellites": [
-      {
-        "Name": "Astra 2E"
-      },
-      {
-        "Name": "Astra 2F"
-      },
-      {
-        "Name": "Astra 2G"
-      }
-    ]
+    "DisplayName": "Astra 2"
+  },
+  {
+    "Slot": "3.0E",
+    "DisplayName": "Eutelsat 3 / Rascom"
+  },
+  {
+    "Slot": "3.0W",
+    "DisplayName": "Abs"
+  },
+  {
+    "Slot": "30.0W",
+    "DisplayName": "Hispasat 30"
   },
   {
     "Slot": "30.5E",
-    "Longitude": 30.5,
-    "Satellites": [
-      {
-        "Name": "Arabsat 6A"
-      },
-      {
-        "Name": "Arabsat 5A"
-      }
-    ]
+    "DisplayName": "Arabsat 5 / Arabsat 6"
   },
   {
     "Slot": "31.0E",
-    "Longitude": 31,
-    "Satellites": [
-      {
-        "Name": "Turksat 5A"
-      }
-    ]
+    "DisplayName": "Turksat"
+  },
+  {
+    "Slot": "34.5W",
+    "DisplayName": "Intelsat 35"
   },
   {
     "Slot": "36.0E",
-    "Longitude": 36,
-    "Satellites": [
-      {
-        "Name": "Express AMU1"
-      },
-      {
-        "Name": "Eutelsat 36D"
-      }
-    ]
+    "DisplayName": "Eutelsat 36 / Express"
   },
   {
     "Slot": "38.0E",
-    "Longitude": 38,
-    "Satellites": [
-      {
-        "Name": "Paksat MM1R"
-      },
-      {
-        "Name": "Paksat 1R"
-      }
-    ]
+    "DisplayName": "Paksat 1 / Paksat"
   },
   {
     "Slot": "39.0E",
-    "Longitude": 39,
-    "Satellites": [
-      {
-        "Name": "Hellas Sat 3"
-      },
-      {
-        "Name": "Hellas Sat 4"
-      }
-    ]
+    "DisplayName": "Hellas"
+  },
+  {
+    "Slot": "4.0W",
+    "DisplayName": "Amos 3 / Dror 1"
+  },
+  {
+    "Slot": "4.8E",
+    "DisplayName": "Astra 4 / SES 5"
   },
   {
     "Slot": "40.0E",
-    "Longitude": 40,
-    "Satellites": [
-      {
-        "Name": "Express AM 7"
-      }
-    ]
+    "DisplayName": "Express"
+  },
+  {
+    "Slot": "40.5W",
+    "DisplayName": "SES 6"
   },
   {
     "Slot": "42.0E",
-    "Longitude": 42,
-    "Satellites": [
-      {
-        "Name": "Turksat 6A"
-      },
-      {
-        "Name": "Turksat 5B"
-      },
-      {
-        "Name": "T\u00FCrksat 4A"
-      },
-      {
-        "Name": "Turksat 3A"
-      }
-    ]
+    "DisplayName": "Turksat"
   },
   {
     "Slot": "45.0E",
-    "Longitude": 45,
-    "Satellites": [
-      {
-        "Name": "Intelsat 38"
-      }
-    ]
+    "DisplayName": "Intelsat 38"
+  },
+  {
+    "Slot": "45.0W",
+    "DisplayName": "Intelsat 14"
   },
   {
     "Slot": "46.0E",
-    "Longitude": 46,
-    "Satellites": [
-      {
-        "Name": "Azerspace-1"
-      }
-    ]
+    "DisplayName": "Azerspace"
+  },
+  {
+    "Slot": "47.5W",
+    "DisplayName": "SES 14"
   },
   {
     "Slot": "49.0E",
-    "Longitude": 49,
-    "Satellites": [
-      {
-        "Name": "Yamal 601"
-      }
-    ]
+    "DisplayName": "Yamal 601"
+  },
+  {
+    "Slot": "5.0W",
+    "DisplayName": "Eutelsat 5"
   },
   {
     "Slot": "50.0E",
-    "Longitude": 50,
-    "Satellites": [
-      {
-        "Name": "Turksat 4B"
-      }
-    ]
+    "DisplayName": "Turksat"
   },
   {
     "Slot": "51.5E",
-    "Longitude": 51.5,
-    "Satellites": [
-      {
-        "Name": "Belintersat 1"
-      }
-    ]
+    "DisplayName": "Belintersat 1"
   },
   {
     "Slot": "52.0E",
-    "Longitude": 52,
-    "Satellites": [
-      {
-        "Name": "Turkmen\u00C4lem / MonacoSat"
-      }
-    ]
+    "DisplayName": "Turkmen"
   },
   {
     "Slot": "52.5E",
-    "Longitude": 52.5,
-    "Satellites": [
-      {
-        "Name": "Yahsat 1A"
-      }
-    ]
+    "DisplayName": "Yahsat 1"
   },
   {
     "Slot": "53.0E",
-    "Longitude": 53,
-    "Satellites": [
-      {
-        "Name": "Express AM6"
-      }
-    ]
+    "DisplayName": "Express"
+  },
+  {
+    "Slot": "53.0W",
+    "DisplayName": "Intelsat 23"
   },
   {
     "Slot": "55.0E",
-    "Longitude": 55,
-    "Satellites": [
-      {
-        "Name": "Yamal 402"
-      }
-    ]
+    "DisplayName": "Yamal 402"
+  },
+  {
+    "Slot": "55.5W",
+    "DisplayName": "Intelsat 34"
   },
   {
     "Slot": "56.0E",
-    "Longitude": 56,
-    "Satellites": [
-      {
-        "Name": "Express AT1"
-      }
-    ]
+    "DisplayName": "Express"
   },
   {
     "Slot": "57.0E",
-    "Longitude": 57,
-    "Satellites": [
-      {
-        "Name": "NSS 12"
-      }
-    ]
+    "DisplayName": "Nss 12"
+  },
+  {
+    "Slot": "58.0W",
+    "DisplayName": "Intelsat 21"
   },
   {
     "Slot": "62.0E",
-    "Longitude": 62,
-    "Satellites": [
-      {
-        "Name": "Intelsat 39"
-      }
-    ]
+    "DisplayName": "Intelsat 39"
   },
   {
     "Slot": "66.0E",
-    "Longitude": 66,
-    "Satellites": [
-      {
-        "Name": "Intelsat 17"
-      }
-    ]
+    "DisplayName": "Intelsat 17"
   },
   {
     "Slot": "68.5E",
-    "Longitude": 68.5,
-    "Satellites": [
-      {
-        "Name": "Intelsat 20 (IS-20)"
-      }
-    ]
+    "DisplayName": "Intelsat 20"
+  },
+  {
+    "Slot": "7.0E",
+    "DisplayName": "Eutelsat 7"
+  },
+  {
+    "Slot": "7.0W",
+    "DisplayName": "Nilesat / Eutelsat 7"
   },
   {
     "Slot": "70.5E",
-    "Longitude": 70.5,
-    "Satellites": [
-      {
-        "Name": "Eutelsat 70B"
-      }
-    ]
+    "DisplayName": "Eutelsat 70"
   },
   {
     "Slot": "72.0E",
-    "Longitude": 72,
-    "Satellites": [
-      {
-        "Name": "Intelsat 22"
-      }
-    ]
+    "DisplayName": "Intelsat 22"
+  },
+  {
+    "Slot": "8.0W",
+    "DisplayName": "Eutelsat 8"
+  },
+  {
+    "Slot": "9.0E",
+    "DisplayName": "Eutelsat 9"
   }
 ]
