@@ -5,7 +5,7 @@
   },
   {
     "Slot": "1.9E",
-    "DisplayName": "Bulgariasat"
+    "DisplayName": "BulgariaSat"
   },
   {
     "Slot": "10.0E",
@@ -13,7 +13,7 @@
   },
   {
     "Slot": "11.0W",
-    "DisplayName": "Express"
+    "DisplayName": "Express AM44"
   },
   {
     "Slot": "13.0E",
@@ -21,11 +21,11 @@
   },
   {
     "Slot": "14.0W",
-    "DisplayName": "Express"
+    "DisplayName": "Express AM 8"
   },
   {
     "Slot": "15.0W",
-    "DisplayName": "Telstar 12"
+    "DisplayName": "Telstar 12 Vantage"
   },
   {
     "Slot": "16.0E",
@@ -53,7 +53,7 @@
   },
   {
     "Slot": "22.0W",
-    "DisplayName": "SES 4"
+    "DisplayName": "SES"
   },
   {
     "Slot": "23.5E",
@@ -61,15 +61,15 @@
   },
   {
     "Slot": "24.5W",
-    "DisplayName": "Alcomsat 1"
+    "DisplayName": "AlComSat 1"
   },
   {
     "Slot": "25.5E",
-    "DisplayName": "Es"
+    "DisplayName": "Es\u0027hail 2"
   },
   {
     "Slot": "26.0E",
-    "DisplayName": "Badr 4 / Badr 5"
+    "DisplayName": "Es\u0027hail 2 / Badr 4"
   },
   {
     "Slot": "27.5W",
@@ -81,15 +81,15 @@
   },
   {
     "Slot": "3.0E",
-    "DisplayName": "Eutelsat 3 / Rascom"
+    "DisplayName": "Rascom QAF 1R / Eutelsat 3"
   },
   {
     "Slot": "3.0W",
-    "DisplayName": "Abs"
+    "DisplayName": "ABS-3A"
   },
   {
     "Slot": "30.0W",
-    "DisplayName": "Hispasat 30"
+    "DisplayName": "Hispasat 30W-5 / Hispasat 30W-6"
   },
   {
     "Slot": "30.5E",
@@ -105,15 +105,15 @@
   },
   {
     "Slot": "36.0E",
-    "DisplayName": "Eutelsat 36 / Express"
+    "DisplayName": "Express AMU1 / Eutelsat 36"
   },
   {
     "Slot": "38.0E",
-    "DisplayName": "Paksat 1 / Paksat"
+    "DisplayName": "Paksat"
   },
   {
     "Slot": "39.0E",
-    "DisplayName": "Hellas"
+    "DisplayName": "Hellas Sat 3 / Hellas Sat 4"
   },
   {
     "Slot": "4.0W",
@@ -121,15 +121,15 @@
   },
   {
     "Slot": "4.8E",
-    "DisplayName": "Astra 4 / SES 5"
+    "DisplayName": "Astra 4A / SES"
   },
   {
     "Slot": "40.0E",
-    "DisplayName": "Express"
+    "DisplayName": "Express AM 7"
   },
   {
     "Slot": "40.5W",
-    "DisplayName": "SES 6"
+    "DisplayName": "SES"
   },
   {
     "Slot": "42.0E",
@@ -145,11 +145,11 @@
   },
   {
     "Slot": "46.0E",
-    "DisplayName": "Azerspace"
+    "DisplayName": "Azerspace-1"
   },
   {
     "Slot": "47.5W",
-    "DisplayName": "SES 14"
+    "DisplayName": "SES"
   },
   {
     "Slot": "49.0E",
@@ -169,15 +169,15 @@
   },
   {
     "Slot": "52.0E",
-    "DisplayName": "Turkmen"
+    "DisplayName": "Turkmen\u00C4lem / MonacoSat"
   },
   {
     "Slot": "52.5E",
-    "DisplayName": "Yahsat 1"
+    "DisplayName": "Yahsat 1A"
   },
   {
     "Slot": "53.0E",
-    "DisplayName": "Express"
+    "DisplayName": "Express AM6"
   },
   {
     "Slot": "53.0W",
@@ -193,11 +193,11 @@
   },
   {
     "Slot": "56.0E",
-    "DisplayName": "Express"
+    "DisplayName": "Express AT1"
   },
   {
     "Slot": "57.0E",
-    "DisplayName": "Nss 12"
+    "DisplayName": "NSS 12"
   },
   {
     "Slot": "58.0W",
