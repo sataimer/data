@@ -1,242 +1,372 @@
 [
   {
-    "Slot": "0.8W",
-    "DisplayName": "Thor / Intelsat 10-02"
+    "Slot": "118.7W",
+    "DisplayName": "Anik F3",
+    "IsFree": false
   },
   {
-    "Slot": "1.9E",
-    "DisplayName": "BulgariaSat"
+    "Slot": "97.0W",
+    "DisplayName": "Galaxy 19",
+    "IsFree": true
   },
   {
-    "Slot": "10.0E",
-    "DisplayName": "Eutelsat 10"
+    "Slot": "95.0W",
+    "DisplayName": "Galaxy 3C",
+    "IsFree": false
   },
   {
-    "Slot": "11.0W",
-    "DisplayName": "Express AM44"
+    "Slot": "77.0W",
+    "DisplayName": "QuetzSat 1",
+    "IsFree": false
   },
   {
-    "Slot": "13.0E",
-    "DisplayName": "Hot Bird"
-  },
-  {
-    "Slot": "14.0W",
-    "DisplayName": "Express AM 8"
-  },
-  {
-    "Slot": "15.0W",
-    "DisplayName": "Telstar 12 Vantage"
-  },
-  {
-    "Slot": "16.0E",
-    "DisplayName": "Eutelsat 16"
-  },
-  {
-    "Slot": "17.0E",
-    "DisplayName": "Amos 17"
-  },
-  {
-    "Slot": "18.0W",
-    "DisplayName": "Intelsat 37"
-  },
-  {
-    "Slot": "19.2E",
-    "DisplayName": "Astra 1"
-  },
-  {
-    "Slot": "20.0E",
-    "DisplayName": "Arabsat 5"
-  },
-  {
-    "Slot": "21.6E",
-    "DisplayName": "Eutelsat 21"
-  },
-  {
-    "Slot": "22.0W",
-    "DisplayName": "SES"
-  },
-  {
-    "Slot": "23.5E",
-    "DisplayName": "Astra 3"
-  },
-  {
-    "Slot": "24.5W",
-    "DisplayName": "AlComSat 1"
-  },
-  {
-    "Slot": "25.5E",
-    "DisplayName": "Es\u0027hail 2"
-  },
-  {
-    "Slot": "26.0E",
-    "DisplayName": "Es\u0027hail 2 / Badr 4"
-  },
-  {
-    "Slot": "27.5W",
-    "DisplayName": "Intelsat 901"
-  },
-  {
-    "Slot": "28.2E",
-    "DisplayName": "Astra 2"
-  },
-  {
-    "Slot": "3.0E",
-    "DisplayName": "Rascom QAF 1R / Eutelsat 3"
-  },
-  {
-    "Slot": "3.0W",
-    "DisplayName": "ABS-3A"
-  },
-  {
-    "Slot": "30.0W",
-    "DisplayName": "Hispasat 30W-5 / Hispasat 30W-6"
-  },
-  {
-    "Slot": "30.5E",
-    "DisplayName": "Arabsat 5 / Arabsat 6"
-  },
-  {
-    "Slot": "31.0E",
-    "DisplayName": "Turksat"
-  },
-  {
-    "Slot": "34.5W",
-    "DisplayName": "Intelsat 35"
-  },
-  {
-    "Slot": "36.0E",
-    "DisplayName": "Express AMU1 / Eutelsat 36"
-  },
-  {
-    "Slot": "38.0E",
-    "DisplayName": "Paksat"
-  },
-  {
-    "Slot": "39.0E",
-    "DisplayName": "Hellas Sat 3 / Hellas Sat 4"
-  },
-  {
-    "Slot": "4.0W",
-    "DisplayName": "Amos 3 / Dror 1"
-  },
-  {
-    "Slot": "4.8E",
-    "DisplayName": "Astra 4A / SES"
-  },
-  {
-    "Slot": "40.0E",
-    "DisplayName": "Express AM 7"
-  },
-  {
-    "Slot": "40.5W",
-    "DisplayName": "SES"
-  },
-  {
-    "Slot": "42.0E",
-    "DisplayName": "Turksat"
-  },
-  {
-    "Slot": "45.0E",
-    "DisplayName": "Intelsat 38"
-  },
-  {
-    "Slot": "45.0W",
-    "DisplayName": "Intelsat 14"
-  },
-  {
-    "Slot": "46.0E",
-    "DisplayName": "Azerspace-1"
-  },
-  {
-    "Slot": "47.5W",
-    "DisplayName": "SES"
-  },
-  {
-    "Slot": "49.0E",
-    "DisplayName": "Yamal 601"
-  },
-  {
-    "Slot": "5.0W",
-    "DisplayName": "Eutelsat 5"
-  },
-  {
-    "Slot": "50.0E",
-    "DisplayName": "Turksat"
-  },
-  {
-    "Slot": "51.5E",
-    "DisplayName": "Belintersat 1"
-  },
-  {
-    "Slot": "52.0E",
-    "DisplayName": "Turkmen\u00C4lem / MonacoSat"
-  },
-  {
-    "Slot": "52.5E",
-    "DisplayName": "Yahsat 1A"
-  },
-  {
-    "Slot": "53.0E",
-    "DisplayName": "Express AM6"
-  },
-  {
-    "Slot": "53.0W",
-    "DisplayName": "Intelsat 23"
-  },
-  {
-    "Slot": "55.0E",
-    "DisplayName": "Yamal 402"
-  },
-  {
-    "Slot": "55.5W",
-    "DisplayName": "Intelsat 34"
-  },
-  {
-    "Slot": "56.0E",
-    "DisplayName": "Express AT1"
-  },
-  {
-    "Slot": "57.0E",
-    "DisplayName": "NSS 12"
+    "Slot": "61.5W",
+    "DisplayName": "EchoStar 16",
+    "IsFree": false
   },
   {
     "Slot": "58.0W",
-    "DisplayName": "Intelsat 21"
+    "DisplayName": "Intelsat 21",
+    "IsFree": false
   },
   {
-    "Slot": "62.0E",
-    "DisplayName": "Intelsat 39"
+    "Slot": "55.5W",
+    "DisplayName": "Intelsat 34",
+    "IsFree": false
   },
   {
-    "Slot": "66.0E",
-    "DisplayName": "Intelsat 17"
+    "Slot": "53.0W",
+    "DisplayName": "Intelsat 23",
+    "IsFree": false
   },
   {
-    "Slot": "68.5E",
-    "DisplayName": "Intelsat 20"
+    "Slot": "47.5W",
+    "DisplayName": "SES-4",
+    "IsFree": false
   },
   {
-    "Slot": "7.0E",
-    "DisplayName": "Eutelsat 7"
+    "Slot": "45.0W",
+    "DisplayName": "Intelsat 14",
+    "IsFree": false
   },
   {
-    "Slot": "7.0W",
-    "DisplayName": "Nilesat / Eutelsat 7"
+    "Slot": "40.5W",
+    "DisplayName": "SES-6",
+    "IsFree": false
   },
   {
-    "Slot": "70.5E",
-    "DisplayName": "Eutelsat 70"
+    "Slot": "34.5W",
+    "DisplayName": "Intelsat 35e",
+    "IsFree": false
   },
   {
-    "Slot": "72.0E",
-    "DisplayName": "Intelsat 22"
+    "Slot": "30.0W",
+    "DisplayName": "Hispasat 30W-5 / 30W-6",
+    "IsFree": true
+  },
+  {
+    "Slot": "27.5W",
+    "DisplayName": "Intelsat 901",
+    "IsFree": false
+  },
+  {
+    "Slot": "24.5W",
+    "DisplayName": "AlComSat 1",
+    "IsFree": false
+  },
+  {
+    "Slot": "22.0W",
+    "DisplayName": "SES-4",
+    "IsFree": false
+  },
+  {
+    "Slot": "18.0W",
+    "DisplayName": "Intelsat 37e",
+    "IsFree": false
+  },
+  {
+    "Slot": "15.0W",
+    "DisplayName": "Telstar 12 Vantage",
+    "IsFree": false
+  },
+  {
+    "Slot": "14.0W",
+    "DisplayName": "Express AM8",
+    "IsFree": false
+  },
+  {
+    "Slot": "12.5W",
+    "DisplayName": "Eutelsat 12 West G",
+    "IsFree": false
+  },
+  {
+    "Slot": "11.0W",
+    "DisplayName": "Express AM44",
+    "IsFree": false
   },
   {
     "Slot": "8.0W",
-    "DisplayName": "Eutelsat 8"
+    "DisplayName": "Eutelsat 8 West B",
+    "IsFree": false
+  },
+  {
+    "Slot": "7.0W",
+    "DisplayName": "Nilesat 201 / 301",
+    "IsFree": true
+  },
+  {
+    "Slot": "5.0W",
+    "DisplayName": "Eutelsat 5 West B",
+    "IsFree": false
+  },
+  {
+    "Slot": "4.0W",
+    "DisplayName": "Amos 3 / 7",
+    "IsFree": false
+  },
+  {
+    "Slot": "3.0W",
+    "DisplayName": "ABS-3A",
+    "IsFree": false
+  },
+  {
+    "Slot": "0.8W",
+    "DisplayName": "Thor 5 / 6 / 7",
+    "IsFree": false
+  },
+  {
+    "Slot": "1.9E",
+    "DisplayName": "BulgariaSat-1",
+    "IsFree": false
+  },
+  {
+    "Slot": "3.0E",
+    "DisplayName": "Eutelsat 3B",
+    "IsFree": false
+  },
+  {
+    "Slot": "4.8E",
+    "DisplayName": "Astra 4A / SES-5",
+    "IsFree": false
+  },
+  {
+    "Slot": "7.0E",
+    "DisplayName": "Eutelsat 7C",
+    "IsFree": false
   },
   {
     "Slot": "9.0E",
-    "DisplayName": "Eutelsat 9"
+    "DisplayName": "Eutelsat 9B",
+    "IsFree": false
+  },
+  {
+    "Slot": "10.0E",
+    "DisplayName": "Eutelsat 10B",
+    "IsFree": false
+  },
+  {
+    "Slot": "13.0E",
+    "DisplayName": "Eutelsat Hot Bird 13F / 13G",
+    "IsFree": true
+  },
+  {
+    "Slot": "16.0E",
+    "DisplayName": "Eutelsat 16A",
+    "IsFree": false
+  },
+  {
+    "Slot": "17.0E",
+    "DisplayName": "Amos 17",
+    "IsFree": false
+  },
+  {
+    "Slot": "19.2E",
+    "DisplayName": "Astra 1KR / 1L / 1M / 1N",
+    "IsFree": true
+  },
+  {
+    "Slot": "20.0E",
+    "DisplayName": "Arabsat 5C",
+    "IsFree": false
+  },
+  {
+    "Slot": "21.6E",
+    "DisplayName": "Eutelsat 21B",
+    "IsFree": false
+  },
+  {
+    "Slot": "23.5E",
+    "DisplayName": "Astra 3B / 3C",
+    "IsFree": true
+  },
+  {
+    "Slot": "25.5E",
+    "DisplayName": "Es'hail 2",
+    "IsFree": false
+  },
+  {
+    "Slot": "26.0E",
+    "DisplayName": "Badr 4 / 5 / 7",
+    "IsFree": true
+  },
+  {
+    "Slot": "28.2E",
+    "DisplayName": "Astra 2E / 2F / 2G",
+    "IsFree": false
+  },
+  {
+    "Slot": "30.5E",
+    "DisplayName": "Arabsat 5A",
+    "IsFree": false
+  },
+  {
+    "Slot": "31.0E",
+    "DisplayName": "Hylas 2",
+    "IsFree": false
+  },
+  {
+    "Slot": "33.0E",
+    "DisplayName": "Eutelsat 33E",
+    "IsFree": false
+  },
+  {
+    "Slot": "36.0E",
+    "DisplayName": "Eutelsat 36B / Express AMU1",
+    "IsFree": true
+  },
+  {
+    "Slot": "38.0E",
+    "DisplayName": "Paksat 1R",
+    "IsFree": false
+  },
+  {
+    "Slot": "39.0E",
+    "DisplayName": "Hellas Sat 3 / 4",
+    "IsFree": false
+  },
+  {
+    "Slot": "40.0E",
+    "DisplayName": "Express AM7",
+    "IsFree": false
+  },
+  {
+    "Slot": "42.0E",
+    "DisplayName": "Türksat 3A / 4A / 5B",
+    "IsFree": false
+  },
+  {
+    "Slot": "45.0E",
+    "DisplayName": "AzerSpace 2 / Intelsat 38",
+    "IsFree": false
+  },
+  {
+    "Slot": "46.0E",
+    "DisplayName": "AzerSpace 1",
+    "IsFree": false
+  },
+  {
+    "Slot": "49.0E",
+    "DisplayName": "Yamal 601",
+    "IsFree": false
+  },
+  {
+    "Slot": "51.5E",
+    "DisplayName": "Belintersat 1",
+    "IsFree": false
+  },
+  {
+    "Slot": "52.0E",
+    "DisplayName": "TurkmenÄlem / MonacoSat",
+    "IsFree": false
+  },
+  {
+    "Slot": "52.5E",
+    "DisplayName": "Al Yah 1",
+    "IsFree": false
+  },
+  {
+    "Slot": "53.0E",
+    "DisplayName": "Express AM6",
+    "IsFree": false
+  },
+  {
+    "Slot": "55.0E",
+    "DisplayName": "Yamal 402",
+    "IsFree": false
+  },
+  {
+    "Slot": "56.0E",
+    "DisplayName": "Express AT1",
+    "IsFree": false
+  },
+  {
+    "Slot": "57.0E",
+    "DisplayName": "NSS-12",
+    "IsFree": false
+  },
+  {
+    "Slot": "62.0E",
+    "DisplayName": "Intelsat 39",
+    "IsFree": false
+  },
+  {
+    "Slot": "66.0E",
+    "DisplayName": "Intelsat 17",
+    "IsFree": false
+  },
+  {
+    "Slot": "68.5E",
+    "DisplayName": "Intelsat 20",
+    "IsFree": false
+  },
+  {
+    "Slot": "70.5E",
+    "DisplayName": "Eutelsat 70B",
+    "IsFree": false
+  },
+  {
+    "Slot": "72.0E",
+    "DisplayName": "Intelsat 22",
+    "IsFree": false
+  },
+  {
+    "Slot": "75.0E",
+    "DisplayName": "ABS-2",
+    "IsFree": true
+  },
+  {
+    "Slot": "83.0E",
+    "DisplayName": "GSAT-30",
+    "IsFree": true
+  },
+  {
+    "Slot": "91.5E",
+    "DisplayName": "Measat 3a / 3b",
+    "IsFree": false
+  },
+  {
+    "Slot": "105.5E",
+    "DisplayName": "AsiaSat 7",
+    "IsFree": true
+  },
+  {
+    "Slot": "113.0E",
+    "DisplayName": "Koreasat 5A",
+    "IsFree": false
+  },
+  {
+    "Slot": "132.0E",
+    "DisplayName": "Vinasat 2",
+    "IsFree": true
+  },
+  {
+    "Slot": "152.0E",
+    "DisplayName": "Optus D2",
+    "IsFree": true
+  },
+  {
+    "Slot": "166.0E",
+    "DisplayName": "Intelsat 19",
+    "IsFree": true
   }
 ]
