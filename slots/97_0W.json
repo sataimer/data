@@ -1,0 +1,263 @@
+{
+  "SlotKey": "97.0W",
+  "DisplayName": "Galaxy 19",
+  "Transponders": [
+    {
+      "FrequencyMHz": 11836,
+      "Polarization": "H",
+      "SymbolRateKs": 22000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "RT English",
+          "Provider": "RT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RT Arabic",
+          "Provider": "RT",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Jazeera English",
+          "Provider": "Al Jazeera",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Press TV",
+          "Provider": "IRIB",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CGTN",
+          "Provider": "CGTN",
+          "Languages": [
+            "zho",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NHK World",
+          "Provider": "NHK",
+          "Languages": [
+            "jpn",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "DW Deutsch+",
+          "Provider": "Deutsche Welle",
+          "Languages": [
+            "deu"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "France 24",
+          "Provider": "France Médias Monde",
+          "Languages": [
+            "fra",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV5 Monde",
+          "Provider": "TV5 Monde",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Euronews",
+          "Provider": "Euronews",
+          "Languages": [
+            "eng",
+            "fra",
+            "deu"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MBC 1",
+          "Provider": "Arab DTH",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MBC 2",
+          "Provider": "Arab DTH",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MBC 3",
+          "Provider": "Arab DTH",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MBC 4",
+          "Provider": "Arab DTH",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11872,
+      "Polarization": "V",
+      "SymbolRateKs": 22000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Al Arabiya",
+          "Provider": "Arab DTH",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Iqraa TV",
+          "Provider": "Arab DTH",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB TV1",
+          "Provider": "IRIB",
+          "Languages": [
+            "fas"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB TV2",
+          "Provider": "IRIB",
+          "Languages": [
+            "fas"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IRIB TV3",
+          "Provider": "IRIB",
+          "Languages": [
+            "fas"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "iFilm",
+          "Provider": "IRIB",
+          "Languages": [
+            "fas"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Press TV Persian",
+          "Provider": "IRIB",
+          "Languages": [
+            "fas"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NTA International",
+          "Provider": "Nigeria TV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Channels TV",
+          "Provider": "Nigeria TV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TVC News",
+          "Provider": "Nigeria TV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rede Record",
+          "Provider": "Brazil DTH",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV Globo Internacional",
+          "Provider": "Globo",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "SlotKey": "95.0W",
+  "DisplayName": "Galaxy 3C / Intelsat",
+  "Transponders": [
+    {
+      "FrequencyMHz": 12115,
+      "Polarization": "H",
+      "SymbolRateKs": 23000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "NASA TV",
+          "Provider": "NASA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TBN",
+          "Provider": "Trinity Broadcasting Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "3ABN",
+          "Provider": "Three Angels Broadcasting Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "EWTN",
+          "Provider": "Eternal Word Television Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Daystar",
+          "Provider": "Daystar Television Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Hope Channel",
+          "Provider": "Seventh-day Adventist Church",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TeleSUR",
+          "Provider": "TeleSUR",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canal Once",
+          "Provider": "Mexico Public TV",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canal Trece",
+          "Provider": "Mexico Public TV",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RT Español",
+          "Provider": "RT",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RT English",
+          "Provider": "RT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Jazeera English",
+          "Provider": "Al Jazeera",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12151,
+      "Polarization": "V",
+      "SymbolRateKs": 23000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "France 24",
+          "Provider": "France Médias Monde",
+          "Languages": [
+            "fra",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "DW Deutsch+",
+          "Provider": "Deutsche Welle",
+          "Languages": [
+            "deu"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CGTN",
+          "Provider": "CGTN",
+          "Languages": [
+            "zho",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}

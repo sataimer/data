@@ -1,0 +1,2393 @@
+{
+  "SlotKey": "75.0E",
+  "DisplayName": "ABS-2 / ABS-2A",
+  "Transponders": [
+    {
+      "FrequencyMHz": 10985,
+      "Polarization": "H",
+      "SymbolRateKs": 35007,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Perviy kanal (+4h)",
+          "Package": "GeoTelecom",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 1 (+4h)",
+          "Package": "GeoTelecom",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Match! TV (+4h)",
+          "Package": "GeoTelecom",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NTV (+4h)",
+          "Package": "GeoTelecom",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya K (+4h)",
+          "Package": "GeoTelecom",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Karusel (+4h)",
+          "Package": "GeoTelecom",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Centre (+4h)",
+          "Package": "GeoTelecom",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "GeoTelecom",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OTR",
+          "Package": "GeoTelecom",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11040,
+      "Polarization": "H",
+      "SymbolRateKs": 35007,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TNV Planeta",
+          "Package": "GeoTelecom",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Mir (+3h)",
+          "Package": "GeoTelecom",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Mir 24",
+          "Package": "GeoTelecom",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Moskva 24",
+          "Package": "GeoTelecom",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Moskva Doverie",
+          "Package": "GeoTelecom",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "RBK TV",
+          "Package": "GeoTelecom",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Vmeste RF",
+          "Package": "GeoTelecom",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Zvezda (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "KHL Prime HD",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Perviy kanal (CIS)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Match! Planeta",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Mir Premium",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Perviy kanal (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Rossiya 1 (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Match! TV (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "NTV (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Rossiya K (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Rossiya 24 (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Karusel (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "OTR (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "TV Centre (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11473,
+      "Polarization": "V",
+      "SymbolRateKs": 22500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Pobeda HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Dom Kino Premium HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Muz TV",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Yu TV",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Kinojam 1",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Kinojam 2",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "RTG HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Russian Extreme HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "HDL HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Zdorovoe TV",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Usadba TV",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Domashniy Zhivotnye",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Psikhologiya 21",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Retro TV",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Voprosy i Otvety",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Drayv",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Okhota i Rybalka",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11533,
+      "Polarization": "V",
+      "SymbolRateKs": 22000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Kino TV HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Eshche TV",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Izvestia HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Perviy kanal HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Rossiya 1 HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Match! HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "NTV HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Rossiya K HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "THT HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "STS HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Ren TV HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11605,
+      "Polarization": "V",
+      "SymbolRateKs": 43200,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "RT News HD",
+          "Package": "ABS",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "RT Doc HD",
+          "Package": "ABS",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "NTV (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Friday (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "TV-3 (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "2x2 (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "THT4 (+2h)",
+          "Package": "GeoTelecom",
+          "IsFta": true,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Rossiya 1 (+4h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Rossiya 24",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Zvezda (+4h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Mir (+4h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "TNT (+4h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "STS (+4h)",
+          "Package": "GeoTelecom",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11740,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "History HD Russia",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Nat Geo HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Nat Geo Wild HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "EuroSport 1 HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "EuroSport 2 HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Fox HD Russia",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Fox Life HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Travel+Adventure HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Extreme Sports",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Viasat Nature",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Viasat History",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Viasat Explore",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Da Vinci",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Moolt",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Ginger HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "TiJi Russia",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Gulli Girl",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Cartoon Network",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Boomerang",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "JimJam",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Baby TV",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Mezzo Live HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11800,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Discovery HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Animal Planet HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Discovery Science HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "TLC HD Russia",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "ID Investigation Discovery",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "DTX HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "MTV Russia HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "MTV Live HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "MTV 90s",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "MTV 00s",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "MTV 80s",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Paramount Channel HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Paramount Comedy HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Nickelodeon HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Nick Jr.",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "KinoTV HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "KinoUjas HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "KinoHit",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Amedia Premium HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Amedia Hit HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11860,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Match! Arena HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Match! Igra HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Match! Boets",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Match! Strana",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Match! Futbol 1 HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Match! Futbol 2 HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Match! Futbol 3 HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Kino TV HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Kinosvidanie",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Kinosemya",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Kinopremiera HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Muzhskoe Kino HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Nashe Novoe Kino",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Rodnoe Kino",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "KinoMix",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "KinoKomediya",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "KinoSeriya",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Indijskoe Kino",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Zolotaia Kollektsia",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11920,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV1000 HD",
+          "Package": "Viasat",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "TV1000 Action HD",
+          "Package": "Viasat",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "TV1000 Russkoe Kino HD",
+          "Package": "Viasat",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Viasat Nature HD",
+          "Package": "Viasat",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Viasat History HD",
+          "Package": "Viasat",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Viasat Explore HD",
+          "Package": "Viasat",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Viasat Sport HD",
+          "Package": "Viasat",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Cinema HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Inspiritum",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Kino Jam 1 HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Kino Jam 2 HD",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12100,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Russkaya Komediya",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Kinoseria",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Zhivaya Planeta",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Nauka HD",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Moja Planeta",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Mult",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Katyusha",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Ani",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "History Russia",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Techno 24",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Doktor",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Strashnoe HD",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12160,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "THT (+4h)",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "STS (+4h)",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Ren TV (+4h)",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "TV-3 (+4h)",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Friday (+4h)",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Domashniy (+4h)",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Zvezda (+4h)",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Mir (+4h)",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "TNT4 (+4h)",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "2x2 (+4h)",
+          "Package": "MTS TV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12284,
+      "Polarization": "V",
+      "SymbolRateKs": 44000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Notes": "South Beam - India/Pakistan",
+      "Channels": [
+        {
+          "Name": "Indus News",
+          "Package": "ABS Asia",
+          "Languages": [
+            "eng"
+          ],
+          "IsFta": true,
+          "Type": "TV"
+        },
+        {
+          "Name": "92 News HD",
+          "Package": "ABS Asia",
+          "Languages": [
+            "urd"
+          ],
+          "IsFta": true,
+          "Type": "TV"
+        },
+        {
+          "Name": "Channel i",
+          "Package": "ABS Asia",
+          "Languages": [
+            "ben"
+          ],
+          "IsFta": true,
+          "Type": "TV"
+        },
+        {
+          "Name": "News24 Bangladesh",
+          "Package": "ABS Asia",
+          "Languages": [
+            "ben"
+          ],
+          "IsFta": true,
+          "Type": "TV"
+        },
+        {
+          "Name": "BTV World",
+          "Package": "BTV",
+          "Languages": [
+            "ben"
+          ],
+          "IsFta": true,
+          "Type": "TV"
+        },
+        {
+          "Name": "Sangeet Bangla",
+          "Package": "ABS Asia",
+          "Languages": [
+            "ben"
+          ],
+          "IsFta": true,
+          "Type": "TV"
+        },
+        {
+          "Name": "Ruposhi Bangla",
+          "Package": "ABS Asia",
+          "Languages": [
+            "ben"
+          ],
+          "IsFta": true,
+          "Type": "TV"
+        },
+        {
+          "Name": "Gaan Bangla",
+          "Package": "ABS Asia",
+          "Languages": [
+            "ben"
+          ],
+          "IsFta": true,
+          "Type": "TV"
+        },
+        {
+          "Name": "Duronto TV",
+          "Package": "ABS Asia",
+          "Languages": [
+            "ben"
+          ],
+          "IsFta": true,
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12344,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Notes": "South Beam - Sony Package",
+      "Channels": [
+        {
+          "Name": "Sony Yay!",
+          "Package": "Sony",
+          "Languages": [
+            "hin"
+          ],
+          "IsFta": false,
+          "Type": "TV"
+        },
+        {
+          "Name": "SET India HD",
+          "Package": "Sony",
+          "Languages": [
+            "hin"
+          ],
+          "IsFta": false,
+          "Type": "TV"
+        },
+        {
+          "Name": "Sony MAX HD",
+          "Package": "Sony",
+          "Languages": [
+            "hin"
+          ],
+          "IsFta": false,
+          "Type": "TV"
+        },
+        {
+          "Name": "Sony SAB HD",
+          "Package": "Sony",
+          "Languages": [
+            "hin"
+          ],
+          "IsFta": false,
+          "Type": "TV"
+        },
+        {
+          "Name": "Sony Ten 1 HD",
+          "Package": "Sony",
+          "Languages": [
+            "eng",
+            "hin"
+          ],
+          "IsFta": false,
+          "Type": "TV"
+        },
+        {
+          "Name": "Sony Pix HD",
+          "Package": "Sony",
+          "Languages": [
+            "eng"
+          ],
+          "IsFta": false,
+          "Type": "TV"
+        },
+        {
+          "Name": "Sony BBC Earth HD",
+          "Package": "Sony",
+          "Languages": [
+            "eng",
+            "hin"
+          ],
+          "IsFta": false,
+          "Type": "TV"
+        },
+        {
+          "Name": "Sony Ten 2 HD",
+          "Package": "Sony",
+          "Languages": [
+            "eng"
+          ],
+          "IsFta": false,
+          "Type": "TV"
+        },
+        {
+          "Name": "Sony MAX 2",
+          "Package": "Sony",
+          "Languages": [
+            "hin"
+          ],
+          "IsFta": false,
+          "Type": "TV"
+        },
+        {
+          "Name": "Sony Wah",
+          "Package": "Sony",
+          "Languages": [
+            "hin"
+          ],
+          "IsFta": false,
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12533,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Fashion TV Russia",
+          "IsFta": true,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "World Fashion Channel",
+          "IsFta": true,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Bridge TV Deluxe HD",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Bridge TV Classic",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Oruzhie",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Fenix+ Kino",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Russkiy Roman HD",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Bolshaya Aziya",
+          "IsFta": true,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Tavria",
+          "IsFta": true,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "VTV Belarus",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Kinoatlantika",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Zoo TV",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Eda HD",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Telekafe",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12593,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Auto 24",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Detskiy Mir",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Lubimoe Kino",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Mir Seriala",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Kinojam 1",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Kinojam 2",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "V gostiakh u skazki",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Multilandia",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Tiji",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Gulli Girl",
+          "Package": "STV",
+          "IsFta": false,
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12653,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Shanson TV",
+          "IsFta": true,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Leomax+",
+          "IsFta": true,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Shop Show",
+          "IsFta": true,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Juvelirochka",
+          "IsFta": true,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Gosteleradiofond",
+          "IsFta": true,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Eshche",
+          "IsFta": true,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Match! Futbol 1 HD",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Match! Futbol 2 HD",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Match! Futbol 3 HD",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "KinoSvidanie HD",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        },
+        {
+          "Name": "Box TV",
+          "IsFta": false,
+          "Package": "Unknown",
+          "Languages": [
+            "und"
+          ],
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12464,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Notes": "Asia Beam - Chinese Package",
+      "Channels": [
+        {
+          "Name": "CCTV 4",
+          "Languages": [
+            "zho"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "CCTV Entertainment",
+          "Languages": [
+            "zho"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "Hunan TV",
+          "Languages": [
+            "zho"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "Dragon TV",
+          "Languages": [
+            "zho"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "Zhejiang TV",
+          "Languages": [
+            "zho"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "Phoenix Chinese",
+          "Languages": [
+            "zho"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "Phoenix InfoNews",
+          "Languages": [
+            "zho"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3720,
+      "Polarization": "V",
+      "SymbolRateKs": 15000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Notes": "C-Band Global",
+      "Channels": [
+        {
+          "Name": "The Word Network",
+          "Languages": [
+            "eng"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "Daystar TV",
+          "Languages": [
+            "eng"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "Angel TV",
+          "Languages": [
+            "tam",
+            "eng"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "Hope TV India",
+          "Languages": [
+            "hin"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "Supreme Master TV",
+          "Languages": [
+            "multi"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "Smile of a Child",
+          "Languages": [
+            "eng"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3810,
+      "Polarization": "V",
+      "SymbolRateKs": 15000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Notes": "C-Band Global - News",
+      "Channels": [
+        {
+          "Name": "France 24 English HD",
+          "Languages": [
+            "eng"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "France 24 Français HD",
+          "Languages": [
+            "fra"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "France 24 Arabic",
+          "Languages": [
+            "ara"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "DW English HD",
+          "Languages": [
+            "eng"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "Arirang TV HD",
+          "Languages": [
+            "kor",
+            "eng"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "NHK World Japan HD",
+          "Languages": [
+            "eng"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3945,
+      "Polarization": "V",
+      "SymbolRateKs": 17000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Macao Lotus TV",
+          "Languages": [
+            "zho"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "Kung Fu TV",
+          "Languages": [
+            "zho"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "Sun TV",
+          "Languages": [
+            "zho"
+          ],
+          "IsFta": true,
+          "Package": "Unknown",
+          "Type": "TV"
+        },
+        {
+          "Name": "TVB News",
+          "Languages": [
+            "zho"
+          ],
+          "IsFta": false,
+          "Package": "Unknown",
+          "Type": "TV"
+        }
+      ]
+    }
+  ]
+}

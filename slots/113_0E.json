@@ -1,0 +1,219 @@
+{
+  "SlotKey": "113.0E",
+  "DisplayName": "Thaicom 6 / Thaicom 8",
+  "Transponders": [
+    {
+      "FrequencyMHz": 12200,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Thai PBS",
+          "Provider": "Thailand DTH",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Channel 3 Thailand",
+          "Provider": "Thailand DTH",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Channel 5 Thailand",
+          "Provider": "Thailand DTH",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Channel 7 Thailand",
+          "Provider": "Thailand DTH",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Workpoint TV",
+          "Provider": "Thailand DTH",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Amarin TV",
+          "Provider": "Thailand DTH",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TVK",
+          "Provider": "Cambodia DTH",
+          "Languages": [
+            "khm"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Bayon TV",
+          "Provider": "Cambodia DTH",
+          "Languages": [
+            "khm"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CTN",
+          "Provider": "Cambodia DTH",
+          "Languages": [
+            "khm"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Lao National TV",
+          "Provider": "Laos DTH",
+          "Languages": [
+            "lao"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Lao Star",
+          "Provider": "Laos DTH",
+          "Languages": [
+            "lao"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "True Sport HD",
+          "Provider": "TrueVisions",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "True Movie Hits",
+          "Provider": "TrueVisions",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "True Asian Series",
+          "Provider": "TrueVisions",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12236,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV5 Monde",
+          "Provider": "TV5 Monde",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "France 24",
+          "Provider": "France Médias Monde",
+          "Languages": [
+            "fra",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "DW Deutsch+",
+          "Provider": "Deutsche Welle",
+          "Languages": [
+            "deu"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Euronews",
+          "Provider": "Euronews",
+          "Languages": [
+            "eng",
+            "fra",
+            "deu"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NHK World",
+          "Provider": "NHK",
+          "Languages": [
+            "jpn",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CGTN",
+          "Provider": "CGTN",
+          "Languages": [
+            "zho",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Arirang TV",
+          "Provider": "KIBF",
+          "Languages": [
+            "kor",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}

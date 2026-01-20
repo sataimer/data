@@ -1,0 +1,195 @@
+{
+  "SlotKey": "77.0W",
+  "DisplayName": "Intelsat 34 / SES",
+  "Transponders": [
+    {
+      "FrequencyMHz": 12020,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Bolivia TV",
+          "Provider": "Bolivia TV",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ATB",
+          "Provider": "Bolivia DTH",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Red Uno",
+          "Provider": "Bolivia DTH",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Unitel",
+          "Provider": "Bolivia DTH",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "PAT",
+          "Provider": "Bolivia DTH",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV Perú",
+          "Provider": "IRTP",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Latina",
+          "Provider": "Peru DTH",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "América TV Perú",
+          "Provider": "Peru DTH",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Panamericana TV",
+          "Provider": "Peru DTH",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Chilevisión",
+          "Provider": "Chile DTH",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TVN Chile",
+          "Provider": "Chile DTH",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RT Español",
+          "Provider": "RT",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12056,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TeleSUR",
+          "Provider": "TeleSUR",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "France 24 Español",
+          "Provider": "France Médias Monde",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "DW Español",
+          "Provider": "Deutsche Welle",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CGTN Español",
+          "Provider": "CGTN",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV5 Monde",
+          "Provider": "TV5 Monde",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Movistar Deportes",
+          "Provider": "Movistar",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Movistar Series",
+          "Provider": "Movistar",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    }
+  ]
+}

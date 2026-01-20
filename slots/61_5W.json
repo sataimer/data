@@ -1,0 +1,150 @@
+{
+  "SlotKey": "61.5W",
+  "DisplayName": "EchoStar / Dish Network",
+  "Transponders": [
+    {
+      "FrequencyMHz": 12224,
+      "Polarization": "H",
+      "SymbolRateKs": 20000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Al Jazeera English",
+          "Provider": "Dish Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RT America",
+          "Provider": "Dish Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CGTN America",
+          "Provider": "Dish Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NHK World",
+          "Provider": "Dish Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV5 Monde",
+          "Provider": "Dish Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "France 24",
+          "Provider": "Dish Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DW Deutsch+",
+          "Provider": "Dish Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Univision",
+          "Provider": "Dish Network",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Telemundo",
+          "Provider": "Dish Network",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal Once",
+          "Provider": "Dish Network",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TeleSUR",
+          "Provider": "Dish Network",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Zee TV",
+          "Provider": "Dish Network",
+          "Languages": [
+            "hin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12260,
+      "Polarization": "V",
+      "SymbolRateKs": 20000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Zee Cinema",
+          "Provider": "Dish Network",
+          "Languages": [
+            "hin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sony TV Asia",
+          "Provider": "Dish Network",
+          "Languages": [
+            "hin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    }
+  ]
+}

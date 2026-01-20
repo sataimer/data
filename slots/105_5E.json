@@ -1,0 +1,409 @@
+{
+  "SlotKey": "105.5E",
+  "DisplayName": "AsiaSat 7",
+  "Transponders": [
+    {
+      "FrequencyMHz": 3740,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "CCTV-1",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CCTV-2",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CCTV-3",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CCTV-4",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CCTV-5",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CCTV-6",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CCTV-7",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CCTV-8",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CCTV-9 Documentary",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CCTV-10",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CCTV-11",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CCTV-12",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CCTV-13 News",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CCTV-14",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3780,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "CCTV-15",
+          "Provider": "CCTV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CGTN",
+          "Provider": "CGTN",
+          "Languages": [
+            "zho",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Phoenix Chinese Channel",
+          "Provider": "Phoenix TV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Phoenix InfoNews",
+          "Provider": "Phoenix TV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Phoenix Hong Kong Channel",
+          "Provider": "Phoenix TV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Hunan TV",
+          "Provider": "Provincial Satellite TV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Zhejiang TV",
+          "Provider": "Provincial Satellite TV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Jiangsu TV",
+          "Provider": "Provincial Satellite TV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Beijing TV",
+          "Provider": "Provincial Satellite TV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Shanghai Dragon TV",
+          "Provider": "Provincial Satellite TV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Guangdong TV",
+          "Provider": "Provincial Satellite TV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Shenzhen TV",
+          "Provider": "Provincial Satellite TV",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVB Jade Asia",
+          "Provider": "AsiaSat DTH",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVB Xing He",
+          "Provider": "AsiaSat DTH",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3820,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Now News",
+          "Provider": "AsiaSat DTH",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CTI Asia",
+          "Provider": "AsiaSat DTH",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVBS Asia",
+          "Provider": "AsiaSat DTH",
+          "Languages": [
+            "zho"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Arirang TV",
+          "Provider": "KIBF",
+          "Languages": [
+            "kor",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "KBS World",
+          "Provider": "KBS",
+          "Languages": [
+            "kor",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NHK World",
+          "Provider": "NHK",
+          "Languages": [
+            "jpn",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV5 Monde",
+          "Provider": "TV5 Monde",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "France 24",
+          "Provider": "France Médias Monde",
+          "Languages": [
+            "fra",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "DW Deutsch+",
+          "Provider": "Deutsche Welle",
+          "Languages": [
+            "deu"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Euronews",
+          "Provider": "Euronews",
+          "Languages": [
+            "eng",
+            "fra",
+            "deu"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Bloomberg TV Asia",
+          "Provider": "Bloomberg",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RT English",
+          "Provider": "RT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Channel NewsAsia",
+          "Provider": "Mediacorp",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}

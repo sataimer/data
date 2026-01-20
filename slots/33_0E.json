@@ -1,0 +1,225 @@
+{
+  "SlotKey": "33.0E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 11444,
+      "Polarization": "H",
+      "SymbolRateKs": 17500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "ERT World Europe",
+          "Package": "ERT",
+          "Languages": [ "ell" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ERT News",
+          "Package": "ERT",
+          "Languages": [ "ell" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Voice of Greece",
+          "Package": "ERT",
+          "Languages": [ "ell" ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ERA 1",
+          "Package": "ERT",
+          "Languages": [ "ell" ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ERA 2",
+          "Package": "ERT",
+          "Languages": [ "ell" ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ERA 3",
+          "Package": "ERT",
+          "Languages": [ "ell" ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Kosmos",
+          "Package": "ERT",
+          "Languages": [ "ell" ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Zeppelin",
+          "Package": "ERT",
+          "Languages": [ "ell" ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12597,
+      "Polarization": "V",
+      "SymbolRateKs": 10058,
+      "Fec": "25/36",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Notes": "Multistream Root ID 176",
+      "Channels": [
+        {
+          "Name": "TF1 HD",
+          "Package": "TF1",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TMC HD",
+          "Package": "TF1",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TFX HD",
+          "Package": "TF1",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "LCI HD",
+          "Package": "TF1",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TF1 Séries Films",
+          "Package": "TF1",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12621,
+      "Polarization": "V",
+      "SymbolRateKs": 10058,
+      "Fec": "25/36",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Notes": "Multistream Root ID 176",
+      "Channels": [
+        {
+          "Name": "M6 HD",
+          "Package": "M6",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "W9 HD",
+          "Package": "M6",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "6ter HD",
+          "Package": "M6",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Gulli HD",
+          "Package": "M6",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10982,
+      "Polarization": "V",
+      "SymbolRateKs": 6888,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Cine+ Premier",
+          "Package": "Canal+ France",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Planète+",
+          "Package": "Canal+ France",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal+ (Feeds)",
+          "Package": "Canal+",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12568,
+      "Polarization": "V",
+      "SymbolRateKs": 10058,
+      "Fec": "25/36",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "France 2 HD",
+          "Package": "France TV",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "France 3 HD",
+          "Package": "France TV",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "France 4 HD",
+          "Package": "France TV",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "France info: HD",
+          "Package": "France TV",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}

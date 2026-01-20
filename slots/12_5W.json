@@ -1,0 +1,155 @@
+{
+  "SlotKey": "12.5W",
+  "Transponders": [
+    {
+      "FrequencyMHz": 12718,
+      "Polarization": "H",
+      "SymbolRateKs": 36512,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Notes": "Multistream: Stream ID 33, 34, 35, 36 (Persidera Network)",
+      "Channels": [
+        {
+          "Name": "La7 HD",
+          "Package": "Persidera",
+          "Languages": [ "ita" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "La7d HD",
+          "Package": "Persidera",
+          "Languages": [ "ita" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Nove HD",
+          "Package": "Persidera",
+          "Languages": [ "ita" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Giallo",
+          "Package": "Persidera",
+          "Languages": [ "ita" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Super!",
+          "Package": "Persidera",
+          "Languages": [ "ita" ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12638,
+      "Polarization": "H",
+      "SymbolRateKs": 13980,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "KTO HD",
+          "Package": "Eutelsat",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Maria (Multi)",
+          "Package": "Eutelsat",
+          "Languages": [ "multi" ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11428,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "MS Motor TV",
+          "Package": "Eutelsat",
+          "Languages": [ "ita" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MS Channel",
+          "Package": "Eutelsat",
+          "Languages": [ "ita" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "BFC",
+          "Package": "Eutelsat",
+          "Languages": [ "ita" ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12515,
+      "Polarization": "H",
+      "SymbolRateKs": 17455,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Notes": "Multistream: Stream ID 1 (Eitowers/Mediaset)",
+      "Channels": [
+        {
+          "Name": "Canale 5",
+          "Package": "Mediaset",
+          "Languages": [ "ita" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Italia 1",
+          "Package": "Mediaset",
+          "Languages": [ "ita" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rete 4",
+          "Package": "Mediaset",
+          "Languages": [ "ita" ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TGCOM24",
+          "Package": "Mediaset",
+          "Languages": [ "ita" ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12544,
+      "Polarization": "H",
+      "SymbolRateKs": 34290,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Notes": "Professional Data/IP Encapsulation",
+      "Channels": []
+    }
+  ]
+}

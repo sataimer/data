@@ -1,0 +1,798 @@
+{
+  "SlotKey": "132.0E",
+  "DisplayName": "Vinasat 1 / Vinasat 2",
+  "Transponders": [
+    {
+      "FrequencyMHz": 10968,
+      "Polarization": "H",
+      "SymbolRateKs": 28800,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "VTV1",
+          "Provider": "VTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VTV2",
+          "Provider": "VTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VTV3",
+          "Provider": "VTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VTV4",
+          "Provider": "VTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VTV5",
+          "Provider": "VTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VTV7",
+          "Provider": "VTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VTV8",
+          "Provider": "VTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VTV9",
+          "Provider": "VTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VTC1",
+          "Provider": "VTC",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VTC3",
+          "Provider": "VTC",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VTC9",
+          "Provider": "VTC",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VTC10",
+          "Provider": "VTC",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VTC14",
+          "Provider": "VTC",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VTC16",
+          "Provider": "VTC",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "HTV1",
+          "Provider": "HTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11004,
+      "Polarization": "V",
+      "SymbolRateKs": 28800,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "HTV2",
+          "Provider": "HTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "HTV3",
+          "Provider": "HTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "HTV7",
+          "Provider": "HTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "HTV9",
+          "Provider": "HTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "HTV Thuan Viet",
+          "Provider": "HTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "HTV Key",
+          "Provider": "HTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ha Noi TV1",
+          "Provider": "Ha Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ha Noi TV2",
+          "Provider": "Ha Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Hai Phong TV",
+          "Provider": "Hai Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Hai Phong TV3",
+          "Provider": "Hai Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Quang Ninh TV1",
+          "Provider": "Quang Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Quang Ninh TV3",
+          "Provider": "Quang Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Bac Ninh TV",
+          "Provider": "Bac Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Thai Nguyen TV",
+          "Provider": "Thai Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Phu Tho TV",
+          "Provider": "Phu Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11040,
+      "Polarization": "H",
+      "SymbolRateKs": 28800,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Thanh Hoa TV",
+          "Provider": "Thanh Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Nghe An TV",
+          "Provider": "Nghe Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ha Tinh TV",
+          "Provider": "Ha Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Quang Binh TV",
+          "Provider": "Quang Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Quang Tri TV",
+          "Provider": "Quang Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Hue TV",
+          "Provider": "Hue Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Da Nang TV",
+          "Provider": "Da Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Quang Ngai TV",
+          "Provider": "Quang Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Binh Dinh TV",
+          "Provider": "Binh Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Gia Lai TV",
+          "Provider": "Gia Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Dak Lak TV",
+          "Provider": "Dak Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Khanh Hoa TV",
+          "Provider": "Khanh Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Lam Dong TV1",
+          "Provider": "Lam Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Lam Dong TV2",
+          "Provider": "Lam Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Dong Nai TV1",
+          "Provider": "Dong Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11076,
+      "Polarization": "V",
+      "SymbolRateKs": 28800,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Dong Nai TV2",
+          "Provider": "Dong Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Binh Duong TV1",
+          "Provider": "Binh Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Binh Duong TV2",
+          "Provider": "Binh Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "An Giang TV1",
+          "Provider": "An Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "An Giang TV2",
+          "Provider": "An Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Vinh Long TV1",
+          "Provider": "Vinh Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Vinh Long TV2",
+          "Provider": "Vinh Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Can Tho TV",
+          "Provider": "Can Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Soc Trang TV",
+          "Provider": "Soc Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ca Mau TV",
+          "Provider": "Ca Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Bac Lieu TV",
+          "Provider": "Bac Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kien Giang TV",
+          "Provider": "Kien Broadcasting",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ANTV",
+          "Provider": "ANTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "QPVN",
+          "Provider": "QPVN",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VOV TV",
+          "Provider": "VOV TV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11112,
+      "Polarization": "H",
+      "SymbolRateKs": 28800,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Quoc Hoi TV",
+          "Provider": "Quoc Hoi TV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Vietnam Journey",
+          "Provider": "Vietnam Journey",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Info TV",
+          "Provider": "Info TV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "K+1",
+          "Provider": "K+ (Canal+ Vietnam)",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "K+PM",
+          "Provider": "K+ (Canal+ Vietnam)",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "K+NS",
+          "Provider": "K+ (Canal+ Vietnam)",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "K+PC",
+          "Provider": "K+ (Canal+ Vietnam)",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "K+Kids",
+          "Provider": "K+ (Canal+ Vietnam)",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "K+Cinema",
+          "Provider": "K+ (Canal+ Vietnam)",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "K+Life",
+          "Provider": "K+ (Canal+ Vietnam)",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV5 Monde",
+          "Provider": "TV5 Monde",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "France 24",
+          "Provider": "France Médias Monde",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "France 24 English",
+          "Provider": "France Médias Monde",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "DW Deutsch+",
+          "Provider": "Deutsche Welle",
+          "Languages": [
+            "deu"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Euronews",
+          "Provider": "Euronews",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11148,
+      "Polarization": "V",
+      "SymbolRateKs": 28800,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "NHK World",
+          "Provider": "NHK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CGTN",
+          "Provider": "CGTN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Arirang TV",
+          "Provider": "KIBF",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "KBS World",
+          "Provider": "KBS",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RT English",
+          "Provider": "RT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Bloomberg TV",
+          "Provider": "Bloomberg",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CNA",
+          "Provider": "Mediacorp",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}

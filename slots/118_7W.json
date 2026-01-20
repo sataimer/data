@@ -1,0 +1,158 @@
+{
+  "SlotKey": "118.7W",
+  "DisplayName": "Anik F3",
+  "Transponders": [
+    {
+      "FrequencyMHz": 11758,
+      "Polarization": "V",
+      "SymbolRateKs": 21500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Al Jazeera English",
+          "Provider": "Dish Network",
+          "Languages": [ "eng" ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Al Arabiya",
+          "Provider": "Dish Network",
+          "Languages": [ "ara" ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RT Arabic",
+          "Provider": "Dish Network",
+          "Languages": [ "ara" ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11836,
+      "Polarization": "H",
+      "SymbolRateKs": 21500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "CCTV-4",
+          "Provider": "Dish Network",
+          "Languages": [ "zho" ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CGTN",
+          "Provider": "Dish Network",
+          "Languages": [ "zho" ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NHK World",
+          "Provider": "Dish Network",
+          "Languages": [ "jpn", "eng" ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11941,
+      "Polarization": "V",
+      "SymbolRateKs": 21500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "VTV4",
+          "Provider": "Dish Network",
+          "Languages": [ "vie" ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV5 Monde Asie",
+          "Provider": "Dish Network",
+          "Languages": [ "fra" ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Arirang TV",
+          "Provider": "Dish Network",
+          "Languages": [ "kor", "eng" ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12093,
+      "Polarization": "V",
+      "SymbolRateKs": 21500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Zee TV",
+          "Provider": "Dish Network",
+          "Languages": [ "hin" ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Zee Cinema",
+          "Provider": "Dish Network",
+          "Languages": [ "hin" ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "B4U Movies",
+          "Provider": "Dish Network",
+          "Languages": [ "hin" ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12154,
+      "Polarization": "H",
+      "SymbolRateKs": 21500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Radio Zee",
+          "Provider": "Dish Network",
+          "Languages": [ "hin" ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Radio Punjab",
+          "Provider": "Dish Network",
+          "Languages": [ "pan" ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Dish Network Service",
+          "Provider": "Dish Network"
+        }
+      ]
+    }
+  ]
+}

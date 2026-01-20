@@ -1,0 +1,193 @@
+{
+  "SlotKey": "152.0E",
+  "DisplayName": "JCSAT / Superbird",
+  "Transponders": [
+    {
+      "FrequencyMHz": 12300,
+      "Polarization": "H",
+      "SymbolRateKs": 28800,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "NHK General TV",
+          "Provider": "NHK",
+          "Languages": [
+            "jpn"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NHK Educational TV",
+          "Provider": "NHK",
+          "Languages": [
+            "jpn"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NHK World",
+          "Provider": "NHK",
+          "Languages": [
+            "jpn",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Nippon TV",
+          "Provider": "Nippon TV Network",
+          "Languages": [
+            "jpn"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV Asahi",
+          "Provider": "TV Asahi",
+          "Languages": [
+            "jpn"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TBS",
+          "Provider": "Tokyo Broadcasting System",
+          "Languages": [
+            "jpn"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Fuji TV",
+          "Provider": "Fuji Television Network",
+          "Languages": [
+            "jpn"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV Tokyo",
+          "Provider": "TV Tokyo",
+          "Languages": [
+            "jpn"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "WOWOW Prime",
+          "Provider": "WOWOW",
+          "Languages": [
+            "jpn"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "WOWOW Live",
+          "Provider": "WOWOW",
+          "Languages": [
+            "jpn"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "WOWOW Cinema",
+          "Provider": "WOWOW",
+          "Languages": [
+            "jpn"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "KBS World",
+          "Provider": "KBS",
+          "Languages": [
+            "kor",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Arirang TV",
+          "Provider": "KIBF",
+          "Languages": [
+            "kor",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV5 Monde",
+          "Provider": "TV5 Monde",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12336,
+      "Polarization": "V",
+      "SymbolRateKs": 28800,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "France 24",
+          "Provider": "France Médias Monde",
+          "Languages": [
+            "fra",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "DW Deutsch+",
+          "Provider": "Deutsche Welle",
+          "Languages": [
+            "deu"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Euronews",
+          "Provider": "Euronews",
+          "Languages": [
+            "eng",
+            "fra",
+            "deu"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CGTN",
+          "Provider": "CGTN",
+          "Languages": [
+            "zho",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}
