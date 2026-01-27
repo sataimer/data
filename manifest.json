@@ -1,6 +1,6 @@
 {
   "tv_satellites": {
-    "version": 2,
+    "version": 3,
     "file": "tv_satellites.json"
   }
 }
