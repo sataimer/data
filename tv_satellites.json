@@ -132,7 +132,7 @@
   {
     "Slot": "0.8W",
     "DisplayName": "Thor 5 / 6 / 7",
-    "IsFree": false
+    "IsFree": true
   },
   {
     "Slot": "1.9E",
