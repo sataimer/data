@@ -345,6 +345,11 @@
     "IsFree": false
   },
   {
+  "Slot": "93.5E",
+  "DisplayName": "GSAT-30 / GSAT-15",
+  "IsFree": true
+  },
+  {
     "Slot": "105.5E",
     "DisplayName": "AsiaSat 7",
     "IsFree": true
