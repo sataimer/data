@@ -1,0 +1,68 @@
+{
+  "SlotKey": "93.5E",
+  "DisplayName": "GSAT-30 / GSAT-15",
+  "Transponders": [
+    {
+      "FrequencyMHz": 3925,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "DD Bangla",
+          "Provider": "Doordarshan",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "DD Tamil",
+          "Provider": "Doordarshan",
+          "Languages": ["tam"],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "DD Yadagiri",
+          "Provider": "Doordarshan",
+          "Languages": ["tel"],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3965,
+      "Polarization": "H",
+      "SymbolRateKs": 2900,
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "DD Odia",
+          "Provider": "Doordarshan",
+          "Languages": ["ori"],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3988,
+      "Polarization": "H",
+      "SymbolRateKs": 2900,
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "DD Malayalam",
+          "Provider": "Doordarshan",
+          "Languages": ["mal"],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}
