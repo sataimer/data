@@ -355,6 +355,11 @@
     "IsFree": false
   },
   {
+  "Slot": "119.1E",
+  "DisplayName": "Bangladesh Satellite-1 (BS-1)",
+  "IsFree": false
+  },
+  {
     "Slot": "132.0E",
     "DisplayName": "Vinasat 2",
     "IsFree": true
