@@ -1,0 +1,168 @@
+{
+  "SlotKey": "119.1E",
+  "DisplayName": "Bangladesh Satellite-1",
+  "Transponders": [
+    {
+      "FrequencyMHz": 4600,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "ATN Bangla",
+          "Provider": "Bangladesh Satellite Company",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bangla TV",
+          "Provider": "Bangladesh Satellite Company",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BanglaVision",
+          "Provider": "Bangladesh Satellite Company",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Channel I",
+          "Provider": "Bangladesh Satellite Company",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Ekattor TV",
+          "Provider": "Bangladesh Satellite Company",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NTV",
+          "Provider": "Bangladesh Satellite Company",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DBC News",
+          "Provider": "Bangladesh Satellite Company",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "News24",
+          "Provider": "Bangladesh Satellite Company",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4680,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "T Sports",
+          "Provider": "Bangladesh Satellite Company",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nexus TV",
+          "Provider": "Bangladesh Satellite Company",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Channel 24",
+          "Provider": "Bangladesh Satellite Company",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Global TV",
+          "Provider": "Bangladesh Satellite Company",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Madani Channel Bangla",
+          "Provider": "Madani Media",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4625,
+      "Polarization": "H",
+      "SymbolRateKs": 4800,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Gazi TV",
+          "Provider": "Gazi Group",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4660,
+      "Polarization": "V",
+      "SymbolRateKs": 17500,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "BTV National",
+          "Provider": "Bangladesh Television",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "BTV Chattogram",
+          "Provider": "Bangladesh Television",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "BTV News",
+          "Provider": "Bangladesh Television",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Sangsad TV",
+          "Provider": "Bangladesh Parliament",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}
