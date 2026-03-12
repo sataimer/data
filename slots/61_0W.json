@@ -1,0 +1,199 @@
+{
+  "SlotKey": "61.0W",
+  "DisplayName": "Amazonas 2 / 3 / 5",
+  "Transponders": [
+    {
+      "FrequencyMHz": 4172,
+      "Polarization": "V",
+      "SymbolRateKs": 1678,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "ABC TV",
+          "Provider": "ABC TV Paraguay",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ABC AM 730",
+          "Provider": "ABC Paraguay",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4177,
+      "Polarization": "H",
+      "SymbolRateKs": 3750,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV Sim",
+          "Provider": "TV Sim",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4195,
+      "Polarization": "V",
+      "SymbolRateKs": 4166,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "TV ALESP",
+          "Provider": "TV ALESP",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV ALESP",
+          "Provider": "TV ALESP",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10728,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "TV+",
+          "Provider": "Tuves",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tuves info card",
+          "Provider": "Tuves",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tuves info card",
+          "Provider": "Tuves",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tuves info card",
+          "Provider": "Tuves",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10728,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11222,
+      "Polarization": "H",
+      "SymbolRateKs": 28888,
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "TV Perú",
+          "Provider": "Tuves",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Movistar info card",
+          "Provider": "Tuves",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNT test card",
+          "Provider": "Tuves",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11342,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11382,
+      "Polarization": "H",
+      "SymbolRateKs": 28888,
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "EWTN España - Latinoamérica",
+          "Provider": "Tuves",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11422,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    }
+  ]
+}
