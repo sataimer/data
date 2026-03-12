@@ -1,0 +1,246 @@
+{
+  "SlotKey": "78.5E",
+  "DisplayName": "Thaicom 6 / Thaicom 8",
+  "Transponders": [
+    {
+      "FrequencyMHz": 3823,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "BBTV Channel 7",
+          "Provider": "BBTV",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3838,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "BBTV Channel 7",
+          "Provider": "BBTV",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3880,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "STOU Channel",
+          "Provider": "PSI",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Boonniyom TV",
+          "Provider": "PSI",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Yateem TV",
+          "Provider": "PSI",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "White Channel",
+          "Provider": "PSI",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Police Radio",
+          "Provider": "PSI",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Siangdham Radio",
+          "Provider": "PSI",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "MCOT Sukhothai FM",
+          "Provider": "PSI",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Maxagro Radio",
+          "Provider": "PSI",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3920,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3970,
+      "Polarization": "H",
+      "SymbolRateKs": 11664,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "T Sports 7",
+          "Provider": "MCOT",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TP Channel",
+          "Provider": "MCOT",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MCOT HD",
+          "Provider": "MCOT",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Thairath TV 32",
+          "Provider": "MCOT",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4008,
+      "Polarization": "H",
+      "SymbolRateKs": 15000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4034,
+      "Polarization": "H",
+      "SymbolRateKs": 19200,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "VTV 1",
+          "Provider": "VTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "VTV 4",
+          "Provider": "VTV",
+          "Languages": [
+            "vie"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12343,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "MV Mall Healthy",
+          "Provider": "PSI",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MV TV Channel",
+          "Provider": "PSI",
+          "Languages": [
+            "tha"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12604,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    }
+  ]
+}
