@@ -1,0 +1,364 @@
+{
+  "SlotKey": "101.0W",
+  "DisplayName": "SES-1",
+  "Transponders": [
+    {
+      "FrequencyMHz": 4005,
+      "Polarization": "V",
+      "SymbolRateKs": 4442,
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Daystar TV",
+          "Provider": "Daystar",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4020,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "HGTV East",
+          "Provider": "Warner Bros. Discovery",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Food Network East",
+          "Provider": "Warner Bros. Discovery",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Magnolia Network East",
+          "Provider": "Warner Bros. Discovery",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cooking Channel",
+          "Provider": "Warner Bros. Discovery",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Travel Channel East",
+          "Provider": "Warner Bros. Discovery",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HGTV West",
+          "Provider": "Warner Bros. Discovery",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Food Network West",
+          "Provider": "Warner Bros. Discovery",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Travel Channel West",
+          "Provider": "Warner Bros. Discovery",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Great American Family",
+          "Provider": "Warner Bros. Discovery",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Magnolia Network West",
+          "Provider": "Warner Bros. Discovery",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "test card",
+          "Provider": "Warner Bros. Discovery",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4048,
+      "Polarization": "V",
+      "SymbolRateKs": 15800,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Hallmark Channel East",
+          "Provider": "Hallmark",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hallmark Channel West",
+          "Provider": "Hallmark",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hallmark Mystery East",
+          "Provider": "Hallmark",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hallmark Mystery West",
+          "Provider": "Hallmark",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hallmark Family",
+          "Provider": "Hallmark",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Racer",
+          "Provider": "Hallmark",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Gol TV",
+          "Provider": "Hallmark",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4060,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "MGM+ East",
+          "Provider": "Paramount Domestic Media Networks",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MGM+ West",
+          "Provider": "Paramount Domestic Media Networks",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MGM+ Hits",
+          "Provider": "Paramount Domestic Media Networks",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MGM+ Marquee",
+          "Provider": "Paramount Domestic Media Networks",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MGM+ Drive-In",
+          "Provider": "Paramount Domestic Media Networks",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4140,
+      "Polarization": "H",
+      "SymbolRateKs": 29268,
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Jewelry TV",
+          "Provider": "Jewelry TV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Jewelry TV",
+          "Provider": "Jewelry TV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Jewelry TV 2",
+          "Provider": "Jewelry TV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Jewelry TV",
+          "Provider": "Jewelry TV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Jewelry TV Español",
+          "Provider": "Jewelry TV",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4160,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Peacock test card",
+          "Provider": "Versant",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "USA Network East",
+          "Provider": "Versant",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Syfy East",
+          "Provider": "Versant",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Golf Channel US",
+          "Provider": "Versant",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Oxygen True Crime East",
+          "Provider": "Versant",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    }
+  ]
+}
