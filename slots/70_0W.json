@@ -1,0 +1,366 @@
+{
+  "SlotKey": "70.0W",
+  "DisplayName": "Star One C4 / Star One D2",
+  "Transponders": [
+    {
+      "FrequencyMHz": 3959,
+      "Polarization": "H",
+      "SymbolRateKs": 1875,
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "SBN International",
+          "Provider": "SBN International",
+          "Languages": [
+            "spa"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3965,
+      "Polarization": "H",
+      "SymbolRateKs": 7500,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV Mirante São Luís",
+          "Provider": "TV Mirante São Luís",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Educação MA",
+          "Provider": "TV Educação MA",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3974,
+      "Polarization": "V",
+      "SymbolRateKs": 3333,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Canal do Criador",
+          "Provider": "Canal do Criador",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3975,
+      "Polarization": "H",
+      "SymbolRateKs": 3750,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rede Século 21",
+          "Provider": "Rede Século 21",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rede Século 21 Educa",
+          "Provider": "Rede Século 21",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3993,
+      "Polarization": "H",
+      "SymbolRateKs": 12416,
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Canal do Boi",
+          "Provider": "SBA",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "AgroCanal",
+          "Provider": "SBA",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canal do Boi",
+          "Provider": "SBA",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "AgroCanal",
+          "Provider": "SBA",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4026,
+      "Polarization": "V",
+      "SymbolRateKs": 7140,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "SBT Rede 1",
+          "Provider": "SBT",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SBT Rede 1",
+          "Provider": "SBT",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4045,
+      "Polarization": "H",
+      "SymbolRateKs": 7500,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV Liberal",
+          "Provider": "TV Liberal",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Educativa do Pará",
+          "Provider": "TV Educativa do Pará",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rádio Liberal FM",
+          "Provider": "TV Liberal",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "Lib Music",
+          "Provider": "TV Liberal",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "O Liberal CBN",
+          "Provider": "TV Liberal",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4047,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "NSC TV Florianópolis",
+          "Provider": "NSC",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rádio Atlântida Joinville",
+          "Provider": "NSC",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        },
+        {
+          "Name": "CBN Floripa",
+          "Provider": "NSC",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4052,
+      "Polarization": "H",
+      "SymbolRateKs": 3734,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record News",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4056,
+      "Polarization": "H",
+      "SymbolRateKs": 3750,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV Paraná Turismo",
+          "Provider": "TV Paraná Turismo",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4104,
+      "Polarization": "H",
+      "SymbolRateKs": 4800,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "TV Pai Eterno",
+          "Provider": "TV Pai Eterno",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4105,
+      "Polarization": "V",
+      "SymbolRateKs": 3200,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV Verdade",
+          "Provider": "TV Verdade",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4110,
+      "Polarization": "V",
+      "SymbolRateKs": 5000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rede Amazônica Porto Velho",
+          "Provider": "Rede Amazônica",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4115,
+      "Polarization": "V",
+      "SymbolRateKs": 5000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rede Vida",
+          "Provider": "Rede Vida",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}
