@@ -1,0 +1,411 @@
+{
+  "SlotKey": "65.0W",
+  "DisplayName": "Star One C2 / Eutelsat 65 West A",
+  "Transponders": [
+    {
+      "FrequencyMHz": 4510,
+      "Polarization": "V",
+      "SymbolRateKs": 2083,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV Assembleia Paraná",
+          "Provider": "TV Assembleia Paraná",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4511,
+      "Polarization": "H",
+      "SymbolRateKs": 3750,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record Cabrália",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4516,
+      "Polarization": "H",
+      "SymbolRateKs": 3750,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record Interior SP",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4521,
+      "Polarization": "H",
+      "SymbolRateKs": 3730,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record Rio Preto",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4531,
+      "Polarization": "H",
+      "SymbolRateKs": 3750,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record Paulista",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4536,
+      "Polarization": "H",
+      "SymbolRateKs": 3847,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "VTV",
+          "Provider": "VTV",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4541,
+      "Polarization": "H",
+      "SymbolRateKs": 1836,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Play TV",
+          "Provider": "Play TV",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4549,
+      "Polarization": "H",
+      "SymbolRateKs": 3750,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record Interior RJ",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4555,
+      "Polarization": "H",
+      "SymbolRateKs": 4780,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record Rio",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4556,
+      "Polarization": "V",
+      "SymbolRateKs": 2082,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "NCN TV",
+          "Provider": "NCN TV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Guyana Learning Channel",
+          "Provider": "Guyana Learning Channel",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Voice of Guyana",
+          "Provider": "Voice of Guyana",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4566,
+      "Polarization": "H",
+      "SymbolRateKs": 5083,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV Cachoeira",
+          "Provider": "TV Cachoeira",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4573,
+      "Polarization": "H",
+      "SymbolRateKs": 4780,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record Minas",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4583,
+      "Polarization": "H",
+      "SymbolRateKs": 4780,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record News",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4589,
+      "Polarization": "H",
+      "SymbolRateKs": 4780,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record Goiás",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4595,
+      "Polarization": "H",
+      "SymbolRateKs": 4780,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record RS",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4601,
+      "Polarization": "H",
+      "SymbolRateKs": 4780,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record Bahia",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4708,
+      "Polarization": "H",
+      "SymbolRateKs": 5000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record Nacional",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4721,
+      "Polarization": "H",
+      "SymbolRateKs": 10000,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TVE Bahia",
+          "Provider": "Bahia",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Educa Bahia",
+          "Provider": "Bahia",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Emitec 1",
+          "Provider": "Bahia",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Emitec 2",
+          "Provider": "Bahia",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Emitec 3",
+          "Provider": "Bahia",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Educadora FM",
+          "Provider": "Bahia",
+          "Languages": [
+            "por"
+          ],
+          "Type": "Radio",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4750,
+      "Polarization": "H",
+      "SymbolRateKs": 3730,
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Record Litoral e Vale",
+          "Provider": "Record",
+          "Languages": [
+            "por"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}
