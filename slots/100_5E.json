@@ -1,0 +1,112 @@
+{
+  "SlotKey": "100.5E",
+  "DisplayName": "AsiaSat 5",
+  "Transponders": [
+    {
+      "FrequencyMHz": 3606,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3636,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3645,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3652,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3655,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3666,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3670,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3686,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4080,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Angel TV India",
+          "Provider": "AsiaSat 5",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12515,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12522,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12542,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    }
+  ]
+}
