@@ -1,5 +1,5 @@
 [
-  { "Slot": "166.0E", "DisplayName": "Intelsat 19", "IsFree": true },
+  { "Slot": "166.0E", "DisplayName": "intelsat 19", "IsFree": true },
   { "Slot": "152.0E", "DisplayName": "Optus D2", "IsFree": true },
   { "Slot": "132.0E", "DisplayName": "Vinasat 2", "IsFree": true },
   { "Slot": "119.1E", "DisplayName": "Bangladesh Satellite-1 (BS-1)", "IsFree": false },
