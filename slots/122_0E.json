@@ -1,1 +1,63 @@
-
+{
+  "SlotKey": "122.0E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 11490,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "MY TV Broadcasting",
+          "Package": "MYTV",
+          "Languages": ["msa"],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12336,
+      "Polarization": "V",
+      "SymbolRateKs": 13000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "NTV (+7h)",
+          "Package": "Russia TV",
+          "Languages": ["rus"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTR Planeta",
+          "Package": "VGTRK",
+          "Languages": ["rus"],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3724,
+      "Polarization": "V",
+      "SymbolRateKs": 3750,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "NBT World Feed",
+          "Package": "Thai TV",
+          "Languages": ["tha"],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    }
+  ]
+}
