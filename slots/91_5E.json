@@ -3,6 +3,47 @@
   "DisplayName": "Measat 3 / 3A / 3B",
   "Transponders": [
     {
+      "FrequencyMHz": 10732,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Astro Awani",
+          "Provider": "Astro",
+          "Languages": ["msa"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Astro Ria",
+          "Provider": "Astro",
+          "Languages": ["msa"],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10982,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Astro Prima",
+          "Provider": "Astro",
+          "Languages": ["msa"],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
       "FrequencyMHz": 12400,
       "Polarization": "H",
       "SymbolRateKs": 30000,
@@ -12,126 +53,77 @@
         {
           "Name": "TV1",
           "Provider": "Malaysia DTH",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "TV2",
           "Provider": "Malaysia DTH",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "TV3",
           "Provider": "Malaysia DTH",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "NTV7",
           "Provider": "Malaysia DTH",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "8TV",
           "Provider": "Malaysia DTH",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "TV9",
           "Provider": "Malaysia DTH",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "RTM Sports",
           "Provider": "Malaysia DTH",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Bernama TV",
           "Provider": "Malaysia DTH",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "Astro Ria",
-          "Provider": "Astro",
-          "Languages": [
-            "msa"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Astro Prima",
-          "Provider": "Astro",
-          "Languages": [
-            "msa"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Astro Oasis",
           "Provider": "Astro",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Astro Citra",
           "Provider": "Astro",
-          "Languages": [
-            "msa"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Astro Awani",
-          "Provider": "Astro",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Astro Arena",
           "Provider": "Astro",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": false
         }
@@ -147,126 +139,98 @@
         {
           "Name": "Astro Arena 2",
           "Provider": "Astro",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Astro Ceria",
           "Provider": "Astro",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Astro Vaanavil",
           "Provider": "Astro",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Astro Vinmeen",
           "Provider": "Astro",
-          "Languages": [
-            "msa"
-          ],
+          "Languages": ["msa"],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "RCTI",
           "Provider": "Indonesia DTH",
-          "Languages": [
-            "ind"
-          ],
+          "Languages": ["ind"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "SCTV",
           "Provider": "Indonesia DTH",
-          "Languages": [
-            "ind"
-          ],
+          "Languages": ["ind"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Indosiar",
           "Provider": "Indonesia DTH",
-          "Languages": [
-            "ind"
-          ],
+          "Languages": ["ind"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "MNCTV",
           "Provider": "Indonesia DTH",
-          "Languages": [
-            "ind"
-          ],
+          "Languages": ["ind"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "GTV",
           "Provider": "Indonesia DTH",
-          "Languages": [
-            "ind"
-          ],
+          "Languages": ["ind"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Trans TV",
           "Provider": "Indonesia DTH",
-          "Languages": [
-            "ind"
-          ],
+          "Languages": ["ind"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Trans7",
           "Provider": "Indonesia DTH",
-          "Languages": [
-            "ind"
-          ],
+          "Languages": ["ind"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "TV One",
           "Provider": "Indonesia DTH",
-          "Languages": [
-            "ind"
-          ],
+          "Languages": ["ind"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Metro TV",
           "Provider": "Indonesia DTH",
-          "Languages": [
-            "ind"
-          ],
+          "Languages": ["ind"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Thai PBS",
           "Provider": "Thailand DTH",
-          "Languages": [
-            "tha"
-          ],
+          "Languages": ["tha"],
           "Type": "TV",
           "IsFta": true
         }
@@ -282,105 +246,77 @@
         {
           "Name": "Channel 3 Thailand",
           "Provider": "Thailand DTH",
-          "Languages": [
-            "tha"
-          ],
+          "Languages": ["tha"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Channel 7 Thailand",
           "Provider": "Thailand DTH",
-          "Languages": [
-            "tha"
-          ],
+          "Languages": ["tha"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Workpoint TV",
           "Provider": "Thailand DTH",
-          "Languages": [
-            "tha"
-          ],
+          "Languages": ["tha"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "TV5 Monde",
           "Provider": "TV5 Monde",
-          "Languages": [
-            "fra"
-          ],
+          "Languages": ["fra"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "France 24",
           "Provider": "France Médias Monde",
-          "Languages": [
-            "fra",
-            "eng"
-          ],
+          "Languages": ["fra", "eng"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "DW Deutsch+",
           "Provider": "Deutsche Welle",
-          "Languages": [
-            "deu"
-          ],
+          "Languages": ["deu"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Euronews",
           "Provider": "Euronews",
-          "Languages": [
-            "eng",
-            "fra",
-            "deu"
-          ],
+          "Languages": ["eng", "fra", "deu"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "NHK World",
           "Provider": "NHK",
-          "Languages": [
-            "jpn",
-            "eng"
-          ],
+          "Languages": ["jpn", "eng"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "CGTN",
           "Provider": "CGTN",
-          "Languages": [
-            "zho",
-            "eng"
-          ],
+          "Languages": ["zho", "eng"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Arirang TV",
           "Provider": "KIBF",
-          "Languages": [
-            "kor",
-            "eng"
-          ],
+          "Languages": ["kor", "eng"],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Channel NewsAsia",
           "Provider": "Mediacorp",
-          "Languages": [
-            "eng"
-          ],
+          "Languages": ["eng"],
           "Type": "TV",
           "IsFta": true
         }
