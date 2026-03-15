@@ -3,6 +3,30 @@
   "DisplayName": "SES 7 / SES 9",
   "Transponders": [
     {
+      "FrequencyMHz": 11480,
+      "Polarization": "V",
+      "SymbolRateKs": 28800,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Colors Gujarati",
+          "Provider": "Airtel",
+          "Languages": ["guj"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rang",
+          "Provider": "Airtel",
+          "Languages": ["asm"],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
       "FrequencyMHz": 11680,
       "Polarization": "V",
       "SymbolRateKs": 32720,
@@ -12,36 +36,28 @@
         {
           "Name": "Mirror Now",
           "Provider": "Airtel",
-          "Languages": [
-            "eng"
-          ],
+          "Languages": ["eng"],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Dharm Sandesh",
           "Provider": "Airtel",
-          "Languages": [
-            "hin"
-          ],
+          "Languages": ["hin"],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Colors Kannada",
           "Provider": "Airtel",
-          "Languages": [
-            "kan"
-          ],
+          "Languages": ["kan"],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Colors Bangla",
           "Provider": "Airtel",
-          "Languages": [
-            "ben"
-          ],
+          "Languages": ["ben"],
           "Type": "TV",
           "IsFta": false
         },
@@ -64,257 +80,14 @@
         {
           "Name": "Star Sports 1 Telugu",
           "Provider": "Airtel",
-          "Languages": [
-            "tel"
-          ],
+          "Languages": ["tel"],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "ABP Asmita",
           "Provider": "Airtel",
-          "Languages": [
-            "guj"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12341,
-      "Polarization": "V",
-      "SymbolRateKs": 44920,
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Raj News Kannada",
-          "Provider": "Airtel",
-          "Languages": [
-            "kan"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Raj News Telugu",
-          "Provider": "Airtel",
-          "Languages": [
-            "tel"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Raj Musix Telugu",
-          "Provider": "Airtel",
-          "Languages": [
-            "tel"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Raj News Malayalam",
-          "Provider": "Airtel",
-          "Languages": [
-            "mal"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Raj News",
-          "Provider": "Airtel",
-          "Languages": [
-            "tam"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Raj Musix Tamil",
-          "Provider": "Airtel",
-          "Languages": [
-            "tam"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Vissa",
-          "Provider": "Airtel",
-          "Languages": [
-            "tel"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Zee Classic",
-          "Provider": "Airtel",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "DD Meghalaya",
-          "Provider": "Airtel",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Bol Hadippa",
-          "Provider": "Airtel",
-          "Languages": [
-            "pan"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Star Sports 1 Kannada",
-          "Provider": "Airtel",
-          "Languages": [
-            "kan"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12401,
-      "Polarization": "V",
-      "SymbolRateKs": 43700,
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Star Jalsha",
-          "Provider": "Airtel",
-          "Languages": [
-            "ben"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Colors Cineplex Bollywood",
-          "Provider": "Airtel",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Hindi Khabar",
-          "Provider": "Airtel",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "ET Now Swadesh",
-          "Provider": "Airtel",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12591,
-      "Polarization": "V",
-      "SymbolRateKs": 43700,
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Colors Tamil",
-          "Provider": "Airtel",
-          "Languages": [
-            "tam"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Eurosport India",
-          "Provider": "Airtel",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Star Gold Select",
-          "Provider": "Airtel",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Republic Bharat",
-          "Provider": "Airtel",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "SVBC 2 Tamil",
-          "Provider": "Airtel",
-          "Languages": [
-            "tam"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12651,
-      "Polarization": "V",
-      "SymbolRateKs": 43700,
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Colors Cineplex",
-          "Provider": "Airtel",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Movies Now",
-          "Provider": "Airtel",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Shemaroo Josh",
-          "Provider": "Airtel",
-          "Languages": [
-            "hin"
-          ],
+          "Languages": ["guj"],
           "Type": "TV",
           "IsFta": false
         }
@@ -330,21 +103,252 @@
         {
           "Name": "Zee Zest",
           "Provider": "Airtel",
-          "Languages": [
-            "hin"
-          ],
+          "Languages": ["hin"],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Cartoon Network HD+",
           "Provider": "Airtel",
-          "Languages": [
-            "hin",
-            "eng"
-          ],
+          "Languages": ["hin", "eng"],
           "Type": "TV",
           "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12341,
+      "Polarization": "V",
+      "SymbolRateKs": 44920,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Raj News Kannada",
+          "Provider": "Airtel",
+          "Languages": ["kan"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Raj News Telugu",
+          "Provider": "Airtel",
+          "Languages": ["tel"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Raj Musix Telugu",
+          "Provider": "Airtel",
+          "Languages": ["tel"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Raj News Malayalam",
+          "Provider": "Airtel",
+          "Languages": ["mal"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Raj News",
+          "Provider": "Airtel",
+          "Languages": ["tam"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Raj Musix Tamil",
+          "Provider": "Airtel",
+          "Languages": ["tam"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Vissa",
+          "Provider": "Airtel",
+          "Languages": ["tel"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Zee Classic",
+          "Provider": "Airtel",
+          "Languages": ["hin"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DD Meghalaya",
+          "Provider": "Airtel",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bol Hadippa",
+          "Provider": "Airtel",
+          "Languages": ["pan"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Sports 1 Kannada",
+          "Provider": "Airtel",
+          "Languages": ["kan"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "National Geographic India",
+          "Provider": "Airtel",
+          "Languages": ["eng", "hin"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney Jr India",
+          "Provider": "Airtel",
+          "Languages": ["eng", "hin", "tam"],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12401,
+      "Polarization": "V",
+      "SymbolRateKs": 43700,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Star Jalsha",
+          "Provider": "Airtel",
+          "Languages": ["ben"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Colors Cineplex Bollywood",
+          "Provider": "Airtel",
+          "Languages": ["hin"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hindi Khabar",
+          "Provider": "Airtel",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ET Now Swadesh",
+          "Provider": "Airtel",
+          "Languages": ["hin"],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12591,
+      "Polarization": "V",
+      "SymbolRateKs": 43700,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Colors Tamil",
+          "Provider": "Airtel",
+          "Languages": ["tam"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport India",
+          "Provider": "Airtel",
+          "Languages": ["eng"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Gold Select",
+          "Provider": "Airtel",
+          "Languages": ["hin"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Republic Bharat",
+          "Provider": "Airtel",
+          "Languages": ["hin"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SVBC 2 Tamil",
+          "Provider": "Airtel",
+          "Languages": ["tam"],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12651,
+      "Polarization": "V",
+      "SymbolRateKs": 43700,
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Colors Cineplex",
+          "Provider": "Airtel",
+          "Languages": ["hin"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Movies Now",
+          "Provider": "Airtel",
+          "Languages": ["eng"],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Shemaroo Josh",
+          "Provider": "Airtel",
+          "Languages": ["hin"],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12674,
+      "Polarization": "H",
+      "SymbolRateKs": 5028,
+      "Fec": "1/2",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Voice of America Asia",
+          "Provider": "VOA",
+          "Languages": ["eng"],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Free Asia",
+          "Provider": "VOA",
+          "Languages": ["eng"],
+          "Type": "Radio",
+          "IsFta": true
         }
       ]
     }
