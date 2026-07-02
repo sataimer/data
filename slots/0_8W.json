@@ -2,7 +2,7 @@
   "SlotKey": "0.8W",
   "Transponders": [
     {
-      "FrequencyMHz": 3984,
+      "FrequencyMHz": 3985,
       "Polarization": "R",
       "SymbolRateKs": 11341,
       "Fec": "4/5",
