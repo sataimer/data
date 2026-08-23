@@ -2,12 +2,12 @@
   "SlotKey": "52.0E",
   "Transponders": [
     {
-      "FrequencyMHz": 10720,
+      "FrequencyMHz": 10720.6,
       "Polarization": "H",
-      "SymbolRateKs": 27500,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "SymbolRateKs": 35000,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "AUTO",
       "Channels": []
     },
     {
@@ -20,7 +20,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10762,
+      "FrequencyMHz": 10762.3,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -37,18 +37,9 @@
           "IsFta": true
         },
         {
-          "Name": "Afra Series HD",
+          "Name": "Persiana Teen",
           "Package": "WNS",
           "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Pro Sport",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -89,7 +80,14 @@
           "IsFta": true
         },
         {
-          "Name": "Persiana Sport",
+          "Name": "4Turk HD",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Persiana Sports 2",
           "Package": "Persiana Cast",
           "Languages": [
             "far"
@@ -107,7 +105,25 @@
           "IsFta": true
         },
         {
+          "Name": "Moallem TV",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "4U Family",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Iran Wire",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -125,9 +141,7 @@
         {
           "Name": "Afra Film HD",
           "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -142,15 +156,6 @@
         },
         {
           "Name": "Tapesh 2 HD",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Iran International HD",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -191,16 +196,18 @@
           "IsFta": true
         },
         {
-          "Name": "Atrina TV",
+          "Name": "Setareh TV",
           "Package": "WNS",
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 10762,
+      "FrequencyMHz": 10762.3,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -209,6 +216,31 @@
       "Channels": [
         {
           "Name": "Avang TV",
+          "Package": null,
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Mellig TV",
+          "Package": "WNS",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "VOA Persian HD",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Pulse TV Farsi",
           "Package": "WNS",
           "Languages": [],
           "Type": "TV",
@@ -224,23 +256,7 @@
           "IsFta": true
         },
         {
-          "Name": "Persiana Vibe",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Persiana Sport",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "AMC Music",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -258,14 +274,7 @@
           "IsFta": true
         },
         {
-          "Name": "Grand Cinema HD",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Iran International HD",
+          "Name": "Cinex",
           "Package": "WNS",
           "Languages": [],
           "Type": "TV",
@@ -274,9 +283,7 @@
         {
           "Name": "Cafe Film",
           "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -286,27 +293,6 @@
           "Languages": [
             "far"
           ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Cafe Trade",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rahe Nejat HD",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "4Turk HD",
-          "Package": "WNS",
-          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -334,14 +320,30 @@
           "IsFta": true
         },
         {
-          "Name": "Eplanet TV",
-          "Package": null,
+          "Name": "DEJ TV",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Samad TV",
+          "Package": "WNS",
           "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "Radio DEJ",
+          "Name": "Radio Farda",
+          "Package": "WNS",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Cheshm e Oghab",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -355,7 +357,7 @@
       "FrequencyMHz": 10804,
       "Polarization": "H",
       "SymbolRateKs": 27500,
-      "Fec": "2/3",
+      "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
@@ -415,6 +417,15 @@
           "IsFta": true
         },
         {
+          "Name": "Persiana Sport",
+          "Package": "Persiana Cast",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Home\u002B HD",
           "Package": "Persiana Cast",
           "Languages": [
@@ -463,9 +474,20 @@
           "IsFta": true
         },
         {
-          "Name": "Gold Star TV",
+          "Name": "Persiana Documentary HD",
           "Package": "Persiana Cast",
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Persiana Teen",
+          "Package": "Persiana Cast",
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -480,15 +502,6 @@
           "Name": "Persiana Korea",
           "Package": "Persiana Cast",
           "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Persiana Sport",
-          "Package": "Persiana Cast",
-          "Languages": [
-            "far"
-          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -509,21 +522,12 @@
       ]
     },
     {
-      "FrequencyMHz": 10831,
-      "Polarization": "V",
-      "SymbolRateKs": 15000,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10845,
+      "FrequencyMHz": 10845.7,
       "Polarization": "H",
       "SymbolRateKs": 30000,
-      "Fec": "4/5",
+      "Fec": "9/10",
       "Standard": "DVB-S2",
-      "Modulation": "16APSK",
+      "Modulation": "8PSK",
       "Channels": [
         {
           "Name": "Sport-1",
@@ -562,12 +566,11 @@
           "IsFta": false
         },
         {
-          "Name": "FX HD Russia",
+          "Name": "FX HD Russian",
           "Package": "\u00C4lem TV",
           "Languages": [
             "rus",
-            "eng",
-            "kaz"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -597,8 +600,7 @@
           "Package": "\u00C4lem TV",
           "Languages": [
             "rus",
-            "eng",
-            "kaz"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -606,14 +608,12 @@
         {
           "Name": "UDAR HD",
           "Package": "\u00C4lem TV",
-          "Languages": [
-            "rus"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TEST-812",
+          "Name": "Service-812",
           "Package": "\u00C4lem TV",
           "Languages": [
             "rus"
@@ -622,7 +622,7 @@
           "IsFta": false
         },
         {
-          "Name": "TEST-813",
+          "Name": "Service-813",
           "Package": "\u00C4lem TV",
           "Languages": [
             "rus"
@@ -642,7 +642,9 @@
         {
           "Name": "Kinoman",
           "Package": "\u00C4lem TV",
-          "Languages": [],
+          "Languages": [
+            "rus"
+          ],
           "Type": "TV",
           "IsFta": false
         },
@@ -683,16 +685,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sportbox",
-          "Package": "\u00C4lem TV",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "( Test-F )",
+          "Name": "Service-821",
           "Package": "\u00C4lem TV",
           "Languages": [
             "rus"
@@ -772,23 +765,19 @@
         {
           "Name": "Red Music Mix HD",
           "Package": "\u00C4lem TV",
-          "Languages": [
-            "tuk"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Red Comedy HD",
           "Package": "\u00C4lem TV",
-          "Languages": [
-            "tuk"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "BIZ MISIC",
+          "Name": "Red India HD",
           "Package": "\u00C4lem TV",
           "Languages": [],
           "Type": "TV",
@@ -797,7 +786,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10845,
+      "FrequencyMHz": 10845.7,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -805,11 +794,9 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "Iran International Radio",
+          "Name": "Kalemeh TV",
           "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -823,7 +810,7 @@
           "IsFta": true
         },
         {
-          "Name": "Radio Begum  Begum FM",
+          "Name": "Haray Radio",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -832,9 +819,18 @@
           "IsFta": true
         },
         {
-          "Name": "TMTV",
+          "Name": "Moj TV",
           "Package": "WNS",
           "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Iran Wire",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -844,13 +840,6 @@
           "Languages": [
             "eng"
           ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Your Time TV",
-          "Package": "WNS",
-          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -889,18 +878,9 @@
           "IsFta": true
         },
         {
-          "Name": "Radio Jawanan  Radio Jawanan",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
           "Name": "Kanal Jadid",
           "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -914,7 +894,7 @@
           "IsFta": true
         },
         {
-          "Name": "Mix Plus Two",
+          "Name": "Khane Honarmandan",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -932,18 +912,18 @@
           "IsFta": true
         },
         {
+          "Name": "Payam TV",
+          "Package": "WNS",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Sharq TV",
           "Package": "WNS",
           "Languages": [
             "far"
           ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Iran International",
-          "Package": "WNS",
-          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -1000,20 +980,13 @@
       ]
     },
     {
-      "FrequencyMHz": 10887,
+      "FrequencyMHz": 10887.4,
       "Polarization": "H",
       "SymbolRateKs": 30000,
-      "Fec": "3/4",
+      "Fec": "9/10",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
-        {
-          "Name": "Biz Cinema",
-          "Package": "\u00C4lem TV",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
         {
           "Name": "MY5 Uzbekistan",
           "Package": "\u00C4lem TV",
@@ -1070,7 +1043,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-912",
+          "Name": "Service-912",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -1079,7 +1052,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-913",
+          "Name": "Service-913",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -1088,7 +1061,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-914",
+          "Name": "Service-914",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -1097,7 +1070,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-915",
+          "Name": "Service-915",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -1106,7 +1079,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-916",
+          "Name": "Service-916",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -1115,7 +1088,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-917",
+          "Name": "Service-917",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -1124,7 +1097,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-918",
+          "Name": "Service-918",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -1133,7 +1106,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-919",
+          "Name": "Service-919",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -1142,7 +1115,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-920",
+          "Name": "Service-920",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -1151,7 +1124,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-921",
+          "Name": "Service-921",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -1189,7 +1162,9 @@
         {
           "Name": "Domashniy International",
           "Package": "\u00C4lem TV",
-          "Languages": [],
+          "Languages": [
+            "rus"
+          ],
           "Type": "TV",
           "IsFta": false
         },
@@ -1243,7 +1218,7 @@
           "Package": "\u00C4lem TV",
           "Languages": [
             "rus",
-            "kor"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -1297,13 +1272,22 @@
       ]
     },
     {
-      "FrequencyMHz": 10887,
+      "FrequencyMHz": 10887.4,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
+        {
+          "Name": "Navid TV",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
         {
           "Name": "Radio Javan",
           "Package": "WNS",
@@ -1349,20 +1333,11 @@
           "Languages": [
             "far"
           ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Arko TV",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
           "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "Maawj TV HD",
+          "Name": "Arko TV",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -1380,6 +1355,15 @@
           "IsFta": true
         },
         {
+          "Name": "Iran Republic TV",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Arax TV",
           "Package": "WNS",
           "Languages": [
@@ -1389,7 +1373,7 @@
           "IsFta": true
         },
         {
-          "Name": "Mix Plus One",
+          "Name": "Khane Film",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -1432,16 +1416,7 @@
           "IsFta": true
         },
         {
-          "Name": "Rah-e-Farda TV",
-          "Package": "WNS",
-          "Languages": [
-            "afg"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "MBC Persia",
+          "Name": "Project Leon",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -1450,7 +1425,16 @@
           "IsFta": true
         },
         {
-          "Name": "Iran International Radio",
+          "Name": "Rah-e-Farda TV",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MBC Persia",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -1470,195 +1454,49 @@
         {
           "Name": "Simaye Azadi HD",
           "Package": "WNS",
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Payam",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Radio",
           "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 10925,
+      "FrequencyMHz": 10925.75,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Uzbekiston",
-          "Package": "CRRT",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Yoshlar TV",
-          "Package": "CRRT",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Sport UZ",
-          "Package": "CRRT",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Madaniyat va marifat",
-          "Package": "CRRT",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Dunyo Boylab",
-          "Package": "CRRT",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Bolajon",
-          "Package": "CRRT",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Navo",
-          "Package": "CRRT",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Mahalla",
-          "Package": "CRRT",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Kinoteatr",
-          "Package": "CRRT",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Futbol TV",
-          "Package": "CRRT",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "O\u0060zbekiston 24",
-          "Package": "CRRT",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "service_2",
-          "Package": "CRRT",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "service_1",
-          "Package": "CRRT",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "service_4",
-          "Package": "CRRT",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "service_3",
-          "Package": "CRRT",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "service_5",
-          "Package": "CRRT",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "service_6",
-          "Package": "CRRT",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Lux TV",
-          "Package": "CRRT",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Mahalla",
-          "Package": "CRRT",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio O\u0060zbekiston 24",
-          "Package": "CRRT",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio O\u0060zbekiston",
-          "Package": "CRRT",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Yoshlar",
-          "Package": "CRRT",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10976.5,
+      "Polarization": "V",
+      "SymbolRateKs": 1500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10996.6,
+      "Polarization": "H",
+      "SymbolRateKs": 4540,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
     },
     {
       "FrequencyMHz": 11011.1,
@@ -1670,7 +1508,16 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11204,
+      "FrequencyMHz": 11027.5,
+      "Polarization": "H",
+      "SymbolRateKs": 4540,
+      "Fec": "1/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11204.8,
       "Polarization": "H",
       "SymbolRateKs": 2500,
       "Fec": "3/4",
@@ -1678,7 +1525,7 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Ifilm 2",
+          "Name": "iFilm Dari",
           "Package": null,
           "Languages": [
             "far"
@@ -1688,33 +1535,17 @@
         },
         {
           "Name": "Sahar Afghanistan",
-          "Package": null,
+          "Package": "IRIB",
           "Languages": [
             "afg"
           ],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "RADIO TURKMEN",
-          "Package": "IRIB",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 11221,
-      "Polarization": "H",
-      "SymbolRateKs": 22000,
-      "Fec": "2/3",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11221,
+      "FrequencyMHz": 11220.6,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -1736,6 +1567,13 @@
           "Languages": [
             "far"
           ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Setareh TV",
+          "Package": "WNS",
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -1783,15 +1621,6 @@
           "IsFta": true
         },
         {
-          "Name": "Persiana Fight HD",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "4U TV Iranian",
           "Package": "WNS",
           "Languages": [
@@ -1812,9 +1641,7 @@
         {
           "Name": "Iran Film HD",
           "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -1828,9 +1655,11 @@
           "IsFta": true
         },
         {
-          "Name": "Newflix",
+          "Name": "Project Leon",
           "Package": "WNS",
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -1856,8 +1685,24 @@
           ],
           "Type": "Unknown",
           "IsFta": true
+        },
+        {
+          "Name": "Radio Payam",
+          "Package": "WNS",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
         }
       ]
+    },
+    {
+      "FrequencyMHz": 11223.5,
+      "Polarization": "H",
+      "SymbolRateKs": 5800,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
     },
     {
       "FrequencyMHz": 11245.5,
@@ -1878,21 +1723,21 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11250.8,
+      "FrequencyMHz": 11257.6,
       "Polarization": "V",
-      "SymbolRateKs": 2500,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
+      "SymbolRateKs": 5000,
+      "Fec": "4/5",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11257.8,
+      "FrequencyMHz": 11268.3,
       "Polarization": "V",
-      "SymbolRateKs": 1650,
-      "Fec": "4/5",
+      "SymbolRateKs": 6100,
+      "Fec": "None",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "AUTO",
       "Channels": []
     },
     {
@@ -1905,43 +1750,57 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11344,
-      "Polarization": "H",
-      "SymbolRateKs": 27500,
-      "Fec": "1/2",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "FrequencyMHz": 11343.8,
+      "Polarization": "V",
+      "SymbolRateKs": 32000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSKStream",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11364.6,
+      "FrequencyMHz": 11365.9,
       "Polarization": "V",
-      "SymbolRateKs": 4200,
+      "SymbolRateKs": 6400,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "32APSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11391.3,
+      "FrequencyMHz": 11382,
       "Polarization": "H",
-      "SymbolRateKs": 22000,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11420,
-      "Polarization": "V",
       "SymbolRateKs": 27500,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
+      "Fec": "1/2",
+      "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
         {
+          "Name": "Persiana Sport",
+          "Package": "Persiana Cast",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Persiana Sports 2",
+          "Package": "Persiana Cast",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Persiana Sports 3",
-          "Package": "WNS",
+          "Package": "Persiana Cast",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Persiana SetMix",
+          "Package": "Persiana Cast",
           "Languages": [
             "far"
           ],
@@ -1950,10 +1809,247 @@
         },
         {
           "Name": "Persiana Sports 4",
+          "Package": "Persiana Cast",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Persiana Fight HD",
+          "Package": "Persiana Cast",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Persiana Reality",
+          "Package": "Persiana Cast",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Persiana Medical",
+          "Package": "Persiana Cast",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "4Turk HD",
+          "Package": "Persiana Cast",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Persiana China",
+          "Package": "Persiana Cast",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Persiana Podcast",
+          "Package": "Persiana Cast",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Persiana Voyage",
+          "Package": "Persiana Cast",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Persiana Rap",
+          "Package": "Persiana Cast",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11382,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "AVA Family",
           "Package": "WNS",
           "Languages": [
             "far"
           ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "AVA Series",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "FX HD Farsi",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "FX 2 HD",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Iran Wire",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "DEJ TV",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Setareh TV",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Iran International",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11396.6,
+      "Polarization": "V",
+      "SymbolRateKs": 1500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11416.8,
+      "Polarization": "H",
+      "SymbolRateKs": 1000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11419.3,
+      "Polarization": "H",
+      "SymbolRateKs": 1000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11420.6,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "Shabakeh7",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Iran International HD",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Persiana Sport",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Iran International",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Nour TV",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tamadon HD",
+          "Package": "WNS",
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -1967,124 +2063,55 @@
           "IsFta": true
         },
         {
-          "Name": "WNS05",
+          "Name": "Zed TV",
           "Package": "WNS",
           "Languages": [],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "WNS06",
+          "Name": "Komala TV",
           "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "WNS07",
+          "Name": "Kurd Channel HD",
           "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "kur"
+          ],
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "WNS08",
+          "Name": "Sat 7 Pars",
           "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "WNS09",
+          "Name": "Mohabat TV",
           "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "WNS10",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "WNS11",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "WNS12",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "WNS13",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "WNS14",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "WNS15",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "WNS16",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "WNS17",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "WNS18",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "WNS19",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "WNS20",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
           "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 12226,
+      "FrequencyMHz": 12226.3,
       "Polarization": "V",
       "SymbolRateKs": 28000,
-      "Fec": "5/6",
+      "Fec": "9/10",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -2116,7 +2143,9 @@
         {
           "Name": "NTV Mir",
           "Package": "\u00C4lem TV",
-          "Languages": [],
+          "Languages": [
+            "rus"
+          ],
           "Type": "TV",
           "IsFta": false
         },
@@ -2132,7 +2161,9 @@
         {
           "Name": "TNT (Russia)",
           "Package": "\u00C4lem TV",
-          "Languages": [],
+          "Languages": [
+            "rus"
+          ],
           "Type": "TV",
           "IsFta": false
         },
@@ -2157,21 +2188,27 @@
         {
           "Name": "Domashniy International",
           "Package": "\u00C4lem TV",
-          "Languages": [],
+          "Languages": [
+            "rus"
+          ],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Ren TV International",
           "Package": "\u00C4lem TV",
-          "Languages": [],
+          "Languages": [
+            "rus"
+          ],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Friday International",
           "Package": "\u00C4lem TV",
-          "Languages": [],
+          "Languages": [
+            "rus"
+          ],
           "Type": "TV",
           "IsFta": false
         },
@@ -2187,7 +2224,9 @@
         {
           "Name": "TV3 International",
           "Package": "\u00C4lem TV",
-          "Languages": [],
+          "Languages": [
+            "rus"
+          ],
           "Type": "TV",
           "IsFta": false
         },
@@ -2327,7 +2366,9 @@
         {
           "Name": "STS International",
           "Package": "\u00C4lem TV",
-          "Languages": [],
+          "Languages": [
+            "rus"
+          ],
           "Type": "TV",
           "IsFta": false
         },
@@ -2361,7 +2402,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12264,
+      "FrequencyMHz": 12264.6,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -2413,43 +2454,35 @@
         {
           "Name": "Watan",
           "Package": null,
-          "Languages": [
-            "tuk"
-          ],
+          "Languages": [],
           "Type": "Radio",
           "IsFta": true
         },
         {
           "Name": "Char-tarapdan",
           "Package": null,
-          "Languages": [
-            "tuk"
-          ],
+          "Languages": [],
           "Type": "Radio",
           "IsFta": true
         },
         {
           "Name": "Miras",
           "Package": null,
-          "Languages": [
-            "tuk"
-          ],
+          "Languages": [],
           "Type": "Radio",
           "IsFta": true
         },
         {
           "Name": "Owaz",
           "Package": null,
-          "Languages": [
-            "tuk"
-          ],
+          "Languages": [],
           "Type": "Radio",
           "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 12302.85,
+      "FrequencyMHz": 12302.9,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -2466,7 +2499,7 @@
           "IsFta": true
         },
         {
-          "Name": "Owazy TV",
+          "Name": "Turkmen Owazy",
           "Package": "Turkmenistan",
           "Languages": [
             "tuk"
@@ -2515,10 +2548,10 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12341,
+      "FrequencyMHz": 12341.3,
       "Polarization": "V",
       "SymbolRateKs": 28000,
-      "Fec": "5/6",
+      "Fec": "9/10",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -2570,7 +2603,9 @@
         {
           "Name": "NTV\u002B Kinohit",
           "Package": "\u00C4lem TV",
-          "Languages": [],
+          "Languages": [
+            "rus"
+          ],
           "Type": "TV",
           "IsFta": false
         },
@@ -2631,7 +2666,9 @@
         {
           "Name": "India TV (Russia)",
           "Package": "\u00C4lem TV",
-          "Languages": [],
+          "Languages": [
+            "rus"
+          ],
           "Type": "TV",
           "IsFta": false
         },
@@ -2715,7 +2752,9 @@
           "Name": "MMA-TV.com",
           "Package": "\u00C4lem TV",
           "Languages": [
-            "rus"
+            "rus",
+            "eng",
+            "kaz"
           ],
           "Type": "TV",
           "IsFta": false
@@ -2789,14 +2828,33 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "\u041C\u0423\u0417\u042B\u041A\u0410 LIVE",
+          "Package": "\u00C4lem TV",
+          "Languages": [
+            "rus",
+            "kaz"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "KHL Prime HD",
+          "Package": "\u00C4lem TV",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 12380,
+      "FrequencyMHz": 12379.7,
       "Polarization": "V",
       "SymbolRateKs": 28000,
-      "Fec": "5/6",
+      "Fec": "9/10",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -2810,7 +2868,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-702",
+          "Name": "Service-702",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -2843,7 +2901,7 @@
           "Package": "\u00C4lem TV",
           "Languages": [
             "rus",
-            "kaz"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -2882,8 +2940,7 @@
           "Name": "Nickelodeon Russia",
           "Package": "\u00C4lem TV",
           "Languages": [
-            "rus",
-            "eng"
+            "rus"
           ],
           "Type": "TV",
           "IsFta": false
@@ -2952,7 +3009,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-722",
+          "Name": "Service-722",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -2961,7 +3018,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-727",
+          "Name": "Service-727",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -2970,7 +3027,7 @@
           "IsFta": false
         },
         {
-          "Name": "Test-728",
+          "Name": "Service-728",
           "Package": "\u00C4lem TV",
           "Languages": [
             "tur"
@@ -2990,7 +3047,9 @@
         {
           "Name": "Mir TV",
           "Package": "\u00C4lem TV",
-          "Languages": [],
+          "Languages": [
+            "rus"
+          ],
           "Type": "TV",
           "IsFta": false
         },
@@ -3012,15 +3071,6 @@
         },
         {
           "Name": "Telekanal Zvezda",
-          "Package": "\u00C4lem TV",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "KHL Prime HD",
           "Package": "\u00C4lem TV",
           "Languages": [
             "rus"
@@ -3077,8 +3127,7 @@
           "Name": "Terra",
           "Package": "\u00C4lem TV",
           "Languages": [
-            "rus",
-            "eng"
+            "rus"
           ],
           "Type": "TV",
           "IsFta": false
@@ -3098,6 +3147,20 @@
           "Languages": [],
           "Type": "TV",
           "IsFta": true
+        },
+        {
+          "Name": "Biz Music",
+          "Package": "\u00C4lem TV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Biz Cinema",
+          "Package": "\u00C4lem TV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
         }
       ]
     },

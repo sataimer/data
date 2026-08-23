@@ -1,0 +1,50 @@
+{
+  "SlotKey": "50.1W",
+  "Transponders": [
+    {
+      "FrequencyMHz": 11034,
+      "Polarization": "H",
+      "SymbolRateKs": 1600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11190,
+      "Polarization": "H",
+      "SymbolRateKs": 1160,
+      "Fec": "2/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11595,
+      "Polarization": "H",
+      "SymbolRateKs": 31000,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11676,
+      "Polarization": "H",
+      "SymbolRateKs": 2000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11681,
+      "Polarization": "H",
+      "SymbolRateKs": 2200,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    }
+  ]
+}

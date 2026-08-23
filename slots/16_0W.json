@@ -1,0 +1,59 @@
+{
+  "SlotKey": "16.0W",
+  "Transponders": [
+    {
+      "FrequencyMHz": 11013,
+      "Polarization": "H",
+      "SymbolRateKs": 29899,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11195.1,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11200,
+      "Polarization": "V",
+      "SymbolRateKs": 22857,
+      "Fec": "77/90",
+      "Standard": "DVB-S2X",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11316.6,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11604.1,
+      "Polarization": "H",
+      "SymbolRateKs": 31429,
+      "Fec": "11/15",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12539,
+      "Polarization": "H",
+      "SymbolRateKs": 28791,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    }
+  ]
+}

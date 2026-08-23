@@ -44,7 +44,7 @@
           "IsFta": true
         },
         {
-          "Name": "Al Jazeera Mubasher 2 HD",
+          "Name": "Al Jazeera 2 HD",
           "Package": "Al Jazeera",
           "Languages": [
             "eng"
@@ -244,7 +244,7 @@
       "Channels": [
         {
           "Name": "Info Trafic",
-          "Package": "SNRT-2",
+          "Package": "SNRT",
           "Languages": [
             "ara"
           ],
@@ -489,7 +489,7 @@
           "IsFta": true
         },
         {
-          "Name": "Al Jazeera Mubasher 2",
+          "Name": "Al Jazeera 2",
           "Package": "Al Jazeera",
           "Languages": [
             "ara"

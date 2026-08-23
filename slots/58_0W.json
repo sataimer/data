@@ -11,10 +11,37 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 3729,
+      "Polarization": "H",
+      "SymbolRateKs": 1666,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3732,
+      "Polarization": "H",
+      "SymbolRateKs": 1926,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3736,
+      "Polarization": "H",
+      "SymbolRateKs": 4500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 3760,
       "Polarization": "H",
       "SymbolRateKs": 30000,
-      "Fec": "5/6",
+      "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -26,24 +53,6 @@
       "Fec": "7/8",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 3785,
-      "Polarization": "H",
-      "SymbolRateKs": 5200,
-      "Fec": "9/10",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 3789,
-      "Polarization": "H",
-      "SymbolRateKs": 5825,
-      "Fec": "8/9",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -330,7 +339,7 @@
       "FrequencyMHz": 3840,
       "Polarization": "V",
       "SymbolRateKs": 30000,
-      "Fec": "9/10",
+      "Fec": "8/9",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -364,7 +373,7 @@
           "IsFta": false
         },
         {
-          "Name": "Discovery H\u0026H Latin HD-SD",
+          "Name": "Discovery H_H Latin HD-SD",
           "Package": null,
           "Languages": [
             "esp"
@@ -482,7 +491,7 @@
           "IsFta": false
         },
         {
-          "Name": "H\u0026H Argentina HD",
+          "Name": "H_H Argentina HD",
           "Package": null,
           "Languages": [
             "esp",
@@ -590,7 +599,7 @@
           "IsFta": false
         },
         {
-          "Name": "Disc. Kids Mexco HD",
+          "Name": "Disc. Kids Mexico HD",
           "Package": null,
           "Languages": [
             "esp",
@@ -645,7 +654,7 @@
           "IsFta": false
         },
         {
-          "Name": "H\u0026H Mexico HD",
+          "Name": "H_H Mexico HD",
           "Package": null,
           "Languages": [
             "esp",
@@ -655,7 +664,7 @@
           "IsFta": false
         },
         {
-          "Name": "H\u0026H Mexico HD-SD Analog",
+          "Name": "H_H Mexico HD-SD Analog",
           "Package": null,
           "Languages": [],
           "Type": "Unknown",
@@ -734,7 +743,7 @@
           "IsFta": false
         },
         {
-          "Name": "TNT Novelas Latin",
+          "Name": "TNT Novelas Latin HD",
           "Package": null,
           "Languages": [
             "esp",
@@ -772,7 +781,7 @@
           "Package": null,
           "Languages": [],
           "Type": "Unknown",
-          "IsFta": false
+          "IsFta": true
         }
       ]
     },
@@ -780,10 +789,29 @@
       "FrequencyMHz": 3885,
       "Polarization": "H",
       "SymbolRateKs": 5825,
-      "Fec": "5/6",
-      "Standard": "DVB-S2T2-MI,",
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Canal Internacional",
+          "Package": "Caracol TV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Caracol Nacional",
+          "Package": "Caracol TV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
     },
     {
       "FrequencyMHz": 3894,
@@ -893,32 +921,6 @@
           "IsFta": false
         },
         {
-          "Name": "Cartoon Network Mexico HD",
-          "Package": null,
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CTN MEX D9865",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CTN MEX HD AC3",
-          "Package": null,
-          "Languages": [
-            "eng",
-            "esp"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
           "Name": "TNT SERIES PNR1 D9865",
           "Package": null,
           "Languages": [],
@@ -940,28 +942,19 @@
           "IsFta": false
         },
         {
-          "Name": "TNT Colombia HD",
+          "Name": "TNT Brazil",
           "Package": null,
           "Languages": [
-            "esp"
+            "eng",
+            "por"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TNT COLOMBIA D9865",
+          "Name": "TNT BRA D9865",
           "Package": null,
           "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TNT COLOMBIA HD AC3",
-          "Package": null,
-          "Languages": [
-            "eng",
-            "esp"
-          ],
           "Type": "Unknown",
           "IsFta": false
         },
@@ -1041,27 +1034,20 @@
           "IsFta": false
         },
         {
-          "Name": "TNT VEN HD",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TNT VEN D9865",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Cartoon Network Latin America HD",
+          "Name": "SPA BRA HD",
           "Package": null,
           "Languages": [
-            "eng",
-            "esp"
+            "por",
+            "eng"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "SPA BRA D9865",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -1131,6 +1117,23 @@
           "IsFta": false
         },
         {
+          "Name": "CTN BRA HD",
+          "Package": null,
+          "Languages": [
+            "por",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CTN BRA D9865",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
           "Name": "TNT SPORTS CHL BASIC MPEG",
           "Package": null,
           "Languages": [],
@@ -1180,7 +1183,7 @@
       "FrequencyMHz": 3920,
       "Polarization": "V",
       "SymbolRateKs": 30000,
-      "Fec": "5/6",
+      "Fec": "8/9",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -1330,21 +1333,28 @@
         {
           "Name": "Discovery Brazil HD-SD dual mono",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "por"
+          ],
           "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "Turbo Brazil HD",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "por",
+            "eng"
+          ],
           "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "Turbo Brazil HD-SD single mono",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "por"
+          ],
           "Type": "Unknown",
           "IsFta": false
         },
@@ -1361,12 +1371,14 @@
         {
           "Name": "Kids Brazil HD-SD dual mono",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "por"
+          ],
           "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "Home \u0026 Health Brazil HD PRH",
+          "Name": "Home_Health Brazil HD PRH",
           "Package": null,
           "Languages": [
             "por",
@@ -1376,9 +1388,11 @@
           "IsFta": false
         },
         {
-          "Name": "Home \u0026 Health Brazil HD ENG",
+          "Name": "Home_Health Brazil HE ENG",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "por"
+          ],
           "Type": "Unknown",
           "IsFta": false
         },
@@ -1392,7 +1406,9 @@
         {
           "Name": "TLC BR HD SD dual mono",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "por"
+          ],
           "Type": "Unknown",
           "IsFta": false
         },
@@ -1400,7 +1416,7 @@
           "Name": "ID Brazil HD",
           "Package": null,
           "Languages": [
-            "esp",
+            "por",
             "eng"
           ],
           "Type": "Unknown",
@@ -1410,7 +1426,7 @@
           "Name": "ID Brazil HD SD dual mono",
           "Package": null,
           "Languages": [
-            "esp"
+            "por"
           ],
           "Type": "Unknown",
           "IsFta": false
@@ -1481,13 +1497,6 @@
           "IsFta": false
         },
         {
-          "Name": "CDL 302 IS21",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
           "Name": "Adult Swim Brazil HD-SD",
           "Package": null,
           "Languages": [],
@@ -1504,28 +1513,49 @@
       ]
     },
     {
-      "FrequencyMHz": 3963,
+      "FrequencyMHz": 3973,
       "Polarization": "H",
-      "SymbolRateKs": 5000,
+      "SymbolRateKs": 3750,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Venezolana de TV",
+          "Package": "VTV PRUEBA IS-14",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
-      "FrequencyMHz": 3975,
+      "FrequencyMHz": 3976,
       "Polarization": "H",
-      "SymbolRateKs": 4500,
+      "SymbolRateKs": 2500,
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "TV Chile",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
     },
     {
-      "FrequencyMHz": 4000,
+      "FrequencyMHz": 3988,
       "Polarization": "H",
-      "SymbolRateKs": 30000,
-      "Fec": "1/2",
+      "SymbolRateKs": 10000,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -1535,6 +1565,15 @@
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4004,
+      "Polarization": "H",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -1673,12 +1712,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 4080,
+      "FrequencyMHz": 4070,
       "Polarization": "H",
-      "SymbolRateKs": 32700,
-      "Fec": "3/4",
+      "SymbolRateKs": 13463,
+      "Fec": "5/6",
       "Standard": "DVB-S2",
-      "Modulation": "16APSK",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -1689,15 +1728,6 @@
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
-        {
-          "Name": "Arirang TV",
-          "Package": "ArirangTV",
-          "Languages": [
-            "kor"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
         {
           "Name": "SonLife Broadcasting Network",
           "Package": "SES",
@@ -1779,7 +1809,14 @@
           "IsFta": false
         },
         {
-          "Name": "Electra02_CH10_Antena3",
+          "Name": "Electra01_CH04_ServicioI21",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Electra01_CH01_Antena3",
           "Package": null,
           "Languages": [],
           "Type": "Unknown",
@@ -1793,6 +1830,15 @@
           "IsFta": false
         }
       ]
+    },
+    {
+      "FrequencyMHz": 4088,
+      "Polarization": "H",
+      "SymbolRateKs": 16758,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
     },
     {
       "FrequencyMHz": 4120,
@@ -1891,7 +1937,7 @@
           "IsFta": false
         },
         {
-          "Name": "H\u0026H CHVZ HD",
+          "Name": "H_H CHVZ HD",
           "Package": null,
           "Languages": [
             "esp",
@@ -1901,9 +1947,11 @@
           "IsFta": false
         },
         {
-          "Name": "H\u0026H CHVZ HD-SD",
+          "Name": "H_H CHVZ HD-SD",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "por"
+          ],
           "Type": "Unknown",
           "IsFta": false
         },
@@ -2042,12 +2090,12 @@
           "IsFta": false
         },
         {
-          "Name": "MTV Live HD",
+          "Name": "MTV LIVE HD",
           "Package": "Paramount",
           "Languages": [
             "eng"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -2066,7 +2114,7 @@
           "Languages": [
             "eng"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -2159,22 +2207,22 @@
           "IsFta": false
         },
         {
-          "Name": "Club MTV",
+          "Name": "CLUB MTV [MPG/AC3 SD]",
           "Package": "Paramount",
           "Languages": [
-            "esp"
+            "eng"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "MTV Hits",
+          "Name": "MTV HITS INTL [MPG/AC3 SD]",
           "Package": "Paramount",
           "Languages": [
             "esp",
             "eng"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -2188,12 +2236,12 @@
           "IsFta": false
         },
         {
-          "Name": "MTV 80s",
+          "Name": "MTV 80s SD [MPG/AC3 SD]",
           "Package": "Paramount",
           "Languages": [
             "esp"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -2217,7 +2265,7 @@
           "IsFta": false
         },
         {
-          "Name": "NIKLN-HD",
+          "Name": "NICK LATAM-HD",
           "Package": "Paramount",
           "Languages": [
             "esp",
@@ -2254,7 +2302,22 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Enlace Juvenil",
+          "Package": "ENLACE",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "EJTV",
+          "Package": "ENLACE",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 4144,
@@ -2280,14 +2343,14 @@
       "Polarization": "V",
       "SymbolRateKs": 3000,
       "Fec": "3/4",
-      "Standard": "DVB-S",
+      "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
         {
           "Name": "ESNE",
-          "Package": "El Sembrador",
+          "Package": "ESNE",
           "Languages": [
-            "esp"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": true
@@ -2387,7 +2450,7 @@
       "Channels": [
         {
           "Name": "La Cadena del Milagro",
-          "Package": "C",
+          "Package": "Encoder",
           "Languages": [
             "esp",
             "eng"

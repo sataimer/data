@@ -1295,6 +1295,58 @@
       ]
     },
     {
+      "FrequencyMHz": 3873,
+      "Polarization": "R",
+      "SymbolRateKs": 5130,
+      "Fec": "3/4",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "02 \u0420\u041E\u0421\u0421\u0418\u042F-1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "02 \u0420\u041E\u0421\u0421\u0418\u042F-1",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "07 \u0420\u041E\u0421\u0421\u0418\u042F-24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "07 \u0420\u041E\u0421\u0421\u0418\u042F-24",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "09 \u041E\u0422\u0420",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "09 \u041E\u0422\u0420",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
+    },
+    {
       "FrequencyMHz": 3881,
       "Polarization": "R",
       "SymbolRateKs": 5130,
@@ -1337,15 +1389,6 @@
           "IsFta": false
         }
       ]
-    },
-    {
-      "FrequencyMHz": 3908,
-      "Polarization": "L",
-      "SymbolRateKs": 1356,
-      "Fec": "1/2",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
     },
     {
       "FrequencyMHz": 3916,
@@ -1493,9 +1536,59 @@
       "Polarization": "L",
       "SymbolRateKs": 15284,
       "Fec": "3/4",
-      "Standard": "DVB-S2",
+      "Standard": "DVB-S2T2-MI,",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "01 \u041F\u0415\u0420\u0412\u042B\u0419 \u041A\u0410\u041D\u0410\u041B",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "03 \u041C\u0410\u0422\u0427!",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "04 \u041D\u0422\u0412",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "05 \u041F\u042F\u0422\u042B\u0419 \u041A\u0410\u041D\u0410\u041B",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "06 \u0420\u041E\u0421\u0421\u0418\u042F-\u041A",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "08 \u041A\u0410\u0420\u0423\u0421\u0415\u041B\u042C",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "10 \u0422\u0412 \u0426\u0435\u043D\u0442\u0440",
+          "Package": "\u0420\u0422\u0420\u0421",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 3977,
@@ -1639,69 +1732,6 @@
           "IsFta": true
         }
       ]
-    },
-    {
-      "FrequencyMHz": 4077,
-      "Polarization": "R",
-      "SymbolRateKs": 15284,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 4077,
-      "Polarization": "R",
-      "SymbolRateKs": 15284,
-      "Fec": "3/4",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10985.1,
-      "Polarization": "V",
-      "SymbolRateKs": 8333,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11001.6,
-      "Polarization": "V",
-      "SymbolRateKs": 12500,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11142.5,
-      "Polarization": "V",
-      "SymbolRateKs": 1033,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11148.1,
-      "Polarization": "V",
-      "SymbolRateKs": 8333,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11148.1,
-      "Polarization": "V",
-      "SymbolRateKs": 8333,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
     }
   ]
 }

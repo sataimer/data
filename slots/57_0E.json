@@ -263,12 +263,12 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "First_service",
+          "Name": "Dire TV",
           "Package": "Harmonic",
           "Languages": [
-            "eng"
+            "amh"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         }
       ]
@@ -328,23 +328,6 @@
       ]
     },
     {
-      "FrequencyMHz": 3916,
-      "Polarization": "R",
-      "SymbolRateKs": 4167,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "OBN Horn of Africa",
-          "Package": "none",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
-    },
-    {
       "FrequencyMHz": 3932,
       "Polarization": "L",
       "SymbolRateKs": 3920,
@@ -375,6 +358,25 @@
         {
           "Name": "Fana TV",
           "Package": "Service Provider",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4031,
+      "Polarization": "R",
+      "SymbolRateKs": 4167,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "OBN Horn of Africa",
+          "Package": "none",
           "Languages": [
             "eng"
           ],
@@ -456,7 +458,7 @@
         },
         {
           "Name": "AFN Sports 2",
-          "Package": null,
+          "Package": "AFN",
           "Languages": [
             "eng"
           ],
@@ -464,39 +466,11 @@
           "IsFta": false
         },
         {
-          "Name": "AFN Eagle",
-          "Package": null,
+          "Name": "AFN Atlantic Eagle",
+          "Package": "AFN",
           "Languages": [],
           "Type": "Radio",
           "IsFta": false
-        },
-        {
-          "Name": "AFN The Voice",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN Music Service 1",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN Music Service 2",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "INV1-dtsatl",
-          "Package": "Inview Ltd",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
         }
       ]
     },
@@ -526,7 +500,7 @@
         },
         {
           "Name": "MSNBC",
-          "Package": "Harmonic",
+          "Package": "MTNTV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
@@ -541,15 +515,15 @@
           "IsFta": false
         },
         {
-          "Name": "CNBC HD",
+          "Name": "BLOOMBERG",
           "Package": "MTNTV",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "Sky News",
-          "Package": "Harmonic",
+          "Name": "TEMP 1",
+          "Package": null,
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
@@ -569,7 +543,7 @@
           "IsFta": false
         },
         {
-          "Name": "SKY SPORT NEWS",
+          "Name": "V4",
           "Package": null,
           "Languages": [],
           "Type": "Unknown",
@@ -709,14 +683,21 @@
           "IsFta": false
         },
         {
-          "Name": "TEMP 1",
-          "Package": "MTNNTV",
+          "Name": "BBC EARTH",
+          "Package": null,
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "TEMP 2",
+          "Name": "BRIT BOX",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC LIFESTYLE",
           "Package": null,
           "Languages": [],
           "Type": "Unknown",
@@ -746,22 +727,6 @@
           "IsFta": false
         },
         {
-          "Name": "Hunan TV",
-          "Package": "Harmonic",
-          "Languages": [
-            "chi"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CCTV Movie",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "CCTV Entertainment",
           "Package": "Harmonic",
           "Languages": [],
@@ -779,15 +744,6 @@
           "Name": "Metro TV",
           "Package": null,
           "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Movies Now and Then",
-          "Package": "Harmonic",
-          "Languages": [
-            "eng"
-          ],
           "Type": "TV",
           "IsFta": false
         },

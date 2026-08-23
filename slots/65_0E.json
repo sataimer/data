@@ -1,0 +1,113 @@
+{
+  "SlotKey": "65.0E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 10735,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10758.5,
+      "Polarization": "V",
+      "SymbolRateKs": 22000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10789,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10799,
+      "Polarization": "V",
+      "SymbolRateKs": 10000,
+      "Fec": "1/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10860,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10914,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11235,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11289,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11360,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11394,
+      "Polarization": "V",
+      "SymbolRateKs": 9750,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12660,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12714,
+      "Polarization": "V",
+      "SymbolRateKs": 45000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    }
+  ]
+}

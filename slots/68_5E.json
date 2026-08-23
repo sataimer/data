@@ -461,7 +461,7 @@
       "Channels": [
         {
           "Name": "Aastha India",
-          "Package": "ABNL",
+          "Package": null,
           "Languages": [
             "eng"
           ],
@@ -480,7 +480,7 @@
       "Channels": [
         {
           "Name": "Aastha Bhajan",
-          "Package": "Vedic",
+          "Package": null,
           "Languages": [
             "eng"
           ],
@@ -489,7 +489,7 @@
         },
         {
           "Name": "Vedic",
-          "Package": "Vedic",
+          "Package": null,
           "Languages": [
             "eng"
           ],
@@ -552,22 +552,12 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Arirang TV HD",
-          "Package": "ArirangTV",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
-      "FrequencyMHz": 3802,
-      "Polarization": "H",
-      "SymbolRateKs": 10800,
+      "FrequencyMHz": 3808,
+      "Polarization": "V",
+      "SymbolRateKs": 15000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -999,7 +989,7 @@
       ]
     },
     {
-      "FrequencyMHz": 3891,
+      "FrequencyMHz": 3886,
       "Polarization": "V",
       "SymbolRateKs": 1954,
       "Fec": "5/6",
@@ -1348,14 +1338,14 @@
     {
       "FrequencyMHz": 3936,
       "Polarization": "V",
-      "SymbolRateKs": 14400,
+      "SymbolRateKs": 14200,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "591 STAR PLUS ME HD",
-          "Package": "STAR",
+          "Name": "Star Plus ME HD",
+          "Package": "JIOStar",
           "Languages": [
             "hin"
           ],
@@ -1363,8 +1353,8 @@
           "IsFta": false
         },
         {
-          "Name": "592 STAR PLUS ME HD",
-          "Package": "STAR",
+          "Name": "Star Plus ME HD",
+          "Package": "JIOStar",
           "Languages": [
             "hin"
           ],
@@ -1372,8 +1362,8 @@
           "IsFta": false
         },
         {
-          "Name": "593 Star Bharat ME SD",
-          "Package": "STAR",
+          "Name": "Star Bharat ME",
+          "Package": "JIOStar",
           "Languages": [
             "hin"
           ],
@@ -1381,8 +1371,8 @@
           "IsFta": false
         },
         {
-          "Name": "594 Star Vijay Intl SD",
-          "Package": "STAR",
+          "Name": "Star Vijay Intl",
+          "Package": "JIOStar",
           "Languages": [
             "tam"
           ],
@@ -1390,10 +1380,55 @@
           "IsFta": false
         },
         {
-          "Name": "595 Star Gold Intl HD",
-          "Package": "STAR",
+          "Name": "Star Gold Int HD",
+          "Package": "JIOStar",
           "Languages": [
             "hin"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Gold Romance Intl",
+          "Package": "JIOStar",
+          "Languages": [
+            "hin"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Jalsha HD",
+          "Package": "JIOStar",
+          "Languages": [
+            "ben"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Asianet Plus",
+          "Package": "JIOStar",
+          "Languages": [
+            "mal"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Maa Movies",
+          "Package": "JIOStar",
+          "Languages": [
+            "tel"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Maa Music",
+          "Package": "JIOStar",
+          "Languages": [
+            "tel"
           ],
           "Type": "Unknown",
           "IsFta": false
@@ -1404,7 +1439,7 @@
       "FrequencyMHz": 3974,
       "Polarization": "V",
       "SymbolRateKs": 22500,
-      "Fec": "5/6",
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -1414,13 +1449,6 @@
           "Languages": [
             "ben"
           ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Zee Chitramandir",
-          "Package": "ZEE NETWORK",
-          "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
@@ -1459,15 +1487,12 @@
           "IsFta": false
         },
         {
-          "Name": "AND FLIX",
+          "Name": "Unite8 Sports 2",
           "Package": "ZEE NETWORK",
           "Languages": [
-            "eng",
-            "hin",
-            "tam",
-            "tel"
+            "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         }
       ]
@@ -1481,12 +1506,73 @@
       "Modulation": "8PSK",
       "Channels": [
         {
+          "Name": "Times Now",
+          "Package": "TIMES NETWORK",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "ZOOM",
+          "Package": "TIMES NETWORK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "ET Now",
+          "Package": "TIMES NETWORK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Movies Now",
+          "Package": "TIMES NETWORK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "MN\u002B",
+          "Package": "TIMES NETWORK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Romedy Now",
+          "Package": "TIMES NETWORK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
           "Name": "Mirror Now",
           "Package": "TIMES NETWORK",
           "Languages": [
             "eng"
           ],
           "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TIMES NOW WORLD",
+          "Package": "TIMES NETWORK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -1506,6 +1592,47 @@
           ],
           "Type": "TV",
           "IsFta": true
+        },
+        {
+          "Name": "TIMES NOW CITY",
+          "Package": "TIMES NETWORK",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "MNX SD",
+          "Package": "TIMES NETWORK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "ET Now Swadesh",
+          "Package": "TIMES NETWORK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "TIMES NOW NAVBHARAT HD",
+          "Package": "TIMES NETWORK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "TIMES NOW NAVBHARAT",
+          "Package": "TIMES NETWORK",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
         }
       ]
     },
@@ -1516,44 +1643,7 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "MTV India",
-          "Package": "Viacom 18",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Colors Rishtey Asia",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Colors Asia Pacific",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV India",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 3996,
@@ -1562,52 +1652,12 @@
       "Fec": "5/6",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "CNBC TV18",
-          "Package": "TV18",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CNBC Awaaz",
-          "Package": "TV18",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "News18 Lokmat",
-          "Package": "TV18",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CNBC Bazaar",
-          "Package": "TV18",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CNBC Prime HD",
-          "Package": "TV18",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 4000,
       "Polarization": "H",
-      "SymbolRateKs": 7250,
+      "SymbolRateKs": 7500,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -1622,10 +1672,19 @@
           "IsFta": false
         },
         {
-          "Name": "Living Foodz HD",
-          "Package": "ZEE NETWORK",
+          "Name": "Zee Classic",
+          "Package": "ZEEL",
           "Languages": [
             "hin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Zee Keralam HD",
+          "Package": "ZEEL",
+          "Languages": [
+            "mal"
           ],
           "Type": "TV",
           "IsFta": false
@@ -1641,6 +1700,13 @@
       "Modulation": "8PSK",
       "Channels": [
         {
+          "Name": "Jai Maharashtra",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Shubh TV",
           "Package": "Harmonic",
           "Languages": [],
@@ -1648,8 +1714,8 @@
           "IsFta": true
         },
         {
-          "Name": "Abzy Movis",
-          "Package": "Harmonic",
+          "Name": "Sahana News",
+          "Package": null,
           "Languages": [],
           "Type": "TV",
           "IsFta": true
@@ -1663,20 +1729,6 @@
         },
         {
           "Name": "Shubh Cinema",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Abzy Cool",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Abzy Dhakad",
           "Package": "Harmonic",
           "Languages": [],
           "Type": "TV",
@@ -1795,66 +1847,49 @@
       "FrequencyMHz": 4013,
       "Polarization": "V",
       "SymbolRateKs": 7200,
-      "Fec": "3/4",
+      "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "ZEE ZEST",
+          "Name": "Zee Zest",
           "Package": "ZEE NETWORK",
           "Languages": [
             "hin",
             "eng",
             "tam"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "ZEE ZEST HD",
+          "Name": "Zee Zest HD",
           "Package": "ZEE NETWORK",
           "Languages": [
             "hin",
             "eng",
             "tam"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "Shubh TV",
-          "Package": "Harmonic",
-          "Languages": [],
+          "Name": "Zee Bangla Sonar",
+          "Package": "ZEE NETWORK",
+          "Languages": [
+            "ben"
+          ],
           "Type": "TV",
-          "IsFta": true
+          "IsFta": false
         },
         {
-          "Name": "Sandesh News",
-          "Package": "Harmonic",
-          "Languages": [],
+          "Name": "\u0026 Pictures HD",
+          "Package": "ZEE NETWORK",
+          "Languages": [
+            "hin"
+          ],
           "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Village TV",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Shubh Cinema",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Insync",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
+          "IsFta": false
         }
       ]
     },
@@ -1868,7 +1903,7 @@
       "Channels": [
         {
           "Name": "MTV India",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "eng"
           ],
@@ -1877,7 +1912,7 @@
         },
         {
           "Name": "Colors",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "eng"
           ],
@@ -1886,7 +1921,7 @@
         },
         {
           "Name": "Colors Rishtey Asia",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "hin"
           ],
@@ -1895,7 +1930,7 @@
         },
         {
           "Name": "Colors Cineplex Superhits",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "hin"
           ],
@@ -1904,7 +1939,7 @@
         },
         {
           "Name": "Nick Jr India",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "eng",
             "hin"
@@ -1914,7 +1949,7 @@
         },
         {
           "Name": "Colors Kannada Cinema",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "eng"
           ],
@@ -1932,7 +1967,7 @@
         },
         {
           "Name": "Colors Tamil",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "tam"
           ],
@@ -1941,7 +1976,7 @@
         },
         {
           "Name": "Colors HD",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "hin",
             "eng"
@@ -1960,25 +1995,7 @@
         },
         {
           "Name": "Colors Cineplex Bollywood",
-          "Package": "NW18",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sports 18 Hindi HD",
-          "Package": "NW18",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sports 18 Hindi",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "hin"
           ],
@@ -1987,7 +2004,7 @@
         },
         {
           "Name": "Nickelodeon India",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "hin",
             "tel",
@@ -1999,12 +2016,49 @@
           "IsFta": false
         },
         {
-          "Name": "COLORS",
-          "Package": "NW18",
+          "Name": "Star Plus",
+          "Package": "JIO",
           "Languages": [
             "hin"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Gold",
+          "Package": "JIO",
+          "Languages": [
+            "hin",
+            "guj"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Plus HD",
+          "Package": "JIO",
+          "Languages": [
+            "hin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Vijay",
+          "Package": "JIO",
+          "Languages": [
+            "tam"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Colors",
+          "Package": "JIO",
+          "Languages": [
+            "hin"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -2017,12 +2071,12 @@
           "IsFta": false
         },
         {
-          "Name": "RISHTEY",
-          "Package": "NW18",
+          "Name": "Rishtey TV",
+          "Package": "JIO",
           "Languages": [
             "hin"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -2036,7 +2090,7 @@
         },
         {
           "Name": "Colors Cineplex Bollywood",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "hin"
           ],
@@ -2045,7 +2099,7 @@
         },
         {
           "Name": "Colors Cineplex Superhits",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "hin"
           ],
@@ -2054,18 +2108,18 @@
         },
         {
           "Name": "Colors Kannada Cinema",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Colors Tamil",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "tam"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -2079,7 +2133,7 @@
         },
         {
           "Name": "MTV",
-          "Package": "NW18",
+          "Package": "JIO",
           "Languages": [
             "hin"
           ],
@@ -2087,8 +2141,8 @@
           "IsFta": false
         },
         {
-          "Name": "Nickelodeon-NickIndia",
-          "Package": "NW18",
+          "Name": "Nikelodeon",
+          "Package": "JIO",
           "Languages": [
             "hin",
             "tel",
@@ -2100,8 +2154,8 @@
           "IsFta": false
         },
         {
-          "Name": "Nickelodeon-Nick Junior",
-          "Package": "NW18",
+          "Name": "Nick Junior",
+          "Package": "JIO",
           "Languages": [
             "eng",
             "hin"
@@ -2120,39 +2174,6 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "HISTORY TV18",
-          "Package": "NW18",
-          "Languages": [
-            "eng",
-            "hin",
-            "tam",
-            "tel"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "HISTORY TV18 HD",
-          "Package": "NW18",
-          "Languages": [
-            "eng",
-            "hin",
-            "tam",
-            "tel"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "News18 Kerala",
-          "Package": "TV18",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Sonic Nickelodeon",
           "Package": "NW18",
           "Languages": [
@@ -2164,31 +2185,6 @@
             "guj"
           ],
           "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "News18 Tamilnadu",
-          "Package": "TV18",
-          "Languages": [
-            "tam"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "News18 Assam and NE",
-          "Package": "TV18",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "News18 Bharat",
-          "Package": "TV18",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -2243,30 +2239,56 @@
         },
         {
           "Name": "Star Sports 2 Tamil",
-          "Package": "TV18",
-          "Languages": [],
+          "Package": "JIO",
+          "Languages": [
+            "tam"
+          ],
           "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "HISTORY TV18",
-          "Package": "NW18",
+          "Name": "Star Sports 2 HD",
+          "Package": "JIO",
           "Languages": [
             "eng",
             "hin",
-            "tam",
+            "mal",
+            "tam"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Star Sports 2 Telgu HD",
+          "Package": "JIO",
+          "Languages": [
             "tel"
           ],
           "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "HISTORY TV18 HD",
-          "Package": "NW18",
+          "Name": "Star Sports 2 Tamil HD",
+          "Package": "JIO",
           "Languages": [
-            "eng",
-            "hin",
-            "tam",
+            "tam"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "SS1 Tamil HD",
+          "Package": "JIO",
+          "Languages": [
+            "tam"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "SS1 Telugu HD",
+          "Package": "JIO",
+          "Languages": [
             "tel"
           ],
           "Type": "Unknown",
@@ -2322,8 +2344,8 @@
           "IsFta": false
         },
         {
-          "Name": "Star Sports 2 Telugu",
-          "Package": "NW18",
+          "Name": "Star Sports 2 Telgu",
+          "Package": "JIO",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
@@ -2346,18 +2368,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Arirang TV",
-          "Package": "ArirangTV",
-          "Languages": [
-            "eng",
-            "kor"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 4060,
@@ -2366,17 +2377,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "CTS",
-          "Package": "CTS",
-          "Languages": [
-            "kor"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 4064,
@@ -2392,15 +2393,8 @@
           "Languages": [
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "CNBC",
-          "Package": "CNBC",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
         },
         {
           "Name": "CGTN",
@@ -2408,14 +2402,16 @@
           "Languages": [
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "EWTN Africa India",
+          "Name": "EWTN Africa \u0026 India",
           "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": true
         },
         {
@@ -2433,10 +2429,12 @@
           "IsFta": true
         },
         {
-          "Name": "South Asia SD",
+          "Name": "BBC News South Asia",
           "Package": "BBC News",
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -2973,16 +2971,87 @@
     {
       "FrequencyMHz": 4092,
       "Polarization": "V",
-      "SymbolRateKs": 2963,
+      "SymbolRateKs": 10700,
       "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "YTN",
-          "Package": "TandbergTV",
+          "Name": "My Lord",
+          "Package": "ZEE NETWORK",
           "Languages": [
-            "kor"
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Zee Rajasthan News",
+          "Package": "ZEE NETWORK",
+          "Languages": [
+            "hin"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Zee Kannada News",
+          "Package": "ZEE NETWORK",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Zee Telugu News",
+          "Package": "ZEE NETWORK",
+          "Languages": [
+            "tel"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4102,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Zee News HD",
+          "Package": "ZEE NETWORK",
+          "Languages": [
+            "hin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Zee News",
+          "Package": "ZEE NETWORK",
+          "Languages": [
+            "hin"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Zee Business",
+          "Package": "ZEE NETWORK",
+          "Languages": [
+            "hin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ZEE MP Chattisgarh",
+          "Package": "ZEE NETWORK",
+          "Languages": [
+            "hin"
           ],
           "Type": "TV",
           "IsFta": true
@@ -3023,52 +3092,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 4104,
-      "Polarization": "V",
-      "SymbolRateKs": 7200,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Zee News HD",
-          "Package": "ZEE NETWORK",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "ZEE NEWS NEW",
-          "Package": "ZEE NETWORK",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "ZEE BUSINESS NEW",
-          "Package": "ZEE NETWORK",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ZEE MP CHATTISGARH NEW",
-          "Package": "ZEE NETWORK",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
         }
       ]
     },
@@ -3161,12 +3184,12 @@
           "IsFta": true
         },
         {
-          "Name": "TEST-9",
+          "Name": "Mercy TV",
           "Package": null,
           "Languages": [
             "hin"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         },
         {
@@ -3204,32 +3227,14 @@
           ],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "TEST -11",
-          "Package": null,
-          "Languages": [
-            "hin"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "TEST-12",
-          "Package": null,
-          "Languages": [
-            "hin"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 4124,
+      "FrequencyMHz": 4128,
       "Polarization": "H",
-      "SymbolRateKs": 22195,
-      "Fec": "3/5",
+      "SymbolRateKs": 14890,
+      "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -3241,24 +3246,6 @@
           ],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "NHK World HD",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "NHK Premium",
-          "Package": null,
-          "Languages": [
-            "jap"
-          ],
-          "Type": "TV",
-          "IsFta": false
         },
         {
           "Name": "NHK Premium",
@@ -3301,11 +3288,75 @@
     {
       "FrequencyMHz": 4130,
       "Polarization": "V",
-      "SymbolRateKs": 12800,
+      "SymbolRateKs": 12500,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Aaj Tak",
+          "Package": null,
+          "Languages": [
+            "hin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "India Today",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Good News Today",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Aaj Tak International",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "India Today International",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Aaj Tak UK",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Aaj Tak HD",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
     },
     {
       "FrequencyMHz": 4150,
@@ -3364,7 +3415,7 @@
       "FrequencyMHz": 4155,
       "Polarization": "V",
       "SymbolRateKs": 22500,
-      "Fec": "5/6",
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -3414,21 +3465,21 @@
           "IsFta": false
         },
         {
-          "Name": "ZEE TAMIL",
+          "Name": "Zee Tamil",
           "Package": "ZEEL",
           "Languages": [
             "tam"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "ANMOL CINEMA",
+          "Name": "Anmol Cinema",
           "Package": "ZEEL",
           "Languages": [
             "hin"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         }
       ]
@@ -3449,15 +3500,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "EZ Mall",
-          "Package": "DISH TV",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": true
         },
         {
           "Name": "ZEE Kalak",
@@ -3485,6 +3527,15 @@
           ],
           "Type": "TV",
           "IsFta": true
+        },
+        {
+          "Name": "Zee Punjab Haryana Himachal",
+          "Package": "ZEE NETWORK",
+          "Languages": [
+            "hin"
+          ],
+          "Type": "TV",
+          "IsFta": true
         }
       ]
     },
@@ -3495,71 +3546,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "AAJ TAK",
-          "Package": "TV TODAY",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "India Today",
-          "Package": "TV TODAY",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Good News Today",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "AAJTAK International",
-          "Package": "TV TODAY",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "India Today International",
-          "Package": "TV TODAY",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Aaj Tak UK",
-          "Package": "TV TODAY",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "AAJTAK HD",
-          "Package": "TV TODAY NETWORK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 4184,
@@ -3823,6 +3810,15 @@
         {
           "Name": "Efatha TV",
           "Package": "INTELSAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Mindset Learn",
+          "Package": null,
           "Languages": [
             "eng"
           ],
@@ -4111,12 +4107,10 @@
           "IsFta": true
         },
         {
-          "Name": "WRM TV",
+          "Name": "Spartel TV",
           "Package": "ViewMedia",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -4138,20 +4132,16 @@
           "IsFta": true
         },
         {
-          "Name": "Healing Jesus Television Ministries",
+          "Name": "Meriba TV",
           "Package": "ViewMedia",
-          "Languages": [
-            "eng"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "New Jerusalem Broadcasts",
           "Package": "ViewMedia",
-          "Languages": [
-            "eng"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -4165,7 +4155,25 @@
           "IsFta": true
         },
         {
-          "Name": "Mountain of Fire and Miracles",
+          "Name": "RTM",
+          "Package": "ViewMedia",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kingdom TV",
+          "Package": "ViewMedia",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MFM Television HD",
           "Package": "ViewMedia",
           "Languages": [
             "eng"
@@ -4190,11 +4198,18 @@
           "IsFta": true
         },
         {
-          "Name": "Morning Cloud TV",
+          "Name": "CCTV Zimbabwe",
           "Package": "ViewMedia",
           "Languages": [
             "eng"
           ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "The Vine TV",
+          "Package": "ViewMedia",
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -4241,15 +4256,6 @@
           "Name": "Revival Channel",
           "Package": "ViewMedia",
           "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Bible Exploration",
-          "Package": "ViewMedia",
-          "Languages": [
-            "eng"
-          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -4384,13 +4390,32 @@
       ]
     },
     {
-      "FrequencyMHz": 12638,
+      "FrequencyMHz": 12639,
       "Polarization": "H",
-      "SymbolRateKs": 4167,
+      "SymbolRateKs": 7780,
       "Fec": "1/2",
-      "Standard": "DVB-S2",
+      "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "iFilm English",
+          "Package": "IRIB",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Press TV",
+          "Package": "IRIB",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 12640,
@@ -4432,11 +4457,85 @@
     {
       "FrequencyMHz": 12682,
       "Polarization": "H",
-      "SymbolRateKs": 27500,
+      "SymbolRateKs": 30000,
       "Fec": "3/4",
-      "Standard": "DVB-S",
+      "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Supreme Master TV",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "GFN Soccer",
+          "Package": "ViewMedia",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Biafra TV",
+          "Package": "ViewMedia",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MTA 4 Africa",
+          "Package": "ViewMedia",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MTA 4 Africa - English",
+          "Package": "ViewMedia",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "MTA 4 Africa - Swahili",
+          "Package": "ViewMedia",
+          "Languages": [
+            "swa"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Intelsat FUS Test",
+          "Package": "Intelsat",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Intelsat FUS Test",
+          "Package": "Intelsat",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Biafra Radio",
+          "Package": "ViewMedia",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 12682,
@@ -4465,15 +4564,6 @@
           "IsFta": true
         },
         {
-          "Name": "Prophetic Channel",
-          "Package": "Sentech",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Free Indeed TV",
           "Package": "Sentech",
           "Languages": [
@@ -4492,42 +4582,8 @@
           "IsFta": true
         },
         {
-          "Name": "Meriba TV",
-          "Package": "Sentech",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Kingdom Life Network",
-          "Package": "SENTECH",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RTM",
-          "Package": "Sentech",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Celebration TV",
           "Package": "Sentech",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Champions TV Plus",
-          "Package": "SENTECH",
           "Languages": [
             "eng"
           ],
@@ -4553,15 +4609,6 @@
           "IsFta": true
         },
         {
-          "Name": "Liberation TV",
-          "Package": "Sentech",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Ebenezer TV",
           "Package": "Sentech",
           "Languages": [
@@ -4572,15 +4619,6 @@
         },
         {
           "Name": "Temple TV",
-          "Package": "Sentech",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Encounter TV",
           "Package": "Sentech",
           "Languages": [
             "eng"

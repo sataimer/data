@@ -64,24 +64,31 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 4015.4,
+      "Polarization": "R",
+      "SymbolRateKs": 340,
+      "Fec": "1/2",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4016.7,
+      "Polarization": "R",
+      "SymbolRateKs": 340,
+      "Fec": "1/2",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 4025,
       "Polarization": "R",
       "SymbolRateKs": 5000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "TIEMPO REAL HD",
-          "Package": "TELEVISA",
-          "Languages": [
-            "eng",
-            "esp"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 4055,
@@ -93,7 +100,7 @@
       "Channels": [
         {
           "Name": "TEEN NICK-HD",
-          "Package": null,
+          "Package": "Paramount",
           "Languages": [
             "esp",
             "eng"
@@ -103,7 +110,7 @@
         },
         {
           "Name": "NIKBR-HD",
-          "Package": null,
+          "Package": "Paramount",
           "Languages": [
             "por",
             "eng"
@@ -112,38 +119,8 @@
           "IsFta": false
         },
         {
-          "Name": "NICK Pan-Regional S [AC3 HD]",
-          "Package": null,
-          "Languages": [
-            "esp",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "FUT-4A",
-          "Package": null,
-          "Languages": [
-            "esp",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "FUT-4B",
-          "Package": null,
-          "Languages": [
-            "esp",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
           "Name": "PMCBR-HD",
-          "Package": null,
+          "Package": "Paramount",
           "Languages": [
             "por",
             "eng"
@@ -153,7 +130,7 @@
         },
         {
           "Name": "PMCBR-HD MPEG",
-          "Package": null,
+          "Package": "Paramount",
           "Languages": [
             "por",
             "eng"
@@ -162,28 +139,8 @@
           "IsFta": false
         },
         {
-          "Name": "NICK Pan-Regional N [AC3 HD]",
-          "Package": null,
-          "Languages": [
-            "esp",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "NIKJRL-HD",
-          "Package": null,
-          "Languages": [
-            "esp",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
           "Name": "TELEINT-HD",
-          "Package": null,
+          "Package": "Paramount",
           "Languages": [
             "esp"
           ],
@@ -192,7 +149,7 @@
         },
         {
           "Name": "NIKJRB-HD",
-          "Package": null,
+          "Package": "Paramount",
           "Languages": [
             "por",
             "eng"
@@ -202,7 +159,7 @@
         },
         {
           "Name": "CCLB-HD",
-          "Package": null,
+          "Package": "Paramount",
           "Languages": [
             "por",
             "eng"
@@ -212,7 +169,7 @@
         },
         {
           "Name": "MTVB-HD",
-          "Package": null,
+          "Package": "Paramount",
           "Languages": [
             "por",
             "eng"
@@ -222,7 +179,7 @@
         },
         {
           "Name": "999 Code Download Lat3",
-          "Package": null,
+          "Package": "Paramount",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
@@ -313,6 +270,33 @@
           "IsFta": true
         }
       ]
+    },
+    {
+      "FrequencyMHz": 11134,
+      "Polarization": "H",
+      "SymbolRateKs": 99999,
+      "Fec": "None",
+      "Standard": "DVB-S2X",
+      "Modulation": "AUTO",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11632.5,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12231.6,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "1/4",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSK",
+      "Channels": []
     }
   ]
 }

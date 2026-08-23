@@ -74,75 +74,31 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10758,
-      "Polarization": "H",
-      "SymbolRateKs": 2600,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10805,
-      "Polarization": "H",
-      "SymbolRateKs": 3888,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10817,
-      "Polarization": "H",
-      "SymbolRateKs": 8000,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10832.3,
-      "Polarization": "H",
-      "SymbolRateKs": 22000,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10923,
-      "Polarization": "H",
-      "SymbolRateKs": 17000,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10968,
-      "Polarization": "V",
-      "SymbolRateKs": 2000,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 11075,
-      "Polarization": "V",
-      "SymbolRateKs": 2000,
+      "Polarization": "H",
+      "SymbolRateKs": 3600,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Sudan TV",
+          "Package": "Vislink",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
-      "FrequencyMHz": 11083,
+      "FrequencyMHz": 11080,
       "Polarization": "V",
-      "SymbolRateKs": 2143,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "SymbolRateKs": 3200,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -155,87 +111,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11094,
-      "Polarization": "V",
-      "SymbolRateKs": 1666,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11096,
-      "Polarization": "V",
-      "SymbolRateKs": 2500,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11097,
-      "Polarization": "V",
-      "SymbolRateKs": 22000,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11131,
-      "Polarization": "V",
-      "SymbolRateKs": 5000,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11134,
-      "Polarization": "V",
-      "SymbolRateKs": 2142,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11136,
-      "Polarization": "V",
-      "SymbolRateKs": 1666,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11590,
-      "Polarization": "V",
-      "SymbolRateKs": 27500,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11680,
-      "Polarization": "V",
-      "SymbolRateKs": 2850,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Al Jadeed",
-          "Package": "Service Provider",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12507,
+      "FrequencyMHz": 11104,
       "Polarization": "V",
       "SymbolRateKs": 2500,
       "Fec": "3/4",
@@ -254,53 +130,71 @@
       ]
     },
     {
-      "FrequencyMHz": 12520,
+      "FrequencyMHz": 11118,
       "Polarization": "H",
-      "SymbolRateKs": 8800,
+      "SymbolRateKs": 2000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11121,
+      "Polarization": "H",
+      "SymbolRateKs": 2400,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11134,
+      "Polarization": "V",
+      "SymbolRateKs": 2142,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12527,
-      "Polarization": "V",
-      "SymbolRateKs": 2800,
-      "Fec": "3/4",
+      "FrequencyMHz": 11142,
+      "Polarization": "H",
+      "SymbolRateKs": 2960,
+      "Fec": "1/2",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "LBCI International HD",
-          "Package": null,
+          "Name": "2M National",
+          "Package": "SOREAD 2M",
           "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12530,
-      "Polarization": "V",
-      "SymbolRateKs": 1600,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Dewan HD",
-          "Package": "ALDEWAN",
-          "Languages": [
-            "ara"
+            "fra"
           ],
           "Type": "TV",
           "IsFta": true
         },
         {
+          "Name": "RADIO 2M",
+          "Package": "SOREAD 2M",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11166.3,
+      "Polarization": "V",
+      "SymbolRateKs": 4000,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
           "Name": "ERI TV",
-          "Package": "EricssonTV",
+          "Package": "Vislink",
           "Languages": [
             "amh"
           ],
@@ -310,80 +204,127 @@
       ]
     },
     {
-      "FrequencyMHz": 12533,
-      "Polarization": "H",
-      "SymbolRateKs": 2960,
-      "Fec": "7/8",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12541,
+      "FrequencyMHz": 11185,
       "Polarization": "V",
-      "SymbolRateKs": 1600,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12545,
-      "Polarization": "V",
-      "SymbolRateKs": 1300,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12566,
-      "Polarization": "H",
-      "SymbolRateKs": 2960,
+      "SymbolRateKs": 4080,
       "Fec": "2/3",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12588,
-      "Polarization": "V",
-      "SymbolRateKs": 3880,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12594,
-      "Polarization": "V",
-      "SymbolRateKs": 3888,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12597,
-      "Polarization": "V",
-      "SymbolRateKs": 3885,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12607,
-      "Polarization": "V",
-      "SymbolRateKs": 2590,
+      "FrequencyMHz": 11341,
+      "Polarization": "H",
+      "SymbolRateKs": 17000,
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12610,
+      "FrequencyMHz": 11354,
       "Polarization": "H",
+      "SymbolRateKs": 3125,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11421,
+      "Polarization": "H",
+      "SymbolRateKs": 4000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11427,
+      "Polarization": "H",
+      "SymbolRateKs": 6250,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11434,
+      "Polarization": "H",
+      "SymbolRateKs": 4000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11678,
+      "Polarization": "H",
+      "SymbolRateKs": 2800,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "LBCI International HD",
+          "Package": "Service Provider",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11679,
+      "Polarization": "V",
+      "SymbolRateKs": 2850,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Al Jadeed HD",
+          "Package": "Service Provider",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11682,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12111,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12507,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12527,
+      "Polarization": "V",
       "SymbolRateKs": 2800,
       "Fec": "3/4",
       "Standard": "DVB-S2",
@@ -391,66 +332,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12613,
+      "FrequencyMHz": 12530,
       "Polarization": "V",
-      "SymbolRateKs": 1660,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12614,
-      "Polarization": "H",
-      "SymbolRateKs": 3300,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12618,
-      "Polarization": "H",
-      "SymbolRateKs": 2230,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12624,
-      "Polarization": "V",
-      "SymbolRateKs": 2220,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12635,
-      "Polarization": "H",
-      "SymbolRateKs": 2600,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12671,
-      "Polarization": "H",
-      "SymbolRateKs": 5820,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12693,
-      "Polarization": "H",
       "SymbolRateKs": 2000,
-      "Fec": "8/9",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -469,17 +356,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "ERI TV",
-          "Package": "EricssonTV",
-          "Languages": [
-            "amh"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12734,

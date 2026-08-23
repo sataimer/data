@@ -30,7 +30,7 @@
       "Channels": [
         {
           "Name": "Rede Mundial Internacional",
-          "Package": "IMPD TV",
+          "Package": "Harmonic",
           "Languages": [],
           "Type": "TV",
           "IsFta": true
@@ -45,83 +45,6 @@
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": [
-        {
-          "Name": "Enc 081",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 082",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 083",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 084",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 085",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 086",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 087",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 088",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 089",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 090",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 091",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
         {
           "Name": "ESPN 2",
           "Package": "CruiseSat",
@@ -142,9 +65,9 @@
         },
         {
           "Name": "ESPN SYN 780_ABS3",
-          "Package": "CruiseSatTV",
+          "Package": null,
           "Languages": [
-            "eng"
+            "esp"
           ],
           "Type": "Unknown",
           "IsFta": false
@@ -159,18 +82,11 @@
           "IsFta": false
         },
         {
-          "Name": "CNN International HD",
+          "Name": "CruiseSat_ABS3",
           "Package": "CruiseSat",
           "Languages": [
-            "eng"
+            "esp"
           ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CruiseSat_ABS3",
-          "Package": "CruiseSatTV",
-          "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
@@ -184,7 +100,7 @@
           "IsFta": false
         },
         {
-          "Name": "National Geographic Benelux",
+          "Name": "National Geographic East",
           "Package": "CruiseSat",
           "Languages": [
             "eng"
@@ -193,7 +109,7 @@
           "IsFta": false
         },
         {
-          "Name": "NatGeo Wild",
+          "Name": "National Geographic Wild USA",
           "Package": "CruiseSat",
           "Languages": [
             "eng"
@@ -202,105 +118,147 @@
           "IsFta": false
         },
         {
-          "Name": "OU01_ABS3",
+          "Name": "CruiseSat Promo",
           "Package": "CruiseSat",
-          "Languages": [],
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MSNBC Now",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNBC Europe",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CBS",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HGTV UK",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Food Network",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Travel Channel",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nickelodeon USA",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sky News International",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sky Sports News",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ESPN SEC HD",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
           "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "Nickelodeon Europe",
-          "Package": "CruiseSatTV",
-          "Languages": [],
+          "Name": "RTL Television",
+          "Package": "CruiseSat",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVE Am\u00E9rica",
+          "Package": "CruiseSat",
+          "Languages": [
+            "esp"
+          ],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Enc 061",
-          "Package": "Harmonic",
+          "Package": "CruiseSat",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "Enc 062",
-          "Package": "Harmonic",
-          "Languages": [],
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
           "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "Enc 063",
-          "Package": "Harmonic",
+          "Package": "CruiseSat",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "Enc 064",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 065",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 066",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 067",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 068",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 069",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 070",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 071",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 072",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Enc 073",
           "Package": "CruiseSat",
           "Languages": [
             "eng"
@@ -309,21 +267,21 @@
           "IsFta": false
         },
         {
-          "Name": "Enc 074",
-          "Package": "CruiseSat",
+          "Name": "America (USA)",
+          "Package": null,
           "Languages": [
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 10715,
-      "Polarization": "H",
-      "SymbolRateKs": 1666,
-      "Fec": "5/6",
+      "FrequencyMHz": 10996,
+      "Polarization": "V",
+      "SymbolRateKs": 10000,
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -332,15 +290,6 @@
       "FrequencyMHz": 11053,
       "Polarization": "H",
       "SymbolRateKs": 30000,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11462,
-      "Polarization": "V",
-      "SymbolRateKs": 3062,
       "Fec": "1/2",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
@@ -356,38 +305,11 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11614,
+      "FrequencyMHz": 11615,
       "Polarization": "H",
-      "SymbolRateKs": 2916,
+      "SymbolRateKs": 2100,
       "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11617,
-      "Polarization": "H",
-      "SymbolRateKs": 1666,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12711,
-      "Polarization": "V",
-      "SymbolRateKs": 4048,
-      "Fec": "1/3",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12739,
-      "Polarization": "V",
-      "SymbolRateKs": 13175,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
+      "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": []
     }

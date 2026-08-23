@@ -11,12 +11,12 @@
       "Channels": [
         {
           "Name": "Al Ayam TV",
-          "Package": "media",
+          "Package": "Encoder",
           "Languages": [
             "ara"
           ],
           "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         }
       ]
     },
@@ -29,8 +29,27 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "Al Masirah TV",
+          "Name": "MS M",
           "Package": "MS M",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12519,
+      "Polarization": "V",
+      "SymbolRateKs": 1600,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Al Nujaba TV",
+          "Package": "Net 1",
           "Languages": [
             "ara"
           ],
@@ -59,21 +78,12 @@
       ]
     },
     {
-      "FrequencyMHz": 12528,
-      "Polarization": "V",
-      "SymbolRateKs": 2220,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 12533,
       "Polarization": "V",
       "SymbolRateKs": 1600,
       "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": [
         {
           "Name": "Palestine Al Yawm",
@@ -96,20 +106,20 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12536,
+      "FrequencyMHz": 12535,
       "Polarization": "V",
-      "SymbolRateKs": 1600,
+      "SymbolRateKs": 1500,
       "Fec": "5/6",
-      "Standard": "DVB-S2",
+      "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "Beladi Satellite Channel",
-          "Package": "TandbergTV",
+          "Name": "Mcr2",
+          "Package": "Mcr2",
           "Languages": [
-            "ara"
+            "eng"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         }
       ]
@@ -124,7 +134,16 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12561,
+      "FrequencyMHz": 12566,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12569,
       "Polarization": "V",
       "SymbolRateKs": 1500,
       "Fec": "5/6",
@@ -143,10 +162,10 @@
       ]
     },
     {
-      "FrequencyMHz": 12564,
+      "FrequencyMHz": 12571,
       "Polarization": "V",
       "SymbolRateKs": 1500,
-      "Fec": "5/6",
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -162,7 +181,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12566,
+      "FrequencyMHz": 12573,
       "Polarization": "V",
       "SymbolRateKs": 1500,
       "Fec": "5/6",
@@ -181,7 +200,26 @@
       ]
     },
     {
-      "FrequencyMHz": 12570,
+      "FrequencyMHz": 12575,
+      "Polarization": "V",
+      "SymbolRateKs": 1500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Thaqalayn TV",
+          "Package": "TandbergTV",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12577,
       "Polarization": "V",
       "SymbolRateKs": 1500,
       "Fec": "3/4",
@@ -220,27 +258,6 @@
             "ben"
           ],
           "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "VOA Tibetan Radio",
-          "Package": "M-Three Satcom",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFA Asia Radio",
-          "Package": "M-Three Satcom",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFA-4",
-          "Package": "M-Three Satcom",
-          "Languages": [],
-          "Type": "Radio",
           "IsFta": true
         }
       ]

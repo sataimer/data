@@ -38,7 +38,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10773,
+      "FrequencyMHz": 10773.25,
       "Polarization": "H",
       "SymbolRateKs": 23000,
       "Fec": "3/4",
@@ -247,7 +247,16 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10818,
+      "FrequencyMHz": 10817.17,
+      "Polarization": "H",
+      "SymbolRateKs": 23000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10817.5,
       "Polarization": "V",
       "SymbolRateKs": 23000,
       "Fec": "3/4",
@@ -356,6 +365,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 10846.68,
+      "Polarization": "H",
+      "SymbolRateKs": 23000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 10847,
       "Polarization": "V",
       "SymbolRateKs": 23000,
@@ -419,7 +437,7 @@
         },
         {
           "Name": "CBBC HD",
-          "Package": "BBCSky Digital",
+          "Package": "Sky Digital",
           "Languages": [
             "eng"
           ],
@@ -528,7 +546,16 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10936,
+      "FrequencyMHz": 10935.17,
+      "Polarization": "H",
+      "SymbolRateKs": 23000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10935.5,
       "Polarization": "V",
       "SymbolRateKs": 23000,
       "Fec": "3/4",
@@ -889,7 +916,7 @@
           "IsFta": true
         },
         {
-          "Name": "NOW Christmas",
+          "Name": "Clubland TV",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1071,7 +1098,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11112,
+      "FrequencyMHz": 11111.75,
       "Polarization": "H",
       "SymbolRateKs": 23000,
       "Fec": "2/3",
@@ -1162,7 +1189,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11141.5,
+      "FrequencyMHz": 11141.25,
       "Polarization": "H",
       "SymbolRateKs": 23000,
       "Fec": "2/3",
@@ -1188,24 +1215,6 @@
           "IsFta": false
         },
         {
-          "Name": "MTV XMAS",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV 80s",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "MTV Europe",
           "Package": "Sky Digital",
           "Languages": [
@@ -1215,12 +1224,12 @@
           "IsFta": false
         },
         {
-          "Name": "MTV HD UK",
+          "Name": "MTV HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -1251,7 +1260,7 @@
           "IsFta": false
         },
         {
-          "Name": "Nick Toons",
+          "Name": "Nick Alvinnnn!!!",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1323,7 +1332,7 @@
           "IsFta": false
         },
         {
-          "Name": "Nick Jr Too",
+          "Name": "Nick Jr Peppa",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1333,24 +1342,6 @@
         },
         {
           "Name": "Comedy Central UK",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Club MTV",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV Music UK",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1367,6 +1358,15 @@
       "Fec": "5/6",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11181.1,
+      "Polarization": "V",
+      "SymbolRateKs": 14250,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -1406,15 +1406,6 @@
         },
         {
           "Name": "Adult Channel",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Climax 3",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1532,7 +1523,7 @@
           "IsFta": true
         },
         {
-          "Name": "Great! Christmas Ireland",
+          "Name": "Takbeer TV",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1627,6 +1618,15 @@
           ],
           "Type": "TV",
           "IsFta": true
+        },
+        {
+          "Name": "Sangat TV",
+          "Package": "Sky Digital",
+          "Languages": [
+            "pun"
+          ],
+          "Type": "TV",
+          "IsFta": true
         }
       ]
     },
@@ -1637,71 +1637,16 @@
       "Fec": "2/3",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Film4",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Channel 4 Ireland \u002B1",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "E4 Ireland",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "More 4 Ireland",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "E4 Extra Ireland",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
-      "FrequencyMHz": 11265.1,
+      "FrequencyMHz": 11265,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
-        {
-          "Name": "Racing UK",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
         {
           "Name": "Islam Channel",
           "Package": "Sky Digital",
@@ -1772,18 +1717,9 @@
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": [
-        {
-          "Name": "Channel 5 London",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
         {
           "Name": "5 USA",
           "Package": "Sky Digital",
@@ -1857,7 +1793,7 @@
           "IsFta": true
         },
         {
-          "Name": "Nick Jr Too Ireland",
+          "Name": "Nick Jr Peppa Ireland",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1875,7 +1811,7 @@
           "IsFta": false
         },
         {
-          "Name": "Nick Toons Ireland",
+          "Name": "Nick Alvinnnn!!! Ireland",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1886,12 +1822,12 @@
       ]
     },
     {
-      "FrequencyMHz": 11307,
+      "FrequencyMHz": 11306.5,
       "Polarization": "V",
       "SymbolRateKs": 27500,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": [
         {
           "Name": "Great! Mystery",
@@ -1930,7 +1866,7 @@
           "IsFta": true
         },
         {
-          "Name": "Great! Christmas",
+          "Name": "GREAT! Romance",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1939,25 +1875,7 @@
           "IsFta": true
         },
         {
-          "Name": "Great! Christmas \u002B1",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Tiny Pop",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Pop",
+          "Name": "GREAT! Romance \u002B1",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1975,7 +1893,7 @@
           "IsFta": true
         },
         {
-          "Name": "GREAT! Action \u002B1",
+          "Name": "GREAT! Action",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1984,7 +1902,7 @@
           "IsFta": true
         },
         {
-          "Name": "Pop \u002B1",
+          "Name": "GREAT! Action \u002B1",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -2003,15 +1921,6 @@
         },
         {
           "Name": "GREAT! TV \u002B1",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Tiny Pop \u002B1",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -2039,25 +1948,7 @@
           "IsFta": true
         },
         {
-          "Name": "That\u0027s TV 2",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Legend Xtra",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "That\u0027s 80s",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -2138,34 +2029,7 @@
           "IsFta": true
         },
         {
-          "Name": "That\u00B4s TV",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "That\u0027s TV 3",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Babenation",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "That\u0027s Christmas",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -2238,15 +2102,6 @@
         },
         {
           "Name": "ITV 1 Meridian East \u002B1",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "That\u0027s Melody",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -2367,88 +2222,6 @@
     },
     {
       "FrequencyMHz": 11386.5,
-      "Polarization": "V",
-      "SymbolRateKs": 27500,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "STV HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "UTV HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "ITV 1 Yorkshire East HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "ITV 4 HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "ITV 1 London HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "ITV Quiz HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "ITV 1 Anglia East HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "ITV 1 Border UK HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 11386.6,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -2530,6 +2303,88 @@
       ]
     },
     {
+      "FrequencyMHz": 11386.5,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "STV HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "UTV HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ITV 1 Yorkshire East HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ITV 4 HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ITV 1 London HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ITV Quiz HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ITV 1 Anglia East HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ITV 1 Border UK HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
       "FrequencyMHz": 11426.5,
       "Polarization": "H",
       "SymbolRateKs": 27500,
@@ -2544,7 +2399,7 @@
             "eng"
           ],
           "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "talkSPORT Dist",
@@ -2668,16 +2523,6 @@
           "IsFta": true
         },
         {
-          "Name": "S4C Digidol",
-          "Package": "Sky Digital",
-          "Languages": [
-            "wel",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "SkySp Racing HD",
           "Package": "Sky Digital",
           "Languages": [
@@ -2768,7 +2613,104 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Iqra TV",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Iqra Bangla",
+          "Package": "Sky Digital",
+          "Languages": [
+            "ben"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Islam Channel",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "PCNE HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "chi"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "GTC Punjabi",
+          "Package": "Sky Digital",
+          "Languages": [
+            "pun"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "LoveWorldSat HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Arirang TV HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MTA World HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng",
+            "urd",
+            "ben",
+            "ara",
+            "ger",
+            "fra",
+            "hin"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "GOD U.K. \u0026 Ireland",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Revelation TV",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 11523.25,
@@ -2942,15 +2884,6 @@
           "IsFta": true
         },
         {
-          "Name": "Takbeer TV",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Best Direct",
           "Package": "Sky Digital",
           "Languages": [
@@ -3015,10 +2948,10 @@
           "IsFta": true
         },
         {
-          "Name": "HUM Masala",
+          "Name": "HUM News",
           "Package": "Sky Digital",
           "Languages": [
-            "eng"
+            "urd"
           ],
           "Type": "TV",
           "IsFta": true
@@ -3157,6 +3090,15 @@
           "Name": "Heart 80s",
           "Package": "Sky Digital",
           "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Times Radio",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
           "Type": "Radio",
           "IsFta": true
         },
@@ -3325,15 +3267,6 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "TNT Sports 5",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "TNT Sports 6",
           "Package": "Sky Digital",
           "Languages": [
@@ -3341,33 +3274,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "Food Network Ireland",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "HGTV \u002B1 UK",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Really Ireland",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
         },
         {
           "Name": "TNT Sports 7",
@@ -3421,42 +3327,6 @@
           "IsFta": false
         },
         {
-          "Name": "TNT Sports 2",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TNT Sports 2",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TNT Sports 4",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TNT Sports 4",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
           "Name": "TNT Sports 1 HD",
           "Package": "Sky Digital",
           "Languages": [
@@ -3501,6 +3371,51 @@
           ],
           "Type": "TV",
           "IsFta": true
+        },
+        {
+          "Name": "Film4 Ireland",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Channel 4 Ireland \u002B1",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "E4 Ireland",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "More 4 Ireland",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "E4 Extra Ireland",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
         }
       ]
     },
@@ -3547,6 +3462,15 @@
           ],
           "Type": "TV",
           "IsFta": true
+        },
+        {
+          "Name": "GTC Punjabi",
+          "Package": "Sky Digital",
+          "Languages": [
+            "pun"
+          ],
+          "Type": "TV",
+          "IsFta": true
         }
       ]
     },
@@ -3572,15 +3496,6 @@
           "Package": "Sky Digital",
           "Languages": [
             "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Islam TV Bangla",
-          "Package": "Sky Digital",
-          "Languages": [
-            "ben"
           ],
           "Type": "TV",
           "IsFta": true
@@ -3636,24 +3551,6 @@
           "IsFta": false
         },
         {
-          "Name": "Sangat TV",
-          "Package": "Sky Digital",
-          "Languages": [
-            "pun"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "London Live",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Colors",
           "Package": "Sky Digital",
           "Languages": [
@@ -3692,9 +3589,7 @@
         {
           "Name": "Revelation TV",
           "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         }
@@ -3742,7 +3637,7 @@
             "eng"
           ],
           "Type": "TV",
-          "IsFta": true
+          "IsFta": false
         }
       ]
     },
@@ -3800,78 +3695,6 @@
           "IsFta": false
         },
         {
-          "Name": "TNT Sports 1",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TNT Sports 1",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "55251",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "50368",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TNT Sports 3",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TNT Sports 3",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "50342",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "50343",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
           "Name": "BT Sport Mosaic",
           "Package": "Sky Digital",
           "Languages": [
@@ -3911,58 +3734,22 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11738.8,
-      "Polarization": "V",
-      "SymbolRateKs": 31420,
-      "Fec": "8/9",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11738.8,
-      "Polarization": "V",
-      "SymbolRateKs": 31420,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 11739,
       "Polarization": "V",
       "SymbolRateKs": 31420,
-      "Fec": "8/9",
+      "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "16APSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11758,
+      "FrequencyMHz": 11758.5,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
-        {
-          "Name": "Sky Sports Box Office HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TNT Sports Box Office HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
         {
           "Name": "TNT Sports Box Office 2 HD",
           "Package": "Sky Digital",
@@ -4000,57 +3787,12 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Documentaries HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sky Crime HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sky Showcase HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "C\u00FAla4 HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "wel"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "HDTest2",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
           ],
           "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Channel 4 HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
           "IsFta": false
         }
       ]
@@ -4132,30 +3874,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11816.8,
-      "Polarization": "V",
-      "SymbolRateKs": 27500,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 11817,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "32APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11817,
-      "Polarization": "V",
-      "SymbolRateKs": 27500,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
       "Channels": []
     },
     {
@@ -4356,25 +4080,16 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Showcase HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sky Showcase HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Sky News HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sky Documentaries HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -4406,7 +4121,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12032,
+      "FrequencyMHz": 12031.5,
       "Polarization": "H",
       "SymbolRateKs": 29500,
       "Fec": "2/3",
@@ -4448,15 +4163,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "HGTV UK",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
         },
         {
           "Name": "Investigation Discovery \u002B1",
@@ -4513,6 +4219,87 @@
           "IsFta": false
         },
         {
+          "Name": "Food Network",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Food Network \u002B1",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Quest Red",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Quest Red \u002B1",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Animal Planet",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Discovery Channel",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Discovery History",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Discovery Turbo UK",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Discovery Science",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "Cartoon Network",
           "Package": "Sky Digital",
           "Languages": [
@@ -4556,6 +4343,15 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "Food Network",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
         }
       ]
     },
@@ -4640,7 +4436,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Sports NFL",
+          "Name": "Sky Sports Action",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -4659,24 +4455,6 @@
         },
         {
           "Name": "Sky Crime",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sky Showcase",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Sky Showcase",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -4748,15 +4526,6 @@
           "IsFta": false
         },
         {
-          "Name": "National Geographic Channel \u002B1",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Sky Comedy",
           "Package": "Sky Digital",
           "Languages": [
@@ -4776,15 +4545,6 @@
         },
         {
           "Name": "Sky Witness \u002B1",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sky Showcase",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -4820,7 +4580,7 @@
           "IsFta": false
         },
         {
-          "Name": "SkySp NFL",
+          "Name": "SkySp Action",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -4838,7 +4598,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Max",
+          "Name": "Sky One Ireland",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -4912,13 +4672,22 @@
       ]
     },
     {
-      "FrequencyMHz": 12110,
+      "FrequencyMHz": 12109.5,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
+        {
+          "Name": "Sky RB",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
         {
           "Name": "Sky Sports News HD",
           "Package": "Sky Digital",
@@ -4929,7 +4698,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Sports NFL HD",
+          "Name": "Sky Sports Action HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -4984,6 +4753,15 @@
         },
         {
           "Name": "Sky Crime HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Channel 4 HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -5309,7 +5087,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Max",
+          "Name": "Sky One",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -5318,7 +5096,7 @@
           "IsFta": false
         },
         {
-          "Name": "5403",
+          "Name": "Sky One",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -5327,7 +5105,7 @@
           "IsFta": false
         },
         {
-          "Name": "Christmas 24",
+          "Name": "Movies 24",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -5409,15 +5187,6 @@
         },
         {
           "Name": "Sky Documntaries Ireland",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sky Showcase \u002B1",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -5516,7 +5285,7 @@
           "IsFta": true
         },
         {
-          "Name": "Christmas 24\u002B",
+          "Name": "Movies 24\u002B",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -5586,15 +5355,6 @@
           "IsFta": true
         },
         {
-          "Name": "Cartoon Network HD UK",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Sky Witness HD",
           "Package": "Sky Digital",
           "Languages": [
@@ -5649,15 +5409,6 @@
           "IsFta": true
         },
         {
-          "Name": "Boomerang HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Sky Mix HD",
           "Package": "Sky Digital",
           "Languages": [
@@ -5669,7 +5420,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12188,
+      "FrequencyMHz": 12187.5,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -5686,7 +5437,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Max HD",
+          "Name": "Sky One HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -5705,6 +5456,15 @@
         },
         {
           "Name": "Sky Arts 1 HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sky Crime HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -5740,7 +5500,7 @@
           "IsFta": false
         },
         {
-          "Name": "5400",
+          "Name": "Sky One HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6073,7 +5833,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12266,
+      "FrequencyMHz": 12265.5,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -6144,7 +5904,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Max HD",
+          "Name": "Sky One Ireland HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6190,7 +5950,7 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Sky Favourites HD",
+          "Name": "Sky Modern Greats HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6226,7 +5986,16 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Action HD",
+          "Name": "Disney\u002B Cine HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sky Statham HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6244,7 +6013,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Christmas HD",
+          "Name": "Sky Animation HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6262,7 +6031,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Exclusives HD",
+          "Name": "Sky Box Set HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6272,15 +6041,6 @@
         },
         {
           "Name": "Sky Thriller HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sky Animation HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6300,12 +6060,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12304.5,
+      "FrequencyMHz": 12304.6,
       "Polarization": "H",
       "SymbolRateKs": 31428,
-      "Fec": "11/15",
+      "Fec": "1/4",
       "Standard": "DVB-S2",
-      "Modulation": "32APSK",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -6316,42 +6076,6 @@
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
-        {
-          "Name": "Sky Intro HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Sky Intro",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Sky Intro",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Sky RB",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
         {
           "Name": "Sky Sports F1 UHD",
           "Package": "Sky Digital",
@@ -6469,11 +6193,20 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "C\u00FAla4 HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 12382,
+      "FrequencyMHz": 12382.5,
       "Polarization": "H",
       "SymbolRateKs": 29500,
       "Fec": "2/3",
@@ -6499,34 +6232,7 @@
           "IsFta": true
         },
         {
-          "Name": "Food Network",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Food Network \u002B1",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "DMAX UK",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "HGTV UK",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6568,7 +6274,7 @@
             "eng"
           ],
           "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "TLC \u002B1",
@@ -6577,7 +6283,7 @@
             "eng"
           ],
           "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "TLC Ireland",
@@ -6589,7 +6295,7 @@
           "IsFta": false
         },
         {
-          "Name": "Really",
+          "Name": "Really Ireland",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6598,61 +6304,7 @@
           "IsFta": true
         },
         {
-          "Name": "Discovery Channel",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Animal Planet",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Discovery Science",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Discovery Science",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Discovery History",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Discovery Turbo UK",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Quest Red \u002B1",
+          "Name": "Really \u002B1",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6661,22 +6313,22 @@
           "IsFta": true
         },
         {
-          "Name": "Quest",
+          "Name": "Cartoon Network HD UK",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
           ],
           "Type": "TV",
-          "IsFta": true
+          "IsFta": false
         },
         {
-          "Name": "Quest Red",
+          "Name": "2975",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
           ],
-          "Type": "TV",
-          "IsFta": true
+          "Type": "Unknown",
+          "IsFta": false
         },
         {
           "Name": "Quest \u002B1",
@@ -6688,24 +6340,15 @@
           "IsFta": true
         },
         {
-          "Name": "TLC Europe",
+          "Name": "The Learning Channel",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
           ],
           "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         }
       ]
-    },
-    {
-      "FrequencyMHz": 12382.2,
-      "Polarization": "H",
-      "SymbolRateKs": 29500,
-      "Fec": "2/3",
-      "Standard": "DVB-S2X",
-      "Modulation": "8PSK",
-      "Channels": []
     },
     {
       "FrequencyMHz": 12402,
@@ -6762,6 +6405,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 12510.8,
+      "Polarization": "H",
+      "SymbolRateKs": 14250,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 12515,
       "Polarization": "H",
       "SymbolRateKs": 14200,
@@ -6780,30 +6432,21 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12521.8,
-      "Polarization": "V",
-      "SymbolRateKs": 24760,
-      "Fec": "5/6",
+      "FrequencyMHz": 12522.8,
+      "Polarization": "H",
+      "SymbolRateKs": 5000,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "16APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12522,
-      "Polarization": "V",
-      "SymbolRateKs": 22500,
-      "Fec": "9/10",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSKStream",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
       "FrequencyMHz": 12535.3,
       "Polarization": "H",
       "SymbolRateKs": 5932,
-      "Fec": "3/4",
+      "Fec": "1/2",
       "Standard": "DVB-S2",
-      "Modulation": "32APSK",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -6888,12 +6531,21 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12574.1,
+      "FrequencyMHz": 12574,
       "Polarization": "H",
       "SymbolRateKs": 24762,
       "Fec": "1/2",
       "Standard": "DVB-S2X",
       "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12574.3,
+      "Polarization": "H",
+      "SymbolRateKs": 24762,
+      "Fec": "1/2",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -6933,12 +6585,21 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12595.3,
+      "FrequencyMHz": 12594.8,
       "Polarization": "H",
       "SymbolRateKs": 7200,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12599,
+      "Polarization": "V",
+      "SymbolRateKs": 2571,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
       "Channels": []
     },
     {
@@ -6951,25 +6612,16 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12599,
-      "Polarization": "V",
-      "SymbolRateKs": 3254,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 12599.4,
       "Polarization": "V",
-      "SymbolRateKs": 3254,
-      "Fec": "5/6",
+      "SymbolRateKs": 2571,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "32APSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12603.6,
+      "FrequencyMHz": 12603.5,
       "Polarization": "H",
       "SymbolRateKs": 24762,
       "Fec": "1/2",
@@ -6989,8 +6641,17 @@
     {
       "FrequencyMHz": 12610,
       "Polarization": "V",
-      "SymbolRateKs": 22000,
-      "Fec": "3/5",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12610.1,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -7014,12 +6675,39 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12627.4,
-      "Polarization": "H",
-      "SymbolRateKs": 6750,
+      "FrequencyMHz": 12618.8,
+      "Polarization": "V",
+      "SymbolRateKs": 7120,
       "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12620.6,
+      "Polarization": "V",
+      "SymbolRateKs": 5000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12624,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12628.8,
+      "Polarization": "H",
+      "SymbolRateKs": 14250,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -7032,25 +6720,34 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12633,
-      "Polarization": "H",
-      "SymbolRateKs": 22000,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12640,
+      "FrequencyMHz": 12632,
       "Polarization": "V",
-      "SymbolRateKs": 22000,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "SymbolRateKs": 9404,
+      "Fec": "None",
+      "Standard": "DVB-S2X",
+      "Modulation": "AUTO",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12646,
+      "FrequencyMHz": 12640.8,
+      "Polarization": "H",
+      "SymbolRateKs": 5000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12642,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12645.1,
       "Polarization": "V",
       "SymbolRateKs": 5000,
       "Fec": "5/6",
@@ -7074,6 +6771,24 @@
       "Fec": "1/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12652.48,
+      "Polarization": "V",
+      "SymbolRateKs": 265,
+      "Fec": "None",
+      "Standard": "DVB-S2X",
+      "Modulation": "AUTOStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12652.53,
+      "Polarization": "V",
+      "SymbolRateKs": 265,
+      "Fec": "1/4",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSKStream",
       "Channels": []
     },
     {
@@ -7104,10 +6819,10 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12670,
-      "Polarization": "V",
-      "SymbolRateKs": 23000,
-      "Fec": "2/3",
+      "FrequencyMHz": 12669.3,
+      "Polarization": "H",
+      "SymbolRateKs": 9600,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -7131,21 +6846,21 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12694.57,
+      "FrequencyMHz": 12691.8,
       "Polarization": "V",
-      "SymbolRateKs": 9600,
-      "Fec": "3/4",
+      "SymbolRateKs": 10000,
+      "Fec": "2/3",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12701,
+      "FrequencyMHz": 12702.3,
       "Polarization": "V",
-      "SymbolRateKs": 5000,
-      "Fec": "5/6",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "16APSK",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -7158,10 +6873,10 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12720.81,
+      "FrequencyMHz": 12725,
       "Polarization": "H",
-      "SymbolRateKs": 22000,
-      "Fec": "5/6",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []

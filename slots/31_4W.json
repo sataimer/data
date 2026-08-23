@@ -1,0 +1,23 @@
+{
+  "SlotKey": "31.4W",
+  "Transponders": [
+    {
+      "FrequencyMHz": 11518,
+      "Polarization": "V",
+      "SymbolRateKs": 3000,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11529,
+      "Polarization": "V",
+      "SymbolRateKs": 2893,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    }
+  ]
+}

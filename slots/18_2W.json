@@ -1,0 +1,32 @@
+{
+  "SlotKey": "18.2W",
+  "Transponders": [
+    {
+      "FrequencyMHz": 3590,
+      "Polarization": "V",
+      "SymbolRateKs": 26400,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11038,
+      "Polarization": "H",
+      "SymbolRateKs": 8888,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12522,
+      "Polarization": "H",
+      "SymbolRateKs": 29998,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSKStream",
+      "Channels": []
+    }
+  ]
+}

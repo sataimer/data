@@ -307,7 +307,7 @@
     {
       "FrequencyMHz": 3831,
       "Polarization": "L",
-      "SymbolRateKs": 2190,
+      "SymbolRateKs": 2170,
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -446,6 +446,15 @@
           "IsFta": false
         },
         {
+          "Name": "Saira Movies TV",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "U-Laff TV",
           "Package": "Harmonic",
           "Languages": [],
@@ -463,15 +472,6 @@
         },
         {
           "Name": "Advocate Broadcasting Network TV",
-          "Package": "Harmonic",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Liberty TV Nigeria",
           "Package": "Harmonic",
           "Languages": [
             "eng"
@@ -594,36 +594,11 @@
           "IsFta": false
         },
         {
-          "Name": "Kaftan TV Yoruba",
-          "Package": "Harmonic",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "E-Star",
           "Package": "Harmonic",
           "Languages": [
             "eng"
           ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Kaftan TV",
-          "Package": "Harmonic",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Kaftan Hausa",
-          "Package": "Harmonic",
-          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -664,9 +639,9 @@
       ]
     },
     {
-      "FrequencyMHz": 3902,
+      "FrequencyMHz": 3900,
       "Polarization": "R",
-      "SymbolRateKs": 9550,
+      "SymbolRateKs": 7674,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -686,6 +661,13 @@
           "Languages": [
             "eng"
           ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Clouds TV",
+          "Package": "Harmonic",
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -753,6 +735,13 @@
         },
         {
           "Name": "WRM TV",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Arise and Shine TV",
           "Package": "Harmonic",
           "Languages": [],
           "Type": "TV",
@@ -1170,6 +1159,13 @@
           "IsFta": false
         },
         {
+          "Name": "Glorious TV",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Spark TV",
           "Package": "Harmonic",
           "Languages": [],
@@ -1234,23 +1230,7 @@
           "IsFta": false
         },
         {
-          "Name": "LIT TV",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
           "Name": "Face TV (Uganda)",
-          "Package": "Harmonic",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Glorious Times",
           "Package": "Harmonic",
           "Languages": [
             "eng"
@@ -1281,14 +1261,7 @@
           "Package": "Harmonic",
           "Languages": [],
           "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Star TV Uganda",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "Sanyuka Prime",
@@ -1300,7 +1273,7 @@
           "IsFta": false
         },
         {
-          "Name": "NBS (Uganda)",
+          "Name": "Salam TV",
           "Package": "Harmonic",
           "Languages": [
             "eng"
@@ -1318,10 +1291,17 @@
           "IsFta": true
         },
         {
-          "Name": "Bunyoro TV",
+          "Name": "DOXA TV",
           "Package": "Harmonic",
           "Languages": [],
-          "Type": "TV",
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "CHANNEL 44",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -1346,31 +1326,29 @@
           "IsFta": false
         },
         {
-          "Name": "UBC WEST FM",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "UBC BUTEBO FM",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "UBC RED  FM",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "MCF RADIO",
           "Package": "Harmonic",
           "Languages": [],
           "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3969,
+      "Polarization": "R",
+      "SymbolRateKs": 1250,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Cam10 TV",
+          "Package": "DTV",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
           "IsFta": true
         }
       ]
@@ -1535,15 +1513,6 @@
           "Name": "Congo 26",
           "Package": "MultiProgram",
           "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "10\u00E8me Rue",
-          "Package": "MultiProgram",
-          "Languages": [
-            "fra"
-          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -1716,7 +1685,7 @@
     {
       "FrequencyMHz": 4024,
       "Polarization": "L",
-      "SymbolRateKs": 2500,
+      "SymbolRateKs": 4340,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
@@ -1733,13 +1702,23 @@
       ]
     },
     {
-      "FrequencyMHz": 4027,
+      "FrequencyMHz": 4029,
       "Polarization": "R",
-      "SymbolRateKs": 1666,
-      "Fec": "8/9",
+      "SymbolRateKs": 2300,
+      "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Horizon 3 TV",
+          "Package": "HORIZON 3 TV",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 4031,
@@ -1889,10 +1868,10 @@
           "IsFta": true
         },
         {
-          "Name": "Telescola",
+          "Name": "SIX TV",
           "Package": "Harmonic",
           "Languages": [],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -1912,12 +1891,10 @@
           "IsFta": true
         },
         {
-          "Name": "Gloom",
+          "Name": "MINDCAST TV",
           "Package": "Harmonic",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -1955,19 +1932,17 @@
           "IsFta": true
         },
         {
-          "Name": "Gungu TV",
+          "Name": "A TUA TV",
           "Package": "Harmonic",
           "Languages": [],
-          "Type": "TV",
-          "IsFta": true
+          "Type": "Unknown",
+          "IsFta": false
         },
         {
-          "Name": "Tua TV",
+          "Name": "FOCOS TV",
           "Package": "Harmonic",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -1981,6 +1956,13 @@
         },
         {
           "Name": "FTV",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "RTI",
           "Package": "Harmonic",
           "Languages": [],
           "Type": "Unknown",
@@ -2051,11 +2033,32 @@
           "IsFta": true
         },
         {
+          "Name": "TV Verdade",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TLN Network",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "TNT Africa",
           "Package": "Harmonic",
           "Languages": [],
           "Type": "TV",
           "IsFta": true
+        },
+        {
+          "Name": "ST NOVELA P",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
         },
         {
           "Name": "StarTimes Novela E Plus",
@@ -2090,6 +2093,13 @@
           "Package": "Harmonic",
           "Languages": [],
           "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVI INTL",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -2305,6 +2315,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 4068.8,
+      "Polarization": "R",
+      "SymbolRateKs": 128,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 4073,
       "Polarization": "R",
       "SymbolRateKs": 1080,
@@ -2348,377 +2367,7 @@
       "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "QPSKStream",
-      "Channels": [
-        {
-          "Name": "Telescola",
-          "Package": "Harmonic",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "TV Sucesso",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "C TV",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Limpopo TV",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RAM TV",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "KTV",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "TV Mana",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "TV ACCAO",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "AMC P",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "AMC Movies Africa",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TLN Network",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TNT AFRICA",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ST NOVELA P",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "STAR COMEDY",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "STAR LIFE P",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "STAR CHANNEL",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Canal Hollywood Portugal",
-          "Package": "Harmonic",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "ST Movies Plus",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "STV KungFu 1",
-          "Package": "Harmonic",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "RTP INTL",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TVI Internacional",
-          "Package": "Harmonic",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "SIC INTL",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "SIC Mulher",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "NGW P",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ST Sports Focus",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CANAL 11",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ESPN",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ESPN 2",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "RMTV",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CNN PORTUGAL",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "SIC NOTICIAS",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "24 KITCHEN",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ST KIDS",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TOONAMI",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "JIMJAM P",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Panda Kids",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Boing Spain",
-          "Package": "Harmonic",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "BIGGS",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "DISNEY CHANNEL",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "DISNEY JUNIOR",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "AFRO MUSIC",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Emmanuel TV",
-          "Package": "Harmonic",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "STAR LIFE",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "RM ANTENA NACIONAL",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "RM DESPORTO",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "RM CABO DELGADO",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "RM NIASSA",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "RM SOFALA",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "RM ZAMBEZIA",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "RM INHAMBANE",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "RM NAMPULA",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 4099,
@@ -2823,6 +2472,15 @@
       ]
     },
     {
+      "FrequencyMHz": 4115,
+      "Polarization": "R",
+      "SymbolRateKs": 1666,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 4116,
       "Polarization": "R",
       "SymbolRateKs": 1000,
@@ -2866,17 +2524,7 @@
       "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Global TV Africa",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 10934.6,
@@ -2897,12 +2545,39 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 10969.2,
+      "Polarization": "H",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 10974,
       "Polarization": "H",
       "SymbolRateKs": 10000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10978.2,
+      "Polarization": "H",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10987.2,
+      "Polarization": "H",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -2921,6 +2596,15 @@
       "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11014.2,
+      "Polarization": "H",
+      "SymbolRateKs": 8571,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {
@@ -2971,7 +2655,7 @@
     {
       "FrequencyMHz": 11144.7,
       "Polarization": "H",
-      "SymbolRateKs": 40000,
+      "SymbolRateKs": 39999,
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "16APSK",
@@ -2996,6 +2680,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11281.6,
+      "Polarization": "H",
+      "SymbolRateKs": 20833,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11325,
       "Polarization": "H",
       "SymbolRateKs": 2000,
@@ -3016,7 +2709,7 @@
     {
       "FrequencyMHz": 11388.1,
       "Polarization": "H",
-      "SymbolRateKs": 25000,
+      "SymbolRateKs": 30000,
       "Fec": "1/3",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
@@ -3032,13 +2725,208 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11432,
+      "FrequencyMHz": 11430,
       "Polarization": "H",
-      "SymbolRateKs": 2000,
-      "Fec": "2/3",
+      "SymbolRateKs": 18330,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "SudFM TV",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Le Messager TV",
+          "Package": "LE MESSAGER TV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canal 2 International",
+          "Package": "FTA",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Exodus Channel",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "France 24 (en Fran\u00E7ais)",
+          "Package": "A",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Cam10 TV",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Afrique Media",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Info TV Cameroon",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Dash TV",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Times TV Cameroun",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Horizon 3 TV",
+          "Package": "HORIZON 3TV",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NTV Cameroun",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Power TV Cameroun",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RTV (Resurrection TV)",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO BALAFON",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Tropical FM",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RealTime Cameroun",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "GMS TV Cameroun",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "BNews 1",
+          "Package": "RASCOM",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Kalangou",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "HORIZON 3 RADIO",
+          "Package": "HORIZON 3 TV",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio SIRIRI",
+          "Package": "RASCOM",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 11455,
@@ -3206,9 +3094,9 @@
       "FrequencyMHz": 11543.8,
       "Polarization": "H",
       "SymbolRateKs": 51429,
-      "Fec": "None",
-      "Standard": "DVB-S2",
-      "Modulation": "64APSK",
+      "Fec": "25/36",
+      "Standard": "DVB-S2X",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {
@@ -3287,9 +3175,9 @@
       "FrequencyMHz": 11641.1,
       "Polarization": "H",
       "SymbolRateKs": 1182,
-      "Fec": "3/5",
+      "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "32APSK",
       "Channels": []
     },
     {
@@ -3305,9 +3193,9 @@
       "FrequencyMHz": 11641.1,
       "Polarization": "H",
       "SymbolRateKs": 1182,
-      "Fec": "4/5",
+      "Fec": "3/5",
       "Standard": "DVB-S2",
-      "Modulation": "16APSKStream",
+      "Modulation": "8PSKStream",
       "Channels": []
     },
     {
@@ -3320,7 +3208,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11647,
+      "FrequencyMHz": 11646.5,
       "Polarization": "H",
       "SymbolRateKs": 1900,
       "Fec": "3/4",
@@ -3434,7 +3322,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11674,
+      "FrequencyMHz": 11673.3,
       "Polarization": "H",
       "SymbolRateKs": 3333,
       "Fec": "2/3",
@@ -3443,7 +3331,7 @@
       "Channels": [
         {
           "Name": "Al Rabiaa Iraq",
-          "Package": "DARkMEDIAP",
+          "Package": "Service Provider",
           "Languages": [
             "ara"
           ],
@@ -3481,7 +3369,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11693,
+      "FrequencyMHz": 11693.8,
       "Polarization": "H",
       "SymbolRateKs": 2963,
       "Fec": "5/6",
@@ -3524,6 +3412,15 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12539.6,
+      "Polarization": "H",
+      "SymbolRateKs": 4540,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "AUTO",
       "Channels": []
     },
     {
@@ -3614,12 +3511,30 @@
       ]
     },
     {
+      "FrequencyMHz": 12591.3,
+      "Polarization": "V",
+      "SymbolRateKs": 3800,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 12601,
       "Polarization": "H",
       "SymbolRateKs": 18845,
       "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12627.6,
+      "Polarization": "V",
+      "SymbolRateKs": 3800,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
       "Channels": []
     },
     {
@@ -3650,10 +3565,10 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12656,
+      "FrequencyMHz": 12655.6,
       "Polarization": "H",
       "SymbolRateKs": 1483,
-      "Fec": "3/5",
+      "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -3674,7 +3589,7 @@
       "SymbolRateKs": 7667,
       "Fec": "2/3",
       "Standard": "DVB-S2",
-      "Modulation": "16APSK",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -3741,6 +3656,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 12719,
+      "Polarization": "H",
+      "SymbolRateKs": 2894,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 12719.8,
       "Polarization": "V",
       "SymbolRateKs": 1800,
@@ -3750,22 +3674,32 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12723,
+      "FrequencyMHz": 12723.5,
       "Polarization": "H",
-      "SymbolRateKs": 5000,
+      "SymbolRateKs": 3750,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12741.8,
+      "FrequencyMHz": 12742.9,
       "Polarization": "H",
-      "SymbolRateKs": 1304,
+      "SymbolRateKs": 2476,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Al Forat",
+          "Package": "Service Provider",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     }
   ]
 }

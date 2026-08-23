@@ -2,60 +2,6 @@
   "SlotKey": "40.0E",
   "Transponders": [
     {
-      "FrequencyMHz": 3559,
-      "Polarization": "L",
-      "SymbolRateKs": 5120,
-      "Fec": "3/4",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 3565,
-      "Polarization": "L",
-      "SymbolRateKs": 5130,
-      "Fec": "3/4",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 3575,
-      "Polarization": "L",
-      "SymbolRateKs": 34440,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 3575,
-      "Polarization": "L",
-      "SymbolRateKs": 34440,
-      "Fec": "1/2",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 3586,
-      "Polarization": "L",
-      "SymbolRateKs": 15284,
-      "Fec": "3/4",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 3592,
-      "Polarization": "L",
-      "SymbolRateKs": 5130,
-      "Fec": "3/4",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 3608,
       "Polarization": "L",
       "SymbolRateKs": 5130,
@@ -419,29 +365,11 @@
       ]
     },
     {
-      "FrequencyMHz": 3675,
-      "Polarization": "R",
-      "SymbolRateKs": 34440,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 3675,
-      "Polarization": "R",
-      "SymbolRateKs": 34440,
-      "Fec": "1/2",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 3685,
       "Polarization": "L",
       "SymbolRateKs": 15284,
       "Fec": "3/4",
-      "Standard": "DVB-S2",
+      "Standard": "DVB-S2T2-MI,",
       "Modulation": "8PSK",
       "Channels": []
     },
@@ -1417,7 +1345,7 @@
       ]
     },
     {
-      "FrequencyMHz": 3875,
+      "FrequencyMHz": 3875.3,
       "Polarization": "R",
       "SymbolRateKs": 5064,
       "Fec": "3/4",
@@ -1560,24 +1488,6 @@
       ]
     },
     {
-      "FrequencyMHz": 3888,
-      "Polarization": "R",
-      "SymbolRateKs": 3610,
-      "Fec": "3/4",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 3888,
-      "Polarization": "R",
-      "SymbolRateKs": 3610,
-      "Fec": "3/4",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 3892,
       "Polarization": "L",
       "SymbolRateKs": 5130,
@@ -1624,24 +1534,6 @@
       ]
     },
     {
-      "FrequencyMHz": 3893,
-      "Polarization": "R",
-      "SymbolRateKs": 3600,
-      "Fec": "3/4",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 3893,
-      "Polarization": "R",
-      "SymbolRateKs": 3600,
-      "Fec": "3/4",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 3908,
       "Polarization": "L",
       "SymbolRateKs": 5140,
@@ -1661,7 +1553,7 @@
       ]
     },
     {
-      "FrequencyMHz": 3908,
+      "FrequencyMHz": 3908.3,
       "Polarization": "L",
       "SymbolRateKs": 5140,
       "Fec": "3/4",
@@ -2336,12 +2228,21 @@
       ]
     },
     {
-      "FrequencyMHz": 11191,
-      "Polarization": "H",
-      "SymbolRateKs": 10110,
-      "Fec": "3/4",
+      "FrequencyMHz": 11471,
+      "Polarization": "V",
+      "SymbolRateKs": 4247,
+      "Fec": "1/2",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11476,
+      "Polarization": "V",
+      "SymbolRateKs": 4247,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
       "Channels": []
     }
   ]

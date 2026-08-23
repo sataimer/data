@@ -1,0 +1,23 @@
+{
+  "SlotKey": "1.2E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 11225,
+      "Polarization": "V",
+      "SymbolRateKs": 3065,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11415,
+      "Polarization": "V",
+      "SymbolRateKs": 18500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    }
+  ]
+}

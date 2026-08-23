@@ -7,17 +7,116 @@
       "SymbolRateKs": 22000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
       "FrequencyMHz": 10729,
       "Polarization": "V",
-      "SymbolRateKs": 22000,
-      "Fec": "2/3",
+      "SymbolRateKs": 23500,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "La 1 UHD",
+          "Package": "Boobles",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "La 2",
+          "Package": "Boobles",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal 24 Horas",
+          "Package": "Boobles",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Clan TVE",
+          "Package": "Boobles",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Teledeporte",
+          "Package": "Boobles",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Trece",
+          "Package": "Boobles",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Dkiss",
+          "Package": "Boobles",
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "A Punt HD",
+          "Package": "Boobles",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ETB 1 HD",
+          "Package": "Boobles",
+          "Languages": [
+            "bas"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TPA Asturias HD",
+          "Package": "Boobles",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal Sur Andalucia",
+          "Package": "Boobles",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
     },
     {
       "FrequencyMHz": 10743.75,
@@ -98,16 +197,6 @@
           "IsFta": false
         },
         {
-          "Name": "TEST DZ5.",
-          "Package": "BARNA",
-          "Languages": [
-            "esp",
-            "cat"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
           "Name": "Mezzo Live HD",
           "Package": "Movistar\u002B",
           "Languages": [
@@ -154,7 +243,7 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Anixe HD",
+          "Name": "Anixe HD Serie",
           "Package": "BetaDigital",
           "Languages": [
             "ger"
@@ -218,10 +307,11 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "Alquiler 1",
+          "Name": "Movistar Baloncesto",
           "Package": "Movistar\u002B",
           "Languages": [
-            "esp"
+            "esp",
+            "vo"
           ],
           "Type": "TV",
           "IsFta": false
@@ -247,17 +337,16 @@
           "IsFta": false
         },
         {
-          "Name": "Alquiler XY",
+          "Name": "DAZN Baloncesto 3",
           "Package": "Movistar\u002B",
           "Languages": [
-            "esp",
-            "vo"
+            "esp"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "Movistar En Juego",
+          "Name": "Movistar Orgullo",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
@@ -376,7 +465,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10803,
+      "FrequencyMHz": 10802.75,
       "Polarization": "H",
       "SymbolRateKs": 22000,
       "Fec": "3/4",
@@ -469,7 +558,7 @@
           "Name": "LaLiga TV Bar HD",
           "Package": "Movistar\u002B",
           "Languages": [
-            "vo"
+            "esp"
           ],
           "Type": "TV",
           "IsFta": false
@@ -662,6 +751,16 @@
           "IsFta": true
         },
         {
+          "Name": "TEST TP58",
+          "Package": "DIGITAL\u002B",
+          "Languages": [
+            "esp",
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
           "Name": "PORTADA",
           "Package": "DIGITAL\u002B",
           "Languages": [
@@ -690,15 +789,6 @@
           "IsFta": true
         }
       ]
-    },
-    {
-      "FrequencyMHz": 10861.75,
-      "Polarization": "H",
-      "SymbolRateKs": 23500,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
     },
     {
       "FrequencyMHz": 10876.5,
@@ -795,7 +885,7 @@
           "IsFta": false
         },
         {
-          "Name": "LaLiga TV Bar",
+          "Name": "LaLiga TV Bar 1",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
@@ -944,7 +1034,7 @@
           "IsFta": true
         },
         {
-          "Name": "YOU FM",
+          "Name": "DASDING vom hr",
           "Package": "ARD Digital",
           "Languages": [
             "ger"
@@ -1145,10 +1235,11 @@
           "IsFta": false
         },
         {
-          "Name": "Alquiler HD",
+          "Name": "Movistar Baloncesto HD",
           "Package": "Movistar\u002B",
           "Languages": [
-            "esp"
+            "esp",
+            "vo"
           ],
           "Type": "TV",
           "IsFta": false
@@ -1202,7 +1293,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10936,
+      "FrequencyMHz": 10935.5,
       "Polarization": "V",
       "SymbolRateKs": 22000,
       "Fec": "5/6",
@@ -1210,43 +1301,43 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "Movistar Liga Campeones 11",
+          "Name": "TEST 6 TXP64",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "Movistar Liga Campeones 12",
+          "Name": "TEST 1 TXP64",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "Movistar Liga Campeones 7",
+          "Name": "TEST 2 TXP64",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "Movistar Liga Campeones 8",
+          "Name": "TEST 3 TXP64",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -1260,13 +1351,22 @@
           "IsFta": false
         },
         {
-          "Name": "Movistar Liga Campeones 6",
+          "Name": "DAZN Baloncesto 1",
+          "Package": "Movistar\u002B",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TEST TXP64",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -1280,23 +1380,23 @@
           "IsFta": false
         },
         {
-          "Name": "Movistar Liga Campeones 13",
+          "Name": "TEST 7 TXP64",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "Movistar Liga Campeones 9",
+          "Name": "TEST 4 TXP64",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -1310,13 +1410,13 @@
           "IsFta": false
         },
         {
-          "Name": "Movistar Liga Campeones 10",
+          "Name": "TEST 5 TXP64",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -1351,7 +1451,7 @@
       "Channels": [
         {
           "Name": "TLC HD",
-          "Package": "HD \u002BSky Deutschland",
+          "Package": "HD \u002B",
           "Languages": [
             "ger"
           ],
@@ -1377,14 +1477,7 @@
           "IsFta": true
         },
         {
-          "Name": ".",
-          "Package": "BetaDigital",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Channel 21 HD",
+          "Name": "HSE Trend HD",
           "Package": "BetaDigital",
           "Languages": [
             "ger"
@@ -1409,13 +1502,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": ".",
-          "Package": "BetaDigital",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
         }
       ]
     },
@@ -1567,7 +1653,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10994,
+      "FrequencyMHz": 10993.75,
       "Polarization": "H",
       "SymbolRateKs": 22000,
       "Fec": "5/6",
@@ -1774,15 +1860,6 @@
           "IsFta": true
         }
       ]
-    },
-    {
-      "FrequencyMHz": 11023.25,
-      "Polarization": "H",
-      "SymbolRateKs": 23500,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
     },
     {
       "FrequencyMHz": 11038,
@@ -2047,25 +2124,7 @@
           "IsFta": true
         },
         {
-          "Name": "BR24live",
-          "Package": "ARD Digital",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "BR Schlager",
-          "Package": "ARD Digital",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "PULS",
           "Package": "ARD Digital",
           "Languages": [
             "ger"
@@ -2254,7 +2313,7 @@
           "IsFta": true
         },
         {
-          "Name": "SWR1 RP",
+          "Name": "SWR1 RLP",
           "Package": "ARD Digital",
           "Languages": [
             "ger"
@@ -2281,7 +2340,7 @@
           "IsFta": true
         },
         {
-          "Name": "SWR4 BW",
+          "Name": "SWR4 S",
           "Package": "ARD Digital",
           "Languages": [
             "ger"
@@ -2290,7 +2349,7 @@
           "IsFta": true
         },
         {
-          "Name": "SWR4 RP",
+          "Name": "SWR4 MZ",
           "Package": "ARD Digital",
           "Languages": [
             "ger"
@@ -2299,7 +2358,7 @@
           "IsFta": true
         },
         {
-          "Name": "DASDING",
+          "Name": "DASDING vom SWR",
           "Package": "ARD Digital",
           "Languages": [
             "ger"
@@ -2534,27 +2593,25 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "Alquiler X",
+          "Name": "DAZN Baloncesto 2",
           "Package": "Movistar\u002B",
           "Languages": [
-            "esp",
-            "vo"
+            "esp"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "Alquiler XX",
+          "Name": "DAZN Moto GP",
           "Package": "Movistar\u002B",
           "Languages": [
-            "esp",
-            "vo"
+            "esp"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "Paramount Channel Spain",
+          "Name": "Movistar Baloncesto 2",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
@@ -2582,16 +2639,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "TEST TOROS",
-          "Package": "Movistar\u002B",
-          "Languages": [
-            "esp",
-            "vo"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
         },
         {
           "Name": "DAZN 1 Bar HD",
@@ -2681,6 +2728,13 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "TEST TOROS",
+          "Package": "Movistar\u002B",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
         }
       ]
     },
@@ -2694,7 +2748,16 @@
       "Channels": [
         {
           "Name": "Eurosport 1 HD",
-          "Package": "HD \u002BSky Deutschland",
+          "Package": "HD \u002B",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DFB.TV",
+          "Package": "HD \u002B",
           "Languages": [
             "ger"
           ],
@@ -2730,7 +2793,7 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "TEST TXP44",
+          "Name": "TEST 4 TXP 44",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
@@ -2740,7 +2803,7 @@
           "IsFta": false
         },
         {
-          "Name": "TEST3 TXP44",
+          "Name": "TEST 6 TXP 44",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
@@ -2750,7 +2813,7 @@
           "IsFta": false
         },
         {
-          "Name": "Movistar Navidad Disney",
+          "Name": "M\u002B Vacaciones",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp"
@@ -2786,7 +2849,7 @@
           "IsFta": false
         },
         {
-          "Name": "TEST4 TXP44",
+          "Name": "TEST 2 TXP 44",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
@@ -2796,11 +2859,12 @@
           "IsFta": false
         },
         {
-          "Name": "TEST5 TXP44",
+          "Name": "TEST 1 TXP 44",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
-            "vo"
+            "cat",
+            "gal"
           ],
           "Type": "Unknown",
           "IsFta": false
@@ -2843,7 +2907,7 @@
           "IsFta": false
         },
         {
-          "Name": "Movistar LaLiga 5",
+          "Name": "Mundial Baloncesto 3",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
@@ -2853,7 +2917,7 @@
           "IsFta": false
         },
         {
-          "Name": "TEST2 TXP44",
+          "Name": "TEST 5 TXP 44",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
@@ -2900,10 +2964,11 @@
           "IsFta": false
         },
         {
-          "Name": "Caza y Pesca",
+          "Name": "LaLiga TV Bar 5",
           "Package": "Movistar\u002B",
           "Languages": [
-            "esp"
+            "esp",
+            "vo"
           ],
           "Type": "TV",
           "IsFta": false
@@ -3030,10 +3095,45 @@
       "FrequencyMHz": 11170.75,
       "Polarization": "H",
       "SymbolRateKs": 22000,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": ".1.",
+          "Package": "HD \u002B",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": ".2.",
+          "Package": "BooblesHD \u002BSky Deutschland",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": ".3.",
+          "Package": "BetaDigital",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": ".4.",
+          "Package": "BetaDigital",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 11185.5,
@@ -3103,7 +3203,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11209.3,
+      "FrequencyMHz": 11208.99,
       "Polarization": "H",
       "SymbolRateKs": 9875,
       "Fec": "3/4",
@@ -3112,9 +3212,9 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11220.8,
+      "FrequencyMHz": 11221.2,
       "Polarization": "H",
-      "SymbolRateKs": 7200,
+      "SymbolRateKs": 9875,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -3154,17 +3254,73 @@
           ],
           "Type": "TV",
           "IsFta": true
+        },
+        {
+          "Name": "Aragon TV HD",
+          "Package": "Boobles",
+          "Languages": [
+            "esp",
+            "qad"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "IB Sat",
+          "Package": "Boobles",
+          "Languages": [
+            "cat",
+            "esp",
+            "qad"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "La 7 Castillaleon",
+          "Package": "Boobles",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Extremadura TV",
+          "Package": "Boobles",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVG 1",
+          "Package": "Boobles",
+          "Languages": [
+            "gal",
+            "qad"
+          ],
+          "Type": "TV",
+          "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 11244,
+      "FrequencyMHz": 11243.75,
       "Polarization": "H",
       "SymbolRateKs": 22000,
       "Fec": "5/6",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
+        {
+          "Name": "Lilo.TV",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
         {
           "Name": "ATV 2 Austria",
           "Package": "AustriasatSky Deutschland",
@@ -3211,10 +3367,17 @@
           "IsFta": true
         },
         {
-          "Name": "Service 13232",
+          "Name": "Test42",
           "Package": "ORS",
           "Languages": [],
-          "Type": "Data",
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test43",
+          "Package": "ORS",
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -3251,10 +3414,11 @@
           "IsFta": false
         },
         {
-          "Name": "M\u002B Ellas #V HD",
+          "Name": "Movistar Vamos 3 HD",
           "Package": "Movistar\u002B",
           "Languages": [
-            "esp"
+            "esp",
+            "vo"
           ],
           "Type": "TV",
           "IsFta": false
@@ -3488,15 +3652,6 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "QVC UHD Germany",
-          "Package": "MX1",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "TRWAM",
           "Package": "SES ASTRA",
           "Languages": [
@@ -3504,6 +3659,50 @@
           ],
           "Type": "TV",
           "IsFta": true
+        },
+        {
+          "Name": "La 7 HD",
+          "Package": "Boobles",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV3 Cataluna HD",
+          "Package": "Boobles",
+          "Languages": [
+            "cat"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TeleMadrid Sat",
+          "Package": "Boobles",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Television Canaria",
+          "Package": "Boobles",
+          "Languages": [
+            "esp",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CMM",
+          "Package": "Boobles",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
         },
         {
           "Name": "Radio Maryja",
@@ -3582,15 +3781,6 @@
         {
           "Name": "RIC",
           "Package": "IP Broadcast",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "TV Berlin",
-          "Package": "ORF Digital",
           "Languages": [
             "ger"
           ],
@@ -3732,7 +3922,7 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "M\u002B Ellas #V",
+          "Name": "Movistar Vamos 3",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
@@ -3761,7 +3951,7 @@
           "IsFta": false
         },
         {
-          "Name": "Disney Junior Spain",
+          "Name": "Disney Channel Spain",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
@@ -3871,24 +4061,6 @@
       ]
     },
     {
-      "FrequencyMHz": 11323.7,
-      "Polarization": "H",
-      "SymbolRateKs": 7200,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11332.7,
-      "Polarization": "H",
-      "SymbolRateKs": 7200,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 11347,
       "Polarization": "V",
       "SymbolRateKs": 22000,
@@ -3926,7 +4098,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11362,
+      "FrequencyMHz": 11361.75,
       "Polarization": "H",
       "SymbolRateKs": 22000,
       "Fec": "2/3",
@@ -4095,80 +4267,6 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "La 1 UHD",
-          "Package": "Boobles",
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "La 2",
-          "Package": null,
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Canal 24 Horas",
-          "Package": null,
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Clan TVE",
-          "Package": null,
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Teledeporte",
-          "Package": null,
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Trece",
-          "Package": "Boobles",
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Dkiss",
-          "Package": null,
-          "Languages": [
-            "esp",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 11412.5,
-      "Polarization": "V",
-      "SymbolRateKs": 9875,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -4178,71 +4276,22 @@
       "Fec": "5/6",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "3\u002B Schweiz",
-          "Package": "SSR/SRG",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": ".1.",
-          "Package": "HD \u002B",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": ".2.",
-          "Package": "HD \u002BSky Deutschland",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": ".3.",
-          "Package": "BetaDigital",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "SES 06",
-          "Package": "BetaDigital",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
-          "Name": "SES 07",
-          "Package": "BetaDigital",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
-          "Name": "SES 09",
-          "Package": "BetaDigital",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
-      "FrequencyMHz": 11435.5,
+      "FrequencyMHz": 11429,
       "Polarization": "V",
-      "SymbolRateKs": 22000,
-      "Fec": "2/3",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11442,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -4366,18 +4415,9 @@
       ]
     },
     {
-      "FrequencyMHz": 11472.5,
+      "FrequencyMHz": 11479,
       "Polarization": "V",
-      "SymbolRateKs": 7500,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11485.6,
-      "Polarization": "V",
-      "SymbolRateKs": 7500,
+      "SymbolRateKs": 23500,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -4431,30 +4471,13 @@
       ]
     },
     {
-      "FrequencyMHz": 11508.5,
+      "FrequencyMHz": 11508,
       "Polarization": "V",
       "SymbolRateKs": 22000,
       "Fec": "5/6",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Arirang TV HD",
-          "Package": "Globecast",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "DATASYSTEM",
-          "Package": "Canal\u002B France",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11523.25,
@@ -4571,6 +4594,15 @@
           ],
           "Type": "Unknown",
           "IsFta": true
+        },
+        {
+          "Name": "arte Mediathek (Internet)",
+          "Package": "ARD Digital",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
         }
       ]
     },
@@ -4582,6 +4614,15 @@
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
+        {
+          "Name": "Arirang TV HD",
+          "Package": "GLOBECAST",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
         {
           "Name": "France 24 (en Fran\u00E7ais)",
           "Package": "GLOBECAST",
@@ -4616,13 +4657,6 @@
             "eng"
           ],
           "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "DATASYSTEM",
-          "Package": "GLOBECAST",
-          "Languages": [],
-          "Type": "Data",
           "IsFta": true
         }
       ]
@@ -4726,14 +4760,14 @@
     {
       "FrequencyMHz": 11561,
       "Polarization": "V",
-      "SymbolRateKs": 9875,
+      "SymbolRateKs": 7200,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11582.5,
+      "FrequencyMHz": 11582.25,
       "Polarization": "H",
       "SymbolRateKs": 21998,
       "Fec": "2/3",
@@ -4806,30 +4840,29 @@
       ]
     },
     {
-      "FrequencyMHz": 11602.9,
+      "FrequencyMHz": 11603.7,
       "Polarization": "V",
       "SymbolRateKs": 2200,
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "DAB",
+          "Package": null,
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
     },
     {
-      "FrequencyMHz": 11606.1,
+      "FrequencyMHz": 11606,
       "Polarization": "V",
       "SymbolRateKs": 1000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "32APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11606.1,
-      "Polarization": "V",
-      "SymbolRateKs": 1000,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
       "Channels": []
     },
     {
@@ -4842,6 +4875,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11620,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11620.5,
       "Polarization": "H",
       "SymbolRateKs": 5932,
@@ -4851,17 +4893,8 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11626.5,
+      "FrequencyMHz": 11633,
       "Polarization": "V",
-      "SymbolRateKs": 26000,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11634.8,
-      "Polarization": "H",
       "SymbolRateKs": 7200,
       "Fec": "3/4",
       "Standard": "DVB-S2",
@@ -4869,12 +4902,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11641.25,
+      "FrequencyMHz": 11641.2,
       "Polarization": "H",
-      "SymbolRateKs": 22000,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "SymbolRateKs": 25000,
+      "Fec": "11/15",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {
@@ -5000,8 +5033,8 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "NRW Enc1 Ltg-Dssd.",
-          "Package": "MEDIA BROADCAST",
+          "Name": "DLF USI2",
+          "Package": "MB Satellite",
           "Languages": [
             "ger"
           ],
@@ -5009,7 +5042,7 @@
           "IsFta": true
         },
         {
-          "Name": "DLFK USI1",
+          "Name": "DLFK USI2",
           "Package": "MB Satellite",
           "Languages": [
             "ger"
@@ -5026,7 +5059,17 @@
       "Fec": "7/8",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "NRW Enc1 Ltg-Dssd.",
+          "Package": "MEDIA BROADCAST",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 11696.7,
@@ -5135,11 +5178,10 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Cinema Family Germany",
+          "Name": "Sky Cinema Feelgood",
           "Package": "Sky Deutschland",
           "Languages": [
-            "ger",
-            "eng"
+            "ger"
           ],
           "Type": "TV",
           "IsFta": false
@@ -5168,7 +5210,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Sport 2 HD Germany",
+          "Name": "Sky Sport 2 Germany",
           "Package": "Sky Deutschland",
           "Languages": [
             "ger"
@@ -5380,17 +5422,17 @@
         },
         {
           "Name": "Astra 1 Service 4",
-          "Package": "MX1",
+          "Package": "SES Video",
           "Languages": [],
           "Type": "Unknown",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "Astra 1 Service 5",
-          "Package": "MX1",
+          "Package": "SES Video",
           "Languages": [],
           "Type": "Unknown",
-          "IsFta": false
+          "IsFta": true
         }
       ]
     },
@@ -5421,35 +5463,8 @@
           "IsFta": true
         },
         {
-          "Name": "Zwei Music Television",
-          "Package": "FOLX.TV",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Astra Vision",
           "Package": null,
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Genius Exklusiv TV",
-          "Package": "WISI",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Genius Family",
-          "Package": "TV.2000plus",
           "Languages": [
             "ger"
           ],
@@ -5940,15 +5955,6 @@
           "IsFta": false
         },
         {
-          "Name": "PANNEAU ARRET G5",
-          "Package": "Canal\u002B France",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
           "Name": "France 3 Franche-Comt\u00E9",
           "Package": "Canal\u002B FranceTNTSAT",
           "Languages": [
@@ -6054,8 +6060,17 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "ZDF SD",
-          "Package": "ZDF Vision",
+          "Name": "DFB.TV",
+          "Package": null,
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Astra Demo",
+          "Package": "SES",
           "Languages": [
             "ger"
           ],
@@ -6063,8 +6078,8 @@
           "IsFta": true
         },
         {
-          "Name": "3sat SD",
-          "Package": "ZDF Vision",
+          "Name": "Astra Demo",
+          "Package": "SES",
           "Languages": [
             "ger"
           ],
@@ -6072,8 +6087,8 @@
           "IsFta": true
         },
         {
-          "Name": "KiKA SD",
-          "Package": "ZDF Vision",
+          "Name": "Astra Demo",
+          "Package": "SES",
           "Languages": [
             "ger"
           ],
@@ -6081,57 +6096,12 @@
           "IsFta": true
         },
         {
-          "Name": "ZDFinfo SD",
-          "Package": "ZDF Vision",
+          "Name": "Astra Demo",
+          "Package": "SES",
           "Languages": [
             "ger"
           ],
           "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "zdf_neo SD",
-          "Package": "ZDF Vision",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Dlf Kultur alt",
-          "Package": "ZDF Vision",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Dlf alt",
-          "Package": "ZDF Vision",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "DRadio DokDeb alt",
-          "Package": "ZDF Vision",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Dlf Nova alt",
-          "Package": "ZDF Vision",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Radio",
           "IsFta": true
         }
       ]
@@ -6182,53 +6152,6 @@
           "IsFta": false
         },
         {
-          "Name": "MTV 00s",
-          "Package": "AustriasatMovistar\u002BMTV Networks",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV 80s",
-          "Package": "AustriasatCanal DigitaalMTV Networks",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Jr",
-          "Package": "MTV Networks",
-          "Languages": [
-            "ger",
-            "eng",
-            "fra",
-            "tur"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Jr Europe",
-          "Package": "MTV Networks",
-          "Languages": [
-            "eng",
-            "rus",
-            "fra",
-            "ned",
-            "swe",
-            "den",
-            "nor",
-            "fin",
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Nick Jr..",
           "Package": "AustriasatCanal DigitaalMTV Networks",
           "Languages": [
@@ -6273,16 +6196,6 @@
           ],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "Comedy Central HD.",
-          "Package": "MTV Networks",
-          "Languages": [
-            "ger",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
         },
         {
           "Name": "Comedy Central Germany   Nights",
@@ -6354,7 +6267,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Cinema Highlights",
+          "Name": "Sky Cinema Blockbuster",
           "Package": "Sky Deutschland",
           "Languages": [
             "ger",
@@ -6593,9 +6506,11 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Sport 4 HD Germany",
+          "Name": "Sky Sport 4 Germany",
           "Package": "Sky Deutschland",
-          "Languages": [],
+          "Languages": [
+            "ger"
+          ],
           "Type": "TV",
           "IsFta": false
         },
@@ -6744,7 +6659,7 @@
     {
       "FrequencyMHz": 12070.5,
       "Polarization": "H",
-      "SymbolRateKs": 31429,
+      "SymbolRateKs": 31428,
       "Fec": "4/5",
       "Standard": "DVB-S2",
       "Modulation": "16APSK",
@@ -6887,12 +6802,12 @@
           "IsFta": false
         },
         {
-          "Name": "TV Breizh HD",
-          "Package": "AustriasatCanal\u002B FranceTeleSat",
+          "Name": "TV BREIZH",
+          "Package": "Canal\u002B France",
           "Languages": [
             "fra"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -7067,16 +6982,7 @@
           "IsFta": true
         },
         {
-          "Name": "Immer etwas Neues TV",
-          "Package": "BetaDigital",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Channel 21",
+          "Name": "Shop LC",
           "Package": "BetaDigital",
           "Languages": [
             "ger"
@@ -7173,12 +7079,12 @@
           "IsFta": false
         },
         {
-          "Name": "Ushua\u00EFa TV HD",
-          "Package": "AustriasatCanal\u002B FranceTeleSat",
+          "Name": "USHUAIA TV",
+          "Package": "Canal\u002B France",
           "Languages": [
             "fra"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -7211,15 +7117,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "Barker Collectivit\u00E9s",
-          "Package": "Canal\u002B France",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
         },
         {
           "Name": "TF 1",
@@ -7549,7 +7446,7 @@
           "IsFta": false
         },
         {
-          "Name": "\u00C9v\u00E9nement Sport 4K UHD",
+          "Name": "Canal\u002B Foot UHD HDR",
           "Package": "Canal\u002B France",
           "Languages": [
             "fra"
@@ -7642,8 +7539,8 @@
     {
       "FrequencyMHz": 12246,
       "Polarization": "V",
-      "SymbolRateKs": 30937,
-      "Fec": "8/9",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -7741,12 +7638,12 @@
           "IsFta": false
         },
         {
-          "Name": "Histoire HD",
-          "Package": "AustriasatTeleSat",
+          "Name": "Histoire",
+          "Package": "Bis",
           "Languages": [
             "fra"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -7789,15 +7686,6 @@
         },
         {
           "Name": "SUD RADIO",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "FUN RADIO",
           "Package": null,
           "Languages": [
             "fra"
@@ -7897,15 +7785,6 @@
         },
         {
           "Name": "RADIO CLASSIQUE",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RTL",
           "Package": null,
           "Languages": [
             "fra"
@@ -8022,15 +7901,6 @@
           "IsFta": true
         },
         {
-          "Name": "RTL2",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "SKYROCK",
           "Package": null,
           "Languages": [
@@ -8055,13 +7925,6 @@
             "fra"
           ],
           "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "DATASYSTEM",
-          "Package": "AB SAT",
-          "Languages": [],
-          "Type": "Data",
           "IsFta": true
         }
       ]
@@ -8113,17 +7976,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Replay HD Germany",
-          "Package": "Sky Deutschland",
-          "Languages": [
-            "ger",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "SyFy HD Deutschland",
+          "Name": "Sky Sci-Fi Germany",
           "Package": "Sky Deutschland",
           "Languages": [
             "ger",
@@ -8134,22 +7987,13 @@
         },
         {
           "Name": "Sky Sport Austria 7 HD",
-          "Package": "SKY",
+          "Package": "Sky Deutschland",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "Sky Sport Bundesliga 3 HD",
-          "Package": "Sky Deutschland",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sky Sport 3 HD Germany",
+          "Name": "Sky Sport 3 Germany",
           "Package": "Sky Deutschland",
           "Languages": [
             "ger"
@@ -8183,6 +8027,16 @@
           "IsFta": false
         },
         {
+          "Name": "AXN Black Germany",
+          "Package": "Sky Deutschland",
+          "Languages": [
+            "ger",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "Pace TDS 866 NSDX",
           "Package": null,
           "Languages": [],
@@ -8199,16 +8053,6 @@
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
-        {
-          "Name": "Olympia TV HD",
-          "Package": "Canal\u002B France",
-          "Languages": [
-            "fra",
-            "qad"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
         {
           "Name": "BeIN Sport Max 4",
           "Package": "Canal\u002B France",
@@ -8327,15 +8171,6 @@
           "IsFta": false
         },
         {
-          "Name": "Game One HD",
-          "Package": "Canal\u002B France",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Novelas TV",
           "Package": "Canal\u002B France",
           "Languages": [
@@ -8346,15 +8181,6 @@
         },
         {
           "Name": "La cha\u00EEne M\u00E9t\u00E9o HD",
-          "Package": "Canal\u002B France",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Paramount Channel HD France",
           "Package": "Canal\u002B France",
           "Languages": [
             "fra"
@@ -8838,8 +8664,26 @@
           "IsFta": false
         },
         {
+          "Name": "Sky Sport 9 HD",
+          "Package": "Sky Deutschland",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "Sky Sport Austria 4",
           "Package": "SKY",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sky Sport Bundesliga 10",
+          "Package": "Sky Deutschland",
           "Languages": [
             "ger"
           ],
@@ -8864,6 +8708,16 @@
         },
         {
           "Name": "Cartoon Network Germany",
+          "Package": "Sky Deutschland",
+          "Languages": [
+            "ger",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "AXN White Germany",
           "Package": "Sky Deutschland",
           "Languages": [
             "ger",
@@ -8899,15 +8753,6 @@
           ],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "BFM Business HD",
-          "Package": "Canal\u002B France",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
         },
         {
           "Name": "Polar\u002B",
@@ -9009,6 +8854,15 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "Europe 1 TV",
+          "Package": "Canal\u002B France",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
         }
       ]
     },
@@ -9098,13 +8952,13 @@
       "FrequencyMHz": 12441,
       "Polarization": "V",
       "SymbolRateKs": 27500,
-      "Fec": "5/6",
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12460,
+      "FrequencyMHz": 12460.5,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -9140,7 +8994,7 @@
           "IsFta": true
         },
         {
-          "Name": "1-2-3.tv",
+          "Name": "Telegold 2",
           "Package": "BetaDigital",
           "Languages": [
             "ger"
@@ -9195,15 +9049,6 @@
         },
         {
           "Name": "Klassik Radio",
-          "Package": "BetaDigital",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "JAM FM",
           "Package": "BetaDigital",
           "Languages": [
             "ger"
@@ -9295,33 +9140,6 @@
         },
         {
           "Name": "Spirit TV Germany",
-          "Package": "BetaDigital",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Genius Trend",
-          "Package": "BetaDigital",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "MediaShop - Meine Einkaufswelt",
-          "Package": "BetaDigital",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "MeinTVshop",
           "Package": "BetaDigital",
           "Languages": [
             "ger"
@@ -9423,15 +9241,6 @@
           "IsFta": false
         },
         {
-          "Name": "TVRI World",
-          "Package": "M7 Group",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Canal\u002B Action Nederland",
           "Package": "M7 Group",
           "Languages": [
@@ -9441,10 +9250,10 @@
           "IsFta": false
         },
         {
-          "Name": "DAZN Pro League 1 Fran\u00E7ais",
-          "Package": "M7 Group",
+          "Name": "Canal\u002B Golf Austria",
+          "Package": "Austriasat",
           "Languages": [
-            "fra"
+            "ger"
           ],
           "Type": "TV",
           "IsFta": false
@@ -9527,15 +9336,7 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Nostalgie",
-          "Package": "AustriasatCanal DigitaalTeleSatTV Vlaanderen",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12544.75,
@@ -9751,7 +9552,7 @@
         },
         {
           "Name": "DMAX HD",
-          "Package": "HD \u002BSky Deutschland",
+          "Package": "HD \u002B",
           "Languages": [
             "ger"
           ],
@@ -9931,21 +9732,21 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Xplore",
+          "Name": "ALT_Xplore",
           "Package": "SES",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "One Terra",
+          "Name": "ALT_One Terra",
           "Package": "SES",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -9958,84 +9759,84 @@
           "IsFta": true
         },
         {
-          "Name": "Deluxe Rap",
+          "Name": "ALT_Deluxe Rap",
           "Package": "SES",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "Deluxe Dance by Kontor",
+          "Name": "ALT_Deluxe Dance by Kontor",
           "Package": "SES",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "Deluxe Flashback",
+          "Name": "ALT_Deluxe Flashback",
           "Package": "SES",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "Just Cooking",
+          "Name": "ALT_Just Cooking",
           "Package": "SES",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "Just Fishing",
+          "Name": "ALT_Just Fishing",
           "Package": "SES",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "Deluxe Lounge HD",
+          "Name": "ALT_Deluxe Lounge",
           "Package": "SES",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "H\u00F6henrausch",
+          "Name": "ALT_H\u00F6henrausch",
           "Package": "SES",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "Crime Time",
+          "Name": "ALT_Crime Time",
           "Package": "SES",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "Serien\u002B",
+          "Name": "ALT_SERIEN\u002B",
           "Package": "SES",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         }
       ]
@@ -10049,23 +9850,7 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "MBS - Test2",
-          "Package": "MB Satellite",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
           "Name": "Telegold",
-          "Package": "MB Satellite",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "GayBoys Live",
           "Package": "MB Satellite",
           "Languages": [
             "ger"
@@ -10081,57 +9866,39 @@
           "IsFta": true
         },
         {
-          "Name": "Dreamgirls.TV",
-          "Package": "MB Satellite",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Erotik Sat TV",
-          "Package": "MB Satellite",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Sexy Girls TV",
-          "Package": "MB Satellite",
+          "Package": "phabvision",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
           "Name": "Heisse Dates TV",
-          "Package": "MB Satellite",
+          "Package": "phabvision",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
           "Name": "Hot Babes TV",
-          "Package": "MB Satellite",
+          "Package": "phabvision",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
           "Name": "Mobile Sex",
-          "Package": "MB Satellite",
+          "Package": "phabvision",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -10144,27 +9911,6 @@
           "IsFta": true
         },
         {
-          "Name": "Traumfrauen TV",
-          "Package": "MB Satellite",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Heiss und Sexy TV",
-          "Package": "MB Satellite",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "MBS - Test3",
-          "Package": "MB Satellite",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
           "Name": "Babestation24 (Germany)",
           "Package": "MB Satellite",
           "Languages": [
@@ -10174,30 +9920,30 @@
           "IsFta": true
         },
         {
-          "Name": "Erotika TV",
-          "Package": "MB Satellite",
+          "Name": "EROTIKA TV - NEU!",
+          "Package": "phabvision",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
           "Name": "Sexy Treff TV",
-          "Package": "MB Satellite",
+          "Package": "phabvision",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
           "Name": "TeleSex TV",
-          "Package": "MB Satellite",
+          "Package": "phabvision",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -10256,13 +10002,6 @@
           "Languages": [],
           "Type": "Data",
           "IsFta": true
-        },
-        {
-          "Name": "Time of Change.TV",
-          "Package": "MB Satellite",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
         }
       ]
     },
@@ -10303,7 +10042,7 @@
         },
         {
           "Name": "Deluxe Flashback HD",
-          "Package": "HD \u002BSky Deutschland",
+          "Package": "HD \u002B",
           "Languages": [
             "ger"
           ],
@@ -10321,7 +10060,7 @@
         },
         {
           "Name": "Deluxe Rock HD",
-          "Package": "HD \u002BSky Deutschland",
+          "Package": "HD \u002B",
           "Languages": [
             "ger"
           ],
@@ -10414,7 +10153,7 @@
           "IsFta": true
         },
         {
-          "Name": "4News",
+          "Name": "JOYN Mediathek",
           "Package": "MIT-xperts GmbH",
           "Languages": [],
           "Type": "TV",
@@ -10486,7 +10225,7 @@
         },
         {
           "Name": "Deluxe Lounge HD",
-          "Package": "HD \u002BSky Deutschland",
+          "Package": "HD \u002B",
           "Languages": [
             "ger"
           ],
@@ -10511,24 +10250,6 @@
       "Fec": "5/6",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12699,
-      "Polarization": "V",
-      "SymbolRateKs": 23500,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12721.75,
-      "Polarization": "H",
-      "SymbolRateKs": 22000,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
       "Channels": []
     },
     {

@@ -35,53 +35,7 @@
       "Fec": "1/2",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "RTP International",
-          "Package": "MEO",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RTP Africa",
-          "Package": "MEO",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RDP Antena 1",
-          "Package": "MEO",
-          "Languages": [
-            "por"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RDP Africa",
-          "Package": "MEO",
-          "Languages": [
-            "por"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RDP Internacional",
-          "Package": "MEO",
-          "Languages": [
-            "por"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 3843,

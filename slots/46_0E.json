@@ -256,7 +256,7 @@
       ]
     },
     {
-      "FrequencyMHz": 3836,
+      "FrequencyMHz": 3838,
       "Polarization": "H",
       "SymbolRateKs": 1250,
       "Fec": "3/5",
@@ -266,40 +266,24 @@
         {
           "Name": "WRM TV",
           "Package": "SoftsolMedia",
-          "Languages": [
-            "eng"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "Thunder TV",
+          "Name": "THUNDER TV",
           "Package": "Sotsolmedia",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": true
         },
         {
           "Name": "SPIRIT FM",
           "Package": "Softsolmedia",
-          "Languages": [
-            "eng"
-          ],
+          "Languages": [],
           "Type": "Radio",
           "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 3838,
-      "Polarization": "H",
-      "SymbolRateKs": 1250,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": [
+        },
         {
           "Name": "PEARL FM",
           "Package": "BSI",
@@ -319,11 +303,28 @@
     {
       "FrequencyMHz": 3840,
       "Polarization": "H",
-      "SymbolRateKs": 1500,
-      "Fec": "3/4",
+      "SymbolRateKs": 1250,
+      "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
+    },
+    {
+      "FrequencyMHz": 3841,
+      "Polarization": "H",
+      "SymbolRateKs": 747,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "RADIO-47",
+          "Package": "SkyCast",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 3842,
@@ -371,13 +372,57 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "JAMBOFM",
+          "Name": "RADIO SAFINA",
           "Package": "SAFINA",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "JAMBO FM",
+          "Package": "SAFINA MUX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "SAFINA TEST",
+          "Package": "SAFINA MUX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "GOLD FM 22",
+          "Package": "SAFINA MUX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RHM FM",
+          "Package": "SAFINA MUX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "GOLD FM 2",
+          "Package": "SAFINA MUX",
           "Languages": [],
           "Type": "Radio",
           "IsFta": true
         }
       ]
+    },
+    {
+      "FrequencyMHz": 3860.3,
+      "Polarization": "H",
+      "SymbolRateKs": 1026,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
     },
     {
       "FrequencyMHz": 3863,
@@ -389,10 +434,10 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 3866,
+      "FrequencyMHz": 3866.3,
       "Polarization": "H",
       "SymbolRateKs": 2500,
-      "Fec": "5/6",
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": [
@@ -417,16 +462,16 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 3874,
+      "FrequencyMHz": 3874.3,
       "Polarization": "H",
       "SymbolRateKs": 1250,
-      "Fec": "2/3",
+      "Fec": "5/11",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
         {
           "Name": "Jehova Jire TV",
-          "Package": "Encoder",
+          "Package": "Softsolmedia",
           "Languages": [
             "eng"
           ],
@@ -443,15 +488,6 @@
       ]
     },
     {
-      "FrequencyMHz": 3908,
-      "Polarization": "V",
-      "SymbolRateKs": 1843,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 3940,
       "Polarization": "H",
       "SymbolRateKs": 4200,
@@ -461,60 +497,22 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 3982,
+      "FrequencyMHz": 3954.3,
       "Polarization": "V",
-      "SymbolRateKs": 4800,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
+      "SymbolRateKs": 6250,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "OBN Horn of Africa",
-          "Package": "none",
+          "Name": "TVC Entertainment",
+          "Package": null,
           "Languages": [],
           "Type": "TV",
           "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 3993,
-      "Polarization": "V",
-      "SymbolRateKs": 1666,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": [
+        },
         {
-          "Name": "Plus TV Africa HD",
-          "Package": "Harmonic",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 3995,
-      "Polarization": "V",
-      "SymbolRateKs": 1587,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 4003,
-      "Polarization": "V",
-      "SymbolRateKs": 2204,
-      "Fec": "3/5",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Hi-Impact TV",
+          "Name": "TVC News",
           "Package": null,
           "Languages": [
             "eng"
@@ -523,13 +521,82 @@
           "IsFta": true
         },
         {
-          "Name": "Hi-Impact Radio",
-          "Package": "DTV",
+          "Name": "TVC RADIO SERVICES",
+          "Package": null,
           "Languages": [],
-          "Type": "Unknown",
+          "Type": "Radio",
           "IsFta": true
         }
       ]
+    },
+    {
+      "FrequencyMHz": 3982,
+      "Polarization": "V",
+      "SymbolRateKs": 4800,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3993,
+      "Polarization": "V",
+      "SymbolRateKs": 1666,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3999.3,
+      "Polarization": "V",
+      "SymbolRateKs": 3670,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "ZBC",
+          "Package": "SoftsolMedia",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Spice TV Nigeria",
+          "Package": "SoftsolMedia",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ZBC FM",
+          "Package": "SoftsolMedia",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Spice FM",
+          "Package": "SoftsolMedia",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4003,
+      "Polarization": "V",
+      "SymbolRateKs": 2204,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
     },
     {
       "FrequencyMHz": 4005,
@@ -541,10 +608,10 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 4112,
+      "FrequencyMHz": 4112.3,
       "Polarization": "V",
       "SymbolRateKs": 2432,
-      "Fec": "3/5",
+      "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -577,7 +644,7 @@
         },
         {
           "Name": "Classic FM",
-          "Package": null,
+          "Package": "Softsolmedia",
           "Languages": [
             "eng"
           ],
@@ -590,10 +657,29 @@
       "FrequencyMHz": 4115,
       "Polarization": "V",
       "SymbolRateKs": 1250,
-      "Fec": "3/4",
+      "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Crown TV",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CROWN_FM",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 4116,
@@ -608,7 +694,7 @@
       "FrequencyMHz": 4118,
       "Polarization": "V",
       "SymbolRateKs": 3050,
-      "Fec": "2/3",
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -669,13 +755,6 @@
           "IsFta": true
         },
         {
-          "Name": "OSIEPE FM",
-          "Package": "Mediamax",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "Galaxy FM",
           "Package": "Mediamax",
           "Languages": [],
@@ -685,13 +764,30 @@
       ]
     },
     {
-      "FrequencyMHz": 4119,
+      "FrequencyMHz": 4120.3,
       "Polarization": "V",
-      "SymbolRateKs": 1200,
-      "Fec": "3/5",
+      "SymbolRateKs": 1500,
+      "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Wasafi TV",
+          "Package": "TV-Provider",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Wasafi_FM",
+          "Package": "SkyCast",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 4123,
@@ -711,11 +807,27 @@
           "IsFta": true
         },
         {
+          "Name": "Wasafi TV",
+          "Package": "TV-Provider",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Radio_Imaan",
           "Package": "Harmonic",
           "Languages": [
             "eng"
           ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Wasafi_FM",
+          "Package": "SkyCast",
+          "Languages": [],
           "Type": "Radio",
           "IsFta": true
         }
@@ -750,13 +862,30 @@
       ]
     },
     {
-      "FrequencyMHz": 4128,
+      "FrequencyMHz": 4128.3,
       "Polarization": "V",
       "SymbolRateKs": 1410,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "SILVERBIRD NEWS24",
+          "Package": "SILVERBIRD",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Silverbird News 24",
+          "Package": "SILVERBIRD",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 4130,
@@ -787,7 +916,7 @@
       ]
     },
     {
-      "FrequencyMHz": 4132.5,
+      "FrequencyMHz": 4132.8,
       "Polarization": "V",
       "SymbolRateKs": 1843,
       "Fec": "5/6",
@@ -829,15 +958,6 @@
           ],
           "Type": "Radio",
           "IsFta": true
-        },
-        {
-          "Name": "jambo fm",
-          "Package": "Harmonic",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Radio",
-          "IsFta": true
         }
       ]
     },
@@ -846,22 +966,12 @@
       "Polarization": "V",
       "SymbolRateKs": 1282,
       "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Salvation TV",
-          "Package": "Harmonic",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
     },
     {
-      "FrequencyMHz": 4137,
+      "FrequencyMHz": 4137.3,
       "Polarization": "V",
       "SymbolRateKs": 1603,
       "Fec": "8/9",
@@ -889,35 +999,26 @@
       ]
     },
     {
-      "FrequencyMHz": 4139,
+      "FrequencyMHz": 4140,
       "Polarization": "V",
-      "SymbolRateKs": 1333,
-      "Fec": "3/4",
+      "SymbolRateKs": 1000,
+      "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Wasafi TV",
-          "Package": "FLEXSTREAM",
+          "Name": "TV Sibuka",
+          "Package": "SoftsolMedia",
           "Languages": [
             "eng"
           ],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "Wasafi FM TZ",
-          "Package": "FLEXSTREAM",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Radio",
-          "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 4144,
+      "FrequencyMHz": 4144.3,
       "Polarization": "V",
       "SymbolRateKs": 2300,
       "Fec": "2/3",
@@ -952,7 +1053,7 @@
       ]
     },
     {
-      "FrequencyMHz": 4146,
+      "FrequencyMHz": 4146.3,
       "Polarization": "V",
       "SymbolRateKs": 1190,
       "Fec": "3/4",
@@ -998,7 +1099,7 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "AMC Series",
+          "Name": "Manchester United TV",
           "Package": "ADBL",
           "Languages": [
             "eng"
@@ -1021,22 +1122,6 @@
           "Languages": [
             "eng"
           ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV Base Africa",
-          "Package": "ADBL",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Trace Mziki",
-          "Package": "ADBL",
-          "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
@@ -1194,33 +1279,6 @@
           "IsFta": false
         },
         {
-          "Name": "TV-E Tanzania",
-          "Package": "ADBL",
-          "Languages": [
-            "swa"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Zamaradi TV",
-          "Package": "ADBL",
-          "Languages": [
-            "swa"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Cheka Plus TV",
-          "Package": "ADBL",
-          "Languages": [
-            "swa"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Mahaasin TV",
           "Package": "ADBL",
           "Languages": [
@@ -1301,15 +1359,6 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Azam Xtra",
-          "Package": "ADBL",
-          "Languages": [
-            "swa"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Azam One HD",
           "Package": "ADBL",
           "Languages": [
@@ -1332,40 +1381,8 @@
         {
           "Name": "Sinema Zetu",
           "Package": "ADBL",
-          "Languages": [
-            "swa"
-          ],
+          "Languages": [],
           "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Azam Sports 1 HD",
-          "Package": "ADBL",
-          "Languages": [
-            "eng",
-            "swa"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Azam Sports 2 HD",
-          "Package": "ADBL",
-          "Languages": [
-            "swa",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Azam Sports 3 HD",
-          "Package": "ADBL",
-          "Languages": [
-            "swa",
-            "eng"
-          ],
-          "Type": "TV",
           "IsFta": false
         },
         {
@@ -1375,6 +1392,34 @@
             "swa",
             "eng"
           ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Azam Sports 1 HD",
+          "Package": "ADBL",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Azam Sports 2 HD",
+          "Package": "ADBL",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Azam Sports 3 HD",
+          "Package": "ADBL",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Azam Sports 4 HD",
+          "Package": "ADBL",
+          "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
@@ -1434,15 +1479,6 @@
         },
         {
           "Name": "Nina TV",
-          "Package": "ADBL",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Trace Mziki",
           "Package": "ADBL",
           "Languages": [
             "eng"
@@ -1553,48 +1589,138 @@
       ]
     },
     {
-      "FrequencyMHz": 10973,
+      "FrequencyMHz": 10957.67,
       "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10978.5,
-      "Polarization": "H",
-      "SymbolRateKs": 25553,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10978.5,
-      "Polarization": "H",
-      "SymbolRateKs": 25553,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10986,
-      "Polarization": "V",
-      "SymbolRateKs": 9200,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11000,
-      "Polarization": "H",
-      "SymbolRateKs": 1054,
+      "SymbolRateKs": 2500,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10960.69,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10963.69,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10966.7,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10969.69,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10972.68,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10975.69,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10978.69,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10980.4,
+      "Polarization": "H",
+      "SymbolRateKs": 22029,
+      "Fec": "None",
+      "Standard": "DVB-S2X",
+      "Modulation": "AUTO",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10981.67,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10984.69,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10987.53,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10997.6,
+      "Polarization": "V",
+      "SymbolRateKs": 2062,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10999.9,
+      "Polarization": "V",
+      "SymbolRateKs": 2062,
+      "Fec": "4/5",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11003,
+      "Polarization": "V",
+      "SymbolRateKs": 2070,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "AUTO",
       "Channels": []
     },
     {
@@ -1607,25 +1733,25 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11014,
+      "FrequencyMHz": 11011.71,
       "Polarization": "V",
-      "SymbolRateKs": 13000,
-      "Fec": "3/4",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11024,
-      "Polarization": "H",
-      "SymbolRateKs": 16500,
-      "Fec": "3/4",
+      "FrequencyMHz": 11014.68,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11025,
+      "FrequencyMHz": 11024.7,
       "Polarization": "V",
       "SymbolRateKs": 12700,
       "Fec": "5/6",
@@ -1687,25 +1813,25 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11046,
+      "FrequencyMHz": 11042.7,
       "Polarization": "H",
-      "SymbolRateKs": 23000,
+      "SymbolRateKs": 12000,
       "Fec": "2/3",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11059.4,
-      "Polarization": "V",
-      "SymbolRateKs": 5454,
+      "FrequencyMHz": 11072.2,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "32APSK",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11095,
+      "FrequencyMHz": 11094.3,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "5/6",
@@ -1767,15 +1893,6 @@
           "IsFta": true
         },
         {
-          "Name": "Qartuli Arkhi",
-          "Package": "Vector A.G",
-          "Languages": [
-            "geo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Comedy Arkhi",
           "Package": "Vector A.G",
           "Languages": [
@@ -1795,15 +1912,6 @@
         },
         {
           "Name": "Marneuli TV",
-          "Package": "Vector A.G",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Trialeti TV",
           "Package": "Vector A.G",
           "Languages": [
             "eng"
@@ -1865,24 +1973,6 @@
           "Name": "Marao TV",
           "Package": "Vector A.G",
           "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Topaz Taz\u0131 Yar\u0131\u015F\u0131",
-          "Package": "Vector A.G",
-          "Languages": [
-            "aze"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Equalympic TV",
-          "Package": "Vector A.G",
-          "Languages": [
-            "ukr"
-          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -1957,39 +2047,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11135,
-      "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "8/9",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11136.6,
-      "Polarization": "H",
-      "SymbolRateKs": 1750,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 11142.3,
       "Polarization": "H",
       "SymbolRateKs": 1750,
       "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11169,
-      "Polarization": "H",
-      "SymbolRateKs": 20400,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
       "Channels": []
     },
     {

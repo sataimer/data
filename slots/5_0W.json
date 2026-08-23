@@ -2,7 +2,7 @@
   "SlotKey": "5.0W",
   "Transponders": [
     {
-      "FrequencyMHz": 10971,
+      "FrequencyMHz": 10971.5,
       "Polarization": "V",
       "SymbolRateKs": 29950,
       "Fec": "2/3",
@@ -99,51 +99,6 @@
           "IsFta": false
         }
       ]
-    },
-    {
-      "FrequencyMHz": 11013,
-      "Polarization": "V",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11016,
-      "Polarization": "H",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11016,
-      "Polarization": "H",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11016,
-      "Polarization": "H",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11016,
-      "Polarization": "H",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
     },
     {
       "FrequencyMHz": 11054.5,
@@ -392,36 +347,18 @@
       "FrequencyMHz": 11099,
       "Polarization": "H",
       "SymbolRateKs": 30000,
-      "Fec": "1/4",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11137.5,
-      "Polarization": "V",
-      "SymbolRateKs": 29950,
-      "Fec": "3/4",
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11138,
-      "Polarization": "V",
-      "SymbolRateKs": 35300,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11167.4,
+      "FrequencyMHz": 11167.1,
       "Polarization": "H",
       "SymbolRateKs": 2116,
-      "Fec": "8/9",
+      "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "16APSK",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -431,33 +368,6 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "32APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11179,
-      "Polarization": "V",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11179,
-      "Polarization": "V",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11179,
-      "Polarization": "V",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
       "Channels": []
     },
     {
@@ -476,26 +386,7 @@
       "Fec": "1/2",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "NOSTALGIE",
-          "Package": "NGROUP",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "NRJ",
-          "Package": "NGROUP",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11456.3,
@@ -575,7 +466,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11461,
+      "FrequencyMHz": 11461.4,
       "Polarization": "H",
       "SymbolRateKs": 5780,
       "Fec": "3/4",
@@ -628,24 +519,6 @@
           "IsFta": true
         },
         {
-          "Name": "RFM",
-          "Package": "towerCast_A",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "EUROPE 2",
-          "Package": "towerCast_A",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "SKYROCK-SAT",
           "Package": "SKYROCK",
           "Languages": [
@@ -663,6 +536,13 @@
         },
         {
           "Name": "MPX-RIRE ET CHANSONS",
+          "Package": "towerCast_A",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "MPX-NOSTALGIE",
           "Package": "towerCast_A",
           "Languages": [],
           "Type": "Data",
@@ -762,633 +642,6 @@
     },
     {
       "FrequencyMHz": 11471,
-      "Polarization": "H",
-      "SymbolRateKs": 9900,
-      "Fec": "4/5",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "ICI Paris IDF",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Alsace",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Armorique",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Auxerre",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Azur",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Normandie Caen",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Bearn",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Belfort Montbeliard",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Berry",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Besancon",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Bourgogne",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Breizh Izel",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Champagne",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Cotentin",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Creuse",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Drome Ardeche",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI RCFM",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Gard Lozere",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Gascogne",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Gironde",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Normandie Rouen",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Herault",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Isere",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI La Rochelle",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Limousin",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Loire Ocean",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Lorraine Nord",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Maine",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Mayenne",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Natio",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Nord",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Orleans",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Pays Basque",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Pays d Auvergne",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Pays de Savoie",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Perigord",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Picardie",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Poitou",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Provence",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Roussillon",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Saint Etienne",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Sud Lorraine",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Occitanie",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Touraine",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "ICI Vaucluse",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Pays de l\u0027Ain",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Allier",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Hautes-Alpes",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Orne",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Pays d\u0027Aude",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Pays d\u0027Aude",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF en Berry",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF en Bourgogne",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Franche-Comt\u00E9",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Dr\u00F4me-Ard\u00E8che",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Bordeaux",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Alpha Rennes",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Touraine",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Is\u00E8re",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Loir et Cher",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Haute-Loire",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Anjou",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Reims-Ardennes",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Coeur de Champagne",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Lyon",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Savoie",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Haute-Savoie",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Haute-Normandie",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Vaucluse",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Vend\u00E9e",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Poitou",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Limousin",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Corr\u00E8ze",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Jerico-Moselle",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RCF Contribution",
-          "Package": null,
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RF Contrib",
-          "Package": "Radio France",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Esperance",
-          "Package": "TDF",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RDS TDF",
-          "Package": "TDF-TdR_RMV",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 11471,
       "Polarization": "V",
       "SymbolRateKs": 29950,
       "Fec": "3/4",
@@ -1446,13 +699,14 @@
           "IsFta": false
         },
         {
-          "Name": "Novo 19  D\u00E9but le 1er septembre 2025",
+          "Name": "Novo 19",
           "Package": "BisFransat",
           "Languages": [
-            "fra"
+            "fra",
+            "qad"
           ],
           "Type": "TV",
-          "IsFta": true
+          "IsFta": false
         },
         {
           "Name": "CNews HD",
@@ -1935,7 +1189,606 @@
       ]
     },
     {
-      "FrequencyMHz": 11480,
+      "FrequencyMHz": 11471.5,
+      "Polarization": "H",
+      "SymbolRateKs": 9900,
+      "Fec": "4/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "ICI Paris IDF",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Alsace",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Armorique",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Auxerre",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Azur",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Normandie Caen",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Bearn",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Belfort Montbeliard",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Berry",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Besancon",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Bourgogne",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Breizh Izel",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Champagne",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI  Cotentin",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Creuse",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Drome Ardeche",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI RCFM",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Gard Lozere",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Gascogne",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Gironde",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Normandie Rouen",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Herault",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Isere",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI La Rochelle",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Limousin",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Loire Ocean",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Lorraine Nord",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Maine",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Mayenne",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Natio",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Nord",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Orleans",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Pays Basque",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Pays d Auvergne",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Pays de Savoie",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Perigord",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Picardie",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Poitou",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Provence",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Roussillon",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Saint Etienne",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Sud Lorraine",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Occitanie",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Touraine",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ICI Vaucluse",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Pays de l\u0027Ain",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Hautes-Alpes",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Orne",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF en Berry",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF en Bourgogne",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Franche-Comt\u00E9",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Dr\u00F4me-Ard\u00E8che",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Bordeaux",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Alpha Rennes",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Touraine",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Is\u00E8re",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Loir et Cher",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Haute-Loire",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Anjou",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Reims-Ardennes",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Coeur de Champagne",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Lyon",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Savoie",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Haute-Savoie",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Haute-Normandie",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Vaucluse",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Vend\u00E9e",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Poitou",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Limousin",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RCF Jerico-Moselle",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RF Contrib",
+          "Package": "Radio France",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Esperance",
+          "Package": "TDF",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "GENETIKO COMMUNICATION",
+          "Package": "Radionorba",
+          "Languages": [
+            "ita",
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Tiers-RDS",
+          "Package": "TDF",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "RDS TDF",
+          "Package": "TDF-TdR_RMV",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11479.3,
       "Polarization": "H",
       "SymbolRateKs": 3167,
       "Fec": "3/4",
@@ -2106,7 +1959,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11481.7,
+      "FrequencyMHz": 11481.8,
       "Polarization": "H",
       "SymbolRateKs": 543,
       "Fec": "1/2",
@@ -2134,7 +1987,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11512,
+      "FrequencyMHz": 11512.5,
       "Polarization": "V",
       "SymbolRateKs": 29950,
       "Fec": "2/3",
@@ -2354,40 +2207,19 @@
           "IsFta": false
         },
         {
-          "Name": "...",
-          "Package": "EUTELSAT",
-          "Languages": [
-            "fra",
-            "qad"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "...",
-          "Package": "EUTELSAT",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "FRANSAT UHD",
-          "Package": "Fransat",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Fransat Info HD",
           "Package": "EUTELSAT",
           "Languages": [
             "fra"
           ],
           "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SSU TWISE USB",
+          "Package": "Eutelsat",
+          "Languages": [],
+          "Type": "Data",
           "IsFta": true
         },
         {
@@ -2433,6 +2265,13 @@
           "IsFta": true
         },
         {
+          "Name": "SSU Neotion Pro",
+          "Package": "Eutelsat",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
           "Name": "SSU S3340",
           "Package": "Eutelsat",
           "Languages": [],
@@ -2467,61 +2306,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11637,
-      "Polarization": "V",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11637,
-      "Polarization": "V",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11637,
-      "Polarization": "V",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11676,
-      "Polarization": "H",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11676,
-      "Polarization": "H",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11676,
-      "Polarization": "H",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11679,
+      "FrequencyMHz": 11678.5,
       "Polarization": "V",
       "SymbolRateKs": 29950,
       "Fec": "2/3",
@@ -2683,6 +2468,15 @@
           "IsFta": false
         },
         {
+          "Name": "FRANSAT UHD",
+          "Package": "Fransat",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "DVB-SIS - TNT R9",
           "Package": "EUTELSAT",
           "Languages": [],
@@ -2694,10 +2488,10 @@
     {
       "FrequencyMHz": 12535,
       "Polarization": "H",
-      "SymbolRateKs": 35285,
+      "SymbolRateKs": 35294,
       "Fec": "2/3",
       "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
+      "Modulation": "QPSKStream",
       "Channels": [
         {
           "Name": "Rai 1 HD",
@@ -2741,7 +2535,17 @@
           "IsFta": true
         },
         {
-          "Name": "Rai 3 TGR Puglia",
+          "Name": "Rai 3 TGR Sicilia",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Calabria",
           "Package": "RAI",
           "Languages": [
             "ita",
@@ -2761,7 +2565,7 @@
           "IsFta": true
         },
         {
-          "Name": "Rai 3 TGR Molise",
+          "Name": "Rai 3 TGR Sicilia",
           "Package": "RAI",
           "Languages": [
             "ita",
@@ -2771,7 +2575,7 @@
           "IsFta": true
         },
         {
-          "Name": "Rai 3 TGR Puglia",
+          "Name": "Rai 3 TGR Calabria",
           "Package": "RAI",
           "Languages": [
             "ita",
@@ -2782,16 +2586,6 @@
         },
         {
           "Name": "Rai 3 TGR Basilicata",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Molise",
           "Package": "RAI",
           "Languages": [
             "ita",
@@ -2812,9 +2606,9 @@
       ]
     },
     {
-      "FrequencyMHz": 12535,
+      "FrequencyMHz": 12535.5,
       "Polarization": "H",
-      "SymbolRateKs": 35285,
+      "SymbolRateKs": 35294,
       "Fec": "2/3",
       "Standard": "DVB-S2PLS:",
       "Modulation": "8PSKStream",
@@ -2861,17 +2655,7 @@
           "IsFta": true
         },
         {
-          "Name": "Rai 3 TGR Sicilia",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Calabria",
+          "Name": "Rai 3 TGR Puglia",
           "Package": "RAI",
           "Languages": [
             "ita",
@@ -2891,7 +2675,7 @@
           "IsFta": true
         },
         {
-          "Name": "Rai 3 TGR Sicilia",
+          "Name": "Rai 3 TGR Molise",
           "Package": "RAI",
           "Languages": [
             "ita",
@@ -2901,7 +2685,7 @@
           "IsFta": true
         },
         {
-          "Name": "Rai 3 TGR Calabria",
+          "Name": "Rai 3 TGR Puglia",
           "Package": "RAI",
           "Languages": [
             "ita",
@@ -2912,6 +2696,16 @@
         },
         {
           "Name": "Rai 3 TGR Basilicata",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Molise",
           "Package": "RAI",
           "Languages": [
             "ita",
@@ -2932,7 +2726,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12535,
+      "FrequencyMHz": 12535.5,
       "Polarization": "H",
       "SymbolRateKs": 35294,
       "Fec": "2/3",
@@ -3076,9 +2870,7 @@
         {
           "Name": "Cittadella Visual Radio TV",
           "Package": "Rai Way",
-          "Languages": [
-            "ita"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         }
@@ -3088,7 +2880,7 @@
       "FrequencyMHz": 12564,
       "Polarization": "V",
       "SymbolRateKs": 35294,
-      "Fec": "2/3",
+      "Fec": "3/4",
       "Standard": "DVB-S2PLS:",
       "Modulation": "8PSKStream",
       "Channels": [
@@ -3105,10 +2897,9 @@
         },
         {
           "Name": "Rai 2 HD",
-          "Package": "RAI",
+          "Package": "Rai",
           "Languages": [
             "ita",
-            "vo",
             "eng"
           ],
           "Type": "TV",
@@ -3125,36 +2916,6 @@
         },
         {
           "Name": "Rai 3 HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Lombardia",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Piemonte",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Emilia Romagna",
           "Package": "RAI",
           "Languages": [
             "ita",
@@ -3165,53 +2926,159 @@
         },
         {
           "Name": "Rai 3 TGR Lombardia HD",
-          "Package": "RAI",
+          "Package": "Rai",
           "Languages": [
-            "ita",
-            "vo"
+            "ita"
           ],
           "Type": "Unknown",
           "IsFta": true
         },
         {
           "Name": "Rai 3 TGR Piemonte HD",
-          "Package": "RAI",
+          "Package": "Rai",
           "Languages": [
-            "ita",
-            "vo"
+            "ita"
           ],
           "Type": "Unknown",
           "IsFta": true
         },
         {
           "Name": "Rai 3 TGR Emilia-Romagna",
-          "Package": "RAI",
+          "Package": "Rai",
           "Languages": [
-            "ita",
-            "vo"
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Lombardia HD",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Piemonte HD",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Emilia-Romagna",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
           ],
           "Type": "Unknown",
           "IsFta": true
         },
         {
           "Name": "Rai News 24",
-          "Package": "RAI",
+          "Package": "Rai",
           "Languages": [
             "ita"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12564,
-      "Polarization": "V",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": [
+        },
+        {
+          "Name": "Rai 1 HD",
+          "Package": "Rai",
+          "Languages": [
+            "ita",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 2 HD",
+          "Package": "Rai",
+          "Languages": [
+            "ita",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai News 24",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Trentino HD",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Alto Adige",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 S\u00FCdtirol HD",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Trentino HD",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Alto Adige",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 S\u00FCdtirol HD",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai News 24",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
         {
           "Name": "Rai 1 HD",
           "Package": "RAI",
@@ -3319,148 +3186,33 @@
           "Languages": [
             "ita"
           ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12564,
-      "Polarization": "V",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": [
-        {
-          "Name": "Rai 1 HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo",
-            "eng"
-          ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "Rai 2 HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo",
-            "eng"
-          ],
-          "Type": "TV",
+          "Name": "DAB TEST",
+          "Package": null,
+          "Languages": [],
+          "Type": "Data",
           "IsFta": true
         },
         {
-          "Name": "Rai News 24",
-          "Package": "RAI",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
+          "Name": "MEDIA DAB",
+          "Package": "Rai",
+          "Languages": [],
+          "Type": "Data",
           "IsFta": true
         },
         {
           "Name": "Rai 3 HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Trentino HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Alto Adige",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 S\u00FCdtirol HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Trentino HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Alto Adige",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 S\u00FCdtirol HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai News 24",
-          "Package": "RAI",
+          "Package": "Rai",
           "Languages": [
             "ita"
           ],
-          "Type": "Unknown",
+          "Type": "Data",
           "IsFta": true
         }
       ]
-    },
-    {
-      "FrequencyMHz": 12564,
-      "Polarization": "V",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12564,
-      "Polarization": "V",
-      "SymbolRateKs": 35294,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSKStream",
-      "Channels": []
     },
     {
       "FrequencyMHz": 12585,
@@ -3480,12 +3232,12 @@
           "IsFta": true
         },
         {
-          "Name": "LA7CINEMA",
+          "Name": "La7 Cinema",
           "Package": null,
           "Languages": [
             "ita"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         },
         {
@@ -3669,41 +3421,6 @@
           "IsFta": true
         },
         {
-          "Name": "Servizio 70",
-          "Package": null,
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
-          "Name": "Servizio 71",
-          "Package": null,
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
-          "Name": "Servizio 72",
-          "Package": null,
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
-          "Name": "Servizio 73",
-          "Package": null,
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
-          "Name": "Ghost",
-          "Package": null,
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
           "Name": "LA7 TEST",
           "Package": null,
           "Languages": [],
@@ -3792,9 +3509,7 @@
         {
           "Name": "Radio Sardegna TV",
           "Package": "ARD Digital",
-          "Languages": [
-            "ita"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -3834,6 +3549,15 @@
           "Name": "Catalan TV",
           "Package": "CATALAN TV",
           "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Gallura TV",
+          "Package": "GLOBAL",
+          "Languages": [
+            "ita"
+          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -3895,7 +3619,7 @@
     {
       "FrequencyMHz": 12606,
       "Polarization": "V",
-      "SymbolRateKs": 35300,
+      "SymbolRateKs": 35294,
       "Fec": "2/3",
       "Standard": "DVB-S2PLS:",
       "Modulation": "8PSKStream",
@@ -4056,15 +3780,6 @@
           "IsFta": true
         },
         {
-          "Name": "Rai 4K",
-          "Package": "RAI",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
           "Name": "Rai 4 HD",
           "Package": "RAI",
           "Languages": [
@@ -4143,7 +3858,123 @@
       "Fec": "2/3",
       "Standard": "DVB-S2PLS:",
       "Modulation": "8PSKStream",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Rai 1 HD",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 2 HD",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai Radio 2 Visual",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai Scuola HD",
+          "Package": "Rai",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 HD",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 4 HD",
+          "Package": "Rai",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai News 24 HD",
+          "Package": "Rai",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai Storia HD",
+          "Package": "Rai",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai Sport HD",
+          "Package": "Rai",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai Movie HD",
+          "Package": "Rai",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai Gulp HD",
+          "Package": "Rai",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai YoYo HD",
+          "Package": "Rai",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai Premium HD",
+          "Package": "Rai",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SMTV San Marino HD",
+          "Package": "Rai",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 4K",
+          "Package": "Rai",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 12627,
@@ -4848,9 +4679,9 @@
       "FrequencyMHz": 12648,
       "Polarization": "V",
       "SymbolRateKs": 29500,
-      "Fec": "None",
+      "Fec": "8/9",
       "Standard": "DVB-S2PLS:",
-      "Modulation": "64APSKStream",
+      "Modulation": "8PSKStream",
       "Channels": [
         {
           "Name": "BFM TV HD",
@@ -4899,39 +4730,13 @@
           "IsFta": true
         },
         {
-          "Name": "Novo 19  D\u00E9but le 1er septembre 2025",
+          "Name": "Novo 19",
           "Package": "NTN",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12648,
-      "Polarization": "V",
-      "SymbolRateKs": 29500,
-      "Fec": "8/9",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12690,
-      "Polarization": "V",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": [
-        {
-          "Name": "Rai 3",
-          "Package": "RAI",
           "Languages": [
-            "ita",
-            "vo"
+            "fra",
+            "qad"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         }
       ]
@@ -4944,37 +4749,6 @@
       "Standard": "DVB-S2PLS:",
       "Modulation": "8PSKStream",
       "Channels": [
-        {
-          "Name": "Rai 1 HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 2 HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai News 24",
-          "Package": "RAI",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
         {
           "Name": "Rai 3 HD",
           "Package": "RAI",
@@ -4983,195 +4757,6 @@
             "vo"
           ],
           "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Abruzzo HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Molise",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Lazio",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Abruzzo HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Molise",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Lazio",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai News 24",
-          "Package": "RAI",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12690,
-      "Polarization": "V",
-      "SymbolRateKs": 35294,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": [
-        {
-          "Name": "Rai 1 HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 2 HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai News 24",
-          "Package": "RAI",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 HD",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Marche",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Umbria",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Abruzzo",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Marche",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Umbria",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai 3 TGR Abruzzo",
-          "Package": "RAI",
-          "Languages": [
-            "ita",
-            "vo"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rai News 24",
-          "Package": "RAI",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
           "IsFta": true
         }
       ]
@@ -5297,22 +4882,244 @@
       ]
     },
     {
-      "FrequencyMHz": 12699,
-      "Polarization": "H",
-      "SymbolRateKs": 11175,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
+      "FrequencyMHz": 12690,
+      "Polarization": "V",
+      "SymbolRateKs": 35294,
+      "Fec": "2/3",
+      "Standard": "DVB-S2PLS:",
+      "Modulation": "8PSKStream",
+      "Channels": [
+        {
+          "Name": "Rai 1 HD",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 2 HD",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai News 24",
+          "Package": "RAI",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 HD",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Abruzzo HD",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Molise",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Lazio",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Abruzzo HD",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Molise",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Lazio",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai News 24",
+          "Package": "RAI",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
     },
     {
-      "FrequencyMHz": 12710,
-      "Polarization": "H",
-      "SymbolRateKs": 2222,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
+      "FrequencyMHz": 12690,
+      "Polarization": "V",
+      "SymbolRateKs": 35294,
+      "Fec": "2/3",
+      "Standard": "DVB-S2PLS:",
+      "Modulation": "8PSKStream",
+      "Channels": [
+        {
+          "Name": "Rai 1 HD",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 2 HD",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai News 24",
+          "Package": "RAI",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 HD",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Marche",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Umbria",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Abruzzo",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Marche",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Umbria",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai 3 TGR Abruzzo",
+          "Package": "RAI",
+          "Languages": [
+            "ita",
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rai News 24",
+          "Package": "RAI",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 12732,
@@ -5438,13 +5245,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "DATASYSTEM R7",
-          "Package": "MULTI 4",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
         }
       ]
     },

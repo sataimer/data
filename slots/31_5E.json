@@ -1,0 +1,32 @@
+{
+  "SlotKey": "31.5E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 11836,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11895,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12304.5,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "7/8",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    }
+  ]
+}

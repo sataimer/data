@@ -17,15 +17,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "T\u00FCrksat Promo",
-          "Package": "TURKSAT",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11056,
@@ -34,15 +26,6 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11095,
-      "Polarization": "H",
-      "SymbolRateKs": 30000,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -70,35 +53,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "T\u00FCrksat Promo",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "TRT Arabi HD",
-          "Package": null,
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "TRT World HD",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11595,

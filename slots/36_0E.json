@@ -11,28 +11,40 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11007.4,
+      "Polarization": "V",
+      "SymbolRateKs": 2452,
+      "Fec": "11/20",
+      "Standard": "DVB-S2X",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11009.8,
+      "Polarization": "H",
+      "SymbolRateKs": 8750,
+      "Fec": "1/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11013.9,
+      "Polarization": "V",
+      "SymbolRateKs": 145,
+      "Fec": "2/3",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11025.3,
       "Polarization": "H",
       "SymbolRateKs": 1250,
       "Fec": "1/2",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "IP/MAC NOTIFICATION",
-          "Package": "Eutelsat",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
-          "Name": "EUROBIS",
-          "Package": "EUTELSAT",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11075.3,
@@ -44,7 +56,16 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11105,
+      "FrequencyMHz": 11090.5,
+      "Polarization": "V",
+      "SymbolRateKs": 4000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11105.4,
       "Polarization": "V",
       "SymbolRateKs": 3333,
       "Fec": "3/5",
@@ -72,16 +93,25 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11112.5,
+      "Polarization": "V",
+      "SymbolRateKs": 500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11126.6,
       "Polarization": "V",
       "SymbolRateKs": 7053,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "32APSK",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11221,
+      "FrequencyMHz": 11221.3,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -93,7 +123,8 @@
           "Package": null,
           "Languages": [
             "rus",
-            "eng"
+            "eng",
+            "kaz"
           ],
           "Type": "TV",
           "IsFta": false
@@ -103,7 +134,8 @@
           "Package": null,
           "Languages": [
             "rus",
-            "eng"
+            "eng",
+            "kaz"
           ],
           "Type": "TV",
           "IsFta": false
@@ -113,7 +145,8 @@
           "Package": null,
           "Languages": [
             "eng",
-            "rus"
+            "rus",
+            "kaz"
           ],
           "Type": "TV",
           "IsFta": false
@@ -123,7 +156,8 @@
           "Package": null,
           "Languages": [
             "eng",
-            "rus"
+            "rus",
+            "kaz"
           ],
           "Type": "TV",
           "IsFta": false
@@ -134,7 +168,8 @@
           "Languages": [
             "rus",
             "eng",
-            "ukr"
+            "ukr",
+            "kaz"
           ],
           "Type": "TV",
           "IsFta": false
@@ -145,7 +180,8 @@
           "Languages": [
             "rus",
             "eng",
-            "ukr"
+            "ukr",
+            "kaz"
           ],
           "Type": "TV",
           "IsFta": false
@@ -155,7 +191,8 @@
           "Package": null,
           "Languages": [
             "rus",
-            "eng"
+            "eng",
+            "kaz"
           ],
           "Type": "TV",
           "IsFta": false
@@ -165,16 +202,8 @@
           "Package": null,
           "Languages": [
             "rus",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Ohota \u0026 Rybalka",
-          "Package": null,
-          "Languages": [
-            "rus"
+            "eng",
+            "kaz"
           ],
           "Type": "TV",
           "IsFta": false
@@ -182,25 +211,14 @@
         {
           "Name": "1 Arkhi",
           "Package": null,
-          "Languages": [
-            "geo"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "2.tv Georgia",
-          "Package": null,
-          "Languages": [
-            "geo"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 11263,
+      "FrequencyMHz": 11262.8,
       "Polarization": "H",
       "SymbolRateKs": 34250,
       "Fec": "3/4",
@@ -209,7 +227,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11304.5,
+      "FrequencyMHz": 11304.3,
       "Polarization": "H",
       "SymbolRateKs": 20000,
       "Fec": "3/4",
@@ -218,7 +236,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11345,
+      "FrequencyMHz": 11345.8,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -235,16 +253,6 @@
             "esp",
             "por",
             "ger",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nickelodeon Bulgaria",
-          "Package": "DGB2",
-          "Languages": [
-            "bul",
             "eng"
           ],
           "Type": "TV",
@@ -299,38 +307,15 @@
           "Package": "EDML",
           "Languages": [
             "eng",
-            "gre",
-            "ara"
+            "gre"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "Nick Jr Bulgaria",
-          "Package": "DGB2",
-          "Languages": [
-            "bul",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nicktoons Bulgaria",
-          "Package": "DGB2",
-          "Languages": [
-            "bul"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Disney Junior HD France",
-          "Package": "EDML",
-          "Languages": [
-            "fra",
-            "eng"
-          ],
+          "Name": "Star Movies Slovenia",
+          "Package": "Overon",
+          "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
@@ -378,11 +363,20 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "God Stands TV",
+          "Package": "Vivacom",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 11387.5,
+      "FrequencyMHz": 11387.3,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -400,16 +394,117 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11459.2,
+      "Polarization": "V",
+      "SymbolRateKs": 1905,
+      "Fec": "None",
+      "Standard": "DVB-S2X",
+      "Modulation": "AUTOStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11462.2,
+      "Polarization": "V",
+      "SymbolRateKs": 3200,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Rudaw HD",
+          "Package": "RUDAW",
+          "Languages": [
+            "kur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11470.2,
+      "Polarization": "V",
+      "SymbolRateKs": 3200,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11473.2,
+      "Polarization": "V",
+      "SymbolRateKs": 1750,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "N\u00FB\u00E7e TV",
+          "Package": "Service 1",
+          "Languages": [
+            "kur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11478.2,
+      "Polarization": "V",
+      "SymbolRateKs": 5455,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11486.19,
+      "Polarization": "H",
+      "SymbolRateKs": 1500,
+      "Fec": "1/2",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11487.8,
+      "Polarization": "V",
+      "SymbolRateKs": 3700,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11490.5,
+      "Polarization": "H",
+      "SymbolRateKs": 46000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11501.6,
+      "Polarization": "V",
+      "SymbolRateKs": 1048,
+      "Fec": "5/11",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11503,
       "Polarization": "V",
       "SymbolRateKs": 3810,
-      "Fec": "2/3",
-      "Standard": "DVB-S2X",
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
       "Modulation": "8PSKStream",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11508.5,
+      "FrequencyMHz": 11508.3,
       "Polarization": "V",
       "SymbolRateKs": 2800,
       "Fec": "2/3",
@@ -431,7 +526,7 @@
       "FrequencyMHz": 11518,
       "Polarization": "V",
       "SymbolRateKs": 7069,
-      "Fec": "4/5",
+      "Fec": "1/2",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": []
@@ -439,9 +534,9 @@
     {
       "FrequencyMHz": 11521.2,
       "Polarization": "H",
-      "SymbolRateKs": 10833,
+      "SymbolRateKs": 12380,
       "Fec": "1/2",
-      "Standard": "DVB-S2",
+      "Standard": "DVB-S2X",
       "Modulation": "QPSK",
       "Channels": [
         {
@@ -456,7 +551,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11542,
+      "FrequencyMHz": 11541.4,
       "Polarization": "V",
       "SymbolRateKs": 6582,
       "Fec": "2/3",
@@ -505,27 +600,54 @@
       "FrequencyMHz": 11551,
       "Polarization": "H",
       "SymbolRateKs": 25000,
-      "Fec": "3/5",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11558.5,
-      "Polarization": "V",
-      "SymbolRateKs": 3200,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11569,
+      "FrequencyMHz": 11555.9,
+      "Polarization": "V",
+      "SymbolRateKs": 3333,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11556.1,
       "Polarization": "H",
-      "SymbolRateKs": 5714,
-      "Fec": "13/45",
+      "SymbolRateKs": 16667,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11562,
+      "Polarization": "V",
+      "SymbolRateKs": 6666,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11569.8,
+      "Polarization": "H",
+      "SymbolRateKs": 7048,
+      "Fec": "1/3",
       "Standard": "DVB-S2X",
       "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11571.6,
+      "Polarization": "V",
+      "SymbolRateKs": 3048,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
       "Channels": []
     },
     {
@@ -557,16 +679,16 @@
       ]
     },
     {
-      "FrequencyMHz": 11589.7,
+      "FrequencyMHz": 11590.8,
       "Polarization": "H",
-      "SymbolRateKs": 3000,
-      "Fec": "2/3",
+      "SymbolRateKs": 5048,
+      "Fec": "3/5",
       "Standard": "DVB-S2",
-      "Modulation": "16APSK",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11594,
+      "FrequencyMHz": 11593.4,
       "Polarization": "V",
       "SymbolRateKs": 2500,
       "Fec": "3/4",
@@ -585,7 +707,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11598,
+      "FrequencyMHz": 11598.8,
       "Polarization": "H",
       "SymbolRateKs": 1750,
       "Fec": "5/6",
@@ -602,6 +724,15 @@
           "IsFta": true
         }
       ]
+    },
+    {
+      "FrequencyMHz": 11599.3,
+      "Polarization": "V",
+      "SymbolRateKs": 3200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
     },
     {
       "FrequencyMHz": 11605.1,
@@ -622,50 +753,58 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11626.3,
+      "FrequencyMHz": 11612,
       "Polarization": "H",
-      "SymbolRateKs": 5273,
+      "SymbolRateKs": 580,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11640.3,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11646.3,
+      "Polarization": "H",
+      "SymbolRateKs": 40000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "32APSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11641.3,
+      "FrequencyMHz": 11666.8,
       "Polarization": "H",
-      "SymbolRateKs": 24952,
-      "Fec": "32/45",
-      "Standard": "DVB-S2X",
-      "Modulation": "32APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11643.2,
-      "Polarization": "V",
-      "SymbolRateKs": 1667,
+      "SymbolRateKs": 4000,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11679,
+      "FrequencyMHz": 11677.68,
       "Polarization": "V",
       "SymbolRateKs": 3200,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Rudaw TV",
-          "Package": "RUDAW",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11689.3,
+      "Polarization": "H",
+      "SymbolRateKs": 8000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
     },
     {
       "FrequencyMHz": 11693,
@@ -674,17 +813,7 @@
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "N\u00FB\u00E7e TV",
-          "Package": "Vislink",
-          "Languages": [
-            "kur"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11727,
@@ -695,157 +824,37 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "VAR 1 HD",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "M-Net West HD",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "PREMLHD",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "M-Net Movies Premiere Africa East HD",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "VAR1PHD",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "PREMPHD",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "VAR 2 HD",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "LaLigaTV HD",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Var 1 HD",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Var 2 HD",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "LIGAPHD",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "VAR2PHD",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "FOOT\u002BHD",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "FTB\u002BHD",
-          "Package": "Multichoice Africa",
+          "Name": "colorbar",
+          "Package": null,
           "Languages": [],
           "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "PVOD",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "EIT Data",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Data",
           "IsFta": true
         },
         {
-          "Name": "HDgui",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Data",
+          "Name": "Limelight Family",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "PDC",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Data",
+          "Name": "EMCI TV",
+          "Package": null,
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Dieu TV",
+          "Package": "Katapy",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
           "IsFta": true
         }
       ]
@@ -857,169 +866,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "M-Net Movies Action\u002B",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "B4U Movies",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Strng",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "VAR 1",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Disney Cinemagic",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Disney Junior South Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CNBC Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "HY7",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Cricket One",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Top TV Mozambique",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CNN International",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Pearl Magic",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "VAR1P",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Var 1",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Cricket One",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CRICP",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Ethio",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "NXT R",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Ahadu",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11766,
@@ -1028,124 +875,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Universal Channel South Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Studio Universal Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Investigation Discovery Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TLC Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Comedy Central Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Trace Jama",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Discovery Channel Middle-East \u0026 Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "BBC Choice",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "SET Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sony Max UK",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nickelodeon Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Ramog",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "BBC c",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "NICK",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11785,
@@ -1154,149 +884,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Canal\u002B Sport 1",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Afro Music Pop",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Trace Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nat Geo Wild South Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Toons Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Ghana TV",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Bloomberg Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "BET on Jazz International",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "BET U.K.",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Trace Mziki",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sound City Music Channel",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Islam Channel",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Famly",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "NGwld  P",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Afromusic Concerts",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "SCity",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "NICKT",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11804,
@@ -1305,54 +893,7 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "FB\u002B Dual Illum",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "FB\u002B Dual Illum P",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ODS VOD Eng",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "NG Guide Eng",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
-          "Name": "NG Data Eng",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
-          "Name": "NG CatVOD Eng",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11823,
@@ -1361,130 +902,16 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Cine\u002B Star",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "France 2",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "T\u00E9l\u00E9toon\u002B",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Plan\u00E8te\u002B",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "RTL 9",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Novelas TV",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Canal\u002B Cin\u00E9ma Centre",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "StarTimes Naija",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MUNDL",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Piwi\u002B",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TF 1",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sky News International",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "A\u002B",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "NAIJA",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11842.6,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
     },
     {
       "FrequencyMHz": 11843,
@@ -1493,169 +920,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "PlusA",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Liyu2",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Dish on TV promo",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "SuperSport 8 Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MLW",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TBC 1",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "SuperSport MaXimo 2",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Maisha Magic East",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "VAR 4",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Africa Magic Urban Movies",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Africa Magic Showcase Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Max2P",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "SuperSport Maximo 360",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Var 4",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Tenis",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TENSP",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "VAR4P",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "L2S",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "WE7",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11862,
@@ -1664,92 +929,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Citizen TV",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Africa Magic Igbo",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MR7",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Zee TV Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Maisha Magic Bongo",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Zee World",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "M-Net Movies Zone",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "ZWS",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "NG Guide CCA",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
-          "Name": "NG Data CCA",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11881,
@@ -1758,461 +938,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "ZIW",
-          "Package": "MCK",
-          "Languages": [
-            "por"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Mindset Learn",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TBN Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "PRW",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TNT Argentina",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "ONews",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "AfrN",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Mais",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Clouds TV",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Upendo TV",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "STaR",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Symph",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Chamb",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "A \u0026 O",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "LiteC",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Beaut",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "ContI",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Light",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "ClasR",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "HsPty",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Dance",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Y2K",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "CampR",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "HardR",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "AltR",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "TdayH",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "PowrH",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "UBeat",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "GoldO",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "\u002790s",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "\u002770s",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "80\u0027s",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "R\u0026B",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Love",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "SoftH",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "FamF",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "AdulC",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "urban",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "SmthJ",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "ClasJ",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Groov",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "City",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Blues",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "AfriR",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Trots",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Regga",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "TradC",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Gospl",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "ItalC",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "MetrB",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "FrenC",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "ModnC",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "BBCen",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "BBCfr",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "BBCln",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "CII",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "TAR",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "VOA",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "WRN",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "C25",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "C1S",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "FANA",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Shger",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11900,
@@ -2221,169 +947,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "CBS Reality Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CBS R",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "FOOT\u002B",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Cartoon Network Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "National Geographic South Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Africa Magic Epic Movies",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "SuperSport Blitz",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "LLIGA",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TVE",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "STN",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "SuperSport 4",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Africa Magic Yoruba",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Africa Magic Hausa",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "SuperSport Blitz",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "GRNDP",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "FTB\u002BP",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "LIGAP",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Grand",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Blitz",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11919,
@@ -2392,220 +956,7 @@
       "Fec": "5/6",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "NTAN24",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "NTA 2",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "NTA Parliament",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "EBS",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Y254",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Pop Core",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Wasfi",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ABOL",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "KS7",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Zan TV",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "NewzA",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Fana TV",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Cloud",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Abol",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "EB7",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "FAW",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Wasafi FM",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "KE9",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Peace",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Y FM",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "JoyFM",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Starr",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "AdmFM",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "KasFM",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Radio",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11938,
@@ -2614,150 +965,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "CGTN",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CCTV 4",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "AIT National",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Discovery Family",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "BBC Lifestyle",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Cartoonito",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Jr Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Al Jazeera English",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Daystar TV Network",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MITV",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CuriosityStream",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "NHK World",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "SonLife Broadcasting Network",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "NickJA",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "amh"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "NICKJA",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "amh"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "NICKJ",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11958,
@@ -2766,124 +974,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "RTP Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV Record",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "AMC Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "JimJam EMEA",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Trace Toca",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV Portugal",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "National Geographic Portugal",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TeleMundo Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng",
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TELEM",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Afro Music Channel",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV Globo",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "DSTV Kids",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "SIC Noticias",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11977,
@@ -2892,188 +983,16 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "E ! P",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Canal\u002B Horizons",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "E! Entertainment TV",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV 5 Monde Afrique",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "The History Channel Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "BestB",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "BBC Brit South Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "NDTV 24x7",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "NTA International",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "RTP International",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "AYVTV",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Zee Cinema",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "FOOD P",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Food Network",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "RFI",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11996,
       "Polarization": "V",
       "SymbolRateKs": 27500,
-      "Fec": "3/4",
+      "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Discovery Channel HD Middle-East \u0026 Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Record \u00C1frica HD",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TVCine HD",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "AXN HD",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Studio Universal HD Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12015,
@@ -3082,248 +1001,16 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "JimJam EMEA",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Euronews English",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "InfoSport\u002B",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Euronews French",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Raitalia 3 Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV5T",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "HIP TV",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Euronews German",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Zee News",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Euronews Portuguese",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CBS Justice",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Spice",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "HIP TV",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Okapi",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12034,
       "Polarization": "V",
       "SymbolRateKs": 27500,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "JimJam EMEA",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Akili",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Event5",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Sunna",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ETV N",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TeleM",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "RealT",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "DV7",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "PBS K",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "France 24 (in English)",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "EWTN Africa \u0026 India",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CGTN Documentary",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Lumen",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ET7",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
     },
     {
       "FrequencyMHz": 12054,
@@ -3332,239 +1019,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "M-Net East",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MOTOR",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "RUGBY",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "VAR 2",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "BBC News",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV Base Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "GOLF",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "OneZ",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "FOOTB",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Disney Channel South Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Zambezi Magic",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "ACT",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "FTBP",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Var 2",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "FootB",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "VAR2P",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Motor",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "MOTOP",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Act",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ACTP",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Rugby",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "RUGBP",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "The Golf Channel",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "GOLFP",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV b",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "PVRG",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12073,
@@ -3573,122 +1028,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Panda Kids",
-          "Package": "MCK",
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "GHW",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ESPN Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Adom TV",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CCTV F",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Joy Prime",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "NBS (Uganda)",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "United TV",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV 3 Ghana",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Star Life ROA",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Lagos TV",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Dove TV (Nigeria)",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Joy News",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "ESPNP",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12092,
@@ -3905,155 +1245,7 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Sanyuka TV",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "JKD",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Moonb",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "QWEST",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Lijoc",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TeenA",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TTV",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "KC2",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "FUFA",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Afia",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Ahadu TV",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "GH P",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TV10",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Brasl",
-          "Package": "MCK",
-          "Languages": [
-            "por"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Moonbow",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Qwest",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "LIJOC",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "R RWA",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "R10",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Radio",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12207,
@@ -4073,17 +1265,17 @@
           "IsFta": false
         },
         {
-          "Name": "RTV Test",
-          "Package": "Multichoice Africa",
+          "Name": "WE TV",
+          "Package": "MCK",
           "Languages": [],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "Tayari West",
-          "Package": "Multichoice Africa",
+          "Name": "L2W",
+          "Package": "MCK",
           "Languages": [],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -4279,7 +1471,7 @@
           "IsFta": false
         },
         {
-          "Name": "Contl",
+          "Name": "ContI",
           "Package": "MCK",
           "Languages": [],
           "Type": "Radio",
@@ -4539,114 +1731,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "1F1",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "1F2",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "1F3",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "1F4",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "1F5",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "1F6",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "1F7",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "1F8",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "1F9",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "1FA",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "1FB",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "1FC",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "1FD",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "1FE",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12245,
@@ -4655,25 +1740,15 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Test1 HD",
-          "Package": "MCK",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12265,
       "Polarization": "V",
-      "SymbolRateKs": 31420,
-      "Fec": "3/4",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "16APSKStream",
+      "SymbolRateKs": 27500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -4807,7 +1882,43 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "ODS VOD Nano",
+          "Package": "MCK",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "NG CatVOD Nano",
+          "Package": "MCK",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "NG Guide Nano",
+          "Package": "MCK",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "NG Data Nano",
+          "Package": "MCK",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "Nano Guide 6",
+          "Package": "MCK",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 12341,
@@ -4948,8 +2059,8 @@
     {
       "FrequencyMHz": 12380,
       "Polarization": "V",
-      "SymbolRateKs": 31420,
-      "Fec": "3/4",
+      "SymbolRateKs": 27500,
+      "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -4961,125 +2072,55 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "SBN",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "DomTV",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ONETV",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Babat\u00FCrk TV",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "SALT",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Buk2",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Artsworld",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nahoo HD",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Walta",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Muzik",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Asham",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Balag",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ADDIS",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "MUZIKA",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CitFM",
-          "Package": "MCK",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12418,
       "Polarization": "V",
-      "SymbolRateKs": 31420,
-      "Fec": "3/4",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "8PSKStream",
-      "Channels": []
+      "SymbolRateKs": 27500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Dish",
+          "Package": "MCK",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "ODS VOD Eng",
+          "Package": "MCK",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "NG Guide Eng",
+          "Package": "MCK",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "NG Data Eng",
+          "Package": "MCK",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "NG CatVOD Eng",
+          "Package": "MCK",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
     },
     {
-      "FrequencyMHz": 12440,
+      "FrequencyMHz": 12437,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -5224,146 +2265,6 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "701",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "702",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CCTVE",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Metro TV",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "ASOTV",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "ESPN 2 Africa",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Mambo TV",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Kix",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "France 24 (in English)",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "NewsC",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "DW-TV (Deutsche Welle)",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Rok DSTV",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "ESP2P",
-          "Package": "Multichoice Africa",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Rythm",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "RayFM",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "STARFM",
-          "Package": "Multichoice Africa",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12510.6,
-      "Polarization": "V",
-      "SymbolRateKs": 4808,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSK",
       "Channels": []
     },
     {
@@ -5376,19 +2277,82 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12574.5,
+      "FrequencyMHz": 12560.3,
       "Polarization": "V",
-      "SymbolRateKs": 1667,
+      "SymbolRateKs": 1150,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12635.5,
+      "FrequencyMHz": 12561.7,
+      "Polarization": "V",
+      "SymbolRateKs": 1150,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12564.3,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12573.3,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12574.8,
+      "Polarization": "V",
+      "SymbolRateKs": 1667,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12608.67,
+      "Polarization": "V",
+      "SymbolRateKs": 4600,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12619.8,
+      "Polarization": "V",
+      "SymbolRateKs": 1500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12635.49,
+      "Polarization": "H",
+      "SymbolRateKs": 3333,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12635.8,
       "Polarization": "V",
       "SymbolRateKs": 5021,
-      "Fec": "1/3",
+      "Fec": "5/11",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": []
@@ -5397,13 +2361,30 @@
       "FrequencyMHz": 12640.5,
       "Polarization": "H",
       "SymbolRateKs": 1880,
-      "Fec": "8/9",
+      "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Dijlah HD",
+          "Package": null,
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio",
+          "Package": null,
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
     },
     {
-      "FrequencyMHz": 12675,
+      "FrequencyMHz": 12675.3,
       "Polarization": "H",
       "SymbolRateKs": 768,
       "Fec": "1/4",
@@ -5421,7 +2402,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12683,
+      "FrequencyMHz": 12683.2,
       "Polarization": "V",
       "SymbolRateKs": 18000,
       "Fec": "3/4",
@@ -5439,12 +2420,39 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12695,
+      "FrequencyMHz": 12691.4,
+      "Polarization": "H",
+      "SymbolRateKs": 1111,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12695.3,
       "Polarization": "H",
       "SymbolRateKs": 4750,
       "Fec": "None",
       "Standard": "DVB-S2",
       "Modulation": "64APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12713.05,
+      "Polarization": "V",
+      "SymbolRateKs": 1250,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12718.6,
+      "Polarization": "V",
+      "SymbolRateKs": 5000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
       "Channels": []
     },
     {
@@ -5457,12 +2465,21 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12734.2,
+      "FrequencyMHz": 12733.9,
       "Polarization": "H",
       "SymbolRateKs": 2731,
       "Fec": "1/3",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12738.2,
+      "Polarization": "H",
+      "SymbolRateKs": 1000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
       "Channels": []
     },
     {

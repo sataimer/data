@@ -2,7 +2,34 @@
   "SlotKey": "15.0W",
   "Transponders": [
     {
-      "FrequencyMHz": 11043,
+      "FrequencyMHz": 10962.3,
+      "Polarization": "V",
+      "SymbolRateKs": 8572,
+      "Fec": "25/36",
+      "Standard": "DVB-S2X",
+      "Modulation": "16APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10983.3,
+      "Polarization": "H",
+      "SymbolRateKs": 3600,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10993.8,
+      "Polarization": "H",
+      "SymbolRateKs": 3600,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11043.3,
       "Polarization": "V",
       "SymbolRateKs": 44100,
       "Fec": "9/10",
@@ -71,6 +98,15 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "BBC FOUR",
+          "Package": "BBC",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
         },
         {
           "Name": "CBBC",
@@ -364,13 +400,6 @@
           "IsFta": true
         },
         {
-          "Name": "BBC FOUR",
-          "Package": "BBC",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
           "Name": "BBC Alba",
           "Package": "BBC",
           "Languages": [],
@@ -450,9 +479,45 @@
       ]
     },
     {
+      "FrequencyMHz": 11049,
+      "Polarization": "H",
+      "SymbolRateKs": 3600,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11059,
+      "Polarization": "H",
+      "SymbolRateKs": 3600,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11109.5,
+      "Polarization": "H",
+      "SymbolRateKs": 6723,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11117.85,
       "Polarization": "V",
       "SymbolRateKs": 6000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11119.9,
+      "Polarization": "H",
+      "SymbolRateKs": 12000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -468,9 +533,54 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11138,
+      "Polarization": "V",
+      "SymbolRateKs": 107141,
+      "Fec": "None",
+      "Standard": "DVB-S2X",
+      "Modulation": "AUTO",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11149.2,
+      "Polarization": "H",
+      "SymbolRateKs": 3600,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11159.2,
+      "Polarization": "H",
+      "SymbolRateKs": 3600,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11162.9,
       "Polarization": "H",
       "SymbolRateKs": 1500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11164.2,
+      "Polarization": "H",
+      "SymbolRateKs": 720,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11168.1,
+      "Polarization": "H",
+      "SymbolRateKs": 3600,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
@@ -486,6 +596,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11184.2,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11188.5,
       "Polarization": "H",
       "SymbolRateKs": 9692,
@@ -495,9 +614,18 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11341,
+      "FrequencyMHz": 11292.8,
+      "Polarization": "H",
+      "SymbolRateKs": 52381,
+      "Fec": "5/11",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11341.5,
       "Polarization": "V",
-      "SymbolRateKs": 20170,
+      "SymbolRateKs": 20167,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
@@ -541,12 +669,39 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11460,
+      "Polarization": "V",
+      "SymbolRateKs": 1000,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11474.1,
+      "Polarization": "H",
+      "SymbolRateKs": 3400,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11474.7,
       "Polarization": "V",
       "SymbolRateKs": 2300,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11484.2,
+      "Polarization": "H",
+      "SymbolRateKs": 3535,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -568,6 +723,33 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11507.4,
+      "Polarization": "V",
+      "SymbolRateKs": 1000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11517.3,
+      "Polarization": "V",
+      "SymbolRateKs": 3600,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11522.9,
+      "Polarization": "H",
+      "SymbolRateKs": 1500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11523.4,
       "Polarization": "H",
       "SymbolRateKs": 2000,
@@ -577,10 +759,64 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11524.9,
+      "Polarization": "H",
+      "SymbolRateKs": 1500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11526.4,
+      "Polarization": "H",
+      "SymbolRateKs": 700,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11540.1,
+      "Polarization": "V",
+      "SymbolRateKs": 1715,
+      "Fec": "None",
+      "Standard": "DVB-S2X",
+      "Modulation": "AUTOStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11562.5,
+      "Polarization": "V",
+      "SymbolRateKs": 2650,
+      "Fec": "5/11",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11563,
+      "Polarization": "H",
+      "SymbolRateKs": 2400,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11563.5,
       "Polarization": "V",
       "SymbolRateKs": 3333,
       "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11565,
+      "Polarization": "V",
+      "SymbolRateKs": 1280,
+      "Fec": "1/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": []
@@ -604,12 +840,30 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11588.9,
+      "Polarization": "V",
+      "SymbolRateKs": 6460,
+      "Fec": "2/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11590,
       "Polarization": "V",
       "SymbolRateKs": 5000,
       "Fec": "2/5",
       "Standard": "DVB-S2",
       "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11595.8,
+      "Polarization": "H",
+      "SymbolRateKs": 25000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -622,6 +876,24 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11626.2,
+      "Polarization": "V",
+      "SymbolRateKs": 1900,
+      "Fec": "5/11",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11637.5,
+      "Polarization": "H",
+      "SymbolRateKs": 34285,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11652.7,
       "Polarization": "V",
       "SymbolRateKs": 4881,
@@ -631,12 +903,39 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11662.5,
+      "Polarization": "V",
+      "SymbolRateKs": 2780,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11662.7,
       "Polarization": "V",
       "SymbolRateKs": 2500,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11669.6,
+      "Polarization": "H",
+      "SymbolRateKs": 16000,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11679.2,
+      "Polarization": "V",
+      "SymbolRateKs": 12000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
       "Channels": []
     },
     {
@@ -667,39 +966,21 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12523,
-      "Polarization": "V",
-      "SymbolRateKs": 25000,
-      "Fec": "Auto",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12534.8,
+      "FrequencyMHz": 12535,
       "Polarization": "V",
       "SymbolRateKs": 51427,
-      "Fec": "13/18",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSK",
+      "Fec": "None",
+      "Standard": "DVB-S2X",
+      "Modulation": "AUTO",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12580,
+      "FrequencyMHz": 12587.7,
       "Polarization": "H",
-      "SymbolRateKs": 11000,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12589,
-      "Polarization": "H",
-      "SymbolRateKs": 3400,
+      "SymbolRateKs": 20750,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -711,12 +992,12 @@
       "Modulation": "16APSK",
       "Channels": [
         {
-          "Name": "Navy TV",
-          "Package": "BFBS",
+          "Name": "ITV 4",
+          "Package": "9018.8197.8330.dvb.snap.tv",
           "Languages": [
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         }
       ]
@@ -767,6 +1048,77 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 12639.5,
+      "Polarization": "H",
+      "SymbolRateKs": 11000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "MTN Info Channel",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Fox News",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bloomberg USA",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC News",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prime one",
+          "Package": "Anuvu",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC HD",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNN International",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
       "FrequencyMHz": 12645.3,
       "Polarization": "V",
       "SymbolRateKs": 20165,
@@ -776,22 +1128,334 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12658.9,
+      "FrequencyMHz": 12666.6,
       "Polarization": "H",
-      "SymbolRateKs": 51428,
-      "Fec": "2/3",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12658.9,
-      "Polarization": "H",
-      "SymbolRateKs": 51428,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSKStream",
-      "Channels": []
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "MTN Info Channel",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MTN Special Events",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MSNBC Now",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Fox News",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Bloomberg Europe",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TEMP 1",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC News",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prime Journey",
+          "Package": "Anuvu",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sports 24",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prime one",
+          "Package": "Anuvu",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport 24 Extra",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTL Television",
+          "Package": "Anuvu",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Australia Sky News",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Asia",
+          "Package": "Anuvu",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TFC Asia Pacific",
+          "Package": "Anuvu",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prime Favorites",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC HD",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TVE International",
+          "Package": "Anuvu",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Canal 24 Horas",
+          "Package": "Anuvu",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Australia Comedy and Drama",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ABC News 24 Channel",
+          "Package": "Anuvu",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CNN International Europe",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Food Network",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "HGTV UK",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Travel Channel",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC Earth",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Brit Box",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC Lifestyle",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "France 24 (en Fran\u00E7ais)",
+          "Package": "Anuvu",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Mediaset Italia",
+          "Package": "Anuvu",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rai Italia",
+          "Package": "Anuvu",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hunan TV",
+          "Package": null,
+          "Languages": [
+            "chi"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CMC",
+          "Package": null,
+          "Languages": [
+            "chi"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CCTV Entertainment",
+          "Package": "Anuvu",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "CCTV 4",
+          "Package": "Anuvu",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Metro TV",
+          "Package": "Anuvu",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "National Geographic UK",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTN SE 200",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
     },
     {
       "FrequencyMHz": 12673,
@@ -800,6 +1464,33 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12682,
+      "Polarization": "V",
+      "SymbolRateKs": 2572,
+      "Fec": "8/9",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12684.7,
+      "Polarization": "V",
+      "SymbolRateKs": 2572,
+      "Fec": "8/9",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12695,
+      "Polarization": "V",
+      "SymbolRateKs": 1667,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -818,17 +1509,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Navy TV",
-          "Package": "BFBS",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12720.8,
@@ -837,6 +1518,15 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "16APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12721,
+      "Polarization": "H",
+      "SymbolRateKs": 51399,
+      "Fec": "23/36",
+      "Standard": "DVB-S2X",
+      "Modulation": "16APSK",
       "Channels": []
     }
   ]

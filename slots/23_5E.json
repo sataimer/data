@@ -2,134 +2,109 @@
   "SlotKey": "23.5E",
   "Transponders": [
     {
-      "FrequencyMHz": 3884,
-      "Polarization": "R",
-      "SymbolRateKs": 28745,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11461.5,
-      "Polarization": "V",
-      "SymbolRateKs": 7200,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11466.1,
+      "FrequencyMHz": 3707,
       "Polarization": "H",
-      "SymbolRateKs": 17143,
-      "Fec": "9/10",
+      "SymbolRateKs": 1200,
+      "Fec": "2/3",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3710,
+      "Polarization": "H",
+      "SymbolRateKs": 6400,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Apna HD",
+          "Package": "PROVIDER",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "8XM HD",
+          "Package": "PROVIDER",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Abbtakk HD",
+          "Package": "PROVIDER",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Jalwa HD",
+          "Package": "PROVIDER",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3718,
+      "Polarization": "V",
+      "SymbolRateKs": 12000,
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11470.52,
-      "Polarization": "V",
-      "SymbolRateKs": 7200,
+      "FrequencyMHz": 3725,
+      "Polarization": "H",
+      "SymbolRateKs": 2400,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11472.8,
+      "FrequencyMHz": 3733,
       "Polarization": "V",
-      "SymbolRateKs": 3650,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11479.6,
-      "Polarization": "V",
-      "SymbolRateKs": 7200,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11487,
-      "Polarization": "V",
-      "SymbolRateKs": 1667,
+      "SymbolRateKs": 8000,
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11493.8,
-      "Polarization": "H",
-      "SymbolRateKs": 22000,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11502.9,
-      "Polarization": "H",
-      "SymbolRateKs": 2900,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11503.1,
+      "FrequencyMHz": 3740,
       "Polarization": "V",
-      "SymbolRateKs": 7200,
-      "Fec": "3/4",
+      "SymbolRateKs": 5600,
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11506.1,
+      "FrequencyMHz": 3741,
       "Polarization": "H",
-      "SymbolRateKs": 14400,
-      "Fec": "3/4",
+      "SymbolRateKs": 3600,
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11520,
-      "Polarization": "H",
-      "SymbolRateKs": 2857,
+      "FrequencyMHz": 3745,
+      "Polarization": "V",
+      "SymbolRateKs": 1500,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11523,
+      "FrequencyMHz": 3754,
       "Polarization": "V",
-      "SymbolRateKs": 19000,
-      "Fec": "9/10",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11526.2,
-      "Polarization": "H",
-      "SymbolRateKs": 33000,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11528.6,
-      "Polarization": "H",
       "SymbolRateKs": 7500,
       "Fec": "3/4",
       "Standard": "DVB-S2",
@@ -137,79 +112,410 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11555.1,
-      "Polarization": "V",
-      "SymbolRateKs": 34285,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11555.1,
-      "Polarization": "V",
-      "SymbolRateKs": 34286,
-      "Fec": "1/2",
-      "Standard": "DVB-S2X",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11581,
+      "FrequencyMHz": 3760,
       "Polarization": "H",
-      "SymbolRateKs": 2400,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11602.9,
-      "Polarization": "V",
-      "SymbolRateKs": 19048,
-      "Fec": "25/36",
-      "Standard": "DVB-S2X",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11620.5,
-      "Polarization": "H",
-      "SymbolRateKs": 5932,
+      "SymbolRateKs": 2500,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "32APSK",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11626.5,
+      "FrequencyMHz": 3762,
       "Polarization": "V",
-      "SymbolRateKs": 10000,
+      "SymbolRateKs": 4100,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3765,
+      "Polarization": "V",
+      "SymbolRateKs": 4340,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3770,
+      "Polarization": "V",
+      "SymbolRateKs": 7700,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Channel 24 HD Pakistan",
+          "Package": "MIM",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "City 42 News",
+          "Package": "MIM",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "City 41",
+          "Package": "UES",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rohi TV",
+          "Package": "UES",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Channel 44 UK",
+          "Package": "UES",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CITY-21",
+          "Package": "MIM",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "CITY",
+          "Package": "MIM",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "CITY",
+          "Package": "MIM",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3772,
+      "Polarization": "H",
+      "SymbolRateKs": 2400,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3777,
+      "Polarization": "V",
+      "SymbolRateKs": 2600,
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11632.1,
+      "FrequencyMHz": 3783,
       "Polarization": "V",
-      "SymbolRateKs": 4500,
-      "Fec": "3/4",
+      "SymbolRateKs": 6348,
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11643,
+      "FrequencyMHz": 3786,
       "Polarization": "H",
-      "SymbolRateKs": 7583,
+      "SymbolRateKs": 7200,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11645.2,
+      "FrequencyMHz": 3792,
+      "Polarization": "V",
+      "SymbolRateKs": 4000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3794,
+      "Polarization": "V",
+      "SymbolRateKs": 4443,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3797,
+      "Polarization": "H",
+      "SymbolRateKs": 2400,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3799,
+      "Polarization": "V",
+      "SymbolRateKs": 5500,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "SAB TV",
+          "Package": "TV-Provider",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CPEC TV",
+          "Package": "TV-Provider",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3806,
+      "Polarization": "H",
+      "SymbolRateKs": 2000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3813,
+      "Polarization": "V",
+      "SymbolRateKs": 16852,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3830,
+      "Polarization": "H",
+      "SymbolRateKs": 3200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3832,
+      "Polarization": "V",
+      "SymbolRateKs": 4000,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3833,
+      "Polarization": "H",
+      "SymbolRateKs": 2035,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3834,
+      "Polarization": "H",
+      "SymbolRateKs": 6500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Apna HD",
+          "Package": "PROVIDER",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "8XM HD",
+          "Package": "PROVIDER",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Abbtakk HD",
+          "Package": "PROVIDER",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Jalwa HD",
+          "Package": "PROVIDER",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3835,
+      "Polarization": "V",
+      "SymbolRateKs": 1600,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "VSH News",
+          "Package": "VSH.NEWS",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 3838,
+      "Polarization": "V",
+      "SymbolRateKs": 4800,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3846,
+      "Polarization": "V",
+      "SymbolRateKs": 6600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3852,
+      "Polarization": "V",
+      "SymbolRateKs": 3250,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3856,
+      "Polarization": "V",
+      "SymbolRateKs": 2900,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3860,
+      "Polarization": "V",
+      "SymbolRateKs": 2600,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3862,
+      "Polarization": "V",
+      "SymbolRateKs": 1850,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3880,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3882,
+      "Polarization": "H",
+      "SymbolRateKs": 2080,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3888,
+      "Polarization": "H",
+      "SymbolRateKs": 2916,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3900,
+      "Polarization": "H",
+      "SymbolRateKs": 3600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3952,
+      "Polarization": "V",
+      "SymbolRateKs": 2960,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3954,
       "Polarization": "V",
       "SymbolRateKs": 1600,
       "Fec": "3/4",
@@ -218,144 +524,690 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11647.8,
-      "Polarization": "H",
-      "SymbolRateKs": 1000,
+      "FrequencyMHz": 3958,
+      "Polarization": "V",
+      "SymbolRateKs": 6400,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11651,
-      "Polarization": "H",
-      "SymbolRateKs": 3780,
-      "Fec": "4/5",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11659,
-      "Polarization": "H",
-      "SymbolRateKs": 3780,
-      "Fec": "4/5",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11660.1,
+      "FrequencyMHz": 3964,
       "Polarization": "V",
-      "SymbolRateKs": 4600,
+      "SymbolRateKs": 6400,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3968,
+      "Polarization": "V",
+      "SymbolRateKs": 6943,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3975,
+      "Polarization": "V",
+      "SymbolRateKs": 2000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3980,
+      "Polarization": "V",
+      "SymbolRateKs": 3650,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3983,
+      "Polarization": "V",
+      "SymbolRateKs": 3250,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3985,
+      "Polarization": "H",
+      "SymbolRateKs": 1600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3986,
+      "Polarization": "V",
+      "SymbolRateKs": 1600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3993,
+      "Polarization": "V",
+      "SymbolRateKs": 2900,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4001,
+      "Polarization": "V",
+      "SymbolRateKs": 13333,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4023,
+      "Polarization": "V",
+      "SymbolRateKs": 4800,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4032,
+      "Polarization": "V",
+      "SymbolRateKs": 3200,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4033,
+      "Polarization": "H",
+      "SymbolRateKs": 2400,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4037,
+      "Polarization": "V",
+      "SymbolRateKs": 4800,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Noor TV",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Maha Max",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Eye TV",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "IB TV USA",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Cinemax USA",
+          "Package": "IIK",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Prime Asia",
+          "Package": "IIK",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Global News",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "S.MAX HD",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "GEM TV",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "cinemovie",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Champion TV",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Sky Cinema",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Movies One UK",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Silver Screen N",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Mye TV",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "ON NEWS HD",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "STN TV",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Maha Movies",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Mega Movies",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "filmasia",
+          "Package": "SSCS",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Music Masti",
+          "Package": "IIK",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "E1",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Elan tv",
+          "Package": "IIK",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4043,
+      "Polarization": "V",
+      "SymbolRateKs": 2400,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4046,
+      "Polarization": "H",
+      "SymbolRateKs": 2400,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4047,
+      "Polarization": "V",
+      "SymbolRateKs": 3255,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4052,
+      "Polarization": "H",
+      "SymbolRateKs": 4800,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "AVT Khyber",
+          "Package": "AVT CHANNELS",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4052,
+      "Polarization": "V",
+      "SymbolRateKs": 5800,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11670.6,
-      "Polarization": "H",
-      "SymbolRateKs": 7200,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11670.8,
+      "FrequencyMHz": 4060,
       "Polarization": "V",
-      "SymbolRateKs": 7200,
+      "SymbolRateKs": 5000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Peace TV UK",
+          "Package": "SSCS",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Peace TV Urdu",
+          "Package": "SSCS",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kaaba Live",
+          "Package": "sscs",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
-      "FrequencyMHz": 11676.23,
+      "FrequencyMHz": 4064,
       "Polarization": "V",
-      "SymbolRateKs": 1409,
-      "Fec": "4/5",
+      "SymbolRateKs": 3200,
+      "Fec": "5/6",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11678,
+      "FrequencyMHz": 4075,
       "Polarization": "V",
-      "SymbolRateKs": 2050,
+      "SymbolRateKs": 6150,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11680,
+      "FrequencyMHz": 4081,
       "Polarization": "V",
-      "SymbolRateKs": 1497,
+      "SymbolRateKs": 3195,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4085,
+      "Polarization": "V",
+      "SymbolRateKs": 3463,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4090,
+      "Polarization": "V",
+      "SymbolRateKs": 2034,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11684.1,
-      "Polarization": "H",
-      "SymbolRateKs": 14400,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11685.6,
-      "Polarization": "H",
+      "FrequencyMHz": 4093,
+      "Polarization": "V",
       "SymbolRateKs": 2400,
-      "Fec": "3/4",
+      "Fec": "3/5",
       "Standard": "DVB-S2",
-      "Modulation": "8PSKStream",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11685.6,
-      "Polarization": "H",
-      "SymbolRateKs": 2400,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11686.1,
+      "FrequencyMHz": 4096,
       "Polarization": "V",
-      "SymbolRateKs": 2749,
+      "SymbolRateKs": 3231,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4101,
+      "Polarization": "V",
+      "SymbolRateKs": 2800,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4102,
+      "Polarization": "H",
+      "SymbolRateKs": 4340,
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11687.8,
-      "Polarization": "H",
-      "SymbolRateKs": 1200,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSKStream",
+      "FrequencyMHz": 4104,
+      "Polarization": "V",
+      "SymbolRateKs": 1600,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11688.6,
+      "FrequencyMHz": 4105,
       "Polarization": "H",
-      "SymbolRateKs": 7200,
+      "SymbolRateKs": 1600,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11719.5,
+      "FrequencyMHz": 4107,
+      "Polarization": "V",
+      "SymbolRateKs": 1004,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4111,
+      "Polarization": "V",
+      "SymbolRateKs": 1538,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4115,
+      "Polarization": "V",
+      "SymbolRateKs": 4800,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4120,
+      "Polarization": "V",
+      "SymbolRateKs": 2488,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4125,
+      "Polarization": "V",
+      "SymbolRateKs": 6400,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4131,
+      "Polarization": "V",
+      "SymbolRateKs": 4166,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4136,
+      "Polarization": "V",
+      "SymbolRateKs": 2400,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4138,
+      "Polarization": "V",
+      "SymbolRateKs": 1600,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4140,
+      "Polarization": "V",
+      "SymbolRateKs": 1570,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4160,
+      "Polarization": "V",
+      "SymbolRateKs": 16100,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4167,
+      "Polarization": "V",
+      "SymbolRateKs": 3200,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4174,
+      "Polarization": "V",
+      "SymbolRateKs": 3148,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4181,
+      "Polarization": "V",
+      "SymbolRateKs": 5000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 4185,
+      "Polarization": "V",
+      "SymbolRateKs": 1650,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11402.8,
       "Polarization": "H",
-      "SymbolRateKs": 31400,
+      "SymbolRateKs": 500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11474.9,
+      "Polarization": "H",
+      "SymbolRateKs": 30608,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11529.74,
+      "Polarization": "V",
+      "SymbolRateKs": 5714,
+      "Fec": "2/5",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11554.73,
+      "Polarization": "V",
+      "SymbolRateKs": 34285,
+      "Fec": "1/4",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11719.6,
+      "Polarization": "H",
+      "SymbolRateKs": 31428,
       "Fec": "1/4",
       "Standard": "DVB-S2X",
       "Modulation": "QPSK",
@@ -376,25 +1228,6 @@
             "ned"
           ],
           "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TravelXP HD",
-          "Package": "SkyLink",
-          "Languages": [
-            "cze",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Travel XP BNL",
-          "Package": "Canal DigitaalTV Vlaanderen",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -463,7 +1296,7 @@
         },
         {
           "Name": "Canal\u002B Action Nederland",
-          "Package": "M7 Group",
+          "Package": "Canal Digitaal",
           "Languages": [
             "ned"
           ],
@@ -472,7 +1305,7 @@
         },
         {
           "Name": "Auto Motor Sport",
-          "Package": "SkyLink",
+          "Package": "Canal DigitaalSkyLinkTV Vlaanderen",
           "Languages": [
             "ger",
             "bul",
@@ -576,7 +1409,7 @@
         },
         {
           "Name": "Mezzo",
-          "Package": "SkyLink",
+          "Package": "Canal DigitaalSkyLinkTV Vlaanderen",
           "Languages": [
             "fra"
           ],
@@ -585,7 +1418,7 @@
         },
         {
           "Name": "Q-Music",
-          "Package": "TV Vlaanderen",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -594,7 +1427,7 @@
         },
         {
           "Name": "Joe",
-          "Package": "TV Vlaanderen",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -647,7 +1480,7 @@
           "IsFta": true
         },
         {
-          "Name": "Veronica Goud van Oud",
+          "Name": "Radio Veronica De Beste 80s",
           "Package": "M7 Group",
           "Languages": [
             "ned"
@@ -661,45 +1494,9 @@
       "FrequencyMHz": 11758.5,
       "Polarization": "H",
       "SymbolRateKs": 31429,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11758.5,
-      "Polarization": "H",
-      "SymbolRateKs": 31428,
-      "Fec": "8/9",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11758.5,
-      "Polarization": "H",
-      "SymbolRateKs": 31429,
       "Fec": "2/3",
       "Standard": "DVB-S2X",
       "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11758.6,
-      "Polarization": "H",
-      "SymbolRateKs": 31428,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11778,
-      "Polarization": "V",
-      "SymbolRateKs": 31428,
-      "Fec": "25/36",
-      "Standard": "DVB-S2X",
-      "Modulation": "16APSKStream",
       "Channels": []
     },
     {
@@ -707,50 +1504,23 @@
       "Polarization": "V",
       "SymbolRateKs": 31428,
       "Fec": "1/2",
-      "Standard": "DVB-S2",
+      "Standard": "DVB-S2X",
       "Modulation": "QPSKStream",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11797.3,
+      "FrequencyMHz": 11797.6,
       "Polarization": "H",
       "SymbolRateKs": 31429,
       "Fec": "1/2",
-      "Standard": "DVB-S2",
+      "Standard": "DVB-S2X",
       "Modulation": "QPSKStream",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11797.5,
-      "Polarization": "H",
-      "SymbolRateKs": 31428,
-      "Fec": "9/10",
-      "Standard": "DVB-S2X",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11797.5,
-      "Polarization": "H",
-      "SymbolRateKs": 31429,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11817,
+      "FrequencyMHz": 11817.1,
       "Polarization": "V",
       "SymbolRateKs": 31428,
-      "Fec": "25/36",
-      "Standard": "DVB-S2X",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11817,
-      "Polarization": "V",
-      "SymbolRateKs": 31429,
       "Fec": "1/2",
       "Standard": "DVB-S2",
       "Modulation": "QPSKStream",
@@ -773,15 +1543,6 @@
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
-        {
-          "Name": "DreamWorks",
-          "Package": "M7 Group",
-          "Languages": [
-            "ned"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
         {
           "Name": "RTL 4 HD",
           "Package": "Canal Digitaal",
@@ -811,7 +1572,7 @@
         },
         {
           "Name": "VTM HD",
-          "Package": "TV Vlaanderen",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -829,7 +1590,7 @@
         },
         {
           "Name": "VTM 2 HD",
-          "Package": "TV Vlaanderen",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -838,7 +1599,7 @@
         },
         {
           "Name": "Play",
-          "Package": "AustriasatTV Vlaanderen",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -856,7 +1617,7 @@
         },
         {
           "Name": "Play Actie",
-          "Package": "AustriasatTV Vlaanderen",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -865,7 +1626,7 @@
         },
         {
           "Name": "Crime \u0026 Investigation Network",
-          "Package": "M7 Group",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -896,7 +1657,7 @@
         },
         {
           "Name": "Penthouse Gold",
-          "Package": "Canal DigitaalTV Vlaanderen",
+          "Package": "SkyLink",
           "Languages": [
             "eng"
           ],
@@ -905,7 +1666,7 @@
         },
         {
           "Name": "Penthouse Reality TV",
-          "Package": "Canal DigitaalTV Vlaanderen",
+          "Package": "SkyLink",
           "Languages": [
             "eng"
           ],
@@ -979,15 +1740,6 @@
       ]
     },
     {
-      "FrequencyMHz": 11875.3,
-      "Polarization": "H",
-      "SymbolRateKs": 31428,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 11875.5,
       "Polarization": "H",
       "SymbolRateKs": 31428,
@@ -997,66 +1749,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11875.5,
-      "Polarization": "H",
+      "FrequencyMHz": 11894.6,
+      "Polarization": "V",
       "SymbolRateKs": 31428,
-      "Fec": "1/2",
+      "Fec": "1/4",
       "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11875.5,
-      "Polarization": "H",
-      "SymbolRateKs": 31428,
-      "Fec": "1/2",
-      "Standard": "DVB-S2X",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11875.6,
-      "Polarization": "H",
-      "SymbolRateKs": 31428,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11892,
-      "Polarization": "V",
-      "SymbolRateKs": 25714,
-      "Fec": "9/10",
-      "Standard": "DVB-S2X",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11908.3,
-      "Polarization": "V",
-      "SymbolRateKs": 5000,
-      "Fec": "2/5",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11908.5,
-      "Polarization": "V",
-      "SymbolRateKs": 5000,
-      "Fec": "2/5",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11908.6,
-      "Polarization": "V",
-      "SymbolRateKs": 5000,
-      "Fec": "2/5",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -1069,7 +1767,7 @@
       "Channels": [
         {
           "Name": "mSAT Info",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -1078,7 +1776,7 @@
         },
         {
           "Name": "RTS 1 HD Serbia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -1087,7 +1785,7 @@
         },
         {
           "Name": "RTS 2 HD Serbia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -1096,7 +1794,7 @@
         },
         {
           "Name": "Superstar TV HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -1105,14 +1803,14 @@
         },
         {
           "Name": "Superstar 2 TV HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Agro TV HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -1121,7 +1819,7 @@
         },
         {
           "Name": "Dexy TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -1130,7 +1828,7 @@
         },
         {
           "Name": "RTS Klasika",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -1139,42 +1837,42 @@
         },
         {
           "Name": "RTS Zivot",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "RTS Drama",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "RTS Kolo",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "RTS Trezor",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "RTS Muzika",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "RTS Poletarac",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -1183,7 +1881,7 @@
         },
         {
           "Name": "RTS 3 HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -1201,7 +1899,7 @@
         },
         {
           "Name": "Dox TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -1210,7 +1908,7 @@
         },
         {
           "Name": "Blic TV HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -1219,7 +1917,7 @@
         },
         {
           "Name": "M1 - Magyar TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TVSkyLink",
           "Languages": [
             "hun"
           ],
@@ -1228,7 +1926,7 @@
         },
         {
           "Name": "Arena Sport 5 Hungary",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -1237,7 +1935,7 @@
         },
         {
           "Name": "RTL Hungary",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -1246,7 +1944,7 @@
         },
         {
           "Name": "RTL Ketto",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -1255,7 +1953,7 @@
         },
         {
           "Name": "Duna TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -1264,7 +1962,7 @@
         },
         {
           "Name": "Duna World",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -1327,24 +2025,6 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "DocuBox",
-          "Package": "Canal DigitaalSkyLinkTV Vlaanderen",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Paramount Network Czech",
-          "Package": "SkyLink",
-          "Languages": [
-            "cze"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Prima Max HD",
           "Package": "SkyLink",
           "Languages": [
@@ -1381,7 +2061,7 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox HD",
+          "Name": "Filmbox\u002B One Czech",
           "Package": "SkyLink",
           "Languages": [
             "cze"
@@ -1444,17 +2124,6 @@
           "IsFta": false
         },
         {
-          "Name": "Nick Jr Czech",
-          "Package": "SkyLink",
-          "Languages": [
-            "cze",
-            "eng",
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Senzi TV",
           "Package": "SkyLink",
           "Languages": [
@@ -1464,10 +2133,20 @@
           "IsFta": false
         },
         {
-          "Name": "Duck TV",
-          "Package": "Canal DigitaalSkyLinkTV Vlaanderen",
+          "Name": "Filmbox\u002B One Slovakia",
+          "Package": "SkyLink",
           "Languages": [
-            "ned"
+            "slk"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat True Crime HD Czech",
+          "Package": "SkyLink",
+          "Languages": [
+            "cze",
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -1487,16 +2166,6 @@
           "Package": "SkyLink",
           "Languages": [
             "cze"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nicktoons Czech",
-          "Package": "SkyLink",
-          "Languages": [
-            "cze",
-            "hun"
           ],
           "Type": "TV",
           "IsFta": false
@@ -1531,15 +2200,6 @@
           "IsFta": false
         },
         {
-          "Name": "Duck TV",
-          "Package": "SkyLink",
-          "Languages": [
-            "slk"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "TV Paprika",
           "Package": "SkyLink",
           "Languages": [
@@ -1565,6 +2225,16 @@
             "hun"
           ],
           "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "JOJ Svet CZ",
+          "Package": "SkyLink",
+          "Languages": [
+            "cze",
+            "slk"
+          ],
+          "Type": "Unknown",
           "IsFta": false
         }
       ]
@@ -1641,7 +2311,7 @@
           "IsFta": false
         },
         {
-          "Name": "Arena Sport 2 HD Slovakia",
+          "Name": "Kanal 1 Xtra",
           "Package": "SkyLink",
           "Languages": [
             "slk"
@@ -1782,7 +2452,7 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Arena Sport 1 HD",
+          "Name": "Kanal 1 Sport Slovakia",
           "Package": "SkyLink",
           "Languages": [
             "slk"
@@ -1828,11 +2498,10 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Extra HD Hungary",
+          "Name": "Filmbox\u002B Emotion Czech",
           "Package": "SkyLink",
           "Languages": [
-            "cze",
-            "hun"
+            "cze"
           ],
           "Type": "TV",
           "IsFta": false
@@ -1858,11 +2527,10 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Family",
+          "Name": "Filmbox\u002B Comedy Czech",
           "Package": "SkyLink",
           "Languages": [
-            "cze",
-            "hun"
+            "cze"
           ],
           "Type": "TV",
           "IsFta": false
@@ -1943,17 +2611,6 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "AutoMotorSport HD",
-          "Package": "BooblesCanal DigitaalTV Vlaanderen",
-          "Languages": [
-            "ger",
-            "bul",
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "TVGE International",
           "Package": null,
           "Languages": [
@@ -1961,24 +2618,6 @@
           ],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "RTS Nauka",
-          "Package": "Telekom Srbija",
-          "Languages": [
-            "ser"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "RTS Poletarac 2",
-          "Package": "Telekom Srbija",
-          "Languages": [
-            "ser"
-          ],
-          "Type": "TV",
-          "IsFta": false
         },
         {
           "Name": "Radio Nacional",
@@ -2016,13 +2655,13 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "Sport 1 HD Czech",
+          "Name": "Sport 1 SK HD",
           "Package": "SkyLink",
           "Languages": [
             "cze",
             "slk"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -2044,7 +2683,7 @@
           "IsFta": false
         },
         {
-          "Name": "Wau HD",
+          "Name": "JOJ Krimi HD",
           "Package": "SkyLink",
           "Languages": [
             "slk"
@@ -2053,12 +2692,12 @@
           "IsFta": false
         },
         {
-          "Name": "JOJ Family HD",
+          "Name": "JOJ Family",
           "Package": "SkyLink",
           "Languages": [
             "cze"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -2080,22 +2719,12 @@
           "IsFta": false
         },
         {
-          "Name": "TV Seznam Zpravy HD",
+          "Name": "Seznam.cz HD",
           "Package": "SkyLink",
           "Languages": [
             "cze"
           ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nickelodeon Czech",
-          "Package": "SkyLink",
-          "Languages": [
-            "cze",
-            "eng"
-          ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -2178,7 +2807,7 @@
         },
         {
           "Name": "National Geographic Wild HD DUT",
-          "Package": "Canal DigitaalSkyLinkTV Vlaanderen",
+          "Package": "SkyLink",
           "Languages": [
             "eng",
             "ned"
@@ -2233,32 +2862,22 @@
           "IsFta": false
         },
         {
-          "Name": "MTV Czechia",
+          "Name": "JOJ Sport 2 HD",
           "Package": "SkyLink",
           "Languages": [
-            "cze",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "C-Music",
-          "Package": "Canal DigitaalSkyLinkTV Vlaanderen",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Stingray CMusic CZ",
-          "Package": "SkyLink",
-          "Languages": [
-            "eng"
+            "slk"
           ],
           "Type": "Unknown",
           "IsFta": false
+        },
+        {
+          "Name": "Daystar TV Network",
+          "Package": "M7 Group",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
         },
         {
           "Name": "Love Nature HD",
@@ -2329,12 +2948,12 @@
           "IsFta": false
         },
         {
-          "Name": "TV2 Klub",
+          "Name": "FEM3",
           "Package": "SkyLink",
           "Languages": [
             "hun"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -2355,7 +2974,7 @@
         },
         {
           "Name": "Love Nature HD BNL",
-          "Package": "Canal DigitaalTV Vlaanderen",
+          "Package": "Canal DigitaalSkyLinkTV Vlaanderen",
           "Languages": [
             "eng",
             "ned"
@@ -2393,7 +3012,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12109.5,
+      "FrequencyMHz": 12110,
       "Polarization": "H",
       "SymbolRateKs": 29900,
       "Fec": "3/4",
@@ -2452,7 +3071,7 @@
           "IsFta": false
         },
         {
-          "Name": "FilmBox Premium HD",
+          "Name": "Filmbox\u002B Hits Czech",
           "Package": "SkyLink",
           "Languages": [
             "cze"
@@ -2489,19 +3108,10 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Stars",
+          "Name": "Filmbox\u002B Love \u0026 Crime Czech",
           "Package": "SkyLink",
           "Languages": [
             "cze"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Comedy Central Hungary",
-          "Package": "SkyLink",
-          "Languages": [
-            "hun"
           ],
           "Type": "TV",
           "IsFta": false
@@ -2535,15 +3145,6 @@
           "IsFta": true
         },
         {
-          "Name": "Kanal 1 HD Slovakia",
-          "Package": "SkyLink",
-          "Languages": [
-            "slk"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "History HD Europe",
           "Package": "SkyLink",
           "Languages": [
@@ -2570,6 +3171,15 @@
           "Languages": [
             "cze",
             "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prima Sport Czech",
+          "Package": "SkyLink",
+          "Languages": [
+            "cze"
           ],
           "Type": "TV",
           "IsFta": false
@@ -2639,17 +3249,17 @@
           "IsFta": false
         },
         {
-          "Name": "Ment",
+          "Name": "Ment 55",
           "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "Eclips TV",
-          "Package": "TV Vlaanderen",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -2666,35 +3276,35 @@
           "IsFta": false
         },
         {
-          "Name": "Ziggo Sport",
+          "Name": "Ziggo Sport 1",
           "Package": "Canal Digitaal",
           "Languages": [
             "ned"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "National Geographic HD Benelux",
+          "Name": "NGC HD",
           "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "History Channel Nederland",
+          "Name": "History NL",
           "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "VTM Gold",
-          "Package": "TV Vlaanderen",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -2707,12 +3317,12 @@
           "Languages": [
             "ned"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "VTM XMAS",
-          "Package": "AustriasatTV Vlaanderen",
+          "Name": "VTM Series",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -2721,7 +3331,7 @@
         },
         {
           "Name": "VTM 3",
-          "Package": "TV Vlaanderen",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -2730,7 +3340,7 @@
         },
         {
           "Name": "VTM 4",
-          "Package": "TV Vlaanderen",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -2748,7 +3358,7 @@
         },
         {
           "Name": "Play Fictie",
-          "Package": "AustriasatTV Vlaanderen",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -2757,16 +3367,7 @@
         },
         {
           "Name": "Play Reality",
-          "Package": "AustriasatTV Vlaanderen",
-          "Languages": [
-            "ned"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "DAZN Pro League 1 NL",
-          "Package": "M7 Group",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -2775,7 +3376,7 @@
         },
         {
           "Name": "Sport 10 HD",
-          "Package": "M7 Group",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -2792,12 +3393,12 @@
           "IsFta": false
         },
         {
-          "Name": "Magyar Slager TV",
+          "Name": "Slager TV",
           "Package": "SkyLink",
           "Languages": [
             "hun"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -2819,17 +3420,35 @@
           "IsFta": false
         },
         {
-          "Name": "Nova Sport 5 HD Slovakia",
+          "Name": "Nova Sport 5 HD (SK)",
           "Package": "SkyLink",
           "Languages": [
             "slk"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "DocuBox",
+          "Package": "Canal DigitaalSkyLinkTV Vlaanderen",
+          "Languages": [
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
+          "Name": "TV8.SK",
+          "Package": "M7 Group",
+          "Languages": [
+            "slk"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "MNM",
-          "Package": "Canal DigitaalTV Vlaanderen",
+          "Package": "AustriasatCanal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -2838,7 +3457,7 @@
         },
         {
           "Name": "Studio Brussel",
-          "Package": "Canal DigitaalTV Vlaanderen",
+          "Package": "AustriasatCanal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -2847,7 +3466,7 @@
         },
         {
           "Name": "Klara",
-          "Package": "Canal DigitaalTV Vlaanderen",
+          "Package": "AustriasatCanal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -2868,11 +3487,154 @@
     {
       "FrequencyMHz": 12148.5,
       "Polarization": "H",
-      "SymbolRateKs": 31429,
-      "Fec": "9/10",
+      "SymbolRateKs": 30000,
+      "Fec": "2/3",
       "Standard": "DVB-S2",
-      "Modulation": "16APSK",
-      "Channels": []
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Test 1",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 2",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 3",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 4",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 5",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 6",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 7",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 8",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 9",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 10",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 11",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 12",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 13",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 14",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 15",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Test 16",
+          "Package": null,
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 12168,
@@ -2885,7 +3647,10 @@
         {
           "Name": "Chamber TV HD",
           "Package": "SES ASTRA",
-          "Languages": [],
+          "Languages": [
+            "lux",
+            "fra"
+          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -2899,11 +3664,11 @@
           "IsFta": true
         },
         {
-          "Name": "RTL Tele Letzebuerg",
-          "Package": "SES ASTRA",
+          "Name": "SonLife Broadcasting Network",
+          "Package": null,
           "Languages": [
-            "lux",
-            "fra"
+            "eng",
+            "esp"
           ],
           "Type": "TV",
           "IsFta": true
@@ -2911,18 +3676,14 @@
         {
           "Name": "RTL Radio Letzebuerg",
           "Package": "SES ASTRA",
-          "Languages": [
-            "lux"
-          ],
+          "Languages": [],
           "Type": "Radio",
           "IsFta": true
         },
         {
           "Name": "Radio 100.7 Letzebuerg",
           "Package": "SES ASTRA",
-          "Languages": [
-            "lux"
-          ],
+          "Languages": [],
           "Type": "Radio",
           "IsFta": true
         },
@@ -2942,13 +3703,6 @@
         },
         {
           "Name": "SES_LCN2",
-          "Package": "SES ASTRA",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
-          "Name": "LX9SES",
           "Package": "SES ASTRA",
           "Languages": [],
           "Type": "Data",
@@ -3082,42 +3836,6 @@
           "IsFta": false
         },
         {
-          "Name": "Nickelodeon Nederland",
-          "Package": "Canal DigitaalTV Vlaanderen",
-          "Languages": [
-            "ned"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Comedy Central Nederland",
-          "Package": "Canal Digitaal",
-          "Languages": [
-            "ned"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Paramount Network Nederland",
-          "Package": "Canal DigitaalTV Vlaanderen",
-          "Languages": [
-            "ned"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV Nederland",
-          "Package": "Canal DigitaalTV Vlaanderen",
-          "Languages": [
-            "ned"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "TV Oranje",
           "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
@@ -3161,6 +3879,15 @@
           "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "4! Story TV",
+          "Package": "SkyLink",
+          "Languages": [
+            "hun"
           ],
           "Type": "TV",
           "IsFta": false
@@ -3257,7 +3984,7 @@
         },
         {
           "Name": "Radio 538",
-          "Package": "Canal Digitaal",
+          "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
             "ned"
           ],
@@ -3285,7 +4012,7 @@
       "Channels": [
         {
           "Name": "SOS Kanal",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3294,14 +4021,14 @@
         },
         {
           "Name": "Pink Romance",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Tenis HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3310,7 +4037,7 @@
         },
         {
           "Name": "Pink Crime \u0026 Mystery",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3319,7 +4046,7 @@
         },
         {
           "Name": "AMC Balkan",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -3328,7 +4055,7 @@
         },
         {
           "Name": "Diva Balkans",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3337,7 +4064,7 @@
         },
         {
           "Name": "Kuvo TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -3346,14 +4073,14 @@
         },
         {
           "Name": "TV Hram",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "TLC Balkans",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -3362,7 +4089,7 @@
         },
         {
           "Name": "Nick toons Adria",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -3371,7 +4098,7 @@
         },
         {
           "Name": "Pink and Roll",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3380,21 +4107,21 @@
         },
         {
           "Name": "City Play",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Cartoonito Balkans",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Sci Fi Serbia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3402,17 +4129,17 @@
           "IsFta": false
         },
         {
-          "Name": "Private TV",
-          "Package": "Telekom Srbija",
+          "Name": "TV Lav Plus",
+          "Package": "M:Sat TV",
           "Languages": [
-            "eng"
+            "ser"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "EuroCinema 1",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3421,7 +4148,7 @@
         },
         {
           "Name": "Hustler TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -3430,7 +4157,7 @@
         },
         {
           "Name": "EuroCinema 3",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3439,7 +4166,7 @@
         },
         {
           "Name": "Prva Kick",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3448,7 +4175,7 @@
         },
         {
           "Name": "TV 5 Serbia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3457,7 +4184,7 @@
         },
         {
           "Name": "Telemark",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3465,17 +4192,17 @@
           "IsFta": false
         },
         {
-          "Name": "Skymusic Entertaiment",
-          "Package": "Telekom Srbija",
+          "Name": "Arena M1 premium",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "Love Nature",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -3484,7 +4211,7 @@
         },
         {
           "Name": "Fashion TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -3493,7 +4220,7 @@
         },
         {
           "Name": "4! Story TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -3501,17 +4228,24 @@
           "IsFta": false
         },
         {
-          "Name": "MTV 00s",
-          "Package": "Telekom Srbija",
+          "Name": "Bor TV",
+          "Package": "M:Sat TV",
           "Languages": [
-            "eng"
+            "ser"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
+          "Name": "Arena M2 Premium",
+          "Package": "M:Sat TV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "TVE International",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "esp"
           ],
@@ -3520,14 +4254,14 @@
         },
         {
           "Name": "TV Mreza Most",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "France 24 (en Fran\u00E7ais)",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "fra"
           ],
@@ -3536,28 +4270,28 @@
         },
         {
           "Name": "Elita Live 1",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Elita Live 3",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Premium 4 HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Baby TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -3566,7 +4300,7 @@
         },
         {
           "Name": "Euronews Montenegro",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3575,7 +4309,14 @@
         },
         {
           "Name": "Dokumentarna TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Arena Premium 5 HD",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
@@ -3583,7 +4324,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12265,
+      "FrequencyMHz": 12265.5,
       "Polarization": "H",
       "SymbolRateKs": 29900,
       "Fec": "3/4",
@@ -3854,13 +4595,6 @@
           "IsFta": true
         },
         {
-          "Name": "Tysa FM",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "ARMY FM",
           "Package": null,
           "Languages": [
@@ -3871,7 +4605,7 @@
         },
         {
           "Name": "radio nv",
-          "Package": "TRK ERA",
+          "Package": "TRC ERA",
           "Languages": [
             "ukr"
           ],
@@ -3904,7 +4638,7 @@
       "Channels": [
         {
           "Name": "Prva MAX",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3913,35 +4647,35 @@
         },
         {
           "Name": "Pink Western",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Liverpool FC TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Da Vinci Learning",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Pink World Cinema",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Prva World",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -3950,7 +4684,7 @@
         },
         {
           "Name": "Cartoon Network Eastern Europe",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3959,14 +4693,14 @@
         },
         {
           "Name": "History Serbia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Adrenalin",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3975,7 +4709,7 @@
         },
         {
           "Name": "Pink Folk",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3984,7 +4718,7 @@
         },
         {
           "Name": "DM Sat",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -3993,21 +4727,21 @@
         },
         {
           "Name": "Bravo Music",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Pink Music 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "JimJam",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -4016,7 +4750,7 @@
         },
         {
           "Name": "TV Duga Plus",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -4025,14 +4759,14 @@
         },
         {
           "Name": "Novi Pazar",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Viasat Kino",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "rus"
           ],
@@ -4040,17 +4774,17 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Premium",
-          "Package": "Telekom Srbija",
+          "Name": "FilmBox Hits Adria",
+          "Package": "M:Sat TV",
           "Languages": [
-            "cze"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Timeless Dizi Channel",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "tur"
           ],
@@ -4059,7 +4793,7 @@
         },
         {
           "Name": "EuroCinema 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -4068,7 +4802,7 @@
         },
         {
           "Name": "EuroCinema 4",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -4077,7 +4811,7 @@
         },
         {
           "Name": "Panonija",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -4086,28 +4820,28 @@
         },
         {
           "Name": "TV Galaksija 32",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Prva Plus",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Crime \u0026 Investigation Network",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Travelxp",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -4115,17 +4849,8 @@
           "IsFta": false
         },
         {
-          "Name": "Moja Happy Muzika",
-          "Package": "Telekom Srbija",
-          "Languages": [
-            "ser"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Digi 24",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "rom"
           ],
@@ -4134,7 +4859,7 @@
         },
         {
           "Name": "Rai 1",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ita"
           ],
@@ -4143,7 +4868,7 @@
         },
         {
           "Name": "BBC News",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -4152,38 +4877,63 @@
         },
         {
           "Name": "Epic Drama",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Elita Live 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Elita Live 4",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Premium 5 HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "Arena M3 premium",
+          "Package": "M:Sat TV",
+          "Languages": [
+            "ser"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Arena Sport 7 HD",
+          "Package": "M:Sat TV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kurir TV",
+          "Package": "Telekom Srbija",
+          "Languages": [
+            "ser"
+          ],
+          "Type": "TV",
+          "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 12343.2,
+      "FrequencyMHz": 12343.5,
       "Polarization": "H",
       "SymbolRateKs": 29900,
       "Fec": "3/4",
@@ -4210,7 +4960,7 @@
         },
         {
           "Name": "CT 24 HD",
-          "Package": "CESKA TELEVIZE",
+          "Package": "SkyLink",
           "Languages": [
             "cze"
           ],
@@ -4309,7 +5059,7 @@
         },
         {
           "Name": "4! Story TV",
-          "Package": "SkyLink",
+          "Package": "M:Sat TVSkyLink",
           "Languages": [
             "hun"
           ],
@@ -4319,6 +5069,15 @@
         {
           "Name": "M5 HD",
           "Package": "SkyLink",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "4! Story TV",
+          "Package": "M:Sat TVSkyLink",
           "Languages": [
             "hun"
           ],
@@ -4560,14 +5319,14 @@
         },
         {
           "Name": "TV Rain HD",
-          "Package": "FFmpeg",
+          "Package": "TVR",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "RTS Nauka",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -4576,7 +5335,7 @@
         },
         {
           "Name": "RTS Poletarac 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
@@ -4967,7 +5726,7 @@
       "Channels": [
         {
           "Name": "Star Life Serbia HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -4976,7 +5735,7 @@
         },
         {
           "Name": "STAR Crime Serbia HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -4985,7 +5744,7 @@
         },
         {
           "Name": "ATV Bosnia \u0026 Herzegovina HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "bos"
           ],
@@ -4994,14 +5753,14 @@
         },
         {
           "Name": "RTRS Plus",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Discovery Channel",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5010,7 +5769,7 @@
         },
         {
           "Name": "BBC Earth HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5019,7 +5778,7 @@
         },
         {
           "Name": "National Geographic Europe",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5028,7 +5787,7 @@
         },
         {
           "Name": "NatGeo Wild Central Europe",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5037,7 +5796,7 @@
         },
         {
           "Name": "History 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5046,7 +5805,7 @@
         },
         {
           "Name": "Viasat History",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5055,7 +5814,7 @@
         },
         {
           "Name": "Viasat Explore",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5064,14 +5823,14 @@
         },
         {
           "Name": "Arena Premium 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Investigation Discovery Hungary",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng",
             "hun"
@@ -5081,7 +5840,7 @@
         },
         {
           "Name": "RTS Svet",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5090,7 +5849,7 @@
         },
         {
           "Name": "Toxic Folk",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5099,14 +5858,14 @@
         },
         {
           "Name": "Arena Premium 1",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "24 Kitchen HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5115,14 +5874,14 @@
         },
         {
           "Name": "Arena Sport 10 HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Premium 1",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5131,7 +5890,7 @@
         },
         {
           "Name": "RTL Hrvatska",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "cro"
           ],
@@ -5140,7 +5899,7 @@
         },
         {
           "Name": "Hayat BiH",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "bos"
           ],
@@ -5149,7 +5908,7 @@
         },
         {
           "Name": "Hayat 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "bos"
           ],
@@ -5158,7 +5917,7 @@
         },
         {
           "Name": "Hayatovci",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "bos"
           ],
@@ -5167,7 +5926,7 @@
         },
         {
           "Name": "Hayat Folk Box",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "bos"
           ],
@@ -5176,7 +5935,7 @@
         },
         {
           "Name": "Hayat Music Box",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "bos"
           ],
@@ -5185,7 +5944,7 @@
         },
         {
           "Name": "Nova BH",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "bos"
           ],
@@ -5194,21 +5953,21 @@
         },
         {
           "Name": "Pink Hits 1",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "BN Music",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Toxic Rap",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5217,7 +5976,7 @@
         },
         {
           "Name": "Arena 1x2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5226,7 +5985,7 @@
         },
         {
           "Name": "CNN International Europe",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5235,7 +5994,7 @@
         },
         {
           "Name": "Euronews English",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5244,7 +6003,7 @@
         },
         {
           "Name": "DW English HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5253,7 +6012,7 @@
         },
         {
           "Name": "Brazzers TV",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5262,7 +6021,7 @@
         },
         {
           "Name": "Arena Sport 8 HD",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
@@ -5270,7 +6029,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12422,
+      "FrequencyMHz": 12421.5,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -5279,14 +6038,14 @@
       "Channels": [
         {
           "Name": "Una TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Kurir TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5295,14 +6054,14 @@
         },
         {
           "Name": "Balkan Trip",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Toxic",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5311,21 +6070,21 @@
         },
         {
           "Name": "Arena Fight",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Premium 3",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Fox News",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5334,14 +6093,14 @@
         },
         {
           "Name": "Tanjug TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "TVCG 3",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5350,28 +6109,28 @@
         },
         {
           "Name": "Dorcel TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Zona Plus",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Novosadska TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Sport 1 Croatia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5380,7 +6139,7 @@
         },
         {
           "Name": "Arena Sport 1 HD Crna Gora",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5389,14 +6148,14 @@
         },
         {
           "Name": "Superstar TV HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Sport 4 Hungary",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -5405,7 +6164,7 @@
         },
         {
           "Name": "Film4 Hungary",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -5414,7 +6173,7 @@
         },
         {
           "Name": "RTL Harom",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -5423,7 +6182,7 @@
         },
         {
           "Name": "Film \u002B",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -5432,7 +6191,7 @@
         },
         {
           "Name": "Cool TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -5441,7 +6200,7 @@
         },
         {
           "Name": "Pro TV International",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "rom"
           ],
@@ -5450,14 +6209,14 @@
         },
         {
           "Name": "Informer TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Trinitas TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "rom"
           ],
@@ -5466,16 +6225,7 @@
         },
         {
           "Name": "Etno TV",
-          "Package": "Telekom Srbija",
-          "Languages": [
-            "rom"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Favorit TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "rom"
           ],
@@ -5484,14 +6234,14 @@
         },
         {
           "Name": "Arena Premium 3",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Sport 6 Hungary",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -5500,7 +6250,7 @@
         },
         {
           "Name": "RTL Gold",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -5509,7 +6259,7 @@
         },
         {
           "Name": "Sorozat \u002B",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -5518,7 +6268,7 @@
         },
         {
           "Name": "TV 2 Hungary",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -5527,7 +6277,7 @@
         },
         {
           "Name": "Super TV 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -5536,7 +6286,7 @@
         },
         {
           "Name": "OBN",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "bos"
           ],
@@ -5545,7 +6295,7 @@
         },
         {
           "Name": "RTL Hrvatska",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "cro"
           ],
@@ -5554,7 +6304,7 @@
         },
         {
           "Name": "Pink BH",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "bos"
           ],
@@ -5563,7 +6313,7 @@
         },
         {
           "Name": "Face TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "bos"
           ],
@@ -5572,7 +6322,7 @@
         },
         {
           "Name": "RTL 2 Hungary",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -5581,7 +6331,7 @@
         },
         {
           "Name": "K3 (Bosnia)",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "bos"
           ],
@@ -5590,7 +6340,7 @@
         },
         {
           "Name": "TV Niksic",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5599,7 +6349,7 @@
         },
         {
           "Name": "Adria TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5608,18 +6358,11 @@
         },
         {
           "Name": "TV Pljevlja",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
           "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Test kanal",
-          "Package": "Telekom Srbija",
-          "Languages": [],
-          "Type": "Unknown",
           "IsFta": false
         }
       ]
@@ -5633,15 +6376,17 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Arena Sport 2 HD Slovakia",
-          "Package": "Telekom Srbija",
-          "Languages": [],
+          "Name": "Arena Sport 2 Slovenija",
+          "Package": "M:Sat TV",
+          "Languages": [
+            "slo"
+          ],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Sport 3 HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "cro"
           ],
@@ -5650,7 +6395,7 @@
         },
         {
           "Name": "Svet Plus",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5659,7 +6404,7 @@
         },
         {
           "Name": "Bloomberg Europe",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5668,7 +6413,7 @@
         },
         {
           "Name": "Ona",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5677,35 +6422,35 @@
         },
         {
           "Name": "Pink Family",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Koreni",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Turizam",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Tring Tring",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "TV Klan",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "alb"
           ],
@@ -5714,7 +6459,7 @@
         },
         {
           "Name": "Top Channel",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "alb"
           ],
@@ -5723,7 +6468,7 @@
         },
         {
           "Name": "Tring Action",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "alb"
           ],
@@ -5732,7 +6477,7 @@
         },
         {
           "Name": "Pink Music",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5741,42 +6486,42 @@
         },
         {
           "Name": "Narodna TV HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Eko Vizija",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "TV Palma Plus",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "V5",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "KCN Music 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "TV Budva",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5785,21 +6530,21 @@
         },
         {
           "Name": "HGTV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "MRT 1",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "MRT 2",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [
             "alb"
           ],
@@ -5808,7 +6553,7 @@
         },
         {
           "Name": "MRT 3",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [
             "alb"
           ],
@@ -5817,21 +6562,21 @@
         },
         {
           "Name": "MRT 4",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "MRT 5",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Sobraniski Kanal",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [
             "alb"
           ],
@@ -5840,7 +6585,7 @@
         },
         {
           "Name": "Nasa TV (Macedonia)",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [
             "mac"
           ],
@@ -5849,7 +6594,7 @@
         },
         {
           "Name": "RTV 21 M",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [
             "alb"
           ],
@@ -5858,7 +6603,7 @@
         },
         {
           "Name": "TV 24",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [
             "mac"
           ],
@@ -5867,7 +6612,7 @@
         },
         {
           "Name": "Sitel Televizija",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "mac"
           ],
@@ -5876,14 +6621,14 @@
         },
         {
           "Name": "Telma",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Alfa TV Macedonia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "mac"
           ],
@@ -5892,7 +6637,7 @@
         },
         {
           "Name": "Alsat-M",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "alb"
           ],
@@ -5901,7 +6646,7 @@
         },
         {
           "Name": "Kanal 5 Macedonia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "mac"
           ],
@@ -5910,7 +6655,7 @@
         },
         {
           "Name": "Star Adria HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5919,7 +6664,7 @@
         },
         {
           "Name": "Star Crime Adria",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5928,7 +6673,7 @@
         },
         {
           "Name": "National Geographic Adria",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5937,7 +6682,7 @@
         },
         {
           "Name": "24Kitchen",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5946,7 +6691,7 @@
         },
         {
           "Name": "Premier League HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -5955,7 +6700,14 @@
         },
         {
           "Name": "Arena Sport 9 HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Arena Premium 4 HD",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
@@ -5972,7 +6724,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12460,
+      "FrequencyMHz": 12460.5,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -5981,7 +6733,7 @@
       "Channels": [
         {
           "Name": "TV Pink 3",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5990,7 +6742,7 @@
         },
         {
           "Name": "Prva Srpska Televizija",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -5999,7 +6751,7 @@
         },
         {
           "Name": "B92",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6008,21 +6760,21 @@
         },
         {
           "Name": "Happy TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Studio B",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Red TV Serbia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6031,14 +6783,14 @@
         },
         {
           "Name": "Vesti",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Superstar 3",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6047,7 +6799,7 @@
         },
         {
           "Name": "Ni\u0161 TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6056,7 +6808,7 @@
         },
         {
           "Name": "Arena Sport 1 HD Croatia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6065,7 +6817,7 @@
         },
         {
           "Name": "Arena Sport 2 HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6074,21 +6826,21 @@
         },
         {
           "Name": "Arena Sport 3 HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Sport 4 HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Sport 5 HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6097,7 +6849,7 @@
         },
         {
           "Name": "Eurosport 1 HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6106,7 +6858,7 @@
         },
         {
           "Name": "Eurosport 2 HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6115,7 +6867,7 @@
         },
         {
           "Name": "Viasat Nature CEE",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "vo"
           ],
@@ -6124,7 +6876,7 @@
         },
         {
           "Name": "Nickelodeon Serbia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser",
             "hun"
@@ -6134,7 +6886,7 @@
         },
         {
           "Name": "Minimax Serbia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6143,7 +6895,7 @@
         },
         {
           "Name": "Nick Jr Serbia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6152,7 +6904,7 @@
         },
         {
           "Name": "Euronews Serbia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "slk"
           ],
@@ -6161,14 +6913,14 @@
         },
         {
           "Name": "Hype TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Disney Channel Serbia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -6177,7 +6929,7 @@
         },
         {
           "Name": "Disney Junior Serbia",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6186,7 +6938,7 @@
         },
         {
           "Name": "HRT 1",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "cro"
           ],
@@ -6195,7 +6947,7 @@
         },
         {
           "Name": "HRT 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "cro"
           ],
@@ -6204,7 +6956,7 @@
         },
         {
           "Name": "HRT 3",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "cro"
           ],
@@ -6213,14 +6965,14 @@
         },
         {
           "Name": "Pink Premium",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Pink Action",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6229,28 +6981,28 @@
         },
         {
           "Name": "Pink Thriller",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Pink Comedy",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena ESport",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Pink Sci-Fi and Fantasy",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6259,7 +7011,7 @@
         },
         {
           "Name": "Klasik TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
@@ -6276,14 +7028,14 @@
       "Channels": [
         {
           "Name": "Pink Film",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Magyar TV 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TVSkyLink",
           "Languages": [
             "hun"
           ],
@@ -6292,14 +7044,14 @@
         },
         {
           "Name": "Arena Premium 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Muzsika TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "hun"
           ],
@@ -6308,14 +7060,14 @@
         },
         {
           "Name": "Hype 2 TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Star Serbia HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6324,7 +7076,7 @@
         },
         {
           "Name": "Star Movies HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -6333,7 +7085,7 @@
         },
         {
           "Name": "HBO Adria HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -6342,7 +7094,7 @@
         },
         {
           "Name": "HBO 2 HD Adria",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -6351,7 +7103,7 @@
         },
         {
           "Name": "HBO 3 Central Europe",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -6360,7 +7112,7 @@
         },
         {
           "Name": "Cinemax East Europe",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -6369,7 +7121,7 @@
         },
         {
           "Name": "Cinemax 2 Europe",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -6378,14 +7130,14 @@
         },
         {
           "Name": "Pink Serije",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Pink Classic",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6394,7 +7146,7 @@
         },
         {
           "Name": "Newsmax Balkans",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6403,7 +7155,7 @@
         },
         {
           "Name": "K1",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ukr"
           ],
@@ -6412,7 +7164,7 @@
         },
         {
           "Name": "Pink Movies",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6421,21 +7173,21 @@
         },
         {
           "Name": "Kazbuka",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "RTV 1 (Vojvodina)",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "RTV 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6444,7 +7196,7 @@
         },
         {
           "Name": "RTRS",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "bos"
           ],
@@ -6453,7 +7205,7 @@
         },
         {
           "Name": "BN 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6462,7 +7214,7 @@
         },
         {
           "Name": "BN HD",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -6471,21 +7223,21 @@
         },
         {
           "Name": "TVCG 1",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "TVCG 2",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "TV Vijesti",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -6494,7 +7246,7 @@
         },
         {
           "Name": "Prva TV Crna Gora",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6503,7 +7255,7 @@
         },
         {
           "Name": "Pink M",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "ser"
           ],
@@ -6512,7 +7264,7 @@
         },
         {
           "Name": "BH TV",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "bul"
           ],
@@ -6521,7 +7273,7 @@
         },
         {
           "Name": "Fashion TV SEE",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [
             "eng"
           ],
@@ -6530,21 +7282,21 @@
         },
         {
           "Name": "Pink Reality",
-          "Package": "Telekom Srbija",
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Sport 6 HD",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Arena Sport 7 HD",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [
             "cro"
           ],
@@ -6553,7 +7305,7 @@
         },
         {
           "Name": "Arena Sport 7 HD",
-          "Package": null,
+          "Package": "M:Sat TV",
           "Languages": [
             "cro"
           ],
@@ -6572,48 +7324,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12524.8,
-      "Polarization": "V",
-      "SymbolRateKs": 34286,
-      "Fec": "1/2",
-      "Standard": "DVB-S2X",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12525,
-      "Polarization": "H",
-      "SymbolRateKs": 27500,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 12525,
       "Polarization": "V",
       "SymbolRateKs": 34285,
       "Fec": "1/2",
       "Standard": "DVB-S2X",
       "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12525,
-      "Polarization": "V",
-      "SymbolRateKs": 34286,
-      "Fec": "1/2",
-      "Standard": "DVB-S2X",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12525.1,
-      "Polarization": "V",
-      "SymbolRateKs": 34285,
-      "Fec": "28/45",
-      "Standard": "DVB-S2X",
-      "Modulation": "16APSKStream",
       "Channels": []
     },
     {
@@ -6650,33 +7366,6 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12551,
-      "Polarization": "V",
-      "SymbolRateKs": 3254,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12551,
-      "Polarization": "V",
-      "SymbolRateKs": 3254,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12551.2,
-      "Polarization": "V",
-      "SymbolRateKs": 3254,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSK",
       "Channels": []
     },
     {
@@ -6725,15 +7414,6 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12591.8,
-      "Polarization": "H",
-      "SymbolRateKs": 1905,
-      "Fec": "7/9",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 12592.8,
       "Polarization": "V",
       "SymbolRateKs": 2500,
@@ -6752,39 +7432,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12604.8,
-      "Polarization": "V",
-      "SymbolRateKs": 34285,
-      "Fec": "1/2",
-      "Standard": "DVB-S2X",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 12605,
       "Polarization": "H",
       "SymbolRateKs": 34285,
       "Fec": "13/18",
       "Standard": "DVB-S2",
       "Modulation": "16APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12605,
-      "Polarization": "V",
-      "SymbolRateKs": 34286,
-      "Fec": "1/2",
-      "Standard": "DVB-S2X",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12605,
-      "Polarization": "V",
-      "SymbolRateKs": 34285,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
       "Channels": []
     },
     {
@@ -6821,15 +7474,6 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12639.3,
-      "Polarization": "H",
-      "SymbolRateKs": 10833,
-      "Fec": "3/5",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -6873,15 +7517,6 @@
       "Polarization": "V",
       "SymbolRateKs": 477,
       "Fec": "1/2",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12643.1,
-      "Polarization": "V",
-      "SymbolRateKs": 555,
-      "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": []
@@ -6935,18 +7570,9 @@
       "FrequencyMHz": 12685,
       "Polarization": "V",
       "SymbolRateKs": 30000,
-      "Fec": "3/4",
+      "Fec": "1/4",
       "Standard": "DVB-S2",
-      "Modulation": "32APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12685,
-      "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -7022,15 +7648,6 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12720.3,
-      "Polarization": "H",
-      "SymbolRateKs": 7200,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 12724,
       "Polarization": "H",
       "SymbolRateKs": 4100,
@@ -7040,21 +7657,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12724.7,
+      "FrequencyMHz": 12725.1,
       "Polarization": "H",
       "SymbolRateKs": 30000,
-      "Fec": "3/4",
+      "Fec": "8/9",
       "Standard": "DVB-S2",
-      "Modulation": "32APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12724.7,
-      "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "1/4",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {

@@ -491,38 +491,11 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10964.1,
+      "FrequencyMHz": 11001.5,
       "Polarization": "H",
-      "SymbolRateKs": 16473,
+      "SymbolRateKs": 10455,
       "Fec": "5/6",
       "Standard": "DVB-S2",
-      "Modulation": "16APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10985,
-      "Polarization": "H",
-      "SymbolRateKs": 7200,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10986,
-      "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11051,
-      "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": []
     },
@@ -538,7 +511,7 @@
     {
       "FrequencyMHz": 11099.4,
       "Polarization": "H",
-      "SymbolRateKs": 25580,
+      "SymbolRateKs": 29230,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -554,6 +527,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11147.2,
+      "Polarization": "H",
+      "SymbolRateKs": 4500,
+      "Fec": "1/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11162,
       "Polarization": "H",
       "SymbolRateKs": 14368,
@@ -563,21 +545,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11491,
-      "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11551,
-      "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "FrequencyMHz": 11174.8,
+      "Polarization": "H",
+      "SymbolRateKs": 5914,
+      "Fec": "1/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
       "Channels": []
     },
     {
@@ -590,114 +563,25 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11605,
+      "FrequencyMHz": 11592.1,
       "Polarization": "H",
-      "SymbolRateKs": 4000,
+      "SymbolRateKs": 6153,
       "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11612.3,
+      "FrequencyMHz": 11631.8,
       "Polarization": "H",
-      "SymbolRateKs": 1000,
+      "SymbolRateKs": 1667,
       "Fec": "1/2",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11653,
-      "Polarization": "H",
-      "SymbolRateKs": 14300,
-      "Fec": "3/5",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 11671,
-      "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Canal\u002B HD",
-          "Package": "Canal\u002B France",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Canal\u002B Cin\u00E9ma(s) HD",
-          "Package": "Canal\u002B France",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Canal\u002B Sport HD",
-          "Package": "Canal\u002B France",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CANAL\u002B.",
-          "Package": "Canal\u002B France",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CANAL\u002B..",
-          "Package": "Canal\u002B France",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Canal\u002B Sport",
-          "Package": "Canal\u002B France",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "NOUVEAU SAT",
-          "Package": "Canal\u002B France",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 11675,
-      "Polarization": "H",
-      "SymbolRateKs": 7500,
-      "Fec": "9/10",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12530,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -724,15 +608,6 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12570,
-      "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 12576.6,
       "Polarization": "H",
       "SymbolRateKs": 800,
@@ -751,46 +626,28 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12601,
+      "FrequencyMHz": 12576.9,
       "Polarization": "H",
-      "SymbolRateKs": 45000,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12610,
-      "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
+      "SymbolRateKs": 400,
+      "Fec": "1/4",
+      "Standard": "DVB-S2X",
       "Modulation": "QPSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12636.7,
+      "FrequencyMHz": 12637,
       "Polarization": "H",
       "SymbolRateKs": 1128,
-      "Fec": "1/4",
+      "Fec": "None",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "AUTO",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12639.1,
+      "FrequencyMHz": 12639.4,
       "Polarization": "H",
       "SymbolRateKs": 3090,
-      "Fec": "3/5",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12650,
-      "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "3/4",
+      "Fec": "1/2",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": []
@@ -814,9 +671,9 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12674,
+      "FrequencyMHz": 12671.6,
       "Polarization": "H",
-      "SymbolRateKs": 20740,
+      "SymbolRateKs": 27500,
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
@@ -825,7 +682,6 @@
           "Name": "TV 6 Alg\u00E9rie",
           "Package": "TDA",
           "Languages": [
-            "fra",
             "ara"
           ],
           "Type": "TV",
@@ -835,6 +691,7 @@
           "Name": "Canal Alg\u00E9rie",
           "Package": "TDA",
           "Languages": [
+            "ara",
             "fra"
           ],
           "Type": "TV",
@@ -844,7 +701,7 @@
           "Name": "Algerie 3",
           "Package": "TDA",
           "Languages": [
-            "fra"
+            "ara"
           ],
           "Type": "TV",
           "IsFta": true
@@ -853,7 +710,6 @@
           "Name": "ENTV Algeria",
           "Package": "TDA",
           "Languages": [
-            "fra",
             "ara"
           ],
           "Type": "TV",
@@ -863,7 +719,6 @@
           "Name": "Alg\u00E9rie 5",
           "Package": "TDA",
           "Languages": [
-            "fra",
             "ara"
           ],
           "Type": "TV",
@@ -873,7 +728,7 @@
           "Name": "Alg\u00E9rie 4",
           "Package": "TDA",
           "Languages": [
-            "ber"
+            "ara"
           ],
           "Type": "TV",
           "IsFta": true
@@ -1356,40 +1211,48 @@
         {
           "Name": "RADIO CORAN",
           "Package": "TDA",
-          "Languages": [],
+          "Languages": [
+            "fra"
+          ],
           "Type": "Radio",
           "IsFta": true
         },
         {
           "Name": "EL BAHDJA",
           "Package": "TDA",
-          "Languages": [],
+          "Languages": [
+            "fra"
+          ],
           "Type": "Radio",
           "IsFta": true
         },
         {
           "Name": "RADIO CULTURE",
           "Package": "TDA",
-          "Languages": [],
+          "Languages": [
+            "fra"
+          ],
           "Type": "Radio",
           "IsFta": true
         },
         {
           "Name": "RADIO JEUNESSE",
           "Package": "TDA",
-          "Languages": [],
+          "Languages": [
+            "fra"
+          ],
           "Type": "Radio",
           "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 12718.7,
+      "FrequencyMHz": 12721.1,
       "Polarization": "H",
-      "SymbolRateKs": 5000,
-      "Fec": "3/4",
+      "SymbolRateKs": 38000,
+      "Fec": "4/5",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "16APSK",
       "Channels": []
     }
   ]

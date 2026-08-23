@@ -184,25 +184,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "Playboy Latino",
-          "Package": null,
-          "Languages": [
-            "esp",
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sexy Hot",
-          "Package": null,
-          "Languages": [
-            "por"
-          ],
-          "Type": "TV",
-          "IsFta": false
         }
       ]
     },
@@ -232,61 +213,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Download OS",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Playboy Latino",
-          "Package": null,
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Playboy POR (SD) (61)",
-          "Package": null,
-          "Languages": [
-            "por"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Venus TV Argentina",
-          "Package": null,
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Venus POR (SD) (71)",
-          "Package": null,
-          "Languages": [
-            "por"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Wobi Latinamerica",
-          "Package": null,
-          "Languages": [
-            "esp",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 3848,
@@ -295,26 +222,7 @@
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Liga 1 MAX",
-          "Package": null,
-          "Languages": [
-            "esp"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Liga 1 Basico",
-          "Package": null,
-          "Languages": [
-            "esp"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 3853,
@@ -388,6 +296,13 @@
           ],
           "Type": "TV",
           "IsFta": true
+        },
+        {
+          "Name": "TeleVID",
+          "Package": "Encoder",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
         }
       ]
     },
@@ -409,15 +324,6 @@
           "IsFta": true
         }
       ]
-    },
-    {
-      "FrequencyMHz": 3872,
-      "Polarization": "L",
-      "SymbolRateKs": 4000,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
     },
     {
       "FrequencyMHz": 3874,
@@ -448,24 +354,37 @@
         {
           "Name": "Conectados Con Dios TV",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "esp"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "OKTV Sports",
+          "Name": "OK TV Sports",
           "Package": "Encoder",
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "LTV",
+          "Name": "LTV Honduras",
           "Package": null,
           "Languages": [
             "esp"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SPDH TV",
+          "Package": "Encoder",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
           "IsFta": true
         },
         {
@@ -483,10 +402,12 @@
           "IsFta": true
         },
         {
-          "Name": "UNE TV",
+          "Name": "Une TV",
           "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
           "IsFta": true
         },
         {
@@ -501,30 +422,12 @@
       ]
     },
     {
-      "FrequencyMHz": 3883,
-      "Polarization": "L",
-      "SymbolRateKs": 1837,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 3884,
       "Polarization": "R",
       "SymbolRateKs": 2500,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 3887,
-      "Polarization": "L",
-      "SymbolRateKs": 4190,
-      "Fec": "3/4",
-      "Standard": "DVB-S2T2-MI,",
-      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -545,15 +448,6 @@
           "IsFta": false
         }
       ]
-    },
-    {
-      "FrequencyMHz": 3894,
-      "Polarization": "L",
-      "SymbolRateKs": 2787,
-      "Fec": "3/5",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
     },
     {
       "FrequencyMHz": 3898,
@@ -691,74 +585,7 @@
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Film_Arts Brazil",
-          "Package": "Evertz",
-          "Languages": [
-            "por"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "MasChic Domestic HD",
-          "Package": "Evertz",
-          "Languages": [
-            "esp",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Film_Arts Mexico HD",
-          "Package": "Evertz",
-          "Languages": [
-            "esp",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "AMC Colombia",
-          "Package": "Evertz",
-          "Languages": [
-            "esp",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "UTIL List 8",
-          "Package": "Evertz",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "AMC Brazil",
-          "Package": "Evertz",
-          "Languages": [
-            "por",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "AMC Mexico",
-          "Package": "Evertz",
-          "Languages": [
-            "esp",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 3936,
@@ -788,15 +615,6 @@
         },
         {
           "Name": "Canal 12 Uruguay",
-          "Package": "Scopus",
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "La Red",
           "Package": "Scopus",
           "Languages": [
             "esp"
@@ -868,7 +686,26 @@
       "Fec": "3/4",
       "Standard": "DVB-S2T2-MI,",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Canal Capital",
+          "Package": "RTVC",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canal Capital Eureka",
+          "Package": "RTVC",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 3967,
@@ -892,25 +729,6 @@
       "FrequencyMHz": 3974,
       "Polarization": "R",
       "SymbolRateKs": 1920,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Telemedellin",
-          "Package": "TELEMEDELLIN",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 3978,
-      "Polarization": "R",
-      "SymbolRateKs": 4166,
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -950,17 +768,26 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "TELEFE ARG",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TELEFE INT",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
         }
       ]
-    },
-    {
-      "FrequencyMHz": 3983,
-      "Polarization": "R",
-      "SymbolRateKs": 4333,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
     },
     {
       "FrequencyMHz": 4000,
@@ -1039,6 +866,13 @@
           "Package": "RTVC",
           "Languages": [],
           "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Se\u0451al Colombia M\u0453vil",
+          "Package": "RTVC",
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -1432,16 +1266,6 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Studio Universal Chile HD",
-          "Package": null,
-          "Languages": [
-            "esp",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Cocktail lounge",
           "Package": null,
           "Languages": [],
@@ -1813,13 +1637,43 @@
       ]
     },
     {
-      "FrequencyMHz": 4047,
-      "Polarization": "L",
-      "SymbolRateKs": 3329,
-      "Fec": "7/8",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
+      "FrequencyMHz": 4046,
+      "Polarization": "R",
+      "SymbolRateKs": 1920,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TELEMEDELLIN",
+          "Package": "TELEMEDELLIN",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4048,
+      "Polarization": "R",
+      "SymbolRateKs": 1700,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "ZooMoo TV HD_Buenos_Backup",
+          "Package": "Encompass",
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 4054,
@@ -1915,61 +1769,7 @@
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "VTV (Uruguay)",
-          "Package": null,
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "GOLTV HD",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "VTV\u002B HD",
-          "Package": null,
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "URUGUAY TF",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "GOLTV UY",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "GOLTV ALT",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "OS Download",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 4065,
@@ -2036,15 +1836,6 @@
           "Package": "NOVO TEMPO",
           "Languages": [
             "esp"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Hope Channel Interamerica HD",
-          "Package": "NOVO TEMPO",
-          "Languages": [
-            "por"
           ],
           "Type": "TV",
           "IsFta": true
@@ -2168,6 +1959,16 @@
       "Modulation": "8PSK",
       "Channels": [
         {
+          "Name": "AMC Brazil",
+          "Package": "Evertz",
+          "Languages": [
+            "por",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
           "Name": "Film  Arts LATAM HD",
           "Package": "Evertz",
           "Languages": [],
@@ -2185,9 +1986,28 @@
           "IsFta": false
         },
         {
+          "Name": "AMC North",
+          "Package": "Evertz",
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
           "Name": "Europa HD",
           "Package": "Evertz",
           "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Film_Arts Brazil",
+          "Package": "Evertz",
+          "Languages": [
+            "por"
+          ],
           "Type": "Unknown",
           "IsFta": false
         },
@@ -2198,6 +2018,46 @@
             "esp",
             "eng",
             "ger"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Film_Arts Mexico",
+          "Package": "Evertz",
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "AMC Series LATAM",
+          "Package": "Evertz",
+          "Languages": [
+            "esp",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "AMC Series Brazil",
+          "Package": "Evertz",
+          "Languages": [
+            "por",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Utility list 8 (Service test)",
+          "Package": "Evertz",
+          "Languages": [
+            "eng",
+            "esp"
           ],
           "Type": "Unknown",
           "IsFta": false
@@ -2295,15 +2155,6 @@
           "IsFta": false
         }
       ]
-    },
-    {
-      "FrequencyMHz": 4108,
-      "Polarization": "R",
-      "SymbolRateKs": 2059,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
     },
     {
       "FrequencyMHz": 4111,
@@ -2619,7 +2470,7 @@
           "IsFta": true
         },
         {
-          "Name": "Quadrille Data",
+          "Name": "8728 Quadrille Data",
           "Package": "BFBS",
           "Languages": [],
           "Type": "Data",
@@ -2703,44 +2554,26 @@
           ],
           "Type": "Unknown",
           "IsFta": false
+        },
+        {
+          "Name": "Liga 1 Max",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Liga 1 Basico",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
         }
       ]
-    },
-    {
-      "FrequencyMHz": 4143.5,
-      "Polarization": "R",
-      "SymbolRateKs": 2800,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 4145,
-      "Polarization": "L",
-      "SymbolRateKs": 2571,
-      "Fec": "7/8",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 4148,
-      "Polarization": "L",
-      "SymbolRateKs": 1091,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 4151,
-      "Polarization": "L",
-      "SymbolRateKs": 2500,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
     },
     {
       "FrequencyMHz": 4161,
@@ -2749,33 +2582,6 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 4168,
-      "Polarization": "L",
-      "SymbolRateKs": 2400,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 4169,
-      "Polarization": "R",
-      "SymbolRateKs": 18390,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 4171,
-      "Polarization": "L",
-      "SymbolRateKs": 2468,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -2800,6 +2606,13 @@
             "esp"
           ],
           "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "3 Emisora Canal Congreso",
+          "Package": "TRD",
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -2884,6 +2697,15 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "Cubavision",
+          "Package": "OVERON",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
         }
       ]
     },
@@ -2914,24 +2736,6 @@
           "IsFta": true
         }
       ]
-    },
-    {
-      "FrequencyMHz": 4544,
-      "Polarization": "R",
-      "SymbolRateKs": 20660,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 4581,
-      "Polarization": "L",
-      "SymbolRateKs": 29990,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
     }
   ]
 }

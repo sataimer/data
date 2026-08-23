@@ -1,0 +1,14 @@
+{
+  "SlotKey": "20.4E",
+  "Transponders": [
+    {
+      "FrequencyMHz": 4116,
+      "Polarization": "L",
+      "SymbolRateKs": 3330,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    }
+  ]
+}

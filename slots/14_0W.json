@@ -29,12 +29,12 @@
         },
         {
           "Name": "Perviy Kanal Europa",
-          "Package": null,
+          "Package": "RSCC",
           "Languages": [
             "rus"
           ],
           "Type": "TV",
-          "IsFta": true
+          "IsFta": false
         }
       ]
     },
@@ -288,7 +288,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11025,
+      "FrequencyMHz": 11026.7,
       "Polarization": "H",
       "SymbolRateKs": 6586,
       "Fec": "2/3",
@@ -836,15 +836,6 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11626.4,
-      "Polarization": "H",
-      "SymbolRateKs": 10000,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSK",
       "Channels": []
     },
     {

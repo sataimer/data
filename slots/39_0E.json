@@ -150,7 +150,7 @@
           "IsFta": true
         },
         {
-          "Name": "Voice of Greece",
+          "Name": "Voice Of Greece",
           "Package": null,
           "Languages": [
             "gre"
@@ -195,15 +195,6 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10770,
-      "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 10779,
       "Polarization": "V",
       "SymbolRateKs": 17143,
@@ -234,6 +225,15 @@
       "FrequencyMHz": 10810,
       "Polarization": "V",
       "SymbolRateKs": 30000,
+      "Fec": "1/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10826.6,
+      "Polarization": "V",
+      "SymbolRateKs": 1000,
       "Fec": "1/3",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
@@ -300,34 +300,7 @@
           "IsFta": false
         },
         {
-          "Name": "Teve 1 HD",
-          "Package": "Tring Digital",
-          "Languages": [
-            "alb"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "ATV HD Albania",
-          "Package": "Tring Digital",
-          "Languages": [
-            "alb"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Tring Classic HD",
-          "Package": "Tring Digital",
-          "Languages": [
-            "alb"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "RTV 21 HD",
           "Package": "Tring Digital",
           "Languages": [
             "alb"
@@ -564,7 +537,7 @@
           "Package": "Tring TV",
           "Languages": [],
           "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "Desire",
@@ -610,6 +583,13 @@
           "IsFta": false
         },
         {
+          "Name": "Top Channel HD",
+          "Package": "Tring Digital",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "NRG RADIO",
           "Package": "Tring Digital",
           "Languages": [
@@ -621,48 +601,12 @@
       ]
     },
     {
-      "FrequencyMHz": 10890,
-      "Polarization": "V",
-      "SymbolRateKs": 34285,
-      "Fec": "11/15",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 10906,
       "Polarization": "V",
       "SymbolRateKs": 22000,
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10913.5,
-      "Polarization": "V",
-      "SymbolRateKs": 2895,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10913.5,
-      "Polarization": "V",
-      "SymbolRateKs": 2895,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10913.5,
-      "Polarization": "V",
-      "SymbolRateKs": 2895,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
       "Channels": []
     },
     {
@@ -735,16 +679,7 @@
           "IsFta": false
         },
         {
-          "Name": "Tring Family HD",
-          "Package": "Tring Digital",
-          "Languages": [
-            "alb"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Telegraf TV",
+          "Name": "Tring Summertime",
           "Package": "Tring Digital",
           "Languages": [
             "alb"
@@ -758,31 +693,6 @@
           "Languages": [
             "alb"
           ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Click TV",
-          "Package": "Tring Digital",
-          "Languages": [
-            "alb"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Bizarre",
-          "Package": "Tring Digital",
-          "Languages": [
-            "alb"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Bunga Bunga",
-          "Package": "Tring Digital",
-          "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
@@ -802,7 +712,7 @@
             "ita"
           ],
           "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "Bubble",
@@ -821,7 +731,7 @@
           "IsFta": false
         },
         {
-          "Name": "NTV Albania",
+          "Name": "SuperSport HD-1",
           "Package": "Tring Digital",
           "Languages": [
             "alb"
@@ -830,11 +740,9 @@
           "IsFta": false
         },
         {
-          "Name": "IN TV (Albania)",
+          "Name": "SuperSport 2 Africa HD",
           "Package": "Tring Digital",
-          "Languages": [
-            "alb"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
@@ -843,6 +751,15 @@
           "Package": "Tring Digital",
           "Languages": [],
           "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SuperSport HD-3",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -850,6 +767,24 @@
           "Package": "MediasetTring Digital",
           "Languages": [
             "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "SuperSport HD-4",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Supersport 5 HD (Albania)",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
           ],
           "Type": "TV",
           "IsFta": false
@@ -864,37 +799,16 @@
           "IsFta": false
         },
         {
-          "Name": "Premium Channel",
-          "Package": "Tring Digital",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Mediaset Italia",
           "Package": "MediasetTring Digital",
           "Languages": [
             "ita"
           ],
           "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         },
         {
-          "Name": "RTSH 24",
-          "Package": "Tring Digital",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "RTSH 24",
-          "Package": "Tring Digital",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "RTSH Femije",
+          "Name": "Supersport 6 HD Albania",
           "Package": "Tring Digital",
           "Languages": [
             "alb"
@@ -903,7 +817,7 @@
           "IsFta": false
         },
         {
-          "Name": "CNA TV",
+          "Name": "SuperSport 7 Africa HD",
           "Package": "Tring Digital",
           "Languages": [],
           "Type": "TV",
@@ -911,6 +825,15 @@
         },
         {
           "Name": "Klan HD",
+          "Package": "Tring Digital",
+          "Languages": [
+            "alb"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Top News",
           "Package": "Tring Digital",
           "Languages": [
             "alb"
@@ -969,20 +892,9 @@
           "IsFta": false
         },
         {
-          "Name": "Big Brother VIP Kosova 1",
+          "Name": "Panorama TV",
           "Package": "Tring Digital",
-          "Languages": [
-            "alb"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Big Brother VIP Kosova 2",
-          "Package": "Tring Digital",
-          "Languages": [
-            "alb"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
@@ -996,51 +908,6 @@
           "IsFta": true
         }
       ]
-    },
-    {
-      "FrequencyMHz": 10930,
-      "Polarization": "V",
-      "SymbolRateKs": 2895,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10930,
-      "Polarization": "V",
-      "SymbolRateKs": 2895,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10930,
-      "Polarization": "V",
-      "SymbolRateKs": 2895,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10930,
-      "Polarization": "V",
-      "SymbolRateKs": 2895,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10930,
-      "Polarization": "V",
-      "SymbolRateKs": 2895,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
     },
     {
       "FrequencyMHz": 10930,
@@ -1079,12 +946,30 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10975,
+      "FrequencyMHz": 10970.5,
       "Polarization": "V",
-      "SymbolRateKs": 4100,
-      "Fec": "5/6",
+      "SymbolRateKs": 9883,
+      "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10982.1,
+      "Polarization": "V",
+      "SymbolRateKs": 1250,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10984.4,
+      "Polarization": "V",
+      "SymbolRateKs": 5455,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {
@@ -1097,12 +982,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10998.5,
+      "FrequencyMHz": 10988.4,
       "Polarization": "V",
-      "SymbolRateKs": 7500,
-      "Fec": "3/4",
+      "SymbolRateKs": 1905,
+      "Fec": "None",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "64APSK",
       "Channels": []
     },
     {
@@ -1151,6 +1036,24 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11035.2,
+      "Polarization": "V",
+      "SymbolRateKs": 320,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11035.6,
+      "Polarization": "V",
+      "SymbolRateKs": 320,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "AUTO",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11044,
       "Polarization": "V",
       "SymbolRateKs": 1905,
@@ -1196,12 +1099,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11100.5,
+      "FrequencyMHz": 11098.7,
       "Polarization": "V",
-      "SymbolRateKs": 7500,
-      "Fec": "3/4",
+      "SymbolRateKs": 6300,
+      "Fec": "1/2",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -1278,10 +1181,64 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11191.9,
+      "Polarization": "V",
+      "SymbolRateKs": 1500,
+      "Fec": "1/2",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11472,
       "Polarization": "H",
       "SymbolRateKs": 2000,
       "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11477.5,
+      "Polarization": "H",
+      "SymbolRateKs": 10833,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11478,
+      "Polarization": "H",
+      "SymbolRateKs": 1197,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11503,
+      "Polarization": "V",
+      "SymbolRateKs": 2500,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11509.87,
+      "Polarization": "H",
+      "SymbolRateKs": 4444,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11514,
+      "Polarization": "H",
+      "SymbolRateKs": 2141,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -1297,46 +1254,9 @@
       ]
     },
     {
-      "FrequencyMHz": 11478,
+      "FrequencyMHz": 11516.3,
       "Polarization": "H",
-      "SymbolRateKs": 1197,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11505,
-      "Polarization": "H",
-      "SymbolRateKs": 3500,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11511,
-      "Polarization": "H",
-      "SymbolRateKs": 4444,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "The Media Office",
-          "Package": "TANDBERG Television",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 11514,
-      "Polarization": "H",
-      "SymbolRateKs": 2141,
+      "SymbolRateKs": 2000,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -1352,25 +1272,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11523.5,
-      "Polarization": "V",
-      "SymbolRateKs": 2720,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11556,
-      "Polarization": "H",
-      "SymbolRateKs": 2500,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11716.3,
+      "FrequencyMHz": 11716.6,
       "Polarization": "H",
       "SymbolRateKs": 4167,
       "Fec": "1/4",
@@ -1379,36 +1281,9 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11716.3,
-      "Polarization": "V",
-      "SymbolRateKs": 4167,
-      "Fec": "1/4",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11723.3,
+      "FrequencyMHz": 11721.6,
       "Polarization": "H",
-      "SymbolRateKs": 7500,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11723.3,
-      "Polarization": "H",
-      "SymbolRateKs": 7500,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11723.3,
-      "Polarization": "V",
-      "SymbolRateKs": 7500,
+      "SymbolRateKs": 4166,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "32APSK",
@@ -1424,43 +1299,224 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11733.3,
+      "FrequencyMHz": 11760.4,
       "Polarization": "H",
-      "SymbolRateKs": 24167,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
+      "SymbolRateKs": 16515,
+      "Fec": "5/6",
+      "Standard": "DVB-S2PLS:",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Alpha TV Cyprus",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Antenna TV Cyprus",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Omega Channel Cyprus",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Sigma TV",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Capital TV Cyprus",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Extra Channel Cyprus",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
-      "FrequencyMHz": 11769,
+      "FrequencyMHz": 11778.5,
       "Polarization": "H",
-      "SymbolRateKs": 28333,
-      "Fec": "7/8",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
+      "SymbolRateKs": 16515,
+      "Fec": "5/6",
+      "Standard": "DVB-S2PLS:",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Plus TV Cyprus",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Smile TV Cyprus",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Vergina TV",
+          "Package": "HellasSat",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Sigma TV 2 4K",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Sigma TV 2 HD",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanali 6",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
     },
     {
-      "FrequencyMHz": 11807.6,
-      "Polarization": "H",
-      "SymbolRateKs": 30000,
-      "Fec": "None",
-      "Standard": "DVB-S2",
-      "Modulation": "64APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11846.1,
-      "Polarization": "H",
-      "SymbolRateKs": 29170,
-      "Fec": "3/4",
+      "FrequencyMHz": 11778.6,
+      "Polarization": "V",
+      "SymbolRateKs": 16514,
+      "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12118,
+      "FrequencyMHz": 11807.9,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11837.2,
+      "Polarization": "H",
+      "SymbolRateKs": 16514,
+      "Fec": "5/6",
+      "Standard": "DVB-S2PLS:",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Alpha TV Cyprus",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Antenna TV Cyprus",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Omega Channel Cyprus",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Sigma TV",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Capital TV Cyprus",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Extra Channel Cyprus",
+          "Package": "HellasSat",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11854.87,
+      "Polarization": "H",
+      "SymbolRateKs": 16514,
+      "Fec": "5/6",
+      "Standard": "DVB-S2PLS:",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12117.5,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -1495,10 +1551,10 @@
           "IsFta": false
         },
         {
-          "Name": "STS Kids",
+          "Name": "Mate Kitchen",
           "Package": "A1 Bulgaria",
           "Languages": [
-            "rus"
+            "bul"
           ],
           "Type": "TV",
           "IsFta": false
@@ -1549,10 +1605,10 @@
           "IsFta": false
         },
         {
-          "Name": "MTV Hits",
+          "Name": "Bez Bagahz",
           "Package": "A1 Bulgaria",
           "Languages": [
-            "eng"
+            "bul"
           ],
           "Type": "TV",
           "IsFta": false
@@ -1704,7 +1760,7 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Arthouse",
+          "Name": "Filmbox\u002B Festival Bulgaria",
           "Package": "A1 Bulgaria",
           "Languages": [
             "eng"
@@ -1713,7 +1769,7 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Stars",
+          "Name": "Filmbox\u002B Love \u0026 Crime Bulgaria",
           "Package": "A1 Bulgaria",
           "Languages": [
             "eng"
@@ -1765,7 +1821,7 @@
             "bul"
           ],
           "Type": "TV",
-          "IsFta": true
+          "IsFta": false
         },
         {
           "Name": "BNT 2",
@@ -1925,7 +1981,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12137,
+      "FrequencyMHz": 12136.7,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -2015,7 +2071,7 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Extra HD Romania",
+          "Name": "Filmbox\u002B Emotion Bulgaria",
           "Package": "A1 Bulgaria",
           "Languages": [
             "eng"
@@ -2243,9 +2299,10 @@
           "IsFta": false
         },
         {
-          "Name": "MTV 00s",
+          "Name": "Love Nature",
           "Package": "A1 Bulgaria",
           "Languages": [
+            "bul",
             "eng"
           ],
           "Type": "TV",
@@ -2371,7 +2428,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12156,
+      "FrequencyMHz": 12155.8,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "5/6",
@@ -2383,15 +2440,6 @@
           "Package": "A1 BulgariaBulsatcom",
           "Languages": [
             "bul"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV 90s",
-          "Package": "A1 BulgariaBulsatcom",
-          "Languages": [
-            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -2554,22 +2602,13 @@
           "IsFta": false
         },
         {
-          "Name": "MTV 80s",
-          "Package": "A1 BulgariaBulsatcom",
+          "Name": "\u0422VSB",
+          "Package": "Bulsatcom",
           "Languages": [
-            "eng"
+            "bul"
           ],
           "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV 00s",
-          "Package": "A1 BulgariaBulsatcom",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "Bulgaria 24",
@@ -2784,6 +2823,15 @@
           "IsFta": false
         },
         {
+          "Name": "RTL KETTO",
+          "Package": "Orange Romania",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
           "Name": "4! Story TV",
           "Package": "Orange Romania",
           "Languages": [
@@ -2813,7 +2861,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12194,
+      "FrequencyMHz": 12194.2,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "5/6",
@@ -3093,7 +3141,7 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Bulgaria",
+          "Name": "Filmbox\u002B Oone Bulgaria",
           "Package": "A1 BulgariaBulsatcom",
           "Languages": [
             "bul",
@@ -3138,15 +3186,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "VTK",
-          "Package": "Bulsatcom",
-          "Languages": [
-            "bul"
-          ],
-          "Type": "TV",
-          "IsFta": true
         },
         {
           "Name": "Vivid TV",
@@ -3295,7 +3334,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12224,
+      "FrequencyMHz": 12223.6,
       "Polarization": "H",
       "SymbolRateKs": 13383,
       "Fec": "3/4",
@@ -3336,7 +3375,7 @@
             "gre"
           ],
           "Type": "TV",
-          "IsFta": true
+          "IsFta": false
         },
         {
           "Name": "ERT 1 HD",
@@ -3459,7 +3498,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12241.3,
+      "FrequencyMHz": 12241.5,
       "Polarization": "H",
       "SymbolRateKs": 13383,
       "Fec": "3/4",
@@ -3512,10 +3551,10 @@
           "IsFta": true
         },
         {
-          "Name": "BBC News",
+          "Name": "ERT Cosmos",
           "Package": "ERT",
           "Languages": [
-            "eng"
+            "gre"
           ],
           "Type": "TV",
           "IsFta": true
@@ -3527,7 +3566,7 @@
             "gre"
           ],
           "Type": "TV",
-          "IsFta": true
+          "IsFta": false
         }
       ]
     },
@@ -3561,7 +3600,8 @@
           "Name": "Investigation Discovery HD",
           "Package": "Orange Romania",
           "Languages": [
-            "eng"
+            "eng",
+            "hun"
           ],
           "Type": "TV",
           "IsFta": false
@@ -3639,12 +3679,12 @@
         },
         {
           "Name": "Trinitas HD",
-          "Package": null,
+          "Package": "Orange Romania",
           "Languages": [
             "rom"
           ],
           "Type": "TV",
-          "IsFta": true
+          "IsFta": false
         },
         {
           "Name": "SSU",
@@ -4034,7 +4074,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12290,
+      "FrequencyMHz": 12290.1,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -4154,7 +4194,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12309,
+      "FrequencyMHz": 12309.3,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -4461,6 +4501,15 @@
           "IsFta": false
         },
         {
+          "Name": "MAX One",
+          "Package": "A1 Bulgaria",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "Viasat Nature CEE",
           "Package": "A1 Bulgaria",
           "Languages": [
@@ -4634,7 +4683,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12328,
+      "FrequencyMHz": 12328.46,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -4717,14 +4766,16 @@
           "IsFta": false
         },
         {
-          "Name": "Nasul TV",
+          "Name": "CineWow",
           "Package": "Orange Romania",
-          "Languages": [],
+          "Languages": [
+            "rom"
+          ],
           "Type": "TV",
-          "IsFta": true
+          "IsFta": false
         },
         {
-          "Name": "iConcert",
+          "Name": "Alfa Omega TV",
           "Package": "Orange Romania",
           "Languages": [
             "eng"
@@ -4737,15 +4788,6 @@
           "Package": "Orange Romania",
           "Languages": [
             "rom"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Atomic TV",
-          "Package": "Orange Romania",
-          "Languages": [
-            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -4790,7 +4832,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12337.3,
+      "FrequencyMHz": 12337.5,
       "Polarization": "H",
       "SymbolRateKs": 11570,
       "Fec": "2/3",
@@ -4836,9 +4878,9 @@
       ]
     },
     {
-      "FrequencyMHz": 12352,
+      "FrequencyMHz": 12351.5,
       "Polarization": "H",
-      "SymbolRateKs": 11568,
+      "SymbolRateKs": 11570,
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -4873,7 +4915,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12367,
+      "FrequencyMHz": 12366.8,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "7/8",
@@ -4973,7 +5015,7 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Premium Romania",
+          "Name": "Filmbox\u002B Hits Romania",
           "Package": "Orange Romania",
           "Languages": [
             "eng"
@@ -5020,12 +5062,30 @@
           "IsFta": false
         },
         {
-          "Name": "Aleph News",
+          "Name": "Tra La La",
           "Package": "Orange Romania",
           "Languages": [
             "rom"
           ],
           "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Film Cafe",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "AMC",
+          "Package": "Orange Romania",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -5047,16 +5107,16 @@
       ]
     },
     {
-      "FrequencyMHz": 12385.8,
+      "FrequencyMHz": 12386,
       "Polarization": "H",
       "SymbolRateKs": 28333,
-      "Fec": "2/3",
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "16APSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12405,
+      "FrequencyMHz": 12405.18,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "7/8",
@@ -5073,7 +5133,7 @@
           "IsFta": false
         },
         {
-          "Name": "FilmBox Extra",
+          "Name": "Filmbox\u002B Emotion Romania",
           "Package": "Orange Romania",
           "Languages": [
             "eng"
@@ -5123,7 +5183,7 @@
           "IsFta": false
         },
         {
-          "Name": "FilmBox Basic",
+          "Name": "Filmbox\u002B One Romania",
           "Package": "Orange Romania",
           "Languages": [
             "eng"
@@ -5224,10 +5284,10 @@
           "IsFta": false
         },
         {
-          "Name": "TV4 Hungary",
+          "Name": "Tra La La Desene Animate",
           "Package": "Orange Romania",
           "Languages": [
-            "eng"
+            "rom"
           ],
           "Type": "TV",
           "IsFta": false
@@ -5235,7 +5295,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12414,
+      "FrequencyMHz": 12414.3,
       "Polarization": "H",
       "SymbolRateKs": 11568,
       "Fec": "2/3",
@@ -5308,7 +5368,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12428.3,
+      "FrequencyMHz": 12428.4,
       "Polarization": "H",
       "SymbolRateKs": 13198,
       "Fec": "3/4",
@@ -5317,41 +5377,13 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12428.3,
-      "Polarization": "H",
-      "SymbolRateKs": 13198,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12428.4,
-      "Polarization": "H",
-      "SymbolRateKs": 13198,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12438.2,
+      "FrequencyMHz": 12438.5,
       "Polarization": "H",
       "SymbolRateKs": 4444,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "The Media Office",
-          "Package": "TANDBERG Television",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12444,
@@ -5363,7 +5395,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12463,
+      "FrequencyMHz": 12462.7,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "5/6",
@@ -5416,7 +5448,7 @@
           "IsFta": false
         },
         {
-          "Name": "FilmBox Extra",
+          "Name": "Filmbox\u002B Emotion Bulgaria",
           "Package": "A1 BulgariaBulsatcom",
           "Languages": [
             "eng"
@@ -5528,7 +5560,7 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Stars",
+          "Name": "Filmbox\u002B Love \u0026 Crime Bulgaria",
           "Package": "A1 BulgariaBulsatcom",
           "Languages": [
             "eng"
@@ -5563,6 +5595,24 @@
       "Fec": "7/8",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12510.5,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12519.18,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -5648,15 +5698,6 @@
           "IsFta": false
         },
         {
-          "Name": "CBS Reality",
-          "Package": "Orange Romania",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Eurosport 2 Romania \u0026 Hungary",
           "Package": "Orange Romania",
           "Languages": [
@@ -5693,7 +5734,7 @@
           "IsFta": false
         },
         {
-          "Name": "Zu TV",
+          "Name": "Chefi.ro",
           "Package": "Orange Romania",
           "Languages": [
             "rom"
@@ -5711,7 +5752,7 @@
           "IsFta": false
         },
         {
-          "Name": "Hit Music",
+          "Name": "Nostalgia TV Romania",
           "Package": "Orange Romania",
           "Languages": [
             "rom"
@@ -5726,6 +5767,13 @@
             "rom"
           ],
           "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "EMI TV",
+          "Package": "Orange Romania",
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -5900,15 +5948,6 @@
           "IsFta": false
         },
         {
-          "Name": "TVR Folclor",
-          "Package": "Orange Romania",
-          "Languages": [
-            "rom"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Orizont TV",
           "Package": "Orange Romania",
           "Languages": [],
@@ -5954,7 +5993,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12600,
+      "FrequencyMHz": 12599.4,
       "Polarization": "V",
       "SymbolRateKs": 19367,
       "Fec": "2/3",
@@ -6081,7 +6120,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12645.2,
+      "FrequencyMHz": 12645.5,
       "Polarization": "H",
       "SymbolRateKs": 2500,
       "Fec": "5/6",
@@ -6100,6 +6139,15 @@
     },
     {
       "FrequencyMHz": 12656,
+      "Polarization": "V",
+      "SymbolRateKs": 16363,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12656.2,
       "Polarization": "H",
       "SymbolRateKs": 15155,
       "Fec": "3/4",
@@ -6190,30 +6238,12 @@
       ]
     },
     {
-      "FrequencyMHz": 12656,
-      "Polarization": "V",
-      "SymbolRateKs": 16363,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12656.1,
-      "Polarization": "V",
-      "SymbolRateKs": 16363,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12671,
+      "FrequencyMHz": 12671.3,
       "Polarization": "H",
-      "SymbolRateKs": 2150,
-      "Fec": "5/6",
+      "SymbolRateKs": 2000,
+      "Fec": "1/2",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -6343,7 +6373,7 @@
           "IsFta": false
         },
         {
-          "Name": "Acasa TV Gold",
+          "Name": "Acas\u00E1 Gold HD",
           "Package": "Orange Romania",
           "Languages": [
             "rom"
@@ -6406,9 +6436,7 @@
         {
           "Name": "Kanal D2",
           "Package": "Orange Romania",
-          "Languages": [
-            "rom"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": false
         }
@@ -6451,12 +6479,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12700.2,
+      "FrequencyMHz": 12699.72,
       "Polarization": "H",
-      "SymbolRateKs": 550,
-      "Fec": "3/5",
+      "SymbolRateKs": 5000,
+      "Fec": "1/2",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -6478,6 +6506,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 12704.22,
+      "Polarization": "H",
+      "SymbolRateKs": 2500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 12715.3,
       "Polarization": "H",
       "SymbolRateKs": 7200,
@@ -6487,7 +6524,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12724,
+      "FrequencyMHz": 12723.7,
       "Polarization": "H",
       "SymbolRateKs": 6250,
       "Fec": "2/3",
@@ -6509,18 +6546,9 @@
       "FrequencyMHz": 12738,
       "Polarization": "H",
       "SymbolRateKs": 1182,
-      "Fec": "3/4",
+      "Fec": "5/6",
       "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12739.3,
-      "Polarization": "H",
-      "SymbolRateKs": 2455,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
+      "Modulation": "16APSKStream",
       "Channels": []
     },
     {

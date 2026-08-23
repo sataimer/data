@@ -2,6 +2,33 @@
   "SlotKey": "8.0W",
   "Transponders": [
     {
+      "FrequencyMHz": 3732,
+      "Polarization": "L",
+      "SymbolRateKs": 40416,
+      "Fec": "2/3",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3732,
+      "Polarization": "L",
+      "SymbolRateKs": 40416,
+      "Fec": "2/3",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 3732,
+      "Polarization": "L",
+      "SymbolRateKs": 40416,
+      "Fec": "2/3",
+      "Standard": "DVB-S2T2-MI,",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 3826,
       "Polarization": "R",
       "SymbolRateKs": 13830,
@@ -109,6 +136,15 @@
       "Modulation": "8PSK",
       "Channels": [
         {
+          "Name": "ZNBC 3",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Mozo TV",
           "Package": "Harmonic",
           "Languages": [
@@ -182,10 +218,12 @@
           "IsFta": true
         },
         {
-          "Name": "SUNSPORTS TV",
+          "Name": "Sun Sports TV",
           "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": true
         },
         {
@@ -232,13 +270,6 @@
           "IsFta": true
         },
         {
-          "Name": "INGOMA TV",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
           "Name": "PROMISE TV",
           "Package": "Harmonic",
           "Languages": [],
@@ -246,11 +277,9 @@
           "IsFta": true
         },
         {
-          "Name": "North West TV",
+          "Name": "Light TV",
           "Package": "Harmonic",
-          "Languages": [
-            "eng"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -266,6 +295,13 @@
           "Package": "Harmonic",
           "Languages": [],
           "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MAFKEN TV",
+          "Package": "Harmonic",
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -340,8 +376,8 @@
           "IsFta": true
         },
         {
-          "Name": "Radio 1",
-          "Package": "SAPEC",
+          "Name": "RNE",
+          "Package": "RNE",
           "Languages": [
             "esp"
           ],
@@ -349,8 +385,8 @@
           "IsFta": true
         },
         {
-          "Name": "REE",
-          "Package": "SAPEC",
+          "Name": "Radio Exterior",
+          "Package": "RNE",
           "Languages": [
             "esp"
           ],
@@ -366,7 +402,17 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Asonga TV HD",
+          "Package": "ASONGA",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 3911,
@@ -415,7 +461,7 @@
         },
         {
           "Name": "National Geographic Channel Africa",
-          "Package": "VIVACOM AFRICA MCPC",
+          "Package": null,
           "Languages": [
             "eng"
           ],
@@ -424,25 +470,7 @@
         },
         {
           "Name": "NatGeo Wild Africa",
-          "Package": "VIVACOM AFRICA MCPC",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV Base Africa",
-          "Package": "MTV Networks",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "BET Africa",
-          "Package": "MTV Networks",
+          "Package": null,
           "Languages": [
             "eng"
           ],
@@ -460,7 +488,7 @@
         },
         {
           "Name": "Nina TV",
-          "Package": "EUTELSAT MENA",
+          "Package": "iChannel LTD",
           "Languages": [
             "eng"
           ],
@@ -596,13 +624,6 @@
           "IsFta": true
         },
         {
-          "Name": "RFI Burkina",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "RFI Gabon",
           "Package": "FMM",
           "Languages": [],
@@ -652,13 +673,6 @@
           "IsFta": true
         },
         {
-          "Name": "RFI Niger",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "RFI AF Centrale",
           "Package": "FMM",
           "Languages": [],
@@ -667,13 +681,6 @@
         },
         {
           "Name": "RFI Kenya",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Niamey",
           "Package": "FMM",
           "Languages": [],
           "Type": "Radio",
@@ -848,20 +855,6 @@
           "IsFta": true
         },
         {
-          "Name": "RFI-MALI-P-M",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI-NIGR-P-H",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "RFI-SENE-PEU",
           "Package": "FMM",
           "Languages": [],
@@ -884,27 +877,6 @@
         },
         {
           "Name": "RFI HAU 05",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI BOBODIOULASSO",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI KOUDOUGOU",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI OUAHIGOUYA",
           "Package": "FMM",
           "Languages": [],
           "Type": "Radio",
@@ -953,21 +925,7 @@
           "IsFta": true
         },
         {
-          "Name": "RFI ZINDER",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "RFI TCHAD PEUL",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI BANFORA",
           "Package": "FMM",
           "Languages": [],
           "Type": "Radio",
@@ -991,515 +949,9 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "RFI RMC",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Francais",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Cameroun",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Cap Vert",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Gambie",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Ghana",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Bissau",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Malabo Pico",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Lesotho",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Liberia",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Mozambique",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Mauritanie",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Ouganda",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Sao Tome",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Ocean Indien",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Sierra Leone",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Zambie",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Burkina",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Gabon",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Tchad",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Mali",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Malabo Ville",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Senegal",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "MCD Khartoum",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Nord Cameroun",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Niger",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI AF Centrale",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Kenya",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Niamey",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Tambacounda",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Juba",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Langues 1",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Langues 2",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Musique",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Divers 1",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Divers 2",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Divers 3",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Pub 1",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Pub 2",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Pub 6",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Congo",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Benin",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Togo",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI 5/15 Swahili",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI RDC Ouest",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Conakry",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Centrafrique",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Cote d\u0027Ivoire",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Bouake-Korogo",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Test 8WB",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Rwanda",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Kankan-Nz\u00E9r\u00E9kor\u00E9",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI-GUIN-PEU",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI-MALI-P-M",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI-NIGR-P-H",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI-SENE-PEU",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Burundi Swa",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Pub 10",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "RADIO NOTRE DAME Internationale",
           "Package": null,
           "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI HAU 05",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI BOBODIOULASSO",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI KOUDOUGOU",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI OUAHIGOUYA",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI GHANA-PEUL",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI KAOLACK",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI ST-LOUIS",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI ZIGUINCHOR",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI BAFOUSSAM",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI BAMENDA",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI ZINDER",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI TCHAD PEUL",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI BANFORA",
-          "Package": "FMM",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI SWA 58",
-          "Package": "FMM",
-          "Languages": [
-            "swa"
-          ],
           "Type": "Radio",
           "IsFta": true
         }
@@ -1515,7 +967,7 @@
       "Channels": [
         {
           "Name": "TV Congo",
-          "Package": "GLOBECAST-B",
+          "Package": "TELEDIFFUSION DU CONGO",
           "Languages": [
             "fra",
             "eng"
@@ -1582,15 +1034,6 @@
           "IsFta": true
         },
         {
-          "Name": "Al Bahrany TV",
-          "Package": "Gulfsat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Alnajaf Alashraf TV",
           "Package": "Gulfsat",
           "Languages": [
@@ -1600,10 +1043,10 @@
           "IsFta": true
         },
         {
-          "Name": "Kidsy TV",
+          "Name": "Libya Al-Youm",
           "Package": "Gulfsat",
           "Languages": [
-            "eng"
+            "ara"
           ],
           "Type": "TV",
           "IsFta": true
@@ -1627,24 +1070,15 @@
           "IsFta": true
         },
         {
-          "Name": "Al-Jawad TV",
+          "Name": "Quran TV",
           "Package": "Gulfsat",
           "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "Albasra 1 TV",
-          "Package": "Gulfsat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Askariyah TV",
-          "Package": "Gulfsat",
+          "Name": "Karbala TV HD",
+          "Package": "Gulsat",
           "Languages": [
             "ara"
           ],
@@ -1652,23 +1086,7 @@
           "IsFta": true
         },
         {
-          "Name": "Al Shirazioun",
-          "Package": "Gulfsat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Al Kout TV",
-          "Package": "Gulfsat",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Massaya",
+          "Name": "Karbala Documentary",
           "Package": "Gulfsat",
           "Languages": [
             "ara"
@@ -1681,15 +1099,6 @@
           "Package": "Gulfsat",
           "Languages": [
             "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "France 24 (in Arabic)",
-          "Package": "Gulfsat",
-          "Languages": [
-            "eng"
           ],
           "Type": "TV",
           "IsFta": true
@@ -1713,29 +1122,33 @@
           "IsFta": true
         },
         {
-          "Name": "MCD Radio",
+          "Name": "Al-Husanya Radio",
           "Package": "Gulfsat",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "al kafeel",
-          "Package": "Gulfsat",
-          "Languages": [],
+          "Languages": [
+            "ara"
+          ],
           "Type": "Radio",
           "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 10971,
+      "FrequencyMHz": 10971.2,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "7/8",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
+        {
+          "Name": "Life Show Cinema",
+          "Package": "MY TV",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
         {
           "Name": "Al Araby TV",
           "Package": "MY TV",
@@ -1751,7 +1164,7 @@
           "IsFta": true
         },
         {
-          "Name": "Syria Satellite Channel",
+          "Name": "Al Mahdi",
           "Package": "MY TV",
           "Languages": [
             "ara"
@@ -1760,16 +1173,7 @@
           "IsFta": true
         },
         {
-          "Name": "Shoor TV",
-          "Package": "MY TV",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Alkarbalaeia TV",
+          "Name": "Drama Pro",
           "Package": "MY TV",
           "Languages": [
             "ara"
@@ -1796,6 +1200,15 @@
           "IsFta": true
         },
         {
+          "Name": "Melody Zaman",
+          "Package": "MY TV",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Salam",
           "Package": "MY TV",
           "Languages": [
@@ -1805,19 +1218,10 @@
           "IsFta": true
         },
         {
-          "Name": "G\u002B",
+          "Name": "Melody Cinema",
           "Package": "MY TV",
           "Languages": [
             "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "1 Baghdad",
-          "Package": "MY TV",
-          "Languages": [
-            "eng"
           ],
           "Type": "TV",
           "IsFta": true
@@ -1832,7 +1236,68 @@
           "IsFta": true
         },
         {
+          "Name": "Life Show Classic",
+          "Package": "MY TV",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Life Show Drama",
+          "Package": "MY TV",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Life Show Alyoum",
+          "Package": "MY TV",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Layaly El Madeh",
+          "Package": "MY TV",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Life Show Turkey",
+          "Package": "MY TV",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Falastini.tv",
+          "Package": "MY TV",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Marina TV HD",
+          "Package": "MY TV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al-Mawlid Al-Nabawi",
           "Package": "MY TV",
           "Languages": [
             "ara"
@@ -1851,6 +1316,15 @@
         },
         {
           "Name": "Hala Arabia",
+          "Package": "MY TV",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Melody Mosalsalat",
           "Package": "MY TV",
           "Languages": [
             "ara"
@@ -1879,7 +1353,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10971,
+      "FrequencyMHz": 10971.2,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -1923,7 +1397,7 @@
           "IsFta": true
         },
         {
-          "Name": "Al Jazeera Mubasher 2",
+          "Name": "Al Jazeera 2",
           "Package": "Al Jazeera",
           "Languages": [
             "ara"
@@ -1961,7 +1435,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11012,
+      "FrequencyMHz": 11012.7,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -1999,16 +1473,6 @@
           "IsFta": false
         },
         {
-          "Name": "beIN Sports 5 HD",
-          "Package": "beIN SPORTS",
-          "Languages": [
-            "ara",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "beIN Sports Max 3 HD",
           "Package": "beIN SPORTS",
           "Languages": [
@@ -2016,13 +1480,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "beIN SPORTS MAX 2",
-          "Package": "beIN",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
         },
         {
           "Name": "beIN Sports Xtra 5",
@@ -2033,11 +1490,27 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "beIN SPORTS Max 2 HD",
+          "Package": "beIN",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports Xtra 7",
+          "Package": "beIN",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 11013,
+      "FrequencyMHz": 11012.7,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -2146,7 +1619,83 @@
       ]
     },
     {
-      "FrequencyMHz": 11054,
+      "FrequencyMHz": 11054.2,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "beIN Sports 6 HD",
+          "Package": "beIN SPORTS",
+          "Languages": [
+            "ara",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports 4 HD",
+          "Package": "beIN SPORTS",
+          "Languages": [
+            "ara",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports 8 HD",
+          "Package": "beIN SPORTS",
+          "Languages": [
+            "ara",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports Xtra 3",
+          "Package": "beIN SPORTS",
+          "Languages": [
+            "ara",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports HD",
+          "Package": "beIN SPORTS",
+          "Languages": [
+            "ara",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "beIN Sports Max 5 HD Arabic",
+          "Package": "beIN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports Xtra 8",
+          "Package": "beIN",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 11054.2,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -2271,86 +1820,16 @@
       ]
     },
     {
-      "FrequencyMHz": 11055,
-      "Polarization": "H",
-      "SymbolRateKs": 27500,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "beIN Sports 6 HD",
-          "Package": "beIN SPORTS",
-          "Languages": [
-            "ara",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "beIN Sports 4 HD",
-          "Package": "beIN SPORTS",
-          "Languages": [
-            "ara",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "beIN Sports 8 HD",
-          "Package": "beIN SPORTS",
-          "Languages": [
-            "ara",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "beIN Sports Xtra 3",
-          "Package": "beIN SPORTS",
-          "Languages": [
-            "ara",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "beIN Sports 7 HD",
-          "Package": "beIN SPORTS",
-          "Languages": [
-            "ara",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "beIN Sports HD",
-          "Package": "beIN SPORTS",
-          "Languages": [
-            "ara",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
-    },
-    {
       "FrequencyMHz": 11095,
       "Polarization": "V",
-      "SymbolRateKs": 27500,
+      "SymbolRateKs": 30000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11096,
+      "FrequencyMHz": 11095.7,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "7/8",
@@ -2367,7 +1846,7 @@
           "IsFta": true
         },
         {
-          "Name": "Al Karma",
+          "Name": "Al Karma ME1",
           "Package": "ViewMedia",
           "Languages": [
             "ara"
@@ -2426,15 +1905,6 @@
           "IsFta": true
         },
         {
-          "Name": "Al Fady",
-          "Package": "ViewMedia",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Al Horreya TV",
           "Package": "ViewMedia",
           "Languages": [
@@ -2478,9 +1948,7 @@
         {
           "Name": "Logos TV",
           "Package": "ViewMedia",
-          "Languages": [
-            "ara"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -2519,15 +1987,6 @@
           "IsFta": true
         },
         {
-          "Name": "Nour Mariam",
-          "Package": "ViewMedia",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Alons TV",
           "Package": "ViewMedia",
           "Languages": [
@@ -2537,11 +1996,9 @@
           "IsFta": true
         },
         {
-          "Name": "Nour Al Sharq",
+          "Name": "Lumiere TV",
           "Package": "ViewMedia",
-          "Languages": [
-            "eng"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -2591,75 +2048,13 @@
       ]
     },
     {
-      "FrequencyMHz": 11137,
+      "FrequencyMHz": 11137.2,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
-        {
-          "Name": "Al Yawm",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Al Safwa",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Cinema 1",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Cinema 2",
-          "Package": null,
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "OSN Series \u002B2 HD",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Series Channel HD",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Fann",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Music Now",
-          "Package": null,
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
         {
           "Name": "DW Arabia HD",
           "Package": "Deutsche Welle",
@@ -2707,25 +2102,13 @@
           "IsFta": true
         },
         {
-          "Name": "Tarabiyat Radio",
-          "Package": "Medialooks",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Alfa Khalijiyat Radio",
-          "Package": "Medialooks",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Monawaat Radio",
-          "Package": "Medialooks",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
+          "Name": "SAT.TV - Hot Bird",
+          "Package": "FFmpeg",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
         },
         {
           "Name": "DW-A2",
@@ -2755,7 +2138,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11137,
+      "FrequencyMHz": 11137.2,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -2812,15 +2195,6 @@
           "Package": "Nilesat",
           "Languages": [
             "amh"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Sharm TV",
-          "Package": "Nilesat",
-          "Languages": [
-            "eng"
           ],
           "Type": "TV",
           "IsFta": true
@@ -2885,13 +2259,6 @@
           "IsFta": true
         },
         {
-          "Name": "Test",
-          "Package": "Nilesat",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
           "Name": "Alforat HD 1",
           "Package": "Nilesat",
           "Languages": [
@@ -2910,10 +2277,12 @@
           "IsFta": true
         },
         {
-          "Name": "Test",
+          "Name": "Sudan TV",
           "Package": "Nilesat",
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
           "IsFta": true
         },
         {
@@ -2921,15 +2290,6 @@
           "Package": "Nilesat",
           "Languages": [
             "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "ISC",
-          "Package": "Nilesat",
-          "Languages": [
-            "ara"
           ],
           "Type": "TV",
           "IsFta": true
@@ -3027,7 +2387,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11179,
+      "FrequencyMHz": 11178.7,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -3035,23 +2395,100 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Colorbars1",
+          "Name": "Eutelsat 1",
           "Package": "EUTELSAT",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "Colorbars",
+          "Name": "Eutelsat 2",
           "Package": "EUTELSAT",
           "Languages": [],
           "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Eutelsat 3",
+          "Package": "EUTELSAT",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Almerqab TV",
+          "Package": "Gulfsat",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Libya Hasad TV",
+          "Package": "Gulfsat",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Kafel TV",
+          "Package": "Gulfsat",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Libya Alkarama",
+          "Package": "Gulfsat",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ana Dejlah",
+          "Package": "Gulfsat",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "AmharaSat TV",
+          "Package": "Gulfsat",
+          "Languages": [
+            "amh"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al-Shahed TV HD",
+          "Package": "Gulfsat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Watan Palestine Radio",
+          "Package": "Gulfsat",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
           "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 11179,
+      "FrequencyMHz": 11178.7,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -3149,15 +2586,6 @@
           "IsFta": true
         },
         {
-          "Name": "Sudan Basic Education",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Tring Planet",
           "Package": "Nilesat",
           "Languages": [
@@ -3168,15 +2596,6 @@
         },
         {
           "Name": "Learning passport 2",
-          "Package": "Nilesat",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Sky News Arabia HD",
           "Package": "Nilesat",
           "Languages": [
             "ara"
@@ -3241,15 +2660,6 @@
           "IsFta": true
         },
         {
-          "Name": "New Libya",
-          "Package": "MY TV",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Bahrain HD",
           "Package": "MY TV",
           "Languages": [
@@ -3268,6 +2678,15 @@
           "IsFta": true
         },
         {
+          "Name": "Imam Ali Holy Shrine TV HD",
+          "Package": "MY TV",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Baghdad TV",
           "Package": "MY TV",
           "Languages": [
@@ -3277,27 +2696,11 @@
           "IsFta": true
         },
         {
-          "Name": "Al Libiya",
-          "Package": "MY TV",
+          "Name": "Libya Tripoli TV",
+          "Package": "Gulfsat",
           "Languages": [
             "ara"
           ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Libya Government TV",
-          "Package": "MY TV",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "ESAN TV",
-          "Package": "MY TV",
-          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -3666,6 +3069,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 12513.6,
+      "Polarization": "V",
+      "SymbolRateKs": 2600,
+      "Fec": "11/20",
+      "Standard": "DVB-S2X",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 12521.2,
       "Polarization": "H",
       "SymbolRateKs": 27500,
@@ -3710,7 +3122,7 @@
           "IsFta": true
         },
         {
-          "Name": "Al Jazeera Mubasher 2 HD",
+          "Name": "Al Jazeera 2 HD",
           "Package": "Al Jazeera",
           "Languages": [
             "ara"
@@ -3748,7 +3160,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12562,
+      "FrequencyMHz": 12562.7,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -3799,6 +3211,15 @@
           "IsFta": true
         },
         {
+          "Name": "Test HD",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
           "Name": "Iraqia Syriac HD",
           "Package": null,
           "Languages": [
@@ -3846,9 +3267,9 @@
       ]
     },
     {
-      "FrequencyMHz": 12568.2,
+      "FrequencyMHz": 12567.1,
       "Polarization": "V",
-      "SymbolRateKs": 3333,
+      "SymbolRateKs": 1250,
       "Fec": "1/2",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
@@ -3870,7 +3291,16 @@
       ]
     },
     {
-      "FrequencyMHz": 12576,
+      "FrequencyMHz": 12568.2,
+      "Polarization": "V",
+      "SymbolRateKs": 3333,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12576.2,
       "Polarization": "V",
       "SymbolRateKs": 1604,
       "Fec": "3/4",
@@ -3897,6 +3327,15 @@
     },
     {
       "FrequencyMHz": 12604,
+      "Polarization": "V",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12604.2,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -3929,29 +3368,46 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "beIN Sports Xtra 1 HD",
+          "Package": "beIN",
+          "Languages": [
+            "ara",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports Max 1 HD",
+          "Package": "beIN",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "beIN Sports Xtra 9",
+          "Package": "beIN",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 12604,
-      "Polarization": "V",
-      "SymbolRateKs": 27500,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12614.6,
+      "FrequencyMHz": 12614.9,
       "Polarization": "V",
       "SymbolRateKs": 2393,
-      "Fec": "1/3",
+      "Fec": "None",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "AUTO",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12620,
+      "FrequencyMHz": 12620.3,
       "Polarization": "V",
       "SymbolRateKs": 890,
       "Fec": "1/2",
@@ -3959,7 +3415,7 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "Radio Contact FR.",
+          "Name": "Radio Contact FR",
           "Package": "Radio Contact",
           "Languages": [
             "fra"
@@ -3968,7 +3424,7 @@
           "IsFta": true
         },
         {
-          "Name": "MAXIMUM.",
+          "Name": "MAXIMUM",
           "Package": "Radio Contact",
           "Languages": [
             "fra"
@@ -3977,7 +3433,7 @@
           "IsFta": true
         },
         {
-          "Name": "Bel RTL.",
+          "Name": "Bel RTL",
           "Package": "Radio Contact",
           "Languages": [
             "fra"
@@ -3988,22 +3444,32 @@
       ]
     },
     {
-      "FrequencyMHz": 12620.7,
+      "FrequencyMHz": 12621.2,
       "Polarization": "V",
-      "SymbolRateKs": 468,
+      "SymbolRateKs": 469,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12621.1,
-      "Polarization": "V",
-      "SymbolRateKs": 144,
-      "Fec": "2/3",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Radio1",
+          "Package": "Hitwest",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio2",
+          "Package": "Hitwest",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 12621.57,
@@ -4033,34 +3499,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12643.4,
-      "Polarization": "V",
-      "SymbolRateKs": 4200,
-      "Fec": "3/5",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12643.5,
-      "Polarization": "V",
-      "SymbolRateKs": 4200,
-      "Fec": "1/2",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12645,
-      "Polarization": "V",
-      "SymbolRateKs": 27500,
-      "Fec": "7/8",
-      "Standard": "DVB-S",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12646,
+      "FrequencyMHz": 12645.7,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "7/8",
@@ -4086,13 +3525,6 @@
           "IsFta": true
         },
         {
-          "Name": "Maan TV",
-          "Package": "Palsat",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Palestine LIVE",
           "Package": "Palsat",
           "Languages": [
@@ -4102,7 +3534,7 @@
           "IsFta": true
         },
         {
-          "Name": "PSC - Palestinian Satellite Channel",
+          "Name": "Palestine HD",
           "Package": "Palsat",
           "Languages": [
             "ara"
@@ -4112,20 +3544,31 @@
         },
         {
           "Name": "Awdeh",
-          "Package": "PALSAT",
-          "Languages": [],
+          "Package": "Palsat",
+          "Languages": [
+            "eng"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Palestine Sport",
           "Package": "Palsat",
-          "Languages": [],
+          "Languages": [
+            "eng"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Al Araby TV HD",
+          "Package": "Gulfsat",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Majestic Cinema",
           "Package": "Gulfsat",
           "Languages": [],
           "Type": "TV",
@@ -4144,7 +3587,7 @@
           "Name": "Moga Drama",
           "Package": "Gulfsat",
           "Languages": [
-            "ara"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": true
@@ -4168,6 +3611,15 @@
           "IsFta": true
         },
         {
+          "Name": "AlBeit Batek",
+          "Package": "Gulfsat",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Moga Comedy TV",
           "Package": "Gulfsat",
           "Languages": [
@@ -4180,7 +3632,7 @@
           "Name": "Moga Today",
           "Package": "Gulfsat",
           "Languages": [
-            "ara"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": true
@@ -4189,20 +3641,11 @@
           "Name": "Gulfsat",
           "Package": "Gulfsat",
           "Languages": [],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "Play Aflam",
-          "Package": "Gulfsat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Play Cinema",
+          "Name": "Fox Drama",
           "Package": "Gulfsat",
           "Languages": [
             "ara"
@@ -4211,16 +3654,7 @@
           "IsFta": true
         },
         {
-          "Name": "Play Drama",
-          "Package": "Gulfsat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Play Hekayat",
+          "Name": "Cairo Plus Cinema",
           "Package": "Gulfsat",
           "Languages": [
             "ara"
@@ -4229,44 +3663,110 @@
           "IsFta": true
         },
         {
-          "Name": "Play Today",
+          "Name": "Cairo Plus Drama",
           "Package": "Gulfsat",
-          "Languages": [],
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "West Elbalad Drama",
+          "Package": "Gulfsat",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Cairo Plus Alyoum",
+          "Package": "Gulfsat",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Majestic Drama",
+          "Package": "Gulfsat",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Majestic Classic",
+          "Package": "Gulfsat",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Majestic Aflam",
+          "Package": "Gulfsat",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Majestic Mosalsalat",
+          "Package": "Gulfsat",
+          "Languages": [
+            "ara"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Voice of Palestine",
           "Package": "Palsat",
-          "Languages": [],
+          "Languages": [
+            "ara"
+          ],
           "Type": "Radio",
           "IsFta": true
         },
         {
           "Name": "Palestine Quraan",
           "Package": "Palsat",
-          "Languages": [],
+          "Languages": [
+            "ara"
+          ],
           "Type": "Radio",
           "IsFta": true
         },
         {
           "Name": "Pal Quraan 2",
           "Package": "Palsat",
-          "Languages": [],
+          "Languages": [
+            "ara"
+          ],
           "Type": "Radio",
           "IsFta": true
         },
         {
           "Name": "Nablus Radio",
           "Package": "Palsat",
-          "Languages": [],
+          "Languages": [
+            "ara"
+          ],
           "Type": "Radio",
           "IsFta": true
         },
         {
           "Name": "Athan Tulkarem",
           "Package": "Palsat",
-          "Languages": [],
+          "Languages": [
+            "ara"
+          ],
           "Type": "Radio",
           "IsFta": true
         }
@@ -4361,7 +3861,9 @@
         {
           "Name": "Yemen Education TV",
           "Package": "MENASAT",
-          "Languages": [],
+          "Languages": [
+            "eng"
+          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -4377,9 +3879,7 @@
         {
           "Name": "Alyaum TV",
           "Package": "MENASAT",
-          "Languages": [
-            "eng"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -4394,7 +3894,7 @@
         },
         {
           "Name": "N\u00FB\u00E7e TV",
-          "Package": "IKOMG",
+          "Package": "MENASAT",
           "Languages": [
             "kur"
           ],
@@ -4411,32 +3911,7 @@
           "IsFta": true
         },
         {
-          "Name": "I24 News Arabic",
-          "Package": "MENASAT",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Erisat",
-          "Package": "MENASAT",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Anewz",
-          "Package": "IKOMG",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "AlShaoub TV",
+          "Name": "Al Watania 24",
           "Package": "MENASAT",
           "Languages": [
             "ara"
@@ -4445,9 +3920,29 @@
           "IsFta": true
         },
         {
+          "Name": "Parole di Vita",
+          "Package": "MENASAT",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Anewz",
+          "Package": "MENASAT",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Alqanat 9",
           "Package": "MENASAT",
-          "Languages": [],
+          "Languages": [
+            "ara"
+          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -4465,6 +3960,15 @@
             "ara"
           ],
           "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio 21 September",
+          "Package": "MENASAT",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
           "IsFta": true
         },
         {
@@ -4495,17 +3999,35 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12729,
+      "FrequencyMHz": 12728.7,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
-      "Standard": "DVB-S2",
+      "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
         {
           "Name": "Nilesat Promo HD",
           "Package": "Nilesat",
           "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Test",
+          "Package": "Nilesat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Nilesat Promo HD",
+          "Package": "Nilesat",
+          "Languages": [
+            "eng"
+          ],
           "Type": "TV",
           "IsFta": true
         }

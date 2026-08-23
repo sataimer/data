@@ -29,7 +29,16 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10716,
+      "FrequencyMHz": 10706.2,
+      "Polarization": "V",
+      "SymbolRateKs": 7501,
+      "Fec": "8/9",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10715.9,
       "Polarization": "H",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -102,104 +111,13 @@
       ]
     },
     {
-      "FrequencyMHz": 10717,
+      "FrequencyMHz": 10716.4,
       "Polarization": "V",
       "SymbolRateKs": 5400,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSKStream",
       "Channels": []
-    },
-    {
-      "FrequencyMHz": 10747,
-      "Polarization": "H",
-      "SymbolRateKs": 25000,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "TV 2 Sport Premium HD",
-          "Package": "Allente",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV 2 Sport Premium 2 HD",
-          "Package": "Allente",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV 2 Sport HD 1",
-          "Package": "Allente",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV 2 Zebra HD",
-          "Package": "Allente",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV 2 Livsstil HD",
-          "Package": "Allente",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV 2 HD",
-          "Package": "Allente",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV 2 Sport 2 HD",
-          "Package": "Allente",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV 2 Nyhetskanalen HD",
-          "Package": "Allente",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV2 Direkte Tekst h\u00F8rselshem.",
-          "Package": "Allente",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
     },
     {
       "FrequencyMHz": 10747,
@@ -626,7 +544,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10778,
+      "FrequencyMHz": 10747.3,
       "Polarization": "H",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -634,66 +552,84 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "TV4 Motor HD",
+          "Name": "TV 2 Sport Premium HD",
           "Package": "Allente",
           "Languages": [
-            "swe"
+            "nor"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TV4 Sportkanalen HD",
+          "Name": "TV 2 Sport Premium 2 HD",
           "Package": "Allente",
           "Languages": [
-            "swe"
+            "nor"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TV4 Live 4 HD",
+          "Name": "TV 2 Sport HD 1",
           "Package": "Allente",
           "Languages": [
-            "swe"
+            "nor"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "Horse and Country",
+          "Name": "TV 2 Zebra HD",
           "Package": "Allente",
           "Languages": [
-            "eng"
+            "nor"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TV4 Live 2 HD",
+          "Name": "TV 2 Livsstil HD",
           "Package": "Allente",
           "Languages": [
-            "swe"
+            "nor"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TV4 Live 3 HD",
+          "Name": "TV 2 HD",
           "Package": "Allente",
           "Languages": [
-            "swe"
+            "nor"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TV4 Live 4 HD",
+          "Name": "TV 2 Sport 2 HD",
           "Package": "Allente",
           "Languages": [
-            "swe"
+            "nor"
           ],
           "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV 2 Nyhetskanalen HD",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV2 Direkte Tekst h\u00F8rselshem.",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Unknown",
           "IsFta": false
         }
       ]
@@ -844,7 +780,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10809,
+      "FrequencyMHz": 10778.3,
       "Polarization": "H",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -852,16 +788,34 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Mezzo Live HD",
+          "Name": "TV4 Motor HD",
           "Package": "Allente",
           "Languages": [
-            "fra"
+            "swe"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "V Sport Premier League HD",
+          "Name": "TV4 Sportkanalen HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV4 Live 4 HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Horse and Country",
           "Package": "Allente",
           "Languages": [
             "eng"
@@ -870,65 +824,28 @@
           "IsFta": false
         },
         {
-          "Name": "V Sport Premier League 1 HD",
+          "Name": "TV4 Live 2 HD",
           "Package": "Allente",
           "Languages": [
-            "eng"
+            "swe"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "V Sport Premier League 2 HD",
+          "Name": "TV4 Live 3 HD",
           "Package": "Allente",
           "Languages": [
-            "eng"
+            "swe"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "V Sport Premier League 3 HD",
+          "Name": "TV4 Live 4 HD",
           "Package": "Allente",
           "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "V Sport Premier League 4 HD",
-          "Package": "Allente",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "V Sport 1 HD Sweden",
-          "Package": "Allente",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "V Sport Vinter HD",
-          "Package": "Allente",
-          "Languages": [
-            "swe",
-            "fin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Kuukauden kanava",
-          "Package": "Allente",
-          "Languages": [
-            "fra"
+            "swe"
           ],
           "Type": "TV",
           "IsFta": false
@@ -936,7 +853,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10809,
+      "FrequencyMHz": 10809.4,
       "Polarization": "V",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -1027,6 +944,15 @@
           "IsFta": false
         },
         {
+          "Name": "V Sport 2 HD",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "TV6 HD Sweden",
           "Package": "Allente",
           "Languages": [
@@ -1038,7 +964,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10841,
+      "FrequencyMHz": 10809.7,
       "Polarization": "H",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -1046,14 +972,97 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "TV 2 Nord",
+          "Name": "Mezzo Live HD",
           "Package": "Allente",
           "Languages": [
-            "den"
+            "fra"
           ],
           "Type": "TV",
           "IsFta": false
         },
+        {
+          "Name": "V Sport Premier League HD",
+          "Package": "Allente",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport Premier League 1 HD",
+          "Package": "Allente",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport Premier League 2 HD",
+          "Package": "Allente",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport Premier League 3 HD",
+          "Package": "Allente",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport Premier League 4 HD",
+          "Package": "Allente",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport 1 HD Sweden",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport Vinter HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "fin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport 1 HD Sweden",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10840.9,
+      "Polarization": "H",
+      "SymbolRateKs": 25000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
         {
           "Name": "TV 2 Midt-Vest",
           "Package": "Allente",
@@ -1165,16 +1174,25 @@
       ]
     },
     {
-      "FrequencyMHz": 10841,
+      "FrequencyMHz": 10841.3,
       "Polarization": "V",
-      "SymbolRateKs": 24499,
-      "Fec": "4/5",
+      "SymbolRateKs": 24500,
+      "Fec": "8/9",
       "Standard": "DVB-S2",
       "Modulation": "16APSK",
       "Channels": []
     },
     {
       "FrequencyMHz": 10872,
+      "Polarization": "V",
+      "SymbolRateKs": 25000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10872.3,
       "Polarization": "H",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -1265,16 +1283,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10872,
-      "Polarization": "V",
-      "SymbolRateKs": 25000,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10903,
+      "FrequencyMHz": 10903.3,
       "Polarization": "H",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -1359,7 +1368,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10903,
+      "FrequencyMHz": 10903.5,
       "Polarization": "V",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -1476,129 +1485,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10934,
-      "Polarization": "H",
-      "SymbolRateKs": 25000,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "TV4 Tennis HD",
-          "Package": "Allente",
-          "Languages": [
-            "swe"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV4 HD",
-          "Package": "Allente",
-          "Languages": [
-            "swe"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV Viihde HD",
-          "Package": "Allente",
-          "Languages": [
-            "swe",
-            "fin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV Aitio HD",
-          "Package": "Allente",
-          "Languages": [
-            "swe",
-            "fin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV4 Hits HD",
-          "Package": "Allente",
-          "Languages": [
-            "swe",
-            "den",
-            "nor"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TV4 Stars HD",
-          "Package": "Allente",
-          "Languages": [
-            "swe",
-            "den",
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "SF Kanalen",
-          "Package": "Allente",
-          "Languages": [
-            "swe",
-            "den",
-            "nor",
-            "fin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sub TV",
-          "Package": "Allente",
-          "Languages": [
-            "fin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Stars HD",
-          "Package": "Allente",
-          "Languages": [
-            "swe",
-            "den",
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Hits HD",
-          "Package": "Allente",
-          "Languages": [
-            "swe",
-            "den",
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV4 Text h\u00F6rselskadade",
-          "Package": "Allente",
-          "Languages": [
-            "swe"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 10934,
+      "FrequencyMHz": 10934.4,
       "Polarization": "V",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -1725,12 +1612,134 @@
       ]
     },
     {
-      "FrequencyMHz": 10974.6,
-      "Polarization": "V",
-      "SymbolRateKs": 7200,
+      "FrequencyMHz": 10934.7,
+      "Polarization": "H",
+      "SymbolRateKs": 25000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "TV4 Tennis HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV4 HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV Viihde HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "fin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MTV Aitio HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "fin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV4 Hits HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "den",
+            "nor"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TV4 Stars HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "den",
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "SF Kanalen",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "den",
+            "nor",
+            "fin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sub TV",
+          "Package": "Allente",
+          "Languages": [
+            "fin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Stars HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "den",
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hits HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "den",
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV4 Text h\u00F6rselskadade",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 10970,
+      "Polarization": "V",
+      "SymbolRateKs": 15000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {
@@ -1754,10 +1763,10 @@
     {
       "FrequencyMHz": 10987,
       "Polarization": "V",
-      "SymbolRateKs": 5632,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "SymbolRateKs": 15000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {
@@ -1779,13 +1788,32 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11043.2,
+      "FrequencyMHz": 11041.8,
       "Polarization": "V",
-      "SymbolRateKs": 7486,
-      "Fec": "3/4",
+      "SymbolRateKs": 4100,
+      "Fec": "5/6",
       "Standard": "DVB-S2",
-      "Modulation": "16APSK",
-      "Channels": []
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Romania TV",
+          "Package": "Romania TV",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Romania TV",
+          "Package": "Romania TV",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 11046.8,
@@ -1797,10 +1825,10 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11049.4,
+      "FrequencyMHz": 11049.7,
       "Polarization": "V",
       "SymbolRateKs": 3500,
-      "Fec": "1/2",
+      "Fec": "None",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": []
@@ -1836,9 +1864,9 @@
       "FrequencyMHz": 11072.7,
       "Polarization": "V",
       "SymbolRateKs": 7021,
-      "Fec": "3/4",
+      "Fec": "1/2",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -1848,6 +1876,15 @@
       "Fec": "8/9",
       "Standard": "DVB-S2",
       "Modulation": "16APSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11102.7,
+      "Polarization": "V",
+      "SymbolRateKs": 592,
+      "Fec": "4/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -1887,12 +1924,21 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11144.6,
+      "Polarization": "V",
+      "SymbolRateKs": 1091,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11146.4,
       "Polarization": "V",
       "SymbolRateKs": 2727,
-      "Fec": "2/3",
+      "Fec": "1/2",
       "Standard": "DVB-S2",
-      "Modulation": "16APSK",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -1933,6 +1979,15 @@
     },
     {
       "FrequencyMHz": 11181.8,
+      "Polarization": "H",
+      "SymbolRateKs": 5625,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11181.8,
       "Polarization": "V",
       "SymbolRateKs": 5625,
       "Fec": "3/4",
@@ -1944,9 +1999,9 @@
       "FrequencyMHz": 11181.8,
       "Polarization": "V",
       "SymbolRateKs": 5625,
-      "Fec": "8/9",
+      "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "16APSKStream",
+      "Modulation": "32APSKStream",
       "Channels": []
     },
     {
@@ -1977,7 +2032,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11216,
+      "FrequencyMHz": 11215.9,
       "Polarization": "V",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -2263,7 +2318,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11229,
+      "FrequencyMHz": 11228.9,
       "Polarization": "H",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -2379,7 +2434,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11247,
+      "FrequencyMHz": 11247.3,
       "Polarization": "V",
       "SymbolRateKs": 24500,
       "Fec": "7/8",
@@ -2470,7 +2525,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11261,
+      "FrequencyMHz": 11261.1,
       "Polarization": "H",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -2598,7 +2653,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11278,
+      "FrequencyMHz": 11278.3,
       "Polarization": "V",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -2671,6 +2726,15 @@
         },
         {
           "Name": "BBC News",
+          "Package": "Allente",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kuukauden kanava",
           "Package": "Allente",
           "Languages": [
             "eng"
@@ -2852,7 +2916,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11309,
+      "FrequencyMHz": 11309.7,
       "Polarization": "V",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -3014,7 +3078,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11325,
+      "FrequencyMHz": 11325.3,
       "Polarization": "H",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -3034,7 +3098,7 @@
           "Name": "Freedom",
           "Package": "Telenor",
           "Languages": [
-            "ukr"
+            "rus"
           ],
           "Type": "TV",
           "IsFta": true
@@ -3053,15 +3117,6 @@
           "Package": "Allente",
           "Languages": [
             "den"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV 80s",
-          "Package": "Allente",
-          "Languages": [
-            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -3117,15 +3172,6 @@
           "IsFta": false
         },
         {
-          "Name": "MTV 00s",
-          "Package": "Allente",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Nick Jr Nordic",
           "Package": "Allente",
           "Languages": [
@@ -3149,13 +3195,37 @@
       ]
     },
     {
-      "FrequencyMHz": 11341,
+      "FrequencyMHz": 11340.9,
       "Polarization": "V",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
+        {
+          "Name": "V Classics HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "nor",
+            "den",
+            "fin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Crime HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "nor",
+            "den",
+            "fin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
         {
           "Name": "TV 2 Nord",
           "Package": "Allente",
@@ -3166,13 +3236,52 @@
           "IsFta": false
         },
         {
-          "Name": "Godare",
+          "Name": "K\u00F6ket",
           "Package": "Allente",
           "Languages": [
             "swe"
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "K\u00F6ket",
+          "Package": "Allente",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Test 13115",
+          "Package": "Allente",
+          "Languages": [
+            "nor",
+            "swe",
+            "den",
+            "fin"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Test 13116",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "den",
+            "nor"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "P4 Lyden av Norge",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
         }
       ]
     },
@@ -3186,7 +3295,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11372,
+      "FrequencyMHz": 11372.3,
       "Polarization": "V",
       "SymbolRateKs": 25000,
       "Fec": "3/4",
@@ -3314,7 +3423,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11389,
+      "FrequencyMHz": 11389.6,
       "Polarization": "H",
       "SymbolRateKs": 24500,
       "Fec": "7/8",
@@ -3338,15 +3447,6 @@
           ],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "Rikstoto Direkte HD",
-          "Package": "Allente",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
         },
         {
           "Name": "Visjon Norge HD",
@@ -3419,15 +3519,6 @@
           ],
           "Type": "Radio",
           "IsFta": true
-        },
-        {
-          "Name": "P4 Digital",
-          "Package": "Telenor",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "Radio",
-          "IsFta": true
         }
       ]
     },
@@ -3435,9 +3526,9 @@
       "FrequencyMHz": 11403.1,
       "Polarization": "V",
       "SymbolRateKs": 26500,
-      "Fec": "5/6",
+      "Fec": "4/15",
       "Standard": "DVB-S2X",
-      "Modulation": "32APSK",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {
@@ -3462,22 +3553,13 @@
       "FrequencyMHz": 11445.6,
       "Polarization": "V",
       "SymbolRateKs": 4286,
-      "Fec": "3/5",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Fec": "None",
+      "Standard": "DVB-S2X",
+      "Modulation": "64APSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11463,
-      "Polarization": "V",
-      "SymbolRateKs": 6111,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11463.6,
+      "FrequencyMHz": 11463.8,
       "Polarization": "V",
       "SymbolRateKs": 7200,
       "Fec": "3/4",
@@ -3486,21 +3568,21 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11471,
+      "FrequencyMHz": 11470.9,
       "Polarization": "V",
-      "SymbolRateKs": 9875,
+      "SymbolRateKs": 4938,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11473,
+      "FrequencyMHz": 11472.5,
       "Polarization": "V",
-      "SymbolRateKs": 6111,
+      "SymbolRateKs": 7500,
       "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -3531,12 +3613,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11502,
+      "FrequencyMHz": 11499.6,
       "Polarization": "V",
-      "SymbolRateKs": 3200,
-      "Fec": "7/8",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -3668,10 +3750,10 @@
     {
       "FrequencyMHz": 11675,
       "Polarization": "V",
-      "SymbolRateKs": 3207,
+      "SymbolRateKs": 7200,
       "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -3684,7 +3766,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11727,
+      "FrequencyMHz": 11727.8,
       "Polarization": "V",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -3826,7 +3908,7 @@
         },
         {
           "Name": "JimJam",
-          "Package": "Direct OneFocus Sat",
+          "Package": "Direct One",
           "Languages": [
             "hun",
             "eng"
@@ -3874,7 +3956,7 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Family",
+          "Name": "Filmbox\u002B Comedy Hungary \u0026 Romania",
           "Package": "Direct OneFocus Sat",
           "Languages": [
             "hun",
@@ -3998,10 +4080,12 @@
           "IsFta": false
         },
         {
-          "Name": "Fashion TV",
+          "Name": "Nickelodeon Czech",
           "Package": "Telly",
           "Languages": [
-            "slk"
+            "cze",
+            "eng",
+            "hun"
           ],
           "Type": "TV",
           "IsFta": false
@@ -4122,150 +4206,13 @@
       "FrequencyMHz": 11766,
       "Polarization": "V",
       "SymbolRateKs": 28000,
-      "Fec": "7/8",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Filmbox Family",
-          "Package": "Direct OneFocus Sat",
-          "Languages": [
-            "hun",
-            "cze",
-            "slk",
-            "rom"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Film \u002B",
-          "Package": "Digi TVDirect OneFocus Sat",
-          "Languages": [
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Film Caf\u00E9",
-          "Package": "Focus Sat",
-          "Languages": [
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Film \u002B Czechia \u0026 Slovakia",
-          "Package": "Focus Sat",
-          "Languages": [
-            "cze"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "RTL Hungary",
-          "Package": "Focus Sat",
-          "Languages": [
-            "hun",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV 2 (Hungary)",
-          "Package": "Focus Sat",
-          "Languages": [
-            "hun",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Minimax Hungary",
-          "Package": "Focus Sat",
-          "Languages": [
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Filmbox Stars",
-          "Package": "Direct OneFocus Sat",
-          "Languages": [
-            "hun",
-            "cze",
-            "rom",
-            "slk"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nat Geo Wild HD Czech",
-          "Package": "Focus SatTelly",
-          "Languages": [
-            "eng",
-            "cze",
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Spiler TV",
-          "Package": "Focus Sat",
-          "Languages": [
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Cool TV",
-          "Package": "Focus Sat",
-          "Languages": [
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Cool (SVT)",
-          "Package": "Telly",
-          "Languages": [
-            "hun"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Film \u002B CZE ( SVT)",
-          "Package": "Telly",
-          "Languages": [
-            "cze"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Film Cafe",
-          "Package": "Direct OneFocus Sat",
-          "Languages": [
-            "hun"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "AUTO",
+      "Channels": []
     },
     {
-      "FrequencyMHz": 11785,
+      "FrequencyMHz": 11785.3,
       "Polarization": "H",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -4449,16 +4396,16 @@
       ]
     },
     {
-      "FrequencyMHz": 11804,
+      "FrequencyMHz": 11804.3,
       "Polarization": "V",
-      "SymbolRateKs": 30000,
+      "SymbolRateKs": 28000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "AUTO",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11823,
+      "FrequencyMHz": 11823.7,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "5/6",
@@ -4510,6 +4457,24 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "TVR Info",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TVR Cultural",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": true
         }
       ]
     },
@@ -4520,10 +4485,111 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "V Sport Motor HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV3 HD (S)",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TV 8 Sweden HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV 10 Sweden HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport premium HD Sweden",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "fin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV3\u002B HD Norge",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport Extra HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV8 HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TV10 HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TV 3 HD Sverige",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV3 Text h\u00F6rselskadade",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
     },
     {
-      "FrequencyMHz": 11862,
+      "FrequencyMHz": 11862.1,
       "Polarization": "H",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -4575,15 +4641,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "Speranta TV",
-          "Package": "DIGI",
-          "Languages": [
-            "rom"
-          ],
-          "Type": "TV",
-          "IsFta": true
         },
         {
           "Name": "Acas\u00E1 TV",
@@ -4651,7 +4708,16 @@
           "IsFta": false
         },
         {
-          "Name": "TVR Info",
+          "Name": "Superone",
+          "Package": "Digi TVDirect OneFocus Sat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Pro TV International",
           "Package": "Digi TVFocus Sat",
           "Languages": [
             "rom"
@@ -4784,13 +4850,13 @@
       "FrequencyMHz": 11895,
       "Polarization": "V",
       "SymbolRateKs": 4715,
-      "Fec": "1/4",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSKStream",
+      "Fec": "3/4",
+      "Standard": "DVB-S2X",
+      "Modulation": "16APSKStream",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11900,
+      "FrequencyMHz": 11900.3,
       "Polarization": "H",
       "SymbolRateKs": 28000,
       "Fec": "5/6",
@@ -4805,15 +4871,6 @@
           ],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "TVR Cultural",
-          "Package": "Digi TVFocus Sat",
-          "Languages": [
-            "rom"
-          ],
-          "Type": "TV",
-          "IsFta": false
         },
         {
           "Name": "Fishing \u0026 Hunting",
@@ -4947,6 +5004,16 @@
           "IsFta": false
         },
         {
+          "Name": "HGTV",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "eng",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "SWDL 3169",
           "Package": "DigiTV",
           "Languages": [
@@ -5062,7 +5129,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11919,
+      "FrequencyMHz": 11919.6,
       "Polarization": "V",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -5137,16 +5204,6 @@
           "Languages": [
             "rom",
             "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CBS Reality Romania",
-          "Package": "Focus Sat",
-          "Languages": [
-            "cze",
-            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -5285,7 +5342,7 @@
         },
         {
           "Name": "National Geographic",
-          "Package": "Direct OneFocus Sat",
+          "Package": "Direct One",
           "Languages": [
             "hun",
             "cze",
@@ -5351,13 +5408,6 @@
           "IsFta": false
         },
         {
-          "Name": "CBS Reality ROM.",
-          "Package": "Digi TV",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
           "Name": "M5 (SVT)",
           "Package": "Telly",
           "Languages": [
@@ -5417,7 +5467,7 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Stars",
+          "Name": "Filmbox\u002B Love \u0026 Crime",
           "Package": "Direct OneFocus Sat",
           "Languages": [
             "hun",
@@ -5447,7 +5497,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11938,
+      "FrequencyMHz": 11938.8,
       "Polarization": "H",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -5572,10 +5622,9 @@
           "IsFta": false
         },
         {
-          "Name": "FilmBox Basic",
+          "Name": "Filmbox\u002B One Romania",
           "Package": "Focus Sat",
           "Languages": [
-            "hun",
             "eng",
             "bul"
           ],
@@ -5583,7 +5632,7 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Premium Romania",
+          "Name": "Filmbox\u002B Hits Romania",
           "Package": "Focus Sat",
           "Languages": [
             "eng"
@@ -5619,10 +5668,9 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox.",
+          "Name": "FILMBOX\u002B One RO.",
           "Package": "Focus Sat",
           "Languages": [
-            "hun",
             "eng",
             "bul"
           ],
@@ -5770,7 +5818,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11958,
+      "FrequencyMHz": 11957.9,
       "Polarization": "V",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -5844,27 +5892,6 @@
           "IsFta": false
         },
         {
-          "Name": "Minimax Czechia",
-          "Package": "Focus Sat",
-          "Languages": [
-            "hun",
-            "cze",
-            "slk"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Spektrum Home",
-          "Package": "Focus Sat",
-          "Languages": [
-            "cze",
-            "slk"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "RTL Ketto",
           "Package": "Digi TVFocus Sat",
           "Languages": [
@@ -5896,15 +5923,6 @@
           "Package": "Digi TVDirect OneFocus Sat",
           "Languages": [
             "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Music Euro",
-          "Package": "Focus Sat",
-          "Languages": [
-            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -6040,27 +6058,6 @@
           "IsFta": false
         },
         {
-          "Name": "Minimax (SVT)",
-          "Package": "Telly",
-          "Languages": [
-            "hun",
-            "cze",
-            "slk"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Spektrum Home (SVT)",
-          "Package": "Telly",
-          "Languages": [
-            "cze",
-            "slk"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
           "Name": "ATV Extra",
           "Package": "Focus Sat",
           "Languages": [
@@ -6122,11 +6119,31 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "BBC Earth Hungary",
+          "Package": "Focus Sat",
+          "Languages": [
+            "hun",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "BBC Earth HU.",
+          "Package": "Direct One",
+          "Languages": [
+            "hun",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 11977,
+      "FrequencyMHz": 11977.1,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -6218,7 +6235,7 @@
           "IsFta": false
         },
         {
-          "Name": "FilmBox Premium HD",
+          "Name": "Filmbox\u002B Hits Czech",
           "Package": "Focus SatTelly",
           "Languages": [
             "cze"
@@ -6292,7 +6309,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11996,
+      "FrequencyMHz": 11996.3,
       "Polarization": "V",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -6591,12 +6608,12 @@
           "IsFta": false
         },
         {
-          "Name": "Test",
+          "Name": "Film Mania Romania",
           "Package": "Focus Sat",
           "Languages": [
-            "qad"
+            "rom"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         }
       ]
@@ -6616,11 +6633,11 @@
       "SymbolRateKs": 30000,
       "Fec": "2/3",
       "Standard": "DVB-S2X",
-      "Modulation": "16APSKStream",
+      "Modulation": "8PSKStream",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12034,
+      "FrequencyMHz": 12034.7,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -6631,18 +6648,18 @@
           "Name": "Nat Geo Wild Romania HD",
           "Package": "Focus Sat",
           "Languages": [
-            "rom"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "M2 HD",
+          "Name": "M2/Petofi TV HD",
           "Package": "Digi TVDirect OneFocus Sat",
           "Languages": [
             "hun"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -6665,7 +6682,7 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Premium Hungary",
+          "Name": "Filmbox\u002B Hits Hungary",
           "Package": "Direct OneFocus Sat",
           "Languages": [
             "hun"
@@ -6680,6 +6697,16 @@
             "hun",
             "eng",
             "qad"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTL Ketto HD",
+          "Package": "Focus SatTelly",
+          "Languages": [
+            "hun",
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -6716,6 +6743,16 @@
           "IsFta": false
         },
         {
+          "Name": "RTL Harom HD",
+          "Package": "Direct OneFocus Sat",
+          "Languages": [
+            "hun",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "HBO HD Romania",
           "Package": "Focus Sat",
           "Languages": [
@@ -6735,22 +6772,12 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Extra HD Hungary",
+          "Name": "Filmbox\u002B Emotion Hungary",
           "Package": "Direct OneFocus Sat",
-          "Languages": [
-            "hun",
-            "cze"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "M2 HD (SVT)",
-          "Package": "Telly",
           "Languages": [
             "hun"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -6774,28 +6801,6 @@
           "IsFta": false
         },
         {
-          "Name": "TV2 HD (SVT)",
-          "Package": "Telly",
-          "Languages": [
-            "hun",
-            "eng",
-            "qad"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Love Nature HD (PS)",
-          "Package": "M7",
-          "Languages": [
-            "eng",
-            "cze",
-            "hun"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
           "Name": "Nat Geo Wild HD Czech",
           "Package": "Focus SatTelly",
           "Languages": [
@@ -6809,7 +6814,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12054,
+      "FrequencyMHz": 12053.8,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -6945,305 +6950,214 @@
       "Fec": "7/8",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Nick Jr Czech",
-          "Package": "Focus SatTelly",
-          "Languages": [
-            "cze",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Jr Romania",
-          "Package": "Digi TVFocus Sat",
-          "Languages": [
-            "hun",
-            "eng",
-            "rom"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nickelodeon Czech",
-          "Package": "Focus SatTelly",
-          "Languages": [
-            "cze",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TeenNick Hungary",
-          "Package": "Focus Sat",
-          "Languages": [
-            "hun",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nickelodeon Hungary",
-          "Package": "Focus SatTelly",
-          "Languages": [
-            "hun",
-            "eng",
-            "slo",
-            "ser",
-            "est",
-            "rus",
-            "tur"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Jr Hungary",
-          "Package": "Focus SatTelly",
-          "Languages": [
-            "hun",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TeenNick Romania",
-          "Package": "Digi TVFocus Sat",
-          "Languages": [
-            "hun",
-            "rom"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nickelodeon Romania",
-          "Package": "Digi TVFocus Sat",
-          "Languages": [
-            "rom",
-            "eng",
-            "hun",
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nicktoons Romania",
-          "Package": "Digi TVFocus Sat",
-          "Languages": [
-            "rom",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nicktoons Hungary",
-          "Package": "Focus Sat",
-          "Languages": [
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nickelodeon HD",
-          "Package": "Focus Sat",
-          "Languages": [
-            "cro",
-            "eng",
-            "rus",
-            "tur"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nicktoons Czech",
-          "Package": "Focus Sat",
-          "Languages": [
-            "cze",
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Paramount Channel Hungary \u0026 Romania",
-          "Package": "Focus Sat",
-          "Languages": [
-            "eng",
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Jr Czech (SVT)",
-          "Package": "Telly",
-          "Languages": [
-            "cze",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Jr Romania.",
-          "Package": "Digi TV",
-          "Languages": [
-            "hun",
-            "eng",
-            "rom"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nickelodeon Czech (SVT)",
-          "Package": "Telly",
-          "Languages": [
-            "cze",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TeenNick Hungary.",
-          "Package": "Direct One",
-          "Languages": [
-            "hun",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nickelodeon Hungary ( SVT)",
-          "Package": "Telly",
-          "Languages": [
-            "hun",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Jr Hungary (SVT)",
-          "Package": "Telly",
-          "Languages": [
-            "hun",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TeenNick Romania.",
-          "Package": "Digi TV",
-          "Languages": [
-            "hun",
-            "rom"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nickelodeon Romania.",
-          "Package": "Digi TV",
-          "Languages": [
-            "rom",
-            "eng",
-            "hun"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Jr Czech (ENG)",
-          "Package": "M7",
-          "Languages": [
-            "cze",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nicktoons CZ (SVT)",
-          "Package": "Focus SatTelly",
-          "Languages": [
-            "cze",
-            "hun"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nickelodeon Hungary.",
-          "Package": "Direct One",
-          "Languages": [
-            "hun",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Jr Hungary.",
-          "Package": "Direct One",
-          "Languages": [
-            "hun",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nicktoons Romania.",
-          "Package": "Digi TV",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nicktoons Hungary.",
-          "Package": "Direct One",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Paramount Channel Hungary \u0026 Romania",
-          "Package": "Direct One",
-          "Languages": [
-            "eng",
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
-      "FrequencyMHz": 12092,
+      "FrequencyMHz": 12092.3,
       "Polarization": "H",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "B1 TV",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Digi Sport 1",
+          "Package": "Digi TV",
+          "Languages": [
+            "rom",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Digi 24",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hora TV",
+          "Package": "Digi TV",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Pro Cinema",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Acas\u00E1 TV",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Acas\u00E1 Gold HD",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cartoon Network Romania",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom",
+            "hun",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Romania TV",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Pro TV",
+          "Package": "Digi TV",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanal D Romania",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Diva Universal Romania",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Superone",
+          "Package": "Digi TVDirect OneFocus Sat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Pro TV International",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Film Now",
+          "Package": "Digi TV",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "DIGI Animal World",
+          "Package": "Digi TV",
+          "Languages": [
+            "rom",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Radio Vocea Sperantei",
+          "Package": "DIGI",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Kiss FM",
+          "Package": "DIGI",
+          "Languages": [
+            "rom"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "HDT1169",
+          "Package": "DigiTV",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "SW DL JS21",
+          "Package": "DIGI",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "SWDL NA9240",
+          "Package": "DigiTV",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "SW DL Digi\u002B2",
+          "Package": "DigiTV",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        }
+      ]
     },
     {
-      "FrequencyMHz": 12111,
+      "FrequencyMHz": 12111.3,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -7370,12 +7284,12 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Stars CZ",
+          "Name": "Filmbox\u002B Love \u0026 Crime Czech",
           "Package": "Focus Sat",
           "Languages": [
             "cze"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -7437,12 +7351,12 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Stars",
+          "Name": "FILMBOX\u002B Love \u0026 Crime CZ (SVT)",
           "Package": "Telly",
           "Languages": [
             "cze"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -7508,7 +7422,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12130,
+      "FrequencyMHz": 12130.6,
       "Polarization": "H",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -7525,7 +7439,7 @@
           "IsFta": false
         },
         {
-          "Name": "FilmBox Extra",
+          "Name": "Filmbox\u002B Emotion Hungary",
           "Package": "AllenteDigi TVDirect OneFocus Sat",
           "Languages": [
             "hun"
@@ -7641,20 +7555,11 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "Life TV Hungary",
-          "Package": "AllenteDirect OneFocus Sat",
-          "Languages": [
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 12149,
+      "FrequencyMHz": 12149.7,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -7669,27 +7574,6 @@
             "slk"
           ],
           "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Arena Sport 1 HD",
-          "Package": "Focus Sat",
-          "Languages": [
-            "slk"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "History HD Europe",
-          "Package": "Focus Sat",
-          "Languages": [
-            "hun",
-            "cze",
-            "eng",
-            "slk"
-          ],
-          "Type": "TV",
           "IsFta": false
         },
         {
@@ -7709,15 +7593,6 @@
             "slk"
           ],
           "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CNBC Europe",
-          "Package": "Focus Sat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
           "IsFta": false
         },
         {
@@ -7748,16 +7623,7 @@
           "IsFta": false
         },
         {
-          "Name": "Paramount Network Czech",
-          "Package": "Focus Sat",
-          "Languages": [
-            "cze"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "FilmBox Baltic",
+          "Name": "Filmbox\u002B One Czech",
           "Package": "Focus SatTelly",
           "Languages": [
             "cze"
@@ -7767,7 +7633,7 @@
         },
         {
           "Name": "TV Paprika CZ/SK",
-          "Package": "Focus Sat",
+          "Package": "Focus SatTelly",
           "Languages": [
             "cze"
           ],
@@ -7847,20 +7713,214 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "Spektrum Home",
+          "Package": "Focus Sat",
+          "Languages": [
+            "cze",
+            "slk"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Minimax Czechia",
+          "Package": "Focus Sat",
+          "Languages": [
+            "hun",
+            "cze",
+            "slk"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Spektrum Home (SVT)",
+          "Package": "Telly",
+          "Languages": [
+            "cze",
+            "slk"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Minimax (SVT)",
+          "Package": "Telly",
+          "Languages": [
+            "hun",
+            "cze",
+            "slk"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "M4",
+          "Package": "Focus Sat",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "m5",
+          "Package": "Focus Sat",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 12169,
+      "FrequencyMHz": 12169.3,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Visjon Norge HD",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal 10 Norge HD",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Vision Sverige",
+          "Package": "Telenor",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Bedehuskanalen",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kanal 10 Sweden HD",
+          "Package": "Telenor",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Sverigekanalen",
+          "Package": "Telenor",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Jazeera English",
+          "Package": "Telenor",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CGTN HD",
+          "Package": "Telenor",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CGTN Documentary HD",
+          "Package": "Telenor",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "GOD Europe",
+          "Package": "Telenor",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TOPP 40",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Vinyl",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Rock",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Norge",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BEST FM",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
     },
     {
-      "FrequencyMHz": 12188,
+      "FrequencyMHz": 12188.1,
       "Polarization": "V",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -7998,7 +8058,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12226,
+      "FrequencyMHz": 12226.5,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -8007,7 +8067,7 @@
       "Channels": [
         {
           "Name": "Nickelodeon HD",
-          "Package": "Paramount",
+          "Package": null,
           "Languages": [
             "eng",
             "cro",
@@ -8020,30 +8080,7 @@
           "Name": "Comedy Central Romania",
           "Package": "Digi TVFocus Sat",
           "Languages": [
-            "rom",
             "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Comedy Central Hungary",
-          "Package": "Digi TVDirect OneFocus SatTelly",
-          "Languages": [
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick toons Adria",
-          "Package": "Paramount",
-          "Languages": [
-            "eng",
-            "cro",
-            "ser",
-            "slo",
-            "rus"
           ],
           "Type": "TV",
           "IsFta": false
@@ -8060,9 +8097,10 @@
             "cro",
             "slo",
             "ser",
-            "bul",
+            "ukr",
             "est",
-            "lit"
+            "lit",
+            "bul"
           ],
           "Type": "TV",
           "IsFta": false
@@ -8079,53 +8117,8 @@
           "IsFta": false
         },
         {
-          "Name": "MTV 00s",
-          "Package": "Digi TVDirect OneFocus Sat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV Hits",
-          "Package": "Direct OneFocus Sat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Club MTV",
-          "Package": "Focus Sat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV 80s",
-          "Package": "Focus Sat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV 90s",
-          "Package": "Direct OneFocus Sat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Nick Junior Global",
-          "Package": "Paramount",
+          "Package": "Focus Sat",
           "Languages": [
             "eng",
             "lit",
@@ -8140,67 +8133,15 @@
             "ser",
             "cze",
             "slo",
-            "amh",
-            "ukr"
+            "bul",
+            "est"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "Nickelodeon Europe.",
-          "Package": "Paramount",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV 00s.",
-          "Package": "Telly",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV Hits.",
-          "Package": "Telly",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Club MTV",
-          "Package": "Telly",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV 80s",
-          "Package": "Telly",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV 90s.",
-          "Package": "Telly",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Junior Global.",
-          "Package": "Paramount",
+          "Name": "Nick Junior Global",
+          "Package": "Focus Sat",
           "Languages": [
             "eng",
             "lit",
@@ -8209,9 +8150,16 @@
             "den",
             "nor",
             "fin",
-            "ukr"
+            "hun",
+            "rom",
+            "cro",
+            "ser",
+            "cze",
+            "slo",
+            "bul",
+            "est"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -8229,11 +8177,90 @@
           ],
           "Type": "Unknown",
           "IsFta": false
+        },
+        {
+          "Name": "Nick Junior Global_",
+          "Package": "Paramount",
+          "Languages": [
+            "bul",
+            "rus",
+            "eng",
+            "lit",
+            "est"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Nickelodeon Hungary",
+          "Package": "Direct OneFocus SatTelly",
+          "Languages": [
+            "hun",
+            "eng",
+            "ukr"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nickelodeon Czech",
+          "Package": "Focus SatTelly",
+          "Languages": [
+            "cze",
+            "eng",
+            "hun",
+            "ukr"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nickelodeon Romania",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom",
+            "eng",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nicktoons Hungary",
+          "Package": "Direct OneFocus SatTelly",
+          "Languages": [
+            "hun",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nicktoons Czech",
+          "Package": "Focus SatTelly",
+          "Languages": [
+            "cze",
+            "eng",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nicktoons Romania",
+          "Package": "Digi TVFocus Sat",
+          "Languages": [
+            "rom",
+            "eng",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 12245,
+      "FrequencyMHz": 12245.7,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -8436,7 +8463,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12265,
+      "FrequencyMHz": 12264.8,
       "Polarization": "V",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -8471,7 +8498,7 @@
           "IsFta": false
         },
         {
-          "Name": "TV2 Klub",
+          "Name": "FEM3",
           "Package": "Focus Sat",
           "Languages": [
             "hun"
@@ -8514,7 +8541,7 @@
           "IsFta": false
         },
         {
-          "Name": "FilmBox Basic",
+          "Name": "Filmbox\u002B One Hungary",
           "Package": "Focus Sat",
           "Languages": [
             "hun"
@@ -8589,10 +8616,12 @@
           "IsFta": false
         },
         {
-          "Name": "TV2Klub.",
+          "Name": "FEM3",
           "Package": "Direct OneFocus Sat",
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -8682,12 +8711,12 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox",
+          "Name": "Filmbox\u002B One Hungary",
           "Package": "Direct One",
           "Languages": [
             "hun"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -8736,7 +8765,7 @@
           "IsFta": false
         },
         {
-          "Name": "TV2Klub (SVT)",
+          "Name": "FEM3 (SVT)",
           "Package": "Telly",
           "Languages": [
             "hun"
@@ -8802,93 +8831,25 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12322,
+      "FrequencyMHz": 12322.3,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Test 7286",
-          "Package": "Telenor",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Test 7459",
-          "Package": "Allente",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "TS Sports 11",
-          "Package": "Allente",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TS Sports 12",
-          "Package": "Allente",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TS Sports 13",
-          "Package": "Allente",
-          "Languages": [
-            "den"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TS Sports 14",
-          "Package": "Allente",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TS Sports 15",
-          "Package": "Allente",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Test 13013",
-          "Package": "Allente",
-          "Languages": [
-            "nor",
-            "swe",
-            "den",
-            "fin"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12341,
-      "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12360,
+      "FrequencyMHz": 12341.3,
+      "Polarization": "V",
+      "SymbolRateKs": 30000,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12360.7,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -8896,12 +8857,417 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Test 13009",
-          "Package": "Telenor",
+          "Name": "NRK 1 HD",
+          "Package": "Allente",
           "Languages": [
-            "eng"
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK 2 HD",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK 3 HD",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK Super HD",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK1 Nordnytt",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
           ],
           "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK1 Nordland",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK1 Midtnytt",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK1 M\u00F8re og Romsdal",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK1 Vestlandsrevyen",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK1 Rogaland",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK1 S\u00F8rlandet",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK1 Vestfold og Telemark",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK1 Innlandet",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK Tegnspr\u00E5k",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK 1 Lydtekst",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK 2 Lydtekst",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK 3 Lydtekst",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK Super",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "NRK P1 Stor-Oslo",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 Troms",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 Finnmark",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 Nordland",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 Tr\u00F8ndelag",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 M\u00F8re og Romsdal",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 Sogn og Fjordane",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 Hordaland",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 Rogaland",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 S\u00F8rlandet",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 Telemark",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 Vestfold",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 Buskerud",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 Innlandet",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1 \u00D8stfold",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P2",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P3",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK Klassisk",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK S\u00E1mi Radio",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK mP3",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK Nyheter",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P3 Musikk",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK V\u00E6ret til sj\u00F8s",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK Super",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK P1\u002B",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK Jazz",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK Sport",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "NRK Folkemusikk",
+          "Package": "Telenor",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Radio",
           "IsFta": true
         }
       ]
@@ -8916,7 +9282,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12380,
+      "FrequencyMHz": 12379.8,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -8937,7 +9303,7 @@
           "Package": "Digi TVTelly",
           "Languages": [
             "cze",
-            "eng",
+            "vo",
             "hun"
           ],
           "Type": "TV",
@@ -9044,7 +9410,7 @@
           "IsFta": false
         },
         {
-          "Name": "Wau HD",
+          "Name": "JOJ Krimi HD",
           "Package": "Focus SatTelly",
           "Languages": [
             "slk"
@@ -9089,20 +9455,11 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "Pilot TV",
-          "Package": "Telly",
-          "Languages": [
-            "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 12399,
+      "FrequencyMHz": 12399.1,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -9110,16 +9467,133 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Test 13008",
+          "Name": "Rex HD",
           "Package": "Allente",
           "Languages": [
-            "eng"
+            "nor"
           ],
-          "Type": "Unknown",
-          "IsFta": true
+          "Type": "TV",
+          "IsFta": false
         },
         {
-          "Name": "Test 13014",
+          "Name": "Kanal 5 HD",
+          "Package": "Allente",
+          "Languages": [
+            "den"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV Norge HD",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "6\u0060eren HD",
+          "Package": "Allente",
+          "Languages": [
+            "den"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanal 5 HD Sweden",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanal 9 HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "REX Tekst h\u00F8rselshemmede",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TVNorge Tekst h\u00F8rselshemmede",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanal 5 Undertekster h\u00F8reh.",
+          "Package": "Allente",
+          "Languages": [
+            "den"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanal 5 Synstolkning",
+          "Package": "Allente",
+          "Languages": [
+            "den"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanal 5 HD syntolkning",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanal 9 HD syntolkning",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanal 9 Text h\u00F6rselskadade",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Kanal 5 Text h\u00F6rselskadade",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TVNorge Synstolking",
           "Package": "Allente",
           "Languages": [
             "nor"
@@ -9130,13 +9604,22 @@
       ]
     },
     {
-      "FrequencyMHz": 12418,
+      "FrequencyMHz": 12418.3,
       "Polarization": "V",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
+        {
+          "Name": "GOD Europe",
+          "Package": "Telenor",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
         {
           "Name": "CGTN HD",
           "Package": "Telenor",
@@ -9183,7 +9666,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12437,
+      "FrequencyMHz": 12437.5,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -9191,18 +9674,110 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Test 13012",
-          "Package": "Telenor",
+          "Name": "TV6 HD Sweden",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport\u002B HD Norway",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport 2 HD",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport 3 HD Norway",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Moonbug",
+          "Package": "Allente",
           "Languages": [
             "eng"
           ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viaplay Sport HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport 1 HD Sweden",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "fin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV 3 HD Norge",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport Football HD Sweden",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "fin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "V Sport 2 HD",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV6 HD (S)",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
           "Type": "Unknown",
-          "IsFta": true
+          "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 12456,
+      "FrequencyMHz": 12456.7,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -9210,7 +9785,7 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Arena Sport 1 HD",
+          "Name": "Kanal 1 Sport Slovakia",
           "Package": "Telly",
           "Languages": [
             "slk"
@@ -9384,7 +9959,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12476,
+      "FrequencyMHz": 12475.8,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -9521,7 +10096,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12509.8,
+      "FrequencyMHz": 12510.1,
       "Polarization": "V",
       "SymbolRateKs": 2600,
       "Fec": "4/5",
@@ -9549,9 +10124,18 @@
     },
     {
       "FrequencyMHz": 12527,
+      "Polarization": "V",
+      "SymbolRateKs": 6660,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12527.3,
       "Polarization": "H",
       "SymbolRateKs": 28800,
-      "Fec": "3/5",
+      "Fec": "5/11",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": [
@@ -9604,15 +10188,6 @@
       ]
     },
     {
-      "FrequencyMHz": 12527,
-      "Polarization": "V",
-      "SymbolRateKs": 6660,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 12540.8,
       "Polarization": "V",
       "SymbolRateKs": 6660,
@@ -9649,10 +10224,10 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12607,
+      "FrequencyMHz": 12607.3,
       "Polarization": "V",
       "SymbolRateKs": 28800,
-      "Fec": "3/5",
+      "Fec": "5/11",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": [
@@ -9704,23 +10279,19 @@
           "IsFta": false
         },
         {
-          "Name": "Filmbox Extra HD Hungary",
+          "Name": "Filmbox\u002B Emotion Czech",
           "Package": "Focus SatTelly",
           "Languages": [
-            "cze",
-            "eng",
-            "hun"
+            "cze"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "Filmbox Family",
+          "Name": "Filmbox\u002B Comedy Czech",
           "Package": "Focus SatTelly",
           "Languages": [
-            "cze",
-            "eng",
-            "hun"
+            "cze"
           ],
           "Type": "TV",
           "IsFta": false
@@ -9772,27 +10343,36 @@
           "IsFta": false
         },
         {
-          "Name": "Paramount Network Czech",
+          "Name": "Test service 2",
           "Package": "Telly",
           "Languages": [
             "cze"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 12643,
+      "FrequencyMHz": 12624.7,
       "Polarization": "H",
-      "SymbolRateKs": 30000,
-      "Fec": "7/8",
-      "Standard": "DVB-S",
+      "SymbolRateKs": 14500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12643,
+      "FrequencyMHz": 12638.5,
+      "Polarization": "H",
+      "SymbolRateKs": 14500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12643.3,
       "Polarization": "V",
       "SymbolRateKs": 28800,
       "Fec": "3/4",
@@ -9893,6 +10473,64 @@
     },
     {
       "FrequencyMHz": 12687,
+      "Polarization": "V",
+      "SymbolRateKs": 28800,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "History HD Europe",
+          "Package": "AllenteTelly",
+          "Languages": [
+            "eng",
+            "cze",
+            "hun",
+            "rus",
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "History 2 HD",
+          "Package": "AllenteTelly",
+          "Languages": [
+            "eng",
+            "cze",
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "History PAN EURO HD_Virtual_ENC",
+          "Package": "Allente",
+          "Languages": [
+            "eng",
+            "cze",
+            "hun",
+            "rus",
+            "tur"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "History 2 PAN EURO_Virtual_ENC",
+          "Package": "Allente",
+          "Languages": [
+            "eng",
+            "cze",
+            "rus"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12687.3,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -9956,8 +10594,8 @@
           "IsFta": false
         },
         {
-          "Name": "U (Romania)",
-          "Package": "Digi TV",
+          "Name": "U TV Romania",
+          "Package": "DigiTV",
           "Languages": [
             "rom"
           ],
@@ -9970,16 +10608,6 @@
           "Languages": [
             "eng",
             "hun"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MiniMax Romania  6h-20h CET",
-          "Package": "Digi TV",
-          "Languages": [
-            "rom",
-            "ser"
           ],
           "Type": "TV",
           "IsFta": false
@@ -10004,10 +10632,30 @@
           "IsFta": false
         },
         {
-          "Name": "Digi Sport 3",
+          "Name": "Digi Sport 3 HD",
           "Package": "Digi TV",
           "Languages": [
             "rom"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinemax (Hungary)",
+          "Package": "Digi TVDirect OneFocus Sat",
+          "Languages": [
+            "eng",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Da Vinci Learning",
+          "Package": "Digi TVDirect OneFocus Sat",
+          "Languages": [
+            "eng",
+            "hun"
           ],
           "Type": "TV",
           "IsFta": false
@@ -10047,76 +10695,20 @@
           ],
           "Type": "Radio",
           "IsFta": true
-        },
-        {
-          "Name": "SW DL 1120",
-          "Package": "DigiTV",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12687,
-      "Polarization": "V",
-      "SymbolRateKs": 28800,
-      "Fec": "3/5",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "History HD Europe",
-          "Package": "AllenteTelly",
-          "Languages": [
-            "eng",
-            "cze",
-            "hun",
-            "rus",
-            "tur"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "History 2 HD",
-          "Package": "AllenteTelly",
-          "Languages": [
-            "eng",
-            "cze",
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "History PAN EURO HD_Virtual_ENC",
-          "Package": "Allente",
-          "Languages": [
-            "eng",
-            "cze",
-            "hun",
-            "rus",
-            "tur"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "History 2 PAN EURO_Virtual_ENC",
-          "Package": "Allente",
-          "Languages": [
-            "eng",
-            "cze",
-            "rus"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
         }
       ]
     },
     {
       "FrequencyMHz": 12723,
+      "Polarization": "V",
+      "SymbolRateKs": 26666,
+      "Fec": "2/3",
+      "Standard": "DVB-S",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12723.3,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -10165,7 +10757,7 @@
             "rom"
           ],
           "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "Discovery Channel Romania",
@@ -10282,15 +10874,6 @@
           "IsFta": true
         }
       ]
-    },
-    {
-      "FrequencyMHz": 12723,
-      "Polarization": "V",
-      "SymbolRateKs": 26666,
-      "Fec": "2/3",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
     }
   ]
 }

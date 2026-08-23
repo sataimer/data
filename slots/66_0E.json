@@ -107,12 +107,12 @@
           "IsFta": true
         },
         {
-          "Name": "NEWS7 TAMIL",
+          "Name": "News 7 Tamil",
           "Package": "Harmonic",
           "Languages": [
-            "eng"
+            "tam"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         },
         {
@@ -134,32 +134,50 @@
           "IsFta": true
         },
         {
-          "Name": "MALAI MURASU SEITHIGAL",
+          "Name": "MalaiI Murasu Seithikal",
           "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Malar TV",
-          "Package": "Harmonic",
-          "Languages": [],
+          "Languages": [
+            "tam"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "NEWS J",
+          "Name": "News J",
           "Package": "Harmonic",
           "Languages": [
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Sairam TV",
           "Package": "Harmonic",
           "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Ayush TV",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NKR TV",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MK Six",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
           "Type": "TV",
           "IsFta": true
         }
@@ -179,15 +197,6 @@
           "Languages": [],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "Family TV India",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
         }
       ]
     },
@@ -202,15 +211,13 @@
         {
           "Name": "CVR News English",
           "Package": "IndiaSign",
-          "Languages": [
-            "tel"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "CVR Spiritual OM",
-          "Package": "IndiaSign",
+          "Package": null,
           "Languages": [
             "tel"
           ],
@@ -220,15 +227,13 @@
         {
           "Name": "Pear TV",
           "Package": "IndiaSign",
-          "Languages": [
-            "tel"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Unique TV (India)",
-          "Package": "IndiaSign",
+          "Package": null,
           "Languages": [],
           "Type": "TV",
           "IsFta": true
@@ -250,9 +255,7 @@
         {
           "Name": "Nireekshana TV",
           "Package": "IndiaSign",
-          "Languages": [
-            "tel"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -266,9 +269,7 @@
         {
           "Name": "Pasand TV",
           "Package": "IndiaSign",
-          "Languages": [
-            "tel"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -281,7 +282,7 @@
         },
         {
           "Name": "Da News",
-          "Package": "IndiaSign",
+          "Package": null,
           "Languages": [],
           "Type": "TV",
           "IsFta": true
@@ -310,27 +311,21 @@
         {
           "Name": "INDIASIGN TEST 12",
           "Package": "IndiaSign",
-          "Languages": [
-            "tel"
-          ],
+          "Languages": [],
           "Type": "Unknown",
           "IsFta": true
         },
         {
           "Name": "INDIASIGN TEST 13",
           "Package": "IndiaSign",
-          "Languages": [
-            "hin"
-          ],
+          "Languages": [],
           "Type": "Unknown",
           "IsFta": true
         },
         {
           "Name": "INDIASIGN TEST 2",
           "Package": "IndiaSign",
-          "Languages": [
-            "tel"
-          ],
+          "Languages": [],
           "Type": "Unknown",
           "IsFta": true
         },
@@ -338,7 +333,7 @@
           "Name": "TV 45",
           "Package": "IndiaSign",
           "Languages": [],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -373,12 +368,12 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "RAJ TV",
+          "Name": "Raj TV",
           "Package": "RAJ TV",
           "Languages": [
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -478,7 +473,7 @@
             "eng"
           ],
           "Type": "Unknown",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "RAJ NAGAICHUVAI",
@@ -487,7 +482,7 @@
             "eng"
           ],
           "Type": "Unknown",
-          "IsFta": false
+          "IsFta": true
         }
       ]
     },
@@ -706,21 +701,21 @@
           "IsFta": false
         },
         {
-          "Name": "0101 NDTV MPCG",
+          "Name": "NDTV MPCG",
           "Package": "NDTV",
           "Languages": [
             "hin"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "0402 NDTV RAJASTHAN",
+          "Name": "NDTV Rajasthan",
           "Package": "NDTV",
           "Languages": [
             "hin"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         },
         {
@@ -768,10 +763,10 @@
           "IsFta": true
         },
         {
-          "Name": "Tabbar Hits",
+          "Name": "Maha Punjabi",
           "Package": "Indo teleports",
           "Languages": [
-            "eng"
+            "pun"
           ],
           "Type": "TV",
           "IsFta": true
@@ -800,6 +795,20 @@
           "Languages": [
             "eng"
           ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ID TV",
+          "Package": "Indo Teleport",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ID Times",
+          "Package": "Indo teleports",
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         }
@@ -865,166 +874,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Ch5-VOA 340 Global HD",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "VOA HD Indian Ocean",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch7-VOA_RFA China HD",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch8-VOA AFSAT HD",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "GOD Asia",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch9-VOA Urdu (Net-M2)",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch10-XmtrNet 1-4",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch11-XmtrNet 5-8",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch12-XmtrNet 9-10, 17-18",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch13-A1:VOA 1; A2:E.Timor \u0026 WW Eng",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch14-XmtrNet 11-12",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch15-XmtrNet 13-16",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch16-A1:RFA 1; A2:RFA 2",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch17-A1:RFA 3; A2:RFA 4",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch18-VOA Tib, VOA Madag, VOA Asia, RFA Asia",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch19-VOA Mongolia",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch20-SMG Xmtr",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch21-VOA Djibouti MW",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch22-VOA Djibouti FM",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch23-Deewa TV Audio",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch24-Radio Farda",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ch25-A1:Ashna,A2:Deewa",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 4005,
@@ -1035,7 +885,7 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Shalom TV",
+          "Name": "Shalom TV Nigeria",
           "Package": "PMSL",
           "Languages": [
             "eng"
@@ -1135,7 +985,7 @@
         },
         {
           "Name": "Vertent SamacharPlus",
-          "Package": "PMSL",
+          "Package": null,
           "Languages": [
             "eng"
           ],
@@ -1152,12 +1002,12 @@
           "IsFta": true
         },
         {
-          "Name": "God Tv",
+          "Name": "GOD Asia",
           "Package": null,
           "Languages": [
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         }
       ]
@@ -1241,15 +1091,6 @@
           "Package": "Harmonic",
           "Languages": [
             "tam"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Tamilan TV",
-          "Package": "Harmonic",
-          "Languages": [
-            "eng"
           ],
           "Type": "TV",
           "IsFta": true
@@ -1341,19 +1182,17 @@
           "IsFta": true
         },
         {
-          "Name": "TWENTY FOUR",
+          "Name": "Twenty Four",
           "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
+          "Languages": [],
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "SHEKINAH",
+          "Name": "Shekinah TV India",
           "Package": null,
           "Languages": [],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         }
       ]
@@ -1369,82 +1208,50 @@
         {
           "Name": "Asianet News",
           "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
+          "Languages": [],
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "Asianet Middle East",
+          "Name": "Asianet Middle-East",
           "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
+          "Languages": [],
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "Suvarna News",
+          "Name": "Asianet Suvarna News",
           "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
+          "Languages": [],
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "Amrita",
+          "Name": "Amrita TV",
           "Package": "PMSL",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
+          "Languages": [],
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "GOODNESS TV",
+          "Name": "Goodness TV",
           "Package": "PMSL",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
+          "Languages": [],
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "JAI HIND",
+          "Name": "Jaihind TV",
           "Package": "PMSL",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
+          "Languages": [],
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "Mazhavil Manorma Int",
+          "Name": "Mazhavil Manorma International",
           "Package": "PMSL",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Twenty Four",
-          "Package": "PMSL",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Flowers",
-          "Package": "PMSL",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
+          "Languages": [],
+          "Type": "TV",
           "IsFta": true
         }
       ]
@@ -1468,13 +1275,23 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11098,
+      "FrequencyMHz": 11089,
       "Polarization": "V",
-      "SymbolRateKs": 400,
-      "Fec": "3/4",
+      "SymbolRateKs": 36000,
+      "Fec": "1/2",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "SES Demo HD",
+          "Package": null,
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 11108,

@@ -2,7 +2,7 @@
   "SlotKey": "9.0E",
   "Transponders": [
     {
-      "FrequencyMHz": 11727,
+      "FrequencyMHz": 11727.5,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -62,7 +62,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11785,
+      "FrequencyMHz": 11785.9,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -157,258 +157,10 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "AFN Prime Atlantic Benelux",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN News",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN Sports",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN Prime Pacific",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN Spectrum",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN Sports 2",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN Family",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN Movie Channel",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Reaper (EPG Video)",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Bars \u0026 Tone",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "AFN Atlantic",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "The Voice",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN Fans",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN Gravity",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN Country",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "NPR International",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN Seasonal",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "AFN Contingency",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Aviano Eagle",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Bavaria Eagle",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Benelux Eagle",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Incirlik Eagle",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Kaiserslautern Eagle",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Naples Eagle",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Rota Eagle",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Souda Bay Eagle",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Spangdahlem Eagle",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Stuttgart Eagle",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Vicenza Eagle",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Weisbaden Eagle",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Bahrain",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "Sembach Afternoon Radio",
-          "Package": null,
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": false
-        },
-        {
-          "Name": "INV1-afnatl",
-          "Package": "Inview Ltd",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
-      "FrequencyMHz": 11823,
+      "FrequencyMHz": 11824.1,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -452,6 +204,15 @@
           "IsFta": false
         },
         {
+          "Name": "Euronews Russian",
+          "Package": null,
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Italy Service 3",
           "Package": null,
           "Languages": [],
@@ -492,7 +253,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11843,
+      "FrequencyMHz": 11842.7,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "3/5",
@@ -606,29 +367,11 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "MTV Live HD",
-          "Package": "Cosmote",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV Hits",
-          "Package": "Cosmote",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 11862,
+      "FrequencyMHz": 11862.1,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -636,8 +379,17 @@
       "Modulation": "8PSK",
       "Channels": [
         {
+          "Name": "Kabel eins HD Austria",
+          "Package": "KabelkioskSky Deutschland",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "Kabel 1 HD",
-          "Package": "Kabelkiosk",
+          "Package": "KabelkioskSky Deutschland",
           "Languages": [
             "ger"
           ],
@@ -646,7 +398,7 @@
         },
         {
           "Name": "DMAX HD",
-          "Package": "Kabelkiosk",
+          "Package": "KabelkioskSky Deutschland",
           "Languages": [
             "ger"
           ],
@@ -655,7 +407,7 @@
         },
         {
           "Name": "Tele 5 HD",
-          "Package": "Kabelkiosk",
+          "Package": "KabelkioskSky Deutschland",
           "Languages": [
             "ger"
           ],
@@ -664,7 +416,7 @@
         },
         {
           "Name": "Nick HD Germany",
-          "Package": "Kabelkiosk",
+          "Package": "KabelkioskSky Deutschland",
           "Languages": [
             "ger",
             "eng"
@@ -684,7 +436,7 @@
         },
         {
           "Name": "Sport 1 HD (Germany)",
-          "Package": "Kabelkiosk",
+          "Package": "KabelkioskSky Deutschland",
           "Languages": [
             "ger"
           ],
@@ -693,7 +445,7 @@
         },
         {
           "Name": "TLC HD",
-          "Package": "Kabelkiosk",
+          "Package": "KabelkioskSky Deutschland",
           "Languages": [
             "ger"
           ],
@@ -850,7 +602,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11900,
+      "FrequencyMHz": 11900.4,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -896,9 +648,11 @@
           "IsFta": true
         },
         {
-          "Name": "TFM Senegal",
+          "Name": "T\u00E9l\u00E9 Sahel",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "fra"
+          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -938,7 +692,7 @@
           "IsFta": false
         },
         {
-          "Name": "BTV (B\u00E9nin)",
+          "Name": "BTV (B\u00E9nin)  Daytime",
           "Package": null,
           "Languages": [
             "fra"
@@ -1000,11 +754,146 @@
           ],
           "Type": "Radio",
           "IsFta": true
+        },
+        {
+          "Name": "AFN Atlantic Eagle",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Aviano Eagle",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Bavaria Eagle",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Benelux Eagle",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Incirlik Eagle",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Kaiserslautern Eagle",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Naples Eagle",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Rota Eagle",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Souda Bay Eagle",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Spangdahlem Eagle",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Stuttgart Eagle",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Vicenza Eagle",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Weisbaden Eagle",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Bahrain",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Sembach Afternoon Radio",
+          "Package": "AFN",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 11919,
+      "FrequencyMHz": 11919.4,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -1100,7 +989,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11938,
+      "FrequencyMHz": 11938.8,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -1225,7 +1114,7 @@
           "IsFta": false
         },
         {
-          "Name": "ERT World",
+          "Name": "ERT Cosmos",
           "Package": "OTE",
           "Languages": [
             "gre"
@@ -1256,7 +1145,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11958,
+      "FrequencyMHz": 11957.75,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -1426,6 +1315,15 @@
           "IsFta": true
         },
         {
+          "Name": "NSR (AAC)",
+          "Package": "MTVA",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
           "Name": "Katolikus Radio (AAC)",
           "Package": "Katolikus Radio",
           "Languages": [
@@ -1491,7 +1389,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11977,
+      "FrequencyMHz": 11977.2,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -1566,6 +1464,15 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "TVRI World",
+          "Package": "M7 Group",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
         },
         {
           "Name": "Curiosity Channel HD",
@@ -1681,15 +1588,6 @@
           "IsFta": true
         },
         {
-          "Name": "Euronews Russian",
-          "Package": "Globecast",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "EDM FM",
           "Package": "Globecast",
           "Languages": [
@@ -1701,7 +1599,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12015,
+      "FrequencyMHz": 12015.1,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -1792,7 +1690,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12034,
+      "FrequencyMHz": 12034.5,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -1830,6 +1728,15 @@
           "IsFta": true
         },
         {
+          "Name": "TV Congo  Daytime",
+          "Package": "TELEDIFFUSION DU CONGO",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "PCNE - Phoenix Chinese News \u0026 Entertainment",
           "Package": "GLOBECAST",
           "Languages": [
@@ -1848,17 +1755,10 @@
           "IsFta": true
         },
         {
-          "Name": "T\u00E9l\u00E9 Sahel",
-          "Package": "GLOBECAST",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "La Voix Du Sahel",
-          "Package": "GLOBECAST",
+          "Name": "RADIO CONGO",
+          "Package": null,
           "Languages": [
-            "fra"
+            "eng"
           ],
           "Type": "Radio",
           "IsFta": true
@@ -1866,7 +1766,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12054,
+      "FrequencyMHz": 12053.6,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -1978,13 +1878,6 @@
           "IsFta": false
         },
         {
-          "Name": "Ant1 Europe",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Baby TV",
           "Package": "Cosmote",
           "Languages": [
@@ -2034,7 +1927,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12092,
+      "FrequencyMHz": 12091.9,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -2107,12 +2000,60 @@
           "IsFta": true
         },
         {
+          "Name": "BBC AM Dist2",
+          "Package": "Arqiva",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
           "Name": "BBC AM Dist3",
           "Package": "Arqiva",
           "Languages": [
             "eng"
           ],
           "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC AM Dist4",
+          "Package": "Arqiva",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC AM Dist5",
+          "Package": "Arqiva",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "DAB D1",
+          "Package": null,
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "D1 Scotland",
+          "Package": null,
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "SDL NATL",
+          "Package": null,
+          "Languages": [],
+          "Type": "Data",
           "IsFta": true
         }
       ]
@@ -2338,13 +2279,6 @@
           "IsFta": true
         },
         {
-          "Name": "Ghost",
-          "Package": null,
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        },
-        {
           "Name": "Caccia e Pesca",
           "Package": null,
           "Languages": [],
@@ -2473,6 +2407,15 @@
           "IsFta": true
         },
         {
+          "Name": "269 Italia",
+          "Package": null,
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Canale 168",
           "Package": null,
           "Languages": [
@@ -2543,15 +2486,6 @@
           "IsFta": true
         },
         {
-          "Name": "Byoblu",
-          "Package": null,
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Radio Radio TV",
           "Package": null,
           "Languages": [
@@ -2595,12 +2529,10 @@
           "IsFta": true
         },
         {
-          "Name": "TCI",
+          "Name": "248 TV",
           "Package": null,
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -2627,7 +2559,7 @@
           "IsFta": true
         },
         {
-          "Name": "Terre Euganee Channel",
+          "Name": "PRIMAFREE231",
           "Package": null,
           "Languages": [],
           "Type": "Unknown",
@@ -2650,13 +2582,6 @@
           "IsFta": true
         },
         {
-          "Name": "Satisfaction Channel Television",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "BeJoy.kids",
           "Package": null,
           "Languages": [
@@ -2666,17 +2591,40 @@
           "IsFta": true
         },
         {
+          "Name": "Parole di Vita",
+          "Package": null,
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MATRIX TV ITALIA",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Italia Sera",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Amici Network",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
           "Name": "Radio Margherita Piu\u0027",
           "Package": null,
           "Languages": [],
           "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ghost",
-          "Package": null,
-          "Languages": [],
-          "Type": "Data",
           "IsFta": true
         },
         {
@@ -2709,6 +2657,13 @@
         },
         {
           "Name": "MOMENTO TV",
+          "Package": null,
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
+          "Name": "IT CHANNEL",
           "Package": null,
           "Languages": [],
           "Type": "Data",
@@ -2848,16 +2803,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12111,
-      "Polarization": "V",
-      "SymbolRateKs": 31400,
-      "Fec": "3/4",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12130,
+      "FrequencyMHz": 12130.26,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -2866,7 +2812,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12149,
+      "FrequencyMHz": 12149.5,
       "Polarization": "V",
       "SymbolRateKs": 31400,
       "Fec": "2/3",
@@ -3019,18 +2965,11 @@
           ],
           "Type": "Unknown",
           "IsFta": true
-        },
-        {
-          "Name": "Servizio 33",
-          "Package": "Mediaset",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 12149,
+      "FrequencyMHz": 12149.5,
       "Polarization": "V",
       "SymbolRateKs": 31400,
       "Fec": "2/3",
@@ -3223,18 +3162,11 @@
           ],
           "Type": "Radio",
           "IsFta": true
-        },
-        {
-          "Name": "Ghost",
-          "Package": "Mediaset",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 12149,
+      "FrequencyMHz": 12149.5,
       "Polarization": "V",
       "SymbolRateKs": 31400,
       "Fec": "2/3",
@@ -3242,45 +3174,39 @@
       "Modulation": "16APSKStream",
       "Channels": [
         {
-          "Name": "Servizio 3",
-          "Package": null,
+          "Name": "Rete 4 HD",
+          "Package": "Mediaset",
           "Languages": [
-            "ita"
+            "ita",
+            "eng"
           ],
-          "Type": "Radio",
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "Servizio Test",
-          "Package": null,
+          "Name": "Italia 1 HD",
+          "Package": "Mediaset",
           "Languages": [
-            "ita"
+            "ita",
+            "eng"
           ],
-          "Type": "Radio",
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "20 Mediaset HD",
+          "Package": "Mediaset",
+          "Languages": [
+            "ita",
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 12149.2,
-      "Polarization": "V",
-      "SymbolRateKs": 31400,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12149.3,
-      "Polarization": "V",
-      "SymbolRateKs": 31400,
-      "Fec": "2/3",
-      "Standard": "DVB-S2XPLS:",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12168,
+      "FrequencyMHz": 12168.7,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -3316,7 +3242,7 @@
           "IsFta": false
         },
         {
-          "Name": "OTE Cinema Christmas HD",
+          "Name": "Pop Up HD",
           "Package": "Cosmote",
           "Languages": [
             "eng"
@@ -3438,24 +3364,6 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12188,
-      "Polarization": "V",
-      "SymbolRateKs": 31400,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12188,
-      "Polarization": "V",
-      "SymbolRateKs": 31400,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 12207,
       "Polarization": "H",
       "SymbolRateKs": 27500,
@@ -3520,12 +3428,23 @@
           "IsFta": false
         },
         {
-          "Name": "MTV 00s",
+          "Name": "TEST 10",
           "Package": "Cosmote",
           "Languages": [
+            "gre",
             "eng"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TEST 11",
+          "Package": "Cosmote",
+          "Languages": [
+            "gre",
+            "eng"
+          ],
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -3598,16 +3517,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12225.9,
-      "Polarization": "V",
-      "SymbolRateKs": 31400,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12226,
+      "FrequencyMHz": 12226.25,
       "Polarization": "V",
       "SymbolRateKs": 31400,
       "Fec": "2/3",
@@ -3737,15 +3647,6 @@
           "IsFta": true
         },
         {
-          "Name": "OrobiK 98",
-          "Package": "OROBIK 98",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Radio Birikina TV",
           "Package": null,
           "Languages": [
@@ -3766,7 +3667,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12226,
+      "FrequencyMHz": 12226.25,
       "Polarization": "V",
       "SymbolRateKs": 31400,
       "Fec": "2/3",
@@ -3785,7 +3686,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12226,
+      "FrequencyMHz": 12226.25,
       "Polarization": "V",
       "SymbolRateKs": 31400,
       "Fec": "2/3",
@@ -3935,6 +3836,15 @@
           "IsFta": true
         },
         {
+          "Name": "Canale 81",
+          "Package": "Canale81",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Teleitalia 41",
           "Package": "In Aria!",
           "Languages": [
@@ -3944,25 +3854,25 @@
           "IsFta": true
         },
         {
-          "Name": "ROMANTICA RADIO",
-          "Package": "ROMANTICA RADIO",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "RTR 99 TI RICORDI",
           "Package": "Intecgroup",
           "Languages": [
             "ita"
           ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "ROMANTICA RADIO",
+          "Package": "ROMANTICA RADIO",
+          "Languages": [],
           "Type": "Radio",
           "IsFta": true
         }
       ]
     },
     {
-      "FrequencyMHz": 12226,
+      "FrequencyMHz": 12226.25,
       "Polarization": "V",
       "SymbolRateKs": 31400,
       "Fec": "2/3",
@@ -4058,15 +3968,6 @@
           "IsFta": true
         },
         {
-          "Name": "TvP Italia",
-          "Package": "TVP",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Teleregione Toscana",
           "Package": "TELEREGIONE TOSCANA",
           "Languages": [
@@ -4085,8 +3986,8 @@
           "IsFta": true
         },
         {
-          "Name": "Alert System TV.",
-          "Package": "ALERT SYSTEM TV",
+          "Name": "Canale 88",
+          "Package": "Alert System TV",
           "Languages": [
             "ita"
           ],
@@ -4096,13 +3997,6 @@
         {
           "Name": "C3T",
           "Package": "C3T",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Siena TV",
-          "Package": "SIENATV",
           "Languages": [],
           "Type": "TV",
           "IsFta": true
@@ -4128,7 +4022,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12245,
+      "FrequencyMHz": 12245.34,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -4210,25 +4104,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12265,
-      "Polarization": "V",
-      "SymbolRateKs": 31400,
-      "Fec": "3/4",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12265,
-      "Polarization": "V",
-      "SymbolRateKs": 31400,
-      "Fec": "3/4",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12284,
+      "FrequencyMHz": 12283.75,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -4310,7 +4186,7 @@
           "IsFta": false
         },
         {
-          "Name": "Panathinaikos SL Pass",
+          "Name": "COSMOTE Sport Superleague Pass",
           "Package": "Cosmote",
           "Languages": [
             "gre",
@@ -4364,17 +4240,136 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "TEST 12",
+          "Package": "Cosmote",
+          "Languages": [
+            "gre",
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 12302.6,
+      "FrequencyMHz": 12302.46,
       "Polarization": "V",
       "SymbolRateKs": 31400,
-      "Fec": "8/9",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
+      "Fec": "2/3",
+      "Standard": "DVB-S2PLS:",
+      "Modulation": "16APSKStream",
+      "Channels": [
+        {
+          "Name": "Canale 21",
+          "Package": "CANALE 21",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Televomero",
+          "Package": "TELEVOMERO",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tele A",
+          "Package": "AjV-Ottcast",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canale 9",
+          "Package": "Canale 9",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canale 8",
+          "Package": "CANALE 8",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TeleCapri",
+          "Package": "In Aria!",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Otto Channel",
+          "Package": "Otto Channel",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Primativv\u00F9",
+          "Package": "Primativv\u00F9",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Lira TV HD",
+          "Package": "LIRA TV",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Irpinia TV",
+          "Package": "GLOBAL",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kiss Kiss Napoli TV",
+          "Package": "KISS KISS NAPOLI TV",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Teleclub Italia",
+          "Package": "ASSOCIAZIONE DREAMER",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 12303,
@@ -4564,118 +4559,10 @@
       "FrequencyMHz": 12303,
       "Polarization": "V",
       "SymbolRateKs": 31400,
-      "Fec": "2/3",
+      "Fec": "8/9",
       "Standard": "DVB-S2PLS:",
-      "Modulation": "16APSKStream",
+      "Modulation": "8PSKStream",
       "Channels": [
-        {
-          "Name": "Canale 21",
-          "Package": "CANALE 21",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Televomero",
-          "Package": "TELEVOMERO",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Tele A",
-          "Package": "AjV-Ottcast",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Canale 9",
-          "Package": "Canale 9",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Canale 8",
-          "Package": "CANALE 8",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "TeleCapri",
-          "Package": "In Aria!",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Otto Channel",
-          "Package": "Otto Channel",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Primativv\u00F9",
-          "Package": "Primativv\u00F9",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Lira TV HD",
-          "Package": "LIRA TV",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Luna TV",
-          "Package": "In Aria!",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Irpinia TV",
-          "Package": "GLOBAL",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Kiss Kiss Napoli TV",
-          "Package": "KISS KISS NAPOLI TV",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
         {
           "Name": "Teleclub Italia",
           "Package": "ASSOCIAZIONE DREAMER",
@@ -4684,17 +4571,7 @@
           ],
           "Type": "TV",
           "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12303,
-      "Polarization": "V",
-      "SymbolRateKs": 31400,
-      "Fec": "8/9",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "8PSKStream",
-      "Channels": [
+        },
         {
           "Name": "Stile TV",
           "Package": "STILETV",
@@ -4759,15 +4636,6 @@
           "IsFta": true
         },
         {
-          "Name": "Napoflix",
-          "Package": "NAPOFLIX",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "GT Channel",
           "Package": "AjV-Ottcast",
           "Languages": [
@@ -4815,7 +4683,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12322,
+      "FrequencyMHz": 12322.06,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -4824,440 +4692,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12340.9,
-      "Polarization": "V",
-      "SymbolRateKs": 31400,
-      "Fec": "2/3",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSKStream",
-      "Channels": [
-        {
-          "Name": "Nove",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Motor Trend",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Nove",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "HGTV Italy",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "NOVE",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Deejay TV HD",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Deejay TV",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Italia 53",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Italia 141",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Italia 150",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "iL61",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "iL61",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "SPORTITALIA HD",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Sport Italia",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Alma TV - Alice \u0026 Marcopolo",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Alma TV - Alice \u0026 Marcopolo",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Gold TV Italia",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "La 4 Italia",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Channel 24",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Rete Italia",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "TV 153",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Canale 162",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Gold Invest TV",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "CANALE 144",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Canale 237",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "PROMO FOOD",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "PROMO HOME",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "PROMO LIFE",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "PROMO LIVING",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "CANALE 230",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Star Market",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "PROMO TRAVEL",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "PROMO KIDS",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "CANALE 243",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "PROMO SPORT",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Canale 263",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "PROMO SHOPPING",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Canale 232",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Cusano News 7",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Parole di Vita",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Italia Channel",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RDS Social TV",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Deejay",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Capital",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio m2o",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Maria",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RDS 100% GRANDI SUCCESSI",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12341,
+      "FrequencyMHz": 12341.25,
       "Polarization": "V",
       "SymbolRateKs": 31400,
       "Fec": "5/6",
@@ -5310,15 +4745,6 @@
           "IsFta": true
         },
         {
-          "Name": "CS24.Live",
-          "Package": "Persidera",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "TeleCampione",
           "Package": "Persidera",
           "Languages": [
@@ -5360,13 +4786,6 @@
           "IsFta": true
         },
         {
-          "Name": "CANALE 227",
-          "Package": "Persidera",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
           "Name": "Canale 235",
           "Package": "Persidera",
           "Languages": [],
@@ -5381,21 +4800,7 @@
           "IsFta": true
         },
         {
-          "Name": "CANALE 268",
-          "Package": "Persidera",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "MADE IN BUSINESS",
-          "Package": "Persidera",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "IMPRESE",
+          "Name": "MALPENSA 24 HD",
           "Package": "Persidera",
           "Languages": [],
           "Type": "Unknown",
@@ -5409,10 +4814,17 @@
           "IsFta": true
         },
         {
-          "Name": "ARTE E CULTURA",
+          "Name": "NOKEP TV HD",
           "Package": "Persidera",
           "Languages": [],
           "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Match Music TV",
+          "Package": "Persidera",
+          "Languages": [],
+          "Type": "TV",
           "IsFta": true
         },
         {
@@ -5431,13 +4843,6 @@
             "ita"
           ],
           "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "BIKE",
-          "Package": "Persidera",
-          "Languages": [],
-          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -5615,7 +5020,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12341,
+      "FrequencyMHz": 12341.25,
       "Polarization": "V",
       "SymbolRateKs": 31400,
       "Fec": "5/6",
@@ -5762,6 +5167,15 @@
           "IsFta": true
         },
         {
+          "Name": "RADIO24TV",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
           "Name": "R Italia SMI",
           "Package": "Persidera",
           "Languages": [
@@ -5805,7 +5219,413 @@
       ]
     },
     {
-      "FrequencyMHz": 12360,
+      "FrequencyMHz": 12341.25,
+      "Polarization": "V",
+      "SymbolRateKs": 31400,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSKStream",
+      "Channels": [
+        {
+          "Name": "Nove",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Discovery Turbo Italy",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Nove",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "HGTV Italy",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NOVE",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Deejay TV HD",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Deejay TV",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Italia 53",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Italia 141",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Italia 150",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "iL61",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "iL61",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "SPORTITALIA HD",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Sport Italia",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Alma TV - Alice \u0026 Marcopolo",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Alma TV - Alice \u0026 Marcopolo",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Gold TV Italia",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "La 4 Italia",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Gold Invest TV",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rete Italia",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TV 153",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canale 162",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canale 137",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CANALE 144",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Canale 237",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "PROMO FOOD",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "PROMO HOME",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "PROMO LIFE",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "PROMO LIVING",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "CANALE 230",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Star Market",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "PROMO TRAVEL",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "PROMO KIDS",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "CANALE 243",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "PROMO SPORT",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Canale 263",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "PROMO SHOPPING",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Italia Channel",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RDS Social TV",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Deejay",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Capital",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio m2o",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Maria",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RDS 100% GRANDI SUCCESSI",
+          "Package": "Persidera",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12360.42,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -5814,7 +5634,229 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12380,
+      "FrequencyMHz": 12379.18,
+      "Polarization": "V",
+      "SymbolRateKs": 31400,
+      "Fec": "2/3",
+      "Standard": "DVB-S2PLS:",
+      "Modulation": "16APSKStream",
+      "Channels": [
+        {
+          "Name": "Video Calabria",
+          "Package": "Video Calabria",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "LaC",
+          "Package": "La C",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TEN Italia",
+          "Package": "Teleuropa",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Calabria TV",
+          "Package": "Calabria TV HD",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RTI (Italia)",
+          "Package": "Global",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Esperia TV 18",
+          "Package": "ESPERIA TV",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Telespazio TV",
+          "Package": "Intecgroup",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "LaC OnAir",
+          "Package": "LA C",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tele A1 Corigliano",
+          "Package": "Global",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Canale Italia",
+          "Package": "Canale Italia",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "L\u0027altro corriere",
+          "Package": "L\u0027altro corriere",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Telemia",
+          "Package": "LA TV CROSSMEDIALE",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Reggio TV",
+          "Package": "REGGIO TV HD",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "RTC Tele Calabria",
+          "Package": "GLOBAL",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Telemormanno",
+          "Package": "Telemormanno",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Jonica Radio TV",
+          "Package": "JONICA RADIO TV",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Eccellenza Calabria",
+          "Package": "Eccellenza Calabria",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tele Dehon",
+          "Package": "Tele Dehon bkp",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Videotouring 655",
+          "Package": "Auranex",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "GS Channel",
+          "Package": null,
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Digital TV",
+          "Package": "ADN",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CANALE ITALIA extra",
+          "Package": "Canale Italia",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "REGGIO TV HD",
+          "Package": "REGGIO TV HD",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "ROMANTICA RADIO",
+          "Package": "ROMANTICA RADIO",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12379.7,
       "Polarization": "V",
       "SymbolRateKs": 31400,
       "Fec": "2/3",
@@ -5966,7 +6008,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12380,
+      "FrequencyMHz": 12379.7,
       "Polarization": "V",
       "SymbolRateKs": 31400,
       "Fec": "2/3",
@@ -6064,15 +6106,6 @@
           "IsFta": true
         },
         {
-          "Name": "6 OnAir",
-          "Package": "Telemolise",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Rete 8 Sport",
           "Package": "RETE8",
           "Languages": [
@@ -6127,220 +6160,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12380,
-      "Polarization": "V",
-      "SymbolRateKs": 31400,
-      "Fec": "2/3",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "16APSKStream",
-      "Channels": [
-        {
-          "Name": "Video Calabria",
-          "Package": "Video Calabria",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "LaC",
-          "Package": "La C",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "TEN Italia",
-          "Package": "Teleuropa",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Calabria TV",
-          "Package": "Calabria TV HD",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RTI La Premi\u00E8re",
-          "Package": "Global",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Esperia TV 18",
-          "Package": "ESPERIA TV",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Telespazio TV",
-          "Package": "Intecgroup",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "LaC OnAir",
-          "Package": "LA C",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Tele A1 Corigliano",
-          "Package": "Global",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Canale Italia",
-          "Package": "Canale Italia",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "L\u0027altro corriere",
-          "Package": "L\u0027altro corriere",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Telemia",
-          "Package": "LA TV CROSSMEDIALE",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Reggio TV",
-          "Package": "REGGIO TV HD",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RTC Tele Calabria",
-          "Package": "GLOBAL",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Telemormanno",
-          "Package": "Telemormanno",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Jonica Radio TV",
-          "Package": "JONICA RADIO TV",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Eccellenza Calabria",
-          "Package": "Eccellenza Calabria",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Tele Dehon",
-          "Package": "Tele Dehon bkp",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Videotouring 655",
-          "Package": "Auranex",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Digital TV",
-          "Package": "ADN",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "CANALE ITALIA extra",
-          "Package": "Canale Italia",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "REGGIO TV HD",
-          "Package": "REGGIO TV HD",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "ROMANTICA RADIO",
-          "Package": "ROMANTICA RADIO",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12399,
+      "FrequencyMHz": 12398.8,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -6443,7 +6263,7 @@
           "IsFta": false
         },
         {
-          "Name": "Nickelodeon HD",
+          "Name": "Keedoo",
           "Package": "Cosmote",
           "Languages": [
             "gre"
@@ -6501,25 +6321,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12418,
-      "Polarization": "V",
-      "SymbolRateKs": 31400,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12418,
-      "Polarization": "V",
-      "SymbolRateKs": 31400,
-      "Fec": "3/4",
-      "Standard": "DVB-S2PLS:",
-      "Modulation": "16APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12437,
+      "FrequencyMHz": 12437.14,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -6555,7 +6357,7 @@
         },
         {
           "Name": "Telecity Valle d Aosta",
-          "Package": "In Aria!",
+          "Package": "TELECITY",
           "Languages": [
             "ita"
           ],
@@ -6763,7 +6565,7 @@
         },
         {
           "Name": "Tvqui",
-          "Package": "TV QUI",
+          "Package": "TV QUI HD",
           "Languages": [
             "ita"
           ],
@@ -6789,6 +6591,15 @@
         {
           "Name": "Telestense",
           "Package": "rei",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Teletricolore",
+          "Package": "Global",
           "Languages": [
             "ita"
           ],
@@ -6884,7 +6695,7 @@
         },
         {
           "Name": "Vera TV",
-          "Package": "In Aria!",
+          "Package": "VERA TV",
           "Languages": [
             "ita"
           ],
@@ -6948,15 +6759,6 @@
         {
           "Name": "Rossini TV",
           "Package": "ROSSINI",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RTM Italia",
-          "Package": "GLOBAL",
           "Languages": [
             "ita"
           ],
@@ -7073,12 +6875,22 @@
           "IsFta": false
         },
         {
-          "Name": "MTV Europe",
+          "Name": "Center TV",
           "Package": "Cosmote",
           "Languages": [
-            "eng"
+            "gre"
           ],
           "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TEST 13",
+          "Package": "Cosmote",
+          "Languages": [
+            "gre",
+            "eng"
+          ],
+          "Type": "Unknown",
           "IsFta": false
         },
         {

@@ -25,62 +25,7 @@
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Al Quran Al Kareem TV",
-          "Package": null,
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Al Sunnah Al Nabawiyah TV HD",
-          "Package": null,
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Saudi TV 1 HD",
-          "Package": null,
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Al Ekhbaria",
-          "Package": null,
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Al Thakafeyia",
-          "Package": null,
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Al Riyadiah Satellite",
-          "Package": null,
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11766,
@@ -94,22 +39,6 @@
           "Name": "DC-1",
           "Package": null,
           "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "TMTV",
-          "Package": "North Telecom",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "ITN",
-          "Package": "North Telecom",
-          "Languages": [
-            "eng"
-          ],
           "Type": "Unknown",
           "IsFta": true
         },
@@ -242,15 +171,6 @@
           "IsFta": true
         },
         {
-          "Name": "VOX 1 TV",
-          "Package": "North Telecom",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
           "Name": "TIN TV",
           "Package": "North Telecom",
           "Languages": [
@@ -317,126 +237,153 @@
         {
           "Name": "GEM Food",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "GEM Fit",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Rubix",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "River",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "GEM Life",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "GEM Bollywood",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "GEM Classic",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "GEM Series",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "GEM Travel",
+          "Name": "GEM Nature",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "GEM Junior",
           "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "GEM Arabia",
-          "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "GEM TV",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "GEM Academy",
+          "Name": "GEM Entertainment",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "GEM Kids",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "GEM Az",
+          "Name": "GEM Sport",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "GEM Film",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "GEM Drama",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "GEM Pixel",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "far"
+          ],
           "Type": "TV",
           "IsFta": true
         }
@@ -458,53 +405,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Abu Dhabi TV",
-          "Package": "Yahlive 6",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "AD Nat Geo",
-          "Package": "Yahlive 6",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "AD Sports 1",
-          "Package": "Yahlive 6",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Al Emarat",
-          "Package": "Yahlive 6",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "YAS Sports",
-          "Package": "Yahlive 6",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11958,
@@ -519,13 +420,13 @@
       "FrequencyMHz": 11977,
       "Polarization": "H",
       "SymbolRateKs": 27500,
-      "Fec": "3/4",
+      "Fec": "7/8",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
         {
           "Name": "ATV Eritrea",
-          "Package": null,
+          "Package": "MicrowaveSoft",
           "Languages": [],
           "Type": "TV",
           "IsFta": true
@@ -533,12 +434,21 @@
         {
           "Name": "Tigray TV 2",
           "Package": null,
+          "Languages": [
+            "amh"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Vilayet TV",
+          "Package": "MicrowaveSoft",
           "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "Alwilayah",
+          "Name": "Imam Hussain Arabic",
           "Package": "MicrowaveSoft",
           "Languages": [
             "ara"
@@ -564,10 +474,8 @@
         },
         {
           "Name": "247 Music",
-          "Package": "MicrowaveSoft",
-          "Languages": [
-            "ara"
-          ],
+          "Package": "24.7 MUSIC TV",
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -580,14 +488,14 @@
         },
         {
           "Name": "Tibeb Ybrah",
-          "Package": null,
+          "Package": "MicrowaveSoft",
           "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Dedebit TV",
-          "Package": null,
+          "Package": "MicrowaveSoft",
           "Languages": [],
           "Type": "TV",
           "IsFta": true
@@ -601,7 +509,7 @@
         },
         {
           "Name": "ONM",
-          "Package": "MicrowaveSoft",
+          "Package": null,
           "Languages": [],
           "Type": "TV",
           "IsFta": true
@@ -609,6 +517,13 @@
         {
           "Name": "Axumawian TV",
           "Package": "MicrowaveSoft",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "AmharaSat TV",
+          "Package": null,
           "Languages": [],
           "Type": "TV",
           "IsFta": true
@@ -622,27 +537,65 @@
         },
         {
           "Name": "Channel 8 Kurdish",
-          "Package": null,
+          "Package": "MicrowaveSoft",
           "Languages": [
-            "kur"
+            "kur",
+            "eng"
           ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Gulf Movies",
-          "Package": null,
+          "Package": "MicrowaveSoft",
           "Languages": [
-            "ara"
+            "far"
           ],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "DRPAL SAA-AI",
+          "Package": "MicrowaveSoft",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "STR News Pashto",
           "Package": null,
           "Languages": [],
           "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Spogmai radio",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Aghile Talebin TV",
+          "Package": null,
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Amir TV",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tapesh Music FM",
+          "Package": "MicrowaveSoft",
+          "Languages": [],
+          "Type": "Radio",
           "IsFta": true
         }
       ]
@@ -663,177 +616,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Shamshad",
-          "Package": "Yahlive 5",
-          "Languages": [
-            "afg"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Tamadon TV",
-          "Package": "Yahlive 5",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Noor TV Afghanistan",
-          "Package": "Yahlive 5",
-          "Languages": [
-            "afg"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Chekad TV",
-          "Package": "Yahlive5",
-          "Languages": [
-            "afg"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Zhwandoon TV",
-          "Package": "Yahlive 5",
-          "Languages": [
-            "afg"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Arezo TV HD",
-          "Package": "Yahlive5",
-          "Languages": [
-            "afg"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "ATN News",
-          "Package": "Yahlive5",
-          "Languages": [
-            "afg"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "ATN Afghanistan",
-          "Package": "Yahlive5",
-          "Languages": [
-            "afg"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RTA HD",
-          "Package": "yahlive5",
-          "Languages": [
-            "afg"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RTA News HD",
-          "Package": "Yahlive5",
-          "Languages": [
-            "afg"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RTA Sport HD",
-          "Package": "Harmonic",
-          "Languages": [
-            "afg"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RTA Education HD",
-          "Package": "Yahlive5",
-          "Languages": [
-            "afg"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RTA EDUCATION RADIO",
-          "Package": "Yahlive5",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "RTA NATIONAL RADIO",
-          "Package": "Yahlive5",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "RTA SHARIAT RADIO",
-          "Package": "Yahlive5",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Salam Watandar FM",
-          "Package": "Yahlive 5",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Zhwandoon FM",
-          "Package": "Yahlive 5",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ariana FM",
-          "Package": "Yahlive5",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Shamshad FM",
-          "Package": "Yahlive 5",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Killid",
-          "Package": "Yahlive5",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Arezo FM",
-          "Package": "Yahlive5",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12034,
@@ -851,102 +634,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "TVT 1 Tajikistan",
-          "Package": "Tajikistan",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "TV Safina",
-          "Package": "Tajikistan",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Bahoriston",
-          "Package": "Tajikistan",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Jahonnamo",
-          "Package": "Tajikistan",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "TV Varzish",
-          "Package": "Tajikistan",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sinamo",
-          "Package": "Tajikistan",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Dushanbe HD",
-          "Package": "Tajikistan",
-          "Languages": [
-            "taj"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Football HD",
-          "Package": "Tajikistan",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Radio Tojik",
-          "Package": "Tajikistan",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Ovozi Tojik",
-          "Package": "Tajikistan",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Sadoi Dushanbe",
-          "Package": "Tajikistan",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Farhang",
-          "Package": "Tajikistan",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12073,
@@ -957,65 +645,67 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "MARJAEYAT TV",
-          "Package": "North Telecom",
+          "Name": "Marjaeyat",
+          "Package": "Yahlive",
           "Languages": [
-            "eng"
+            "far"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "IMAM HUSSEIN 1 SD",
-          "Package": "North Telecom",
+          "Name": "Imam Hussein TV",
+          "Package": "Yahlive",
           "Languages": [
-            "eng"
+            "ara"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "TAPESH TV",
-          "Package": "North Telecom",
+          "Name": "Aryen TV",
+          "Package": "Yahlive",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Towheed TV",
+          "Package": "Yahlive",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NT TESTCARD 10",
+          "Package": "Yahlive",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "CHANNEL ONE",
-          "Package": "North Telecom",
+          "Name": "NT TESTCARD 22",
+          "Package": "Yahlive",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "ONM",
-          "Package": "NorthTelecom",
+          "Name": "Channel One (Farsi)",
+          "Package": "Yahlive",
           "Languages": [
-            "eng"
+            "far"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "ASSENA",
-          "Package": "North Telecom",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "TBS",
-          "Package": "North Telecom",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "NOUR TV",
-          "Package": "North Telecom",
+          "Name": "NT TESTCARD 1",
+          "Package": "Yahlive",
           "Languages": [
             "far"
           ],
@@ -1023,109 +713,78 @@
           "IsFta": true
         },
         {
-          "Name": "IRAN INTERNATIONAL",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
           "Name": "NT TESTCARD 3",
-          "Package": "NorthTelecom",
+          "Package": "Yahlive",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": true
         },
         {
-          "Name": "DWI",
-          "Package": "North Telecom",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "GANJE HOZOUR 2",
-          "Package": "NorthTelecom",
+          "Name": "Ganj e Hozour TV",
+          "Package": "Yahlive",
           "Languages": [
-            "eng"
+            "far"
           ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "IMAM HUSSEIN 1 HD",
-          "Package": "North Telecom",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "BEITOLABBAS",
-          "Package": "NorthTelecom",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "MI TV",
-          "Package": "NorthTelecom",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "TIGRAY TV",
-          "Package": "NorthTelecom",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Dedebit TV",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "PAYAM-E-AFGHAN",
-          "Package": "NorthTelecom",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Oromia 11",
-          "Package": null,
-          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "CITY TV",
-          "Package": "NorthTelecom",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "DR. ALIAKBARI",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "TIGRAI RADIO",
-          "Package": null,
+          "Name": "Imam Hussein TV",
+          "Package": "Yahlive",
           "Languages": [
-            "eng"
+            "far"
           ],
-          "Type": "Radio",
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Beitol Abbas",
+          "Package": "Yahlive",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MITV (Mohajer International TV)",
+          "Package": "Yahlive",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Payam e Afghan",
+          "Package": "Yahlive",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NT TESTCARD 9",
+          "Package": "Yahlive",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "City\u002B",
+          "Package": "Yahlive",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "JK Music",
+          "Package": "Yahlive",
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": true
         }
       ]
@@ -1151,7 +810,7 @@
     {
       "FrequencyMHz": 12130,
       "Polarization": "H",
-      "SymbolRateKs": 27500,
+      "SymbolRateKs": 31000,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",

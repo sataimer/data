@@ -2,9 +2,9 @@
   "SlotKey": "1.9E",
   "Transponders": [
     {
-      "FrequencyMHz": 11388.1,
+      "FrequencyMHz": 11388,
       "Polarization": "H",
-      "SymbolRateKs": 15000,
+      "SymbolRateKs": 30000,
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
@@ -22,19 +22,11 @@
     {
       "FrequencyMHz": 11919,
       "Polarization": "H",
-      "SymbolRateKs": 33000,
-      "Fec": "3/4",
+      "SymbolRateKs": 1284,
+      "Fec": "None",
       "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": [
-        {
-          "Name": "Service01",
-          "Package": "FFmpeg",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        }
-      ]
+      "Modulation": "AUTOStream",
+      "Channels": []
     },
     {
       "FrequencyMHz": 11919,
@@ -48,14 +40,14 @@
     {
       "FrequencyMHz": 11970.1,
       "Polarization": "H",
-      "SymbolRateKs": 1000,
-      "Fec": "1/2",
-      "Standard": "DVB-S",
+      "SymbolRateKs": 1284,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12072,
+      "FrequencyMHz": 12074.1,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -66,14 +58,14 @@
           "Name": "BG\u002B HD",
           "Package": "Neosat",
           "Languages": [
-            "bul"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "VNT HD",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "bul"
           ],
@@ -96,7 +88,7 @@
         },
         {
           "Name": "Ambience TV",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "bul"
           ],
@@ -133,7 +125,7 @@
         },
         {
           "Name": "radio N-Joy",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "bul"
           ],
@@ -142,7 +134,7 @@
         },
         {
           "Name": "radio Z-rock",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "bul"
           ],
@@ -151,7 +143,7 @@
         },
         {
           "Name": "radio Veselina",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "bul"
           ],
@@ -160,28 +152,28 @@
         },
         {
           "Name": "MSGn26",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
         },
         {
           "Name": "DATAn26BC3",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
         },
         {
           "Name": "CHLn26BC3",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
         },
         {
           "Name": "MSGn26BSC3",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
@@ -189,13 +181,20 @@
       ]
     },
     {
-      "FrequencyMHz": 12092,
+      "FrequencyMHz": 12093.2,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
+        {
+          "Name": "Fishing and Hunting HD",
+          "Package": "Neosat",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
         {
           "Name": "FilmBox Arthouse HD",
           "Package": "Neosat",
@@ -206,7 +205,7 @@
           "IsFta": false
         },
         {
-          "Name": "Dom Kino Premium International",
+          "Name": "Dom Kino Premium",
           "Package": "Neosat",
           "Languages": [
             "rus"
@@ -233,15 +232,6 @@
           "IsFta": false
         },
         {
-          "Name": "Deluxe Lounge HD",
-          "Package": "Neosat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Jukebox HD",
           "Package": "Neosat",
           "Languages": [
@@ -260,7 +250,7 @@
           "IsFta": false
         },
         {
-          "Name": "FightBOX HD",
+          "Name": "Fightbox HD Russia",
           "Package": "Neosat",
           "Languages": [
             "eng"
@@ -335,7 +325,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12109,
+      "FrequencyMHz": 12112.2,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -474,7 +464,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12169,
+      "FrequencyMHz": 12170.2,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -483,7 +473,7 @@
       "Channels": [
         {
           "Name": "TV Romania International",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "rom"
           ],
@@ -499,15 +489,6 @@
         },
         {
           "Name": "Chasse et P\u00EAche",
-          "Package": "Neosat",
-          "Languages": [
-            "bul"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Wness TV HD",
           "Package": "Neosat",
           "Languages": [
             "bul"
@@ -535,7 +516,7 @@
         },
         {
           "Name": "Epic Drama HD",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "TV",
           "IsFta": true
@@ -578,10 +559,8 @@
         },
         {
           "Name": "Kanal 0",
-          "Package": "Neosat",
-          "Languages": [
-            "bul"
-          ],
+          "Package": "neosat",
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -613,7 +592,7 @@
           "IsFta": false
         },
         {
-          "Name": "RIC",
+          "Name": "RiC International HD",
           "Package": "Neosat",
           "Languages": [
             "ger"
@@ -622,10 +601,10 @@
           "IsFta": false
         },
         {
-          "Name": "JimJam EMEA",
+          "Name": "Jim Jam",
           "Package": "Neosat",
           "Languages": [
-            "bul"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -648,7 +627,7 @@
         },
         {
           "Name": "radio Radio 1",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "bul"
           ],
@@ -657,7 +636,7 @@
         },
         {
           "Name": "radio BG Radio",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "bul"
           ],
@@ -666,7 +645,7 @@
         },
         {
           "Name": "Eparhiiski glas",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "bul"
           ],
@@ -675,7 +654,7 @@
         },
         {
           "Name": "radio BNR Horizont",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "bul"
           ],
@@ -684,7 +663,7 @@
         },
         {
           "Name": "radio Darik radio",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "bul"
           ],
@@ -693,28 +672,28 @@
         },
         {
           "Name": "MSGn24",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
         },
         {
           "Name": "DATAn24BC3",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
         },
         {
           "Name": "CHLn24BC3",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
         },
         {
           "Name": "MSGn24BSC3",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
@@ -731,7 +710,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12207,
+      "FrequencyMHz": 12208.2,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -740,7 +719,7 @@
       "Channels": [
         {
           "Name": "Evrokom HD",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "bul"
           ],
@@ -758,7 +737,7 @@
         },
         {
           "Name": "Fen Folk TV",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "bul"
           ],
@@ -775,17 +754,17 @@
           "IsFta": false
         },
         {
-          "Name": "FilmBox",
+          "Name": "Filmbox Bulgaria",
           "Package": "Neosat",
           "Languages": [
-            "bul"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "BNT 4 HD",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [
             "bul"
           ],
@@ -796,14 +775,23 @@
           "Name": "Kitchen TV HD",
           "Package": "Neosat",
           "Languages": [
-            "eng",
-            "bul"
+            "bul",
+            "ser"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Nick Jr Bulgaria",
+          "Package": "Neosat",
+          "Languages": [
+            "bul"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MAX One",
           "Package": "Neosat",
           "Languages": [
             "bul"
@@ -822,42 +810,42 @@
         },
         {
           "Name": "MSGn21",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
         },
         {
           "Name": "DATAn21BC2",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
         },
         {
           "Name": "DATAn21BC3",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
         },
         {
           "Name": "CHLn21BC3",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
         },
         {
           "Name": "DATAn21BC1",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
         },
         {
           "Name": "MSGn21BC3",
-          "Package": "Neosat",
+          "Package": "neosat",
           "Languages": [],
           "Type": "Data",
           "IsFta": true
@@ -865,7 +853,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12225,
+      "FrequencyMHz": 12227.2,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -1027,7 +1015,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12303,
+      "FrequencyMHz": 12304.2,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -1175,7 +1163,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12322,
+      "FrequencyMHz": 12324.2,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -1301,7 +1289,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12339,
+      "FrequencyMHz": 12342.2,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -1445,7 +1433,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12360,
+      "FrequencyMHz": 12361.2,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -1599,6 +1587,15 @@
           "IsFta": false
         },
         {
+          "Name": "Ohota \u0026 Rybalka",
+          "Package": "Neosat",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "TV5 Monde Europe",
           "Package": "Neosat",
           "Languages": [
@@ -1645,7 +1642,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12380,
+      "FrequencyMHz": 12381.2,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -1705,7 +1702,7 @@
             "eng"
           ],
           "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "English Club HD",
@@ -1755,39 +1752,12 @@
           "IsFta": false
         },
         {
-          "Name": "MTV 90s",
-          "Package": "Neosat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "MTV Hits",
           "Package": "Neosat",
           "Languages": [
             "eng"
           ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV 00s",
-          "Package": "Neosat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTV 80s",
-          "Package": "Neosat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -1881,7 +1851,7 @@
           "IsFta": false
         },
         {
-          "Name": "radio Vega \u002B",
+          "Name": "radio Vega\u002B",
           "Package": "Neosat",
           "Languages": [
             "bul"
@@ -1929,7 +1899,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12416,
+      "FrequencyMHz": 12419.2,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -2066,7 +2036,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12456,
+      "FrequencyMHz": 12457.2,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",

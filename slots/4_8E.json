@@ -96,7 +96,7 @@
       ]
     },
     {
-      "FrequencyMHz": 3952,
+      "FrequencyMHz": 3952.3,
       "Polarization": "R",
       "SymbolRateKs": 2270,
       "Fec": "2/3",
@@ -576,7 +576,92 @@
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "BBC English (E Af.)",
+          "Package": "BBC World Service",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC English (W Af.)",
+          "Package": "BBC World Service",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC English News",
+          "Package": "BBC World Service",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Arabic",
+          "Package": "BBC World Service",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC French (Africa)",
+          "Package": "BBC World Service",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Gahuza",
+          "Package": "BBC World Service",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Hausa",
+          "Package": "BBC World Service",
+          "Languages": [
+            "hau"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Somali",
+          "Package": "BBC World Service",
+          "Languages": [
+            "som"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Afr Feed 4",
+          "Package": "BBC World Service",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "BBC Afr Feed 6",
+          "Package": "BBC World Service",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 4089,
@@ -588,10 +673,10 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 4094,
+      "FrequencyMHz": 4094.3,
       "Polarization": "L",
       "SymbolRateKs": 1551,
-      "Fec": "3/5",
+      "Fec": "5/11",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": [
@@ -607,10 +692,10 @@
       ]
     },
     {
-      "FrequencyMHz": 4097,
+      "FrequencyMHz": 4097.3,
       "Polarization": "L",
       "SymbolRateKs": 3365,
-      "Fec": "3/5",
+      "Fec": "5/11",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": [
@@ -635,15 +720,6 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10973.5,
-      "Polarization": "V",
-      "SymbolRateKs": 9875,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
       "FrequencyMHz": 11265,
       "Polarization": "H",
       "SymbolRateKs": 30000,
@@ -662,12 +738,21 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11305,
-      "Polarization": "H",
-      "SymbolRateKs": 30000,
+      "FrequencyMHz": 11295.5,
+      "Polarization": "V",
+      "SymbolRateKs": 2075,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "32APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11305,
+      "Polarization": "H",
+      "SymbolRateKs": 34285,
+      "Fec": "1/2",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -716,7 +801,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11727.48,
+      "FrequencyMHz": 11727.8,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -829,32 +914,10 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "ERC",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MX",
-          "Package": "SES",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": false
-        },
-        {
-          "Name": "Service 801",
-          "Package": "SES",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
-      "FrequencyMHz": 11766,
+      "FrequencyMHz": 11766.3,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -953,6 +1016,15 @@
           "IsFta": true
         },
         {
+          "Name": "Super\u002B",
+          "Package": "Viasat",
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "Bolt",
           "Package": "Viasat",
           "Languages": [
@@ -972,26 +1044,6 @@
           "IsFta": true
         },
         {
-          "Name": "Nickelodeon Ukraine Pluto TV",
-          "Package": "Viasat",
-          "Languages": [
-            "ukr",
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Nick Jr. Ukraine",
-          "Package": "Viasat",
-          "Languages": [
-            "ukr",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Animal Planet Eastern Europe",
           "Package": "Viasat",
           "Languages": [
@@ -999,15 +1051,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "Beauty Trust Quality",
-          "Package": "1plus1 Media",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
         },
         {
           "Name": "Discovery Channel Eastern Europe",
@@ -1074,16 +1117,6 @@
           "IsFta": false
         },
         {
-          "Name": "Nicktoons Russia",
-          "Package": "1plus1 Media",
-          "Languages": [
-            "rus",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Unian Serial",
           "Package": "1plus1 Media",
           "Languages": [
@@ -1098,6 +1131,15 @@
           "Languages": [
             "rus",
             "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat True Crime",
+          "Package": "Viasat",
+          "Languages": [
+            "ukr"
           ],
           "Type": "TV",
           "IsFta": false
@@ -1186,13 +1228,13 @@
           "IsFta": false
         },
         {
-          "Name": "XSport",
+          "Name": "Rozpakuy Hit Line",
           "Package": "1plus1 Media",
           "Languages": [
             "ukr"
           ],
           "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "Plus Plus",
@@ -1233,7 +1275,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11785,
+      "FrequencyMHz": 11785.3,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -1242,7 +1284,7 @@
       "Channels": [
         {
           "Name": "LTV 1",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lat"
           ],
@@ -1251,7 +1293,7 @@
         },
         {
           "Name": "LTV 7",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lat"
           ],
@@ -1260,7 +1302,7 @@
         },
         {
           "Name": "Star Family",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "rus"
           ],
@@ -1269,7 +1311,7 @@
         },
         {
           "Name": "TV3 Life",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lat"
           ],
@@ -1278,7 +1320,7 @@
         },
         {
           "Name": "TV 6 Latvia",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lat",
             "eng"
@@ -1288,7 +1330,7 @@
         },
         {
           "Name": "TV3 Mini",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lat"
           ],
@@ -1297,7 +1339,7 @@
         },
         {
           "Name": "3\u002B Latvija",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lat"
           ],
@@ -1306,7 +1348,7 @@
         },
         {
           "Name": "TV8 Lithuania",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lit"
           ],
@@ -1315,7 +1357,7 @@
         },
         {
           "Name": "LNK",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lit"
           ],
@@ -1324,7 +1366,7 @@
         },
         {
           "Name": "Baltijos televizija",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lit"
           ],
@@ -1333,7 +1375,7 @@
         },
         {
           "Name": "TV 1 Lithuania",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lit"
           ],
@@ -1341,17 +1383,18 @@
           "IsFta": false
         },
         {
-          "Name": "OTV Ukraine",
-          "Package": "TV3 Group",
+          "Name": "Kanal 7 Latvia",
+          "Package": "Home 3",
           "Languages": [
-            "rus"
+            "rus",
+            "lat"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "TLC Russia",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "eng",
             "rus"
@@ -1361,7 +1404,7 @@
         },
         {
           "Name": "Viasat Kino",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "rus",
             "eng"
@@ -1371,7 +1414,7 @@
         },
         {
           "Name": "Viasat Kino World",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "rus"
           ],
@@ -1380,7 +1423,7 @@
         },
         {
           "Name": "National Geographic HD East Europe",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "rus",
             "eng"
@@ -1390,7 +1433,7 @@
         },
         {
           "Name": "National_Geographic HD",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "eng"
           ],
@@ -1399,7 +1442,7 @@
         },
         {
           "Name": "Viasat Explore HD",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "eng",
             "rus"
@@ -1408,17 +1451,18 @@
           "IsFta": false
         },
         {
-          "Name": "Viasat Explore HD",
-          "Package": "TV3 Group",
+          "Name": "Viasat History HD",
+          "Package": "Home 3",
           "Languages": [
-            "eng"
+            "eng",
+            "rus"
           ],
-          "Type": "TV",
-          "IsFta": true
+          "Type": "Unknown",
+          "IsFta": false
         },
         {
-          "Name": "MTV Hits",
-          "Package": "TV3 Group",
+          "Name": "MyHits TV",
+          "Package": "Home 3",
           "Languages": [
             "eng"
           ],
@@ -1427,7 +1471,7 @@
         },
         {
           "Name": "Kidzone",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "est",
             "lit",
@@ -1438,7 +1482,7 @@
         },
         {
           "Name": "Duo 5",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "est"
           ],
@@ -1447,7 +1491,7 @@
         },
         {
           "Name": "FX Russia",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "rus",
             "eng"
@@ -1457,7 +1501,7 @@
         },
         {
           "Name": "Duo 3",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lit",
             "rus",
@@ -1532,7 +1576,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11938,
+      "FrequencyMHz": 11938.8,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -1541,7 +1585,7 @@
       "Channels": [
         {
           "Name": "CurrentTime",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "rus"
           ],
@@ -1550,7 +1594,7 @@
         },
         {
           "Name": "LRT Televizija",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lit"
           ],
@@ -1568,7 +1612,7 @@
         },
         {
           "Name": "Lietuvos Rytas TV",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lit"
           ],
@@ -1577,7 +1621,7 @@
         },
         {
           "Name": "ETV 2",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "est"
           ],
@@ -1586,7 +1630,7 @@
         },
         {
           "Name": "TV3 Gold",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "est"
           ],
@@ -1595,14 +1639,14 @@
         },
         {
           "Name": "360 TV Latvia",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Viasat Nature CEE",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "eng",
             "rus"
@@ -1612,7 +1656,7 @@
         },
         {
           "Name": "Euronews Russian",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "rus"
           ],
@@ -1621,7 +1665,7 @@
         },
         {
           "Name": "Go3 Film HD",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lit",
             "est",
@@ -1632,7 +1676,7 @@
         },
         {
           "Name": "Go3 Sport 1 HD",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "est",
             "lit"
@@ -1642,7 +1686,7 @@
         },
         {
           "Name": "Viasat Epic Drama HD",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "eng",
             "lit",
@@ -1653,21 +1697,21 @@
         },
         {
           "Name": "TV 3 Estonia HD",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "TV 3 Latvia HD",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "TV 3 Lithuania HD",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "lit"
           ],
@@ -1676,7 +1720,7 @@
         },
         {
           "Name": "Go3 Sport 3",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "est",
             "lit"
@@ -1686,7 +1730,7 @@
         },
         {
           "Name": "ETV\u002B",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "rus",
             "est"
@@ -1696,7 +1740,7 @@
         },
         {
           "Name": "Duo 6",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "eng",
             "lit",
@@ -1707,7 +1751,7 @@
         },
         {
           "Name": "Eurosport 1",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "eng",
             "rus"
@@ -1717,7 +1761,7 @@
         },
         {
           "Name": "Eurosport 2",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "eng",
             "rus"
@@ -1727,12 +1771,22 @@
         },
         {
           "Name": "Discovery Channel Eastern Europe",
-          "Package": "TV3 Group",
+          "Package": "Home 3",
           "Languages": [
             "eng",
             "rus"
           ],
           "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Discovery_Channel",
+          "Package": "Home 3",
+          "Languages": [
+            "eng",
+            "rus"
+          ],
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -1817,15 +1871,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "Viasat_Kino Action",
-          "Package": "TV3 Group",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
         },
         {
           "Name": "FilmUA Drama",
@@ -1955,10 +2000,10 @@
           "IsFta": false
         },
         {
-          "Name": "MTV 00s",
+          "Name": "RFM TV",
           "Package": "TV3 Group",
           "Languages": [
-            "eng"
+            "fra"
           ],
           "Type": "TV",
           "IsFta": false
@@ -1969,6 +2014,16 @@
           "Languages": [
             "eng",
             "fra"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat Kino Comedy",
+          "Package": "TV3 Group",
+          "Languages": [
+            "rus",
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -2013,7 +2068,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11996,
+      "FrequencyMHz": 11996.3,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -2022,7 +2077,7 @@
       "Channels": [
         {
           "Name": "GOD Europe",
-          "Package": null,
+          "Package": "UT",
           "Languages": [
             "eng"
           ],
@@ -2057,16 +2112,26 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12054,
+      "FrequencyMHz": 12054.3,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "SES Demo",
+          "Package": null,
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
-      "FrequencyMHz": 12073,
+      "FrequencyMHz": 12073.1,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -2075,88 +2140,6 @@
       "Channels": [
         {
           "Name": "Telekanal STB HD",
-          "Package": "SLM",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "ICTV HD",
-          "Package": "SLM",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Novy Kanal HD",
-          "Package": "SLM",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "M1 HD Ukraine",
-          "Package": "SLM",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "M2 HD Ukraine",
-          "Package": "SLM",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "OCE HD",
-          "Package": "SLM",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "ICTV 2",
-          "Package": "SLM",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Tviy Serial",
-          "Package": "SLM",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Super\u002B",
-          "Package": "SLM",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Milady Television",
-          "Package": "SLM",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Relax TVOE Kino",
           "Package": "SES",
           "Languages": [
             "ukr"
@@ -2165,7 +2148,46 @@
           "IsFta": true
         },
         {
-          "Name": "Xit TVOE Kino",
+          "Name": "ICTV HD",
+          "Package": "SES",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Novy Kanal HD",
+          "Package": "SES",
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "We-Ukraine\u002B",
+          "Package": "Streamline Media",
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "OCE HD",
+          "Package": "SES",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "ICTV 2",
+          "Package": "SES",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Tviy Serial",
           "Package": "SES",
           "Languages": [
             "ukr"
@@ -2186,13 +2208,6 @@
           "Languages": [
             "ukr"
           ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Tele Vsesvit",
-          "Package": "SLM",
-          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -2235,6 +2250,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 12110.9,
+      "Polarization": "H",
+      "SymbolRateKs": 31428,
+      "Fec": "1/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 12111,
       "Polarization": "H",
       "SymbolRateKs": 31428,
@@ -2244,58 +2268,13 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12130,
+      "FrequencyMHz": 12130.7,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
-        {
-          "Name": "2\u002B2",
-          "Package": "1plus1 Media",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Telekanal STB",
-          "Package": "SLM",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Nadiya",
-          "Package": "Hope Media Group",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "ICTV 2",
-          "Package": "SLM",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "We-Ukraine\u002B",
-          "Package": null,
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
         {
           "Name": "Rozpakui TV",
           "Package": null,
@@ -2315,15 +2294,6 @@
           "IsFta": true
         },
         {
-          "Name": "1\u002B1",
-          "Package": "1plus1 Media",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Pryamiy",
           "Package": null,
           "Languages": [
@@ -2334,7 +2304,7 @@
         },
         {
           "Name": "Ukrayinske Radio",
-          "Package": null,
+          "Package": "Suspilne",
           "Languages": [
             "ukr"
           ],
@@ -2343,7 +2313,7 @@
         },
         {
           "Name": "Radio Promin",
-          "Package": null,
+          "Package": "Suspilne",
           "Languages": [
             "ukr"
           ],
@@ -2352,7 +2322,7 @@
         },
         {
           "Name": "Radio Culture",
-          "Package": null,
+          "Package": "Suspilne",
           "Languages": [
             "ukr"
           ],
@@ -2379,7 +2349,7 @@
         },
         {
           "Name": "radio nv",
-          "Package": "TRK ERA",
+          "Package": "TRC ERA",
           "Languages": [
             "ukr"
           ],
@@ -2398,15 +2368,6 @@
         {
           "Name": "Emmanuel",
           "Package": "Svitle Radio",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Tysa FM",
-          "Package": "Suspilne",
           "Languages": [
             "ukr"
           ],
@@ -2443,25 +2404,16 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12187.6,
+      "FrequencyMHz": 12188,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
+      "Modulation": "32APSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12187.6,
-      "Polarization": "H",
-      "SymbolRateKs": 27500,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12207,
+      "FrequencyMHz": 12207.3,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -2526,15 +2478,6 @@
           "IsFta": false
         },
         {
-          "Name": "Viasat Kino Megahit",
-          "Package": "Viasat",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Viasat Kino World",
           "Package": "Viasat",
           "Languages": [
@@ -2548,6 +2491,33 @@
           "Package": "Viasat",
           "Languages": [
             "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tvoe Kino Hit",
+          "Package": "Viasat",
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tvoe Kino Action",
+          "Package": "Viasat",
+          "Languages": [
+            "ukr"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Tvoe Kino Relax",
+          "Package": "Viasat",
+          "Languages": [
+            "ukr"
           ],
           "Type": "TV",
           "IsFta": false
@@ -2713,229 +2683,13 @@
       ]
     },
     {
-      "FrequencyMHz": 12226,
+      "FrequencyMHz": 12226.25,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "MTN Info Channel",
-          "Package": "MTNTV",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "MTN Special Events HD",
-          "Package": "MTNTV",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MSNBC",
-          "Package": "MTNTV",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Fox News",
-          "Package": "MTNTV",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Bloomberg U.K.",
-          "Package": "MTNTV",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "BBC News",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sport 24/24",
-          "Package": "MTNTTV",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Prime one",
-          "Package": "MTNTV",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sport 24 Extra",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "RTL Television",
-          "Package": null,
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV Asia Comedy",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TFC Europe",
-          "Package": "MTNTV",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Prime Favorites",
-          "Package": "MTNTV",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "BBC Marine HD",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TVE International",
-          "Package": "MTNTV",
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Food Network",
-          "Package": "MTNTV",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "HGTV UK",
-          "Package": "MTTNTV",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Travel Channel",
-          "Package": "MTNTV",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TEMP 1",
-          "Package": "MTNNTV",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "TEMP 2",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "France 24 (in English)",
-          "Package": "MTNTV",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Mediaset Italia",
-          "Package": null,
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Metro TV",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "National Geographic UK",
-          "Package": "MTNTV",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "MTN Special Event HD 2",
-          "Package": "MTNTV",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12245,
@@ -3045,6 +2799,23 @@
       ]
     },
     {
+      "FrequencyMHz": 12379.9,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-ST2-MI,",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "DSNS Informed",
+          "Package": "BRT",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
+    },
+    {
       "FrequencyMHz": 12399,
       "Polarization": "V",
       "SymbolRateKs": 27500,
@@ -3054,7 +2825,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12418,
+      "FrequencyMHz": 12418.3,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -3062,61 +2833,58 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "TV 1 Lithuania",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "LTV 2",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "LTV 3 Lithuania",
+          "Name": "LadBrokes TV 1",
           "Package": null,
           "Languages": [
-            "lit"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "CTV1",
+          "Name": "LadBrokes TV 2",
           "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "CTV2",
+          "Name": "LadBrokes TV 3",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Coral TV 1",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Coral TV 2",
           "Package": null,
           "Languages": [],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         }
       ]
     },
     {
-      "FrequencyMHz": 12437.2,
+      "FrequencyMHz": 12437.5,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
-        {
-          "Name": "Kanal 5 Ukraine HD",
-          "Package": null,
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
         {
           "Name": "Inter HD",
           "Package": null,
@@ -3212,11 +2980,11 @@
           "Package": null,
           "Languages": [],
           "Type": "TV",
-          "IsFta": false
+          "IsFta": true
         },
         {
           "Name": "English Club HD",
-          "Package": "English Club",
+          "Package": "ECTV",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
@@ -3323,6 +3091,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 12591,
+      "Polarization": "V",
+      "SymbolRateKs": 3800,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 12591.1,
       "Polarization": "V",
       "SymbolRateKs": 3800,
@@ -3332,21 +3109,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12591.1,
+      "FrequencyMHz": 12591.3,
       "Polarization": "V",
       "SymbolRateKs": 3800,
       "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "QPSKStream",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12591.1,
-      "Polarization": "V",
-      "SymbolRateKs": 3800,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "32APSKStream",
       "Channels": []
     },
     {
@@ -3386,7 +3154,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12627.3,
+      "FrequencyMHz": 12627.5,
       "Polarization": "V",
       "SymbolRateKs": 3800,
       "Fec": "3/4",
@@ -3422,9 +3190,9 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12654,
+      "FrequencyMHz": 12655.7,
       "Polarization": "H",
-      "SymbolRateKs": 10899,
+      "SymbolRateKs": 1483,
       "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -3440,7 +3208,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12668.8,
+      "FrequencyMHz": 12668.5,
       "Polarization": "V",
       "SymbolRateKs": 2500,
       "Fec": "3/4",
@@ -3461,33 +3229,33 @@
       "FrequencyMHz": 12669,
       "Polarization": "V",
       "SymbolRateKs": 2500,
-      "Fec": "1/4",
+      "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "32APSK",
       "Channels": []
     },
     {
       "FrequencyMHz": 12670,
       "Polarization": "H",
-      "SymbolRateKs": 2600,
-      "Fec": "2/3",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 12676.6,
-      "Polarization": "H",
-      "SymbolRateKs": 6711,
+      "SymbolRateKs": 5000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
       "FrequencyMHz": 12677,
       "Polarization": "V",
       "SymbolRateKs": 2000,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12680.2,
+      "Polarization": "H",
+      "SymbolRateKs": 7667,
       "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -3512,12 +3280,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12699,
+      "FrequencyMHz": 12693.75,
       "Polarization": "H",
-      "SymbolRateKs": 4938,
+      "SymbolRateKs": 10987,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "32APSK",
       "Channels": []
     },
     {

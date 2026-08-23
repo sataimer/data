@@ -1,0 +1,23 @@
+{
+  "SlotKey": "31.6W",
+  "Transponders": [
+    {
+      "FrequencyMHz": 10975,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "9/10",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11015,
+      "Polarization": "H",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    }
+  ]
+}

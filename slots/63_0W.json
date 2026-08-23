@@ -1,0 +1,14 @@
+{
+  "SlotKey": "63.0W",
+  "Transponders": [
+    {
+      "FrequencyMHz": 11564,
+      "Polarization": "H",
+      "SymbolRateKs": 3320,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    }
+  ]
+}
