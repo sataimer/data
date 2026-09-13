@@ -25,7 +25,7 @@
       "SymbolRateKs": 8050,
       "Fec": "None",
       "Standard": "DVB-S2",
-      "Modulation": "64APSK",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -304,17 +304,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "RTVi Europe",
-          "Package": null,
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11209,
@@ -400,7 +390,8 @@
           "Name": "Aragon TV HD",
           "Package": "CARTV",
           "Languages": [
-            "esp"
+            "esp",
+            "vo"
           ],
           "Type": "TV",
           "IsFta": true
@@ -1084,7 +1075,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11999.66,
+      "FrequencyMHz": 12000.1,
       "Polarization": "H",
       "SymbolRateKs": 9600,
       "Fec": "3/4",
@@ -1093,7 +1084,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12008.66,
+      "FrequencyMHz": 12009.1,
       "Polarization": "H",
       "SymbolRateKs": 4875,
       "Fec": "3/4",
@@ -2956,6 +2947,15 @@
           "IsFta": false
         },
         {
+          "Name": "Kuriakos TV",
+          "Package": null,
+          "Languages": [
+            "por"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
           "Name": "AMC Break",
           "Package": "Nos",
           "Languages": [
@@ -3642,6 +3642,15 @@
       "Fec": "3/4",
       "Standard": "DVB-S2X",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12725.1,
+      "Polarization": "H",
+      "SymbolRateKs": 9600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     }
   ]

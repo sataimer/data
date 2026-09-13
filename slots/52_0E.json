@@ -37,14 +37,7 @@
           "IsFta": true
         },
         {
-          "Name": "Persiana Teen",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Derakhte Zendegi",
+          "Name": "Mojdeh TV",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -53,8 +46,8 @@
           "IsFta": true
         },
         {
-          "Name": "Persiana Reality",
-          "Package": "Persiana Cast",
+          "Name": "Derakhte Zendegi",
+          "Package": "WNS",
           "Languages": [
             "far"
           ],
@@ -75,22 +68,6 @@
           "Package": "WNS",
           "Languages": [
             "afg"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "4Turk HD",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Persiana Sports 2",
-          "Package": "Persiana Cast",
-          "Languages": [
-            "far"
           ],
           "Type": "TV",
           "IsFta": true
@@ -189,13 +166,6 @@
           "IsFta": true
         },
         {
-          "Name": "Persiana Medical",
-          "Package": "Persiana Cast",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Setareh TV",
           "Package": "WNS",
           "Languages": [
@@ -257,15 +227,6 @@
         },
         {
           "Name": "Persiana Sport",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Persiana Documentary HD",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -409,15 +370,6 @@
         },
         {
           "Name": "Persiana Series",
-          "Package": "Persiana Cast",
-          "Languages": [
-            "far"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Persiana Sport",
           "Package": "Persiana Cast",
           "Languages": [
             "far"
@@ -608,8 +560,19 @@
         {
           "Name": "UDAR HD",
           "Package": "\u00C4lem TV",
-          "Languages": [],
+          "Languages": [
+            "rus"
+          ],
           "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Service-811",
+          "Package": "\u00C4lem TV",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -1043,6 +1006,15 @@
           "IsFta": false
         },
         {
+          "Name": "Service-911",
+          "Package": "AREF",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
           "Name": "Service-912",
           "Package": "\u00C4lem TV",
           "Languages": [
@@ -1434,6 +1406,24 @@
           "IsFta": true
         },
         {
+          "Name": "Araz Radio",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Omid Dana TV",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "MBC Persia",
           "Package": "WNS",
           "Languages": [
@@ -1630,6 +1620,15 @@
           "IsFta": true
         },
         {
+          "Name": "Royal TV",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Meraj TV",
           "Package": "WNS",
           "Languages": [
@@ -1651,6 +1650,20 @@
           "Languages": [
             "eng"
           ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Arax TV",
+          "Package": "WNS",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Datis TV",
+          "Package": "WNS",
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -1747,6 +1760,24 @@
       "Fec": "None",
       "Standard": "DVB-S2",
       "Modulation": "64APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11318,
+      "Polarization": "H",
+      "SymbolRateKs": 4000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11343.8,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
       "Channels": []
     },
     {
@@ -1985,11 +2016,20 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11419.3,
+      "FrequencyMHz": 11419.2,
       "Polarization": "H",
       "SymbolRateKs": 1000,
       "Fec": "5/6",
       "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11420.6,
+      "Polarization": "H",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
+      "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": []
     },
@@ -2012,15 +2052,6 @@
         },
         {
           "Name": "Iran International HD",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Persiana Sport",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -2197,9 +2228,7 @@
         {
           "Name": "Ren TV International",
           "Package": "\u00C4lem TV",
-          "Languages": [
-            "rus"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
@@ -2263,8 +2292,7 @@
           "Name": "Viju TV1000 Russian",
           "Package": "\u00C4lem TV",
           "Languages": [
-            "rus",
-            "eng"
+            "rus"
           ],
           "Type": "TV",
           "IsFta": false
@@ -2366,9 +2394,7 @@
         {
           "Name": "STS International",
           "Package": "\u00C4lem TV",
-          "Languages": [
-            "rus"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
@@ -2752,9 +2778,7 @@
           "Name": "MMA-TV.com",
           "Package": "\u00C4lem TV",
           "Languages": [
-            "rus",
-            "eng",
-            "kaz"
+            "rus"
           ],
           "Type": "TV",
           "IsFta": false
@@ -2842,6 +2866,15 @@
         {
           "Name": "KHL Prime HD",
           "Package": "\u00C4lem TV",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Amedia Premium HD",
+          "Package": "AREF",
           "Languages": [
             "rus"
           ],
@@ -2937,10 +2970,11 @@
           "IsFta": false
         },
         {
-          "Name": "Nickelodeon Russia",
+          "Name": "Nick Jr Russia",
           "Package": "\u00C4lem TV",
           "Languages": [
-            "rus"
+            "rus",
+            "kaz"
           ],
           "Type": "TV",
           "IsFta": false

@@ -804,85 +804,18 @@
           "IsFta": false
         },
         {
+          "Name": "Belarus 24 HD",
+          "Package": "Belintersat",
+          "Languages": [
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Belintersat Promo",
           "Package": "Belintersat",
           "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 11387,
-      "Polarization": "V",
-      "SymbolRateKs": 27500,
-      "Fec": "2/3",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "AVA Family",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "AVA Series",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "FX HD Farsi",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "FX 2 HD",
-          "Package": "WNS",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Iran Wire",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "DEJ TV",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Setareh TV",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Iran International",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
           "Type": "TV",
           "IsFta": true
         }
@@ -893,15 +826,6 @@
       "Polarization": "H",
       "SymbolRateKs": 22000,
       "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11426,
-      "Polarization": "V",
-      "SymbolRateKs": 20000,
-      "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": []

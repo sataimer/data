@@ -38,13 +38,20 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10815.3,
+      "FrequencyMHz": 10815,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "7/8",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
+        {
+          "Name": "ViewMedia Promo",
+          "Package": "ViewMedia",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
         {
           "Name": "Alatawla Cinema",
           "Package": "ViewMedia",
@@ -187,9 +194,7 @@
         {
           "Name": "Al Karma Family",
           "Package": "ViewMedia",
-          "Languages": [
-            "eng"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -230,7 +235,7 @@
           "IsFta": true
         },
         {
-          "Name": "Grace TV",
+          "Name": "The Grace TV",
           "Package": "ViewMedia",
           "Languages": [
             "ara"
@@ -268,12 +273,12 @@
       ]
     },
     {
-      "FrequencyMHz": 10834.5,
+      "FrequencyMHz": 10834.2,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "8PSK",
       "Channels": [
         {
           "Name": "Qatar 2",
@@ -401,7 +406,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10872.9,
+      "FrequencyMHz": 10872.6,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "7/8",
@@ -505,7 +510,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10892.1,
+      "FrequencyMHz": 10891.7,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "7/8",
@@ -615,7 +620,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10922.2,
+      "FrequencyMHz": 10921.9,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "7/8",
@@ -991,7 +996,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11219.5,
+      "FrequencyMHz": 11219.2,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -1073,7 +1078,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11227.8,
+      "FrequencyMHz": 11227.4,
       "Polarization": "V",
       "SymbolRateKs": 41667,
       "Fec": "3/4",
@@ -1097,7 +1102,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11258,
+      "FrequencyMHz": 11257.5,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -1155,24 +1160,6 @@
           "IsFta": true
         },
         {
-          "Name": "Karbala Documentary",
-          "Package": "KSCG",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Al Qurain HD",
-          "Package": "KSCG",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Al Shabab TV",
           "Package": "PlayBox Neo Suite",
           "Languages": [],
@@ -1182,15 +1169,6 @@
         {
           "Name": "Alkofiya",
           "Package": null,
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Ana Sooria",
-          "Package": "Gulfsat",
           "Languages": [
             "ara"
           ],
@@ -1214,13 +1192,6 @@
           "IsFta": true
         },
         {
-          "Name": "Alhuseinya Radio",
-          "Package": "KSCG",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "Basma Radio",
           "Package": "BasmaRadio",
           "Languages": [],
@@ -1230,7 +1201,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11277.3,
+      "FrequencyMHz": 11276.7,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -1331,7 +1302,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11296.2,
+      "FrequencyMHz": 11295.9,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -1454,8 +1425,8 @@
           "IsFta": true
         },
         {
-          "Name": "Al Tahrir",
-          "Package": "dU",
+          "Name": "Al Nahrain TV",
+          "Package": "DU",
           "Languages": [
             "ara"
           ],
@@ -1492,7 +1463,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11334.6,
+      "FrequencyMHz": 11334.3,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -1525,7 +1496,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11353.8,
+      "FrequencyMHz": 11353.5,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -1719,7 +1690,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11373,
+      "FrequencyMHz": 11372.6,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -1831,7 +1802,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11392.1,
+      "FrequencyMHz": 11391.8,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "7/8",
@@ -1916,7 +1887,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11411.3,
+      "FrequencyMHz": 11411,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -2087,7 +2058,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11430.5,
+      "FrequencyMHz": 11430.2,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "7/8",
@@ -2278,6 +2249,15 @@
           "IsFta": true
         },
         {
+          "Name": "Zad TV",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "ARTA Radio",
           "Package": null,
           "Languages": [],
@@ -2436,7 +2416,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11526.4,
+      "FrequencyMHz": 11526.1,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -2680,15 +2660,6 @@
           "IsFta": true
         },
         {
-          "Name": "Karbala TV HD",
-          "Package": "Mindpixle",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Faith TV",
           "Package": "iKO Media Group",
           "Languages": [
@@ -2766,7 +2737,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11641.5,
+      "FrequencyMHz": 11641.1,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -3012,7 +2983,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11679.8,
+      "FrequencyMHz": 11679.5,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -3357,7 +3328,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11747,
+      "FrequencyMHz": 11746.7,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -3838,10 +3809,10 @@
     {
       "FrequencyMHz": 11804.4,
       "Polarization": "H",
-      "SymbolRateKs": 27500,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": [
         {
           "Name": "Nilesat Promo HD",
@@ -3853,7 +3824,7 @@
           "IsFta": true
         },
         {
-          "Name": "Test",
+          "Name": "Nilesat PROMO26",
           "Package": "NILESAT",
           "Languages": [
             "eng"
@@ -3900,7 +3871,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11823.8,
+      "FrequencyMHz": 11823.4,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -6384,7 +6355,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12245.8,
+      "FrequencyMHz": 12245.4,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -6568,6 +6539,15 @@
           "IsFta": true
         },
         {
+          "Name": "Alforat HD 1",
+          "Package": "Nilesat",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Syria News",
           "Package": "Nilesat",
           "Languages": [
@@ -6670,7 +6650,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12360.8,
+      "FrequencyMHz": 12360.4,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -6761,7 +6741,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12418.3,
+      "FrequencyMHz": 12418,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",

@@ -1571,42 +1571,34 @@
           "IsFta": false
         },
         {
-          "Name": "TNT VZLA HD",
+          "Name": "TNT MEX HD",
+          "Package": null,
+          "Languages": [
+            "eng",
+            "esp"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "TNT MEX D9865",
           "Package": null,
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "TNT VZLA D9865",
+          "Name": "SPACE MEX HD",
           "Package": null,
-          "Languages": [],
+          "Languages": [
+            "esp",
+            "eng"
+          ],
           "Type": "Unknown",
           "IsFta": false
         },
         {
-          "Name": "TNT VZLA HD AC3",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CTN-MEX HD",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CTN-MEX D9865",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CTN-MEX HD AC3",
+          "Name": "SPACE MEX D9865",
           "Package": null,
           "Languages": [],
           "Type": "Unknown",
@@ -2161,25 +2153,31 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Satellite Latina SD DPI",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
+          "Name": "Latina",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
         },
         {
-          "Name": "Satellite Latina HD",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
+          "Name": "Latina",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
         },
         {
-          "Name": "Satellite Latina -1 Seg",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
+          "Name": "Latina",
+          "Package": null,
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
+          "IsFta": true
         }
       ]
     },

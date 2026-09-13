@@ -1076,15 +1076,6 @@
           ],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "Court TV",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
         }
       ]
     },
@@ -1260,7 +1251,7 @@
           "IsFta": false
         },
         {
-          "Name": "Nick Alvinnnn!!!",
+          "Name": "Nick Toons",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1332,7 +1323,7 @@
           "IsFta": false
         },
         {
-          "Name": "Nick Jr Peppa",
+          "Name": "Nick Jr Too",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1396,7 +1387,7 @@
           "IsFta": true
         },
         {
-          "Name": "Utsav Bharat",
+          "Name": "Star Bharat",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1537,57 +1528,6 @@
           "Languages": [
             "eng",
             "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Arirang TV HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "kor"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "MTA World HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "urd",
-            "fra",
-            "ben",
-            "ara",
-            "ger",
-            "eng",
-            "hin"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Iqra TV",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Iqra Bangla",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Islam Channel",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
           ],
           "Type": "TV",
           "IsFta": true
@@ -1793,7 +1733,7 @@
           "IsFta": true
         },
         {
-          "Name": "Nick Jr Peppa Ireland",
+          "Name": "Nick Jr Too Ireland",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1811,7 +1751,7 @@
           "IsFta": false
         },
         {
-          "Name": "Nick Alvinnnn!!! Ireland",
+          "Name": "Nick Toons Ireland",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1866,7 +1806,7 @@
           "IsFta": true
         },
         {
-          "Name": "GREAT! Romance",
+          "Name": "Great! Christmas",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -1875,7 +1815,7 @@
           "IsFta": true
         },
         {
-          "Name": "GREAT! Romance \u002B1",
+          "Name": "Great! Xmas\u002B1",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -2839,7 +2779,7 @@
           "IsFta": false
         },
         {
-          "Name": "Shop Unlimited",
+          "Name": "High Street TV 3",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -3364,15 +3304,6 @@
           "IsFta": false
         },
         {
-          "Name": "LoveWorldSat HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Film4 Ireland",
           "Package": "Sky Digital",
           "Languages": [
@@ -3428,15 +3359,6 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "PCNE HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "chi"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "TRT World HD",
           "Package": "Sky Digital",
           "Languages": [
@@ -3459,15 +3381,6 @@
           "Package": "Sky Digital",
           "Languages": [
             "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "GTC Punjabi",
-          "Package": "Sky Digital",
-          "Languages": [
-            "pun"
           ],
           "Type": "TV",
           "IsFta": true
@@ -3501,15 +3414,6 @@
           "IsFta": true
         },
         {
-          "Name": "GOD U.K. \u0026 Ireland",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "PBC UK",
           "Package": "Sky Digital",
           "Languages": [],
@@ -3524,7 +3428,7 @@
           "IsFta": true
         },
         {
-          "Name": "Utsav Plus",
+          "Name": "Star Plus",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -3533,7 +3437,7 @@
           "IsFta": false
         },
         {
-          "Name": "Utsav Gold",
+          "Name": "Star Gold",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -3585,13 +3489,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "Revelation TV",
-          "Package": "Sky Digital",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
         }
       ]
     },
@@ -3760,7 +3657,7 @@
           "IsFta": false
         },
         {
-          "Name": "Utsav Gold HD",
+          "Name": "Star Gold HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -3769,16 +3666,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Sports Golf HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Sky Sports Golf HD",
+          "Name": "Star Plus HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -4436,7 +4324,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Sports Action",
+          "Name": "Sky Sports NFL",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -4580,7 +4468,7 @@
           "IsFta": false
         },
         {
-          "Name": "SkySp Action",
+          "Name": "SkySp NFL",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -4698,7 +4586,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Sports Action HD",
+          "Name": "Sky Sports NFL HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -5619,15 +5507,6 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Utsav Plus HD",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Sky Sports\u002B HD",
           "Package": "Sky Digital",
           "Languages": [
@@ -5638,6 +5517,15 @@
         },
         {
           "Name": "NatGeo Wild HD",
+          "Package": "Sky Digital",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sky Sports Golf HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -5995,7 +5883,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Statham HD",
+          "Name": "Sky Action HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6013,7 +5901,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Animation HD",
+          "Name": "Sky Superhero HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6031,7 +5919,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Box Set HD",
+          "Name": "Sky Karate Kid HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6322,12 +6210,12 @@
           "IsFta": false
         },
         {
-          "Name": "2975",
+          "Name": "TLC HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {

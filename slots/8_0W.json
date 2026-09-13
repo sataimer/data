@@ -1141,15 +1141,6 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "Life Show Cinema",
-          "Package": "MY TV",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Al Araby TV",
           "Package": "MY TV",
           "Languages": [],
@@ -1218,6 +1209,15 @@
           "IsFta": true
         },
         {
+          "Name": "Libya G\u002B",
+          "Package": "MY TV",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Melody Cinema",
           "Package": "MY TV",
           "Languages": [
@@ -1236,46 +1236,10 @@
           "IsFta": true
         },
         {
-          "Name": "Life Show Classic",
-          "Package": "MY TV",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Life Show Drama",
-          "Package": "MY TV",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Life Show Alyoum",
-          "Package": "MY TV",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Layaly El Madeh",
           "Package": "MY TV",
           "Languages": [
             "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Life Show Turkey",
-          "Package": "MY TV",
-          "Languages": [
-            "tur"
           ],
           "Type": "TV",
           "IsFta": true
@@ -1293,15 +1257,6 @@
           "Name": "Marina TV HD",
           "Package": "MY TV",
           "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Al-Mawlid Al-Nabawi",
-          "Package": "MY TV",
-          "Languages": [
-            "ara"
-          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -2072,36 +2027,6 @@
           "IsFta": true
         },
         {
-          "Name": "Yemen Documentary",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Sheba TV",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Al Eman",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Aden",
-          "Package": null,
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "SAT.TV - Hot Bird",
           "Package": "FFmpeg",
           "Languages": [
@@ -2413,6 +2338,31 @@
           "Package": "EUTELSAT",
           "Languages": [],
           "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Eutelsat 4",
+          "Package": "EUTELSAT",
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "Juhaina TV",
+          "Package": null,
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Qudaah",
+          "Package": null,
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
           "IsFta": true
         },
         {
@@ -2788,9 +2738,7 @@
         {
           "Name": "Radio WAL",
           "Package": "MY TV",
-          "Languages": [
-            "ara"
-          ],
+          "Languages": [],
           "Type": "Radio",
           "IsFta": true
         }
@@ -3490,11 +3438,11 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12643.3,
+      "FrequencyMHz": 12643.6,
       "Polarization": "V",
       "SymbolRateKs": 4200,
-      "Fec": "3/5",
-      "Standard": "DVB-S2",
+      "Fec": "1/2",
+      "Standard": "DVB-S2X",
       "Modulation": "QPSKStream",
       "Channels": []
     },
@@ -3553,6 +3501,15 @@
         },
         {
           "Name": "Palestine Sport",
+          "Package": "Palsat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Falestinona TV",
           "Package": "Palsat",
           "Languages": [
             "eng"

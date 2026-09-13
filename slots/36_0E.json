@@ -405,7 +405,7 @@
     {
       "FrequencyMHz": 11462.2,
       "Polarization": "V",
-      "SymbolRateKs": 3200,
+      "SymbolRateKs": 3220,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -523,12 +523,21 @@
       ]
     },
     {
+      "FrequencyMHz": 11513.4,
+      "Polarization": "V",
+      "SymbolRateKs": 1048,
+      "Fec": "5/11",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11518,
       "Polarization": "V",
       "SymbolRateKs": 7069,
-      "Fec": "1/2",
+      "Fec": "2/3",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -816,7 +825,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11727,
+      "FrequencyMHz": 11727.6,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -2331,12 +2340,39 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 12611.1,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 12619.8,
       "Polarization": "V",
       "SymbolRateKs": 1500,
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12620.1,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12629.1,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -2382,6 +2418,15 @@
           "IsFta": true
         }
       ]
+    },
+    {
+      "FrequencyMHz": 12656.6,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
     },
     {
       "FrequencyMHz": 12675.3,

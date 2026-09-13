@@ -126,9 +126,9 @@
     },
     {
       "FrequencyMHz": 3823,
-      "Polarization": "V",
-      "SymbolRateKs": 3333,
-      "Fec": "3/5",
+      "Polarization": "H",
+      "SymbolRateKs": 1500,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": []
@@ -422,7 +422,64 @@
       "Fec": "1/2",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "RADIO SAFINA",
+          "Package": "SAFINA",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RADIO SAFINA",
+          "Package": "SAFINA",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "JAMBO FM",
+          "Package": "SAFINA MUX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "JAMBO FM",
+          "Package": "SAFINA MUX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "GOLD FM 22",
+          "Package": "SAFINA MUX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "GOLD FM 22",
+          "Package": "SAFINA MUX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RHM FM",
+          "Package": "SAFINA MUX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "RHM FM",
+          "Package": "SAFINA MUX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 3863,
@@ -465,7 +522,7 @@
       "FrequencyMHz": 3874.3,
       "Polarization": "H",
       "SymbolRateKs": 1250,
-      "Fec": "5/11",
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -541,7 +598,7 @@
     {
       "FrequencyMHz": 3993,
       "Polarization": "V",
-      "SymbolRateKs": 1666,
+      "SymbolRateKs": 1430,
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
@@ -592,11 +649,21 @@
     {
       "FrequencyMHz": 4003,
       "Polarization": "V",
-      "SymbolRateKs": 2204,
-      "Fec": "3/5",
+      "SymbolRateKs": 2500,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "CBI News",
+          "Package": "CBI NEWS",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 4005,
@@ -792,7 +859,7 @@
     {
       "FrequencyMHz": 4123,
       "Polarization": "V",
-      "SymbolRateKs": 1500,
+      "SymbolRateKs": 2000,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
@@ -1059,17 +1126,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Lagos TV",
-          "Package": "LAGOS TELEVISION (LTV)",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 4148,
@@ -1421,6 +1478,15 @@
           "Package": "ADBL",
           "Languages": [],
           "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Azam Sports 5 HD",
+          "Package": "ADBL",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -1828,7 +1894,17 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Al Wasat TV",
+          "Package": "SV",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 11094.3,

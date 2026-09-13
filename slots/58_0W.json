@@ -781,7 +781,7 @@
           "Package": null,
           "Languages": [],
           "Type": "Unknown",
-          "IsFta": true
+          "IsFta": false
         }
       ]
     },
@@ -1148,13 +1148,6 @@
           "IsFta": false
         },
         {
-          "Name": "CNN Chile",
-          "Package": null,
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "TNT SPORTS CHL BASIC AC3",
           "Package": null,
           "Languages": [],
@@ -1166,15 +1159,6 @@
           "Package": null,
           "Languages": [],
           "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CNN Chile",
-          "Package": null,
-          "Languages": [
-            "esp"
-          ],
-          "Type": "TV",
           "IsFta": false
         }
       ]
@@ -1765,7 +1749,7 @@
           "IsFta": false
         },
         {
-          "Name": "Electra01_CH18_MCHD",
+          "Name": "Electra01_CH09_MCHD",
           "Package": null,
           "Languages": [],
           "Type": "Unknown",
@@ -1823,7 +1807,7 @@
           "IsFta": false
         },
         {
-          "Name": "Electra01_CH22_MPHD",
+          "Name": "Electra01_CH10_MPHD",
           "Package": null,
           "Languages": [],
           "Type": "Unknown",

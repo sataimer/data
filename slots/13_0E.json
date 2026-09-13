@@ -832,12 +832,12 @@
           "IsFta": true
         },
         {
-          "Name": "S1 HD Swiss View",
+          "Name": "Kabelio 3\u002B Focus",
           "Package": "KABELIO.CH",
           "Languages": [
             "ger"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -941,25 +941,7 @@
           "IsFta": false
         },
         {
-          "Name": "TVP Kultura",
-          "Package": "Orange PolskaPlatforma Canal\u002BPolsat Box",
-          "Languages": [
-            "pol"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "WP",
-          "Package": "Orange PolskaPlatforma Canal\u002BPolsat Box",
-          "Languages": [
-            "pol"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TVP Seriale",
           "Package": "Orange PolskaPlatforma Canal\u002BPolsat Box",
           "Languages": [
             "pol"
@@ -1038,6 +1020,51 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "StudioMed TV HD",
+          "Package": "Platforma Canal\u002B",
+          "Languages": [
+            "pol"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Home TV Polska",
+          "Package": "Orange PolskaPlatforma Canal\u002B",
+          "Languages": [
+            "pol"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Nuta Gold",
+          "Package": "Orange PolskaPlatforma Canal\u002B",
+          "Languages": [
+            "pol"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Nuta TV",
+          "Package": "Orange PolskaPlatforma Canal\u002B",
+          "Languages": [
+            "pol"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Power TV (Poland)",
+          "Package": "Orange PolskaPlatforma Canal\u002B",
+          "Languages": [
+            "pol"
+          ],
+          "Type": "TV",
+          "IsFta": true
         },
         {
           "Name": "CANAL\u002B 1 HD",
@@ -1148,12 +1175,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10844.5,
+      "FrequencyMHz": 10841.5,
       "Polarization": "H",
-      "SymbolRateKs": 14400,
+      "SymbolRateKs": 9700,
       "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -1199,6 +1226,15 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10867,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -2005,7 +2041,7 @@
           "Name": "Svoboda News",
           "Package": "Svoboda Satellite",
           "Languages": [
-            "rus"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": true
@@ -2014,7 +2050,7 @@
           "Name": "Gordon Live",
           "Package": "Svoboda Satellite",
           "Languages": [
-            "rus"
+            "eng"
           ],
           "Type": "TV",
           "IsFta": true
@@ -2040,9 +2076,7 @@
         {
           "Name": "Belarus Tomorrow",
           "Package": "Svoboda Satellite",
-          "Languages": [
-            "bel"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -3212,19 +3246,19 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11079.7,
+      "FrequencyMHz": 11084.2,
       "Polarization": "V",
-      "SymbolRateKs": 8022,
-      "Fec": "25/36",
-      "Standard": "DVB-S2X",
-      "Modulation": "16APSK",
+      "SymbolRateKs": 14400,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
       "FrequencyMHz": 11088.8,
       "Polarization": "V",
-      "SymbolRateKs": 7120,
-      "Fec": "2/3",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -3441,22 +3475,6 @@
           "Languages": [],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "Kabelio Infokanal",
-          "Package": "KABELIO.CH",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Kabelio SPARE",
-          "Package": "KABELIO.CH",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
         }
       ]
     },
@@ -3487,12 +3505,39 @@
           "IsFta": false
         },
         {
+          "Name": "Test1803",
+          "Package": "Polsat Box",
+          "Languages": [
+            "pol"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Test1804",
+          "Package": "Polsat Box",
+          "Languages": [
+            "pol"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
           "Name": "Eleven Sports 1 4K",
           "Package": "Polsat Box",
           "Languages": [
             "pol"
           ],
           "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Test1808",
+          "Package": "Polsat Box",
+          "Languages": [
+            "pol"
+          ],
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -4073,12 +4118,30 @@
       ]
     },
     {
-      "FrequencyMHz": 11184.7,
+      "FrequencyMHz": 11187.7,
       "Polarization": "V",
-      "SymbolRateKs": 4937,
+      "SymbolRateKs": 9875,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11195.2,
+      "Polarization": "V",
+      "SymbolRateKs": 8022,
+      "Fec": "25/36",
+      "Standard": "DVB-S2X",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11204.2,
+      "Polarization": "V",
+      "SymbolRateKs": 8022,
+      "Fec": "25/36",
+      "Standard": "DVB-S2X",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {
@@ -4093,10 +4156,10 @@
     {
       "FrequencyMHz": 11213,
       "Polarization": "V",
-      "SymbolRateKs": 7200,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "SymbolRateKs": 8022,
+      "Fec": "25/36",
+      "Standard": "DVB-S2X",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {
@@ -4197,26 +4260,6 @@
         },
         {
           "Name": "Food Network HD Italy",
-          "Package": "Tiv\u00F9Sat",
-          "Languages": [
-            "ita",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "K2 (Italy)",
-          "Package": "Tiv\u00F9Sat",
-          "Languages": [
-            "ita",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Frisbee",
           "Package": "Tiv\u00F9Sat",
           "Languages": [
             "ita",
@@ -4407,15 +4450,6 @@
           "IsFta": false
         },
         {
-          "Name": "CANAL\u002B EXTRA 1",
-          "Package": "Platforma Canal\u002B",
-          "Languages": [
-            "pol"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
           "Name": "CANAL\u002B EXTRA 3",
           "Package": "Platforma Canal\u002B",
           "Languages": [
@@ -4517,15 +4551,6 @@
         {
           "Name": "CANAL\u002B 4K ULTRA HD",
           "Package": "CANAL\u002B",
-          "Languages": [
-            "pol"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CANAL\u002B EXTRA 1",
-          "Package": "Platforma Canal\u002B",
           "Languages": [
             "pol"
           ],
@@ -5119,26 +5144,6 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Canal\u002B Film HD Polska",
-          "Package": "Orange PolskaPlatforma Canal\u002B",
-          "Languages": [
-            "pol",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Ale kino\u002B HD",
-          "Package": "Orange PolskaPlatforma Canal\u002BPolsat Box",
-          "Languages": [
-            "pol",
-            "eng"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
           "Name": "Canal\u002B Extra 2",
           "Package": "Platforma Canal\u002B",
           "Languages": [
@@ -5271,25 +5276,6 @@
           "IsFta": false
         },
         {
-          "Name": "Ale Kino\u002B HD",
-          "Package": "Orange PolskaPlatforma Canal\u002B",
-          "Languages": [
-            "pol",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Canal\u002B Film HD Polska",
-          "Package": "Orange PolskaPlatforma Canal\u002B",
-          "Languages": [
-            "pol"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Canal\u002B Extra 2",
           "Package": "Platforma Canal\u002B",
           "Languages": [
@@ -5309,15 +5295,6 @@
         },
         {
           "Name": "Filmbox\u002B One Polska",
-          "Package": "Orange PolskaPlatforma Canal\u002BPolsat Box",
-          "Languages": [
-            "pol"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Ale Kino\u002B HD",
           "Package": "Orange PolskaPlatforma Canal\u002BPolsat Box",
           "Languages": [
             "pol"
@@ -5890,8 +5867,8 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Canal\u002B Sport 2 HD",
-          "Package": "Orange PolskaPlatforma Canal\u002B",
+          "Name": "TV Puls HD",
+          "Package": "Orange PolskaPlatforma Canal\u002BPolsat Box",
           "Languages": [
             "pol"
           ],
@@ -5899,17 +5876,16 @@
           "IsFta": false
         },
         {
-          "Name": "Canal\u002B Domo HD",
+          "Name": "Puls 2 HD",
           "Package": "Orange PolskaPlatforma Canal\u002BPolsat Box",
           "Languages": [
-            "pol",
-            "eng"
+            "pol"
           ],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "Canal\u002B Kuchnia HD",
+          "Name": "WP",
           "Package": "Orange PolskaPlatforma Canal\u002BPolsat Box",
           "Languages": [
             "pol"
@@ -6102,42 +6078,6 @@
           ],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "CANAL\u002B SPORT 2 HD",
-          "Package": "Orange PolskaPlatforma Canal\u002B",
-          "Languages": [
-            "pol"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "CANAL\u002B DOMO HD",
-          "Package": "Orange PolskaPlatforma Canal\u002BPolsat Box",
-          "Languages": [
-            "pol"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Canal\u002B Kuchnia HD",
-          "Package": "Orange PolskaPlatforma Canal\u002BPolsat Box",
-          "Languages": [
-            "pol"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CANAL\u002B SPORT 2 HD",
-          "Package": "Orange PolskaPlatforma Canal\u002B",
-          "Languages": [
-            "pol"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
         },
         {
           "Name": "JASNA GORA",
@@ -6506,12 +6446,21 @@
       ]
     },
     {
-      "FrequencyMHz": 11590.7,
+      "FrequencyMHz": 11589.1,
       "Polarization": "H",
-      "SymbolRateKs": 7200,
+      "SymbolRateKs": 4937,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11595.1,
+      "Polarization": "H",
+      "SymbolRateKs": 4938,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {
@@ -6524,9 +6473,9 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11611.3,
+      "FrequencyMHz": 11609.8,
       "Polarization": "V",
-      "SymbolRateKs": 9875,
+      "SymbolRateKs": 7200,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -6551,10 +6500,10 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11618.46,
+      "FrequencyMHz": 11618.8,
       "Polarization": "V",
-      "SymbolRateKs": 7120,
-      "Fec": "2/3",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -6569,6 +6518,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11627.8,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11630.5,
       "Polarization": "H",
       "SymbolRateKs": 9875,
@@ -6578,30 +6536,39 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11635.3,
+      "FrequencyMHz": 11636.8,
       "Polarization": "V",
-      "SymbolRateKs": 9600,
+      "SymbolRateKs": 7200,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11640.62,
+      "FrequencyMHz": 11642.5,
       "Polarization": "H",
-      "SymbolRateKs": 2222,
-      "Fec": "2/3",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "SymbolRateKs": 9875,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 11651.5,
+      "FrequencyMHz": 11647,
       "Polarization": "H",
-      "SymbolRateKs": 17647,
-      "Fec": "11/15",
+      "SymbolRateKs": 7120,
+      "Fec": "2/3",
       "Standard": "DVB-S2",
-      "Modulation": "16APSK",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11654.5,
+      "Polarization": "H",
+      "SymbolRateKs": 9875,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -6844,6 +6811,15 @@
       ]
     },
     {
+      "FrequencyMHz": 11667.3,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11676.4,
       "Polarization": "H",
       "SymbolRateKs": 7200,
@@ -6862,9 +6838,18 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11685.4,
+      "FrequencyMHz": 11685.3,
       "Polarization": "H",
       "SymbolRateKs": 7200,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11689.8,
+      "Polarization": "H",
+      "SymbolRateKs": 14400,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -7026,9 +7011,11 @@
           "IsFta": true
         },
         {
-          "Name": "RFI Langues Div",
-          "Package": "GLOBECAST",
-          "Languages": [],
+          "Name": "RFI DAB\u002B REGIONS",
+          "Package": "Globecast",
+          "Languages": [
+            "fra"
+          ],
           "Type": "Radio",
           "IsFta": true
         },
@@ -7040,9 +7027,11 @@
           "IsFta": true
         },
         {
-          "Name": "RFI Divers 7",
-          "Package": "GLOBECAST",
-          "Languages": [],
+          "Name": "RFI DAB\u002B Paris",
+          "Package": "Globecast",
+          "Languages": [
+            "fra"
+          ],
           "Type": "Radio",
           "IsFta": true
         },
@@ -7054,33 +7043,8 @@
           "IsFta": true
         },
         {
-          "Name": "RFI Germany",
-          "Package": "GLOBECAST",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Prague",
-          "Package": "GLOBECAST",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Metropole",
-          "Package": "GLOBECAST",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Bucarest",
-          "Package": "GLOBECAST",
+          "Name": "RFI Europe",
+          "Package": "RFI",
           "Languages": [
             "fra"
           ],
@@ -7089,34 +7053,6 @@
         },
         {
           "Name": "RFI Erevan",
-          "Package": "GLOBECAST",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Chisinau",
-          "Package": "GLOBECAST",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Albania",
-          "Package": "GLOBECAST",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Liban",
-          "Package": "GLOBECAST",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "RFI Test HB",
           "Package": "GLOBECAST",
           "Languages": [],
           "Type": "Radio",
@@ -7439,7 +7375,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Sport Highlights HD",
+          "Name": "Magenta Sport Highlights",
           "Package": "Nova",
           "Languages": [
             "gre",
@@ -7656,6 +7592,36 @@
       "Modulation": "8PSK",
       "Channels": [
         {
+          "Name": "Magenta Sport 3 League",
+          "Package": "Nova",
+          "Languages": [
+            "gre",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Magenta Sport 1 League",
+          "Package": "Nova",
+          "Languages": [
+            "gre",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Magenta Sport 2 League",
+          "Package": "Nova",
+          "Languages": [
+            "gre",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "ANT 1 HD",
           "Package": "Nova",
           "Languages": [
@@ -7672,6 +7638,15 @@
           ],
           "Type": "TV",
           "IsFta": true
+        },
+        {
+          "Name": "Magenta Sport 4 League",
+          "Package": "Nova",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "TV",
+          "IsFta": false
         },
         {
           "Name": "Mad Greekz",
@@ -7770,13 +7745,6 @@
             "gre"
           ],
           "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Nickelodeon",
-          "Package": "NOVA",
-          "Languages": [],
-          "Type": "Data",
           "IsFta": true
         },
         {
@@ -8016,7 +7984,7 @@
           "IsFta": false
         },
         {
-          "Name": "4\u002B HD",
+          "Name": "3\u002B Movies",
           "Package": "KABELIO.CH",
           "Languages": [
             "ger"
@@ -8025,7 +7993,7 @@
           "IsFta": false
         },
         {
-          "Name": "5\u002B HD",
+          "Name": "3\u002B Series",
           "Package": "KABELIO.CH",
           "Languages": [
             "ger"
@@ -8034,7 +8002,7 @@
           "IsFta": false
         },
         {
-          "Name": "TV 24 HD",
+          "Name": "3\u002B Adrenalin",
           "Package": "KABELIO.CH",
           "Languages": [
             "ger"
@@ -8043,7 +8011,7 @@
           "IsFta": false
         },
         {
-          "Name": "TV 25 HD",
+          "Name": "3\u002B Emotion",
           "Package": "KABELIO.CH",
           "Languages": [
             "ger"
@@ -8052,7 +8020,7 @@
           "IsFta": false
         },
         {
-          "Name": "6\u002B HD",
+          "Name": "3\u002B Crime",
           "Package": "KABELIO.CH",
           "Languages": [
             "ger"
@@ -8220,6 +8188,15 @@
             "ger"
           ],
           "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Kabelio Spare1",
+          "Package": "KABELIO.CH",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "Unknown",
           "IsFta": false
         }
       ]
@@ -8799,7 +8776,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Sport 4 HD",
+          "Name": "Magenta Sport 4",
           "Package": "Nova",
           "Languages": [
             "gre",
@@ -8809,7 +8786,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Sport 5 HD",
+          "Name": "Magenta Sport 5",
           "Package": "Nova",
           "Languages": [
             "gre",
@@ -8819,7 +8796,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Sport 6 HD",
+          "Name": "Magenta Sport 6",
           "Package": "Nova",
           "Languages": [
             "gre",
@@ -8849,7 +8826,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Sport 2 HD",
+          "Name": "Magenta Sport 2",
           "Package": "Nova",
           "Languages": [
             "gre",
@@ -11065,6 +11042,13 @@
           "Languages": [],
           "Type": "Data",
           "IsFta": true
+        },
+        {
+          "Name": "dvb-nip-02",
+          "Package": "EUTELSAT",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
         }
       ]
     },
@@ -12050,7 +12034,7 @@
           "IsFta": false
         },
         {
-          "Name": "BarLume Collection HD",
+          "Name": "Mission: Impossible Collection HD",
           "Package": "Sky Italia",
           "Languages": [
             "ita",
@@ -12534,7 +12518,16 @@
       ]
     },
     {
-      "FrequencyMHz": 12552.17,
+      "FrequencyMHz": 12543.6,
+      "Polarization": "H",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12552.6,
       "Polarization": "H",
       "SymbolRateKs": 7200,
       "Fec": "3/4",
@@ -12674,16 +12667,16 @@
       ]
     },
     {
-      "FrequencyMHz": 12584.22,
+      "FrequencyMHz": 12583.1,
       "Polarization": "V",
-      "SymbolRateKs": 9700,
-      "Fec": "3/4",
+      "SymbolRateKs": 8500,
+      "Fec": "11/15",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {
-      "FrequencyMHz": 12591.69,
+      "FrequencyMHz": 12592.1,
       "Polarization": "V",
       "SymbolRateKs": 7200,
       "Fec": "3/4",
@@ -14399,10 +14392,19 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12713,
+      "FrequencyMHz": 12704.5,
+      "Polarization": "H",
+      "SymbolRateKs": 9875,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12708.3,
       "Polarization": "V",
-      "SymbolRateKs": 30000,
-      "Fec": "5/6",
+      "SymbolRateKs": 27500,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [

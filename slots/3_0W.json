@@ -46,6 +46,15 @@
       "Modulation": "QPSK",
       "Channels": [
         {
+          "Name": "ESPN Caribbean",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "ESPN 2",
           "Package": "CruiseSat",
           "Languages": [
@@ -253,7 +262,9 @@
         {
           "Name": "Enc 063",
           "Package": "CruiseSat",
-          "Languages": [],
+          "Languages": [
+            "eng"
+          ],
           "Type": "Unknown",
           "IsFta": false
         },
@@ -267,13 +278,101 @@
           "IsFta": false
         },
         {
-          "Name": "America (USA)",
-          "Package": null,
+          "Name": "Enc 065",
+          "Package": "CruiseSat",
           "Languages": [
             "eng"
           ],
-          "Type": "TV",
+          "Type": "Unknown",
           "IsFta": false
+        },
+        {
+          "Name": "Enc 066",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 067",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 068",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 069",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 070",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 071",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 072",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 073",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 074",
+          "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "GMA Pinoy TV",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
         }
       ]
     },

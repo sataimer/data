@@ -238,6 +238,15 @@
       ]
     },
     {
+      "FrequencyMHz": 12579,
+      "Polarization": "V",
+      "SymbolRateKs": 1600,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 12682,
       "Polarization": "V",
       "SymbolRateKs": 16046,

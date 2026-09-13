@@ -465,7 +465,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10802.75,
+      "FrequencyMHz": 10803,
       "Polarization": "H",
       "SymbolRateKs": 22000,
       "Fec": "3/4",
@@ -936,7 +936,7 @@
       ]
     },
     {
-      "FrequencyMHz": 10891.25,
+      "FrequencyMHz": 10891.5,
       "Polarization": "H",
       "SymbolRateKs": 22000,
       "Fec": "2/3",
@@ -1301,43 +1301,43 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "TEST 6 TXP64",
+          "Name": "Movistar Liga Campeones 11",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TEST 1 TXP64",
+          "Name": "Movistar Liga Campeones 12",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TEST 2 TXP64",
+          "Name": "Movistar Liga Campeones 7",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TEST 3 TXP64",
+          "Name": "Movistar Liga Campeones 8",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -1360,13 +1360,13 @@
           "IsFta": false
         },
         {
-          "Name": "TEST TXP64",
+          "Name": "Movistar Liga Campeones 6",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -1380,23 +1380,23 @@
           "IsFta": false
         },
         {
-          "Name": "TEST 7 TXP64",
+          "Name": "Movistar Liga Campeones 13",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TEST 4 TXP64",
+          "Name": "Movistar Liga Campeones 9",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -1410,13 +1410,13 @@
           "IsFta": false
         },
         {
-          "Name": "TEST 5 TXP64",
+          "Name": "Movistar Liga Campeones 10",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -1661,15 +1661,6 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "SES UHD Demo",
-          "Package": "SES",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "UHD1 by ASTRA / HD\u002B",
           "Package": "HD \u002B",
           "Languages": [
@@ -1677,15 +1668,6 @@
           ],
           "Type": "TV",
           "IsFta": false
-        },
-        {
-          "Name": "SES UHD Demo Channel 06",
-          "Package": "SES",
-          "Languages": [
-            "ger"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
         },
         {
           "Name": "Pro7Sat.1 UHD",
@@ -3127,10 +3109,12 @@
           "IsFta": false
         },
         {
-          "Name": ".4.",
+          "Name": "SES Demo",
           "Package": "BetaDigital",
-          "Languages": [],
-          "Type": "Data",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
           "IsFta": true
         }
       ]
@@ -4838,6 +4822,15 @@
           "IsFta": true
         }
       ]
+    },
+    {
+      "FrequencyMHz": 11588.5,
+      "Polarization": "V",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
     },
     {
       "FrequencyMHz": 11603.7,
@@ -10253,9 +10246,9 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12728.3,
+      "FrequencyMHz": 12735.6,
       "Polarization": "V",
-      "SymbolRateKs": 23500,
+      "SymbolRateKs": 22000,
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",

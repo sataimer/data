@@ -62,7 +62,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11785.9,
+      "FrequencyMHz": 11785,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -160,7 +160,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11824.1,
+      "FrequencyMHz": 11823.4,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -371,7 +371,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11862.1,
+      "FrequencyMHz": 11861.7,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -602,7 +602,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11900.4,
+      "FrequencyMHz": 11900.1,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -989,7 +989,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11938.8,
+      "FrequencyMHz": 11938.5,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "2/3",
@@ -1096,7 +1096,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Cinema 2 HD",
+          "Name": "Magenta Cinema 2",
           "Package": "Cosmote",
           "Languages": [
             "eng"
@@ -1389,7 +1389,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11977.2,
+      "FrequencyMHz": 11976.8,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -1774,17 +1774,7 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "AEK SL Pass",
-          "Package": "Cosmote",
-          "Languages": [
-            "gre",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Cosmote Sport 6 HD",
+          "Name": "Magenta Sport 6",
           "Package": "Cosmote",
           "Languages": [
             "gre",
@@ -1831,7 +1821,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Sport 4 HD",
+          "Name": "Magenta Sport 4",
           "Package": "Cosmote",
           "Languages": [
             "gre",
@@ -1897,7 +1887,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Sport 7 HD",
+          "Name": "Magenta Sport 7",
           "Package": "Cosmote",
           "Languages": [
             "gre",
@@ -3251,7 +3241,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Sport 5 HD",
+          "Name": "Magenta Sport 5",
           "Package": "Cosmote",
           "Languages": [
             "gre",
@@ -3298,7 +3288,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Sport 9 HD",
+          "Name": "Magenta Sport 9",
           "Package": "Cosmote",
           "Languages": [
             "gre",
@@ -3382,10 +3372,10 @@
           "IsFta": false
         },
         {
-          "Name": "History HD Europe",
+          "Name": "Magenta History",
           "Package": "Cosmote",
           "Languages": [
-            "eng"
+            "gre"
           ],
           "Type": "TV",
           "IsFta": false
@@ -3419,7 +3409,7 @@
           "IsFta": false
         },
         {
-          "Name": "COSMOTE Series HD",
+          "Name": "Magenta Series 1",
           "Package": "Cosmote",
           "Languages": [
             "eng"
@@ -3428,23 +3418,23 @@
           "IsFta": false
         },
         {
-          "Name": "TEST 10",
+          "Name": "Magenta Sport 1 League",
           "Package": "Cosmote",
           "Languages": [
             "gre",
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TEST 11",
+          "Name": "Magenta Sport 2 League",
           "Package": "Cosmote",
           "Languages": [
             "gre",
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -3458,7 +3448,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Sport Highlights HD",
+          "Name": "Magenta Sport Highlights",
           "Package": "Cosmote",
           "Languages": [
             "gre",
@@ -3472,16 +3462,6 @@
           "Package": "Cosmote",
           "Languages": [
             "gre"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Olympiakos SL Pass",
-          "Package": "Cosmote",
-          "Languages": [
-            "gre",
-            "eng"
           ],
           "Type": "TV",
           "IsFta": false
@@ -4121,7 +4101,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Cinema 1 HD",
+          "Name": "Magenta Cinema 1",
           "Package": "Cosmote",
           "Languages": [
             "eng"
@@ -4186,16 +4166,6 @@
           "IsFta": false
         },
         {
-          "Name": "COSMOTE Sport Superleague Pass",
-          "Package": "Cosmote",
-          "Languages": [
-            "gre",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
           "Name": "Dorcel TV",
           "Package": "Cosmote",
           "Languages": [
@@ -4232,7 +4202,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Sport 1 HD",
+          "Name": "Magenta Sport 1",
           "Package": "Cosmote",
           "Languages": [
             "gre",
@@ -4242,13 +4212,13 @@
           "IsFta": false
         },
         {
-          "Name": "TEST 12",
+          "Name": "Magenta Sport 3 League",
           "Package": "Cosmote",
           "Languages": [
             "gre",
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         }
       ]
@@ -4354,15 +4324,6 @@
         {
           "Name": "Kiss Kiss Napoli TV",
           "Package": "KISS KISS NAPOLI TV",
-          "Languages": [
-            "ita"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Teleclub Italia",
-          "Package": "ASSOCIAZIONE DREAMER",
           "Languages": [
             "ita"
           ],
@@ -4656,6 +4617,15 @@
         {
           "Name": "Radio Marte TV",
           "Package": "RADIO MARTE TV",
+          "Languages": [
+            "ita"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Notix TV",
+          "Package": "NOTIX TV",
           "Languages": [
             "ita"
           ],
@@ -5901,7 +5871,7 @@
         },
         {
           "Name": "TeleGenova Sat",
-          "Package": "Media Group",
+          "Package": "TEGENOVA",
           "Languages": [
             "ita"
           ],
@@ -6168,7 +6138,7 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "Cosmote Sport 2 HD",
+          "Name": "Magenta Sport 2",
           "Package": "Cosmote",
           "Languages": [
             "gre",
@@ -6197,7 +6167,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Sport 3 HD",
+          "Name": "Magenta Sport 3",
           "Package": "Cosmote",
           "Languages": [
             "gre",
@@ -6216,7 +6186,7 @@
           "IsFta": false
         },
         {
-          "Name": "COSMOTE Series Marathon HD",
+          "Name": "Magenta Series 2",
           "Package": "Cosmote",
           "Languages": [
             "eng"
@@ -6272,7 +6242,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Cinema 3",
+          "Name": "Magenta Cinema 3 gre",
           "Package": "Cosmote",
           "Languages": [
             "gre"
@@ -6281,7 +6251,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cosmote Sport 8 HD",
+          "Name": "Magenta Sport 8",
           "Package": "Cosmote",
           "Languages": [
             "gre",
@@ -6884,13 +6854,13 @@
           "IsFta": false
         },
         {
-          "Name": "TEST 13",
+          "Name": "Magenta Sport 4 League",
           "Package": "Cosmote",
           "Languages": [
             "gre",
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {

@@ -1742,6 +1742,15 @@
           "IsFta": true
         },
         {
+          "Name": "AlUla FMksa",
+          "Package": null,
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
           "Name": "MDLBEAST Radio",
           "Package": null,
           "Languages": [],
@@ -2818,6 +2827,15 @@
           "Package": "PALSAT",
           "Languages": [
             "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Falestinona TV",
+          "Package": "Palsat",
+          "Languages": [
+            "eng"
           ],
           "Type": "TV",
           "IsFta": true
@@ -4032,6 +4050,13 @@
           "IsFta": true
         },
         {
+          "Name": "Lion 1 TV",
+          "Package": "OFFRICHE",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "WW TV",
           "Package": null,
           "Languages": [
@@ -4042,6 +4067,13 @@
         },
         {
           "Name": "Cape TV",
+          "Package": null,
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "NAB TV",
           "Package": null,
           "Languages": [],
           "Type": "TV",
@@ -4089,9 +4121,11 @@
           "IsFta": true
         },
         {
-          "Name": "Nhyira Baptist TV",
+          "Name": "Sika TV",
           "Package": "OFFRICHE",
-          "Languages": [],
+          "Languages": [
+            "eng"
+          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -4121,27 +4155,9 @@
           "IsFta": true
         },
         {
-          "Name": "Homebase TV Ghana",
-          "Package": "Quickstream",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Adoa TV",
           "Package": null,
           "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Baawah TV",
-          "Package": null,
-          "Languages": [
-            "eng"
-          ],
           "Type": "TV",
           "IsFta": true
         }
@@ -5532,7 +5548,7 @@
       "Channels": [
         {
           "Name": "ENTV HD",
-          "Package": "TDA",
+          "Package": "TDA DZ",
           "Languages": [
             "ara"
           ],
@@ -5559,7 +5575,7 @@
         },
         {
           "Name": "Alg\u00E9rie 5",
-          "Package": "TDA",
+          "Package": "tda",
           "Languages": [
             "ara"
           ],
@@ -6304,13 +6320,6 @@
           "IsFta": true
         },
         {
-          "Name": "Test TV 7",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
           "Name": "Sahara 24",
           "Package": null,
           "Languages": [
@@ -6326,6 +6335,13 @@
             "ara"
           ],
           "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Test TV 10",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
           "IsFta": true
         },
         {
@@ -6536,13 +6552,6 @@
           "Package": null,
           "Languages": [],
           "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Test TV 10",
-          "Package": null,
-          "Languages": [],
-          "Type": "Data",
           "IsFta": true
         },
         {

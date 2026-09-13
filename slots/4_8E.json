@@ -943,14 +943,13 @@
           "IsFta": false
         },
         {
-          "Name": "Kvartal TV",
-          "Package": "Viasat Ukraine",
+          "Name": "RAZ-3",
+          "Package": "Viasat",
           "Languages": [
-            "ukr",
-            "rus"
+            "ukr"
           ],
           "Type": "TV",
-          "IsFta": true
+          "IsFta": false
         },
         {
           "Name": "TET",
@@ -1301,10 +1300,11 @@
           "IsFta": false
         },
         {
-          "Name": "Star Family",
-          "Package": "Home 3",
+          "Name": "Star Cinema",
+          "Package": "TV3 Group",
           "Languages": [
-            "rus"
+            "rus",
+            "ukr"
           ],
           "Type": "TV",
           "IsFta": false
@@ -1481,8 +1481,8 @@
           "IsFta": false
         },
         {
-          "Name": "Duo 5",
-          "Package": "Home 3",
+          "Name": "Duo Star",
+          "Package": "TV3 Group",
           "Languages": [
             "est"
           ],
@@ -1845,7 +1845,7 @@
           "IsFta": false
         },
         {
-          "Name": "Duo 4",
+          "Name": "Duo Drama",
           "Package": "TV3 Group",
           "Languages": [
             "est"
@@ -2203,15 +2203,6 @@
           "IsFta": true
         },
         {
-          "Name": "New Christian TV",
-          "Package": "SLM",
-          "Languages": [
-            "ukr"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "We-Ukraine\u002B",
           "Package": "Streamline Media",
           "Languages": [
@@ -2236,6 +2227,20 @@
             "ukr"
           ],
           "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "MX",
+          "Package": "SES",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": false
+        },
+        {
+          "Name": "Service 801",
+          "Package": "SES",
+          "Languages": [],
+          "Type": "Data",
           "IsFta": true
         }
       ]
@@ -2770,33 +2775,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "SonLife Broadcasting Network",
-          "Package": "SES",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Belsat TV",
-          "Package": "SES ASTRA",
-          "Languages": [
-            "bel"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Marija Latvia",
-          "Package": "SES ASTRA",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12379.9,
@@ -2805,15 +2784,7 @@
       "Fec": "3/4",
       "Standard": "DVB-ST2-MI,",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "DSNS Informed",
-          "Package": "BRT",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12399,

@@ -2527,6 +2527,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 10926.9,
+      "Polarization": "H",
+      "SymbolRateKs": 9944,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 10934.6,
       "Polarization": "H",
       "SymbolRateKs": 22500,
@@ -2731,202 +2740,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "SudFM TV",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Le Messager TV",
-          "Package": "LE MESSAGER TV",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Canal 2 International",
-          "Package": "FTA",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Exodus Channel",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "France 24 (en Fran\u00E7ais)",
-          "Package": "A",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Cam10 TV",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Afrique Media",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Info TV Cameroon",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Dash TV",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Times TV Cameroun",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Horizon 3 TV",
-          "Package": "HORIZON 3TV",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "NTV Cameroun",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Power TV Cameroun",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RTV (Resurrection TV)",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RADIO BALAFON",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Tropical FM",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "RealTime Cameroun",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "GMS TV Cameroun",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "BNews 1",
-          "Package": "RASCOM",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Kalangou",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "HORIZON 3 RADIO",
-          "Package": "HORIZON 3 TV",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio SIRIRI",
-          "Package": "RASCOM",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11455,

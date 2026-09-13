@@ -292,6 +292,15 @@
       ]
     },
     {
+      "FrequencyMHz": 11655,
+      "Polarization": "H",
+      "SymbolRateKs": 7982,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11668.8,
       "Polarization": "V",
       "SymbolRateKs": 51426,
@@ -405,11 +414,9 @@
           "IsFta": true
         },
         {
-          "Name": "Hagere Hamasien TV",
+          "Name": "IITV HD",
           "Package": "MENASAT",
-          "Languages": [
-            "far"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -453,7 +460,7 @@
           "IsFta": true
         },
         {
-          "Name": "SWAT FM",
+          "Name": "Sawt alahrar",
           "Package": "MENASAT",
           "Languages": [],
           "Type": "Radio",
@@ -499,12 +506,12 @@
       ]
     },
     {
-      "FrequencyMHz": 12635,
+      "FrequencyMHz": 12634.7,
       "Polarization": "V",
       "SymbolRateKs": 1000,
-      "Fec": "1/2",
+      "Fec": "2/3",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -523,17 +530,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Al Masirah TV",
-          "Package": "Harmonic",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12645,
@@ -652,15 +649,7 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Al Mawlid HD",
-          "Package": "MTC",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12743.7,

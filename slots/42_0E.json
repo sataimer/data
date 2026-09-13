@@ -2,6 +2,15 @@
   "SlotKey": "42.0E",
   "Transponders": [
     {
+      "FrequencyMHz": 10954,
+      "Polarization": "V",
+      "SymbolRateKs": 3333,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 10956.5,
       "Polarization": "V",
       "SymbolRateKs": 7500,
@@ -56,6 +65,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 10974,
+      "Polarization": "V",
+      "SymbolRateKs": 7500,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 10974.6,
       "Polarization": "V",
       "SymbolRateKs": 7500,
@@ -69,24 +87,6 @@
       "Polarization": "H",
       "SymbolRateKs": 2962,
       "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10975,
-      "Polarization": "V",
-      "SymbolRateKs": 4444,
-      "Fec": "5/6",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 10983.5,
-      "Polarization": "V",
-      "SymbolRateKs": 7500,
-      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -191,7 +191,7 @@
         },
         {
           "Name": "NTV Turkey",
-          "Package": "DOGUS",
+          "Package": null,
           "Languages": [
             "tur"
           ],
@@ -412,6 +412,15 @@
       "Polarization": "H",
       "SymbolRateKs": 7500,
       "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11196,
+      "Polarization": "H",
+      "SymbolRateKs": 3333,
+      "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -999,6 +1008,42 @@
           "IsFta": false
         },
         {
+          "Name": "5\u002B1 CONCERTS",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "BEST FM",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "GREEK SONGS",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "MASAL RADYO",
+          "Package": "Digit\u00FCrk",
+          "Languages": [
+            "tur"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
           "Name": "TRT 1 HD",
           "Package": "Digit\u00FCrk",
           "Languages": [
@@ -1117,7 +1162,7 @@
           "IsFta": false
         },
         {
-          "Name": "TJK TV HD",
+          "Name": "Yaristayiz TV",
           "Package": "Digit\u00FCrk",
           "Languages": [
             "tur"
@@ -2062,9 +2107,9 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11606.2,
+      "FrequencyMHz": 11607.1,
       "Polarization": "V",
-      "SymbolRateKs": 6200,
+      "SymbolRateKs": 4600,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -2234,15 +2279,6 @@
         },
         {
           "Name": "Start World",
-          "Package": "TURKSAT",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Unknown Russia",
           "Package": "TURKSAT",
           "Languages": [
             "rus"
@@ -3492,15 +3528,6 @@
           "IsFta": true
         },
         {
-          "Name": "Tele 1 HD",
-          "Package": "DEMIROREN MEDYA",
-          "Languages": [
-            "tur"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Rumeli TV",
           "Package": "DEMIROREN MEDYA",
           "Languages": [
@@ -4375,16 +4402,6 @@
           ],
           "Type": "Unknown",
           "IsFta": false
-        },
-        {
-          "Name": "Teknofest Mavi Vatan",
-          "Package": "DEMIROREN MEDYA",
-          "Languages": [
-            "tur",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
         },
         {
           "Name": "Movie Classic",
@@ -5350,7 +5367,7 @@
         },
         {
           "Name": "BRTV Anadolu",
-          "Package": null,
+          "Package": "GUC TELEKOM MEDYA",
           "Languages": [
             "tur"
           ],
@@ -5422,7 +5439,7 @@
         },
         {
           "Name": "VAN65",
-          "Package": null,
+          "Package": "GUC TELEKOM MEDYA",
           "Languages": [
             "tur"
           ],
@@ -5449,7 +5466,7 @@
         },
         {
           "Name": "TV 3 (Turkey)",
-          "Package": null,
+          "Package": "GUC TELEKOM MEDYA",
           "Languages": [
             "tur"
           ],
@@ -6406,6 +6423,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 12623.1,
+      "Polarization": "V",
+      "SymbolRateKs": 68571,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 12685,
       "Polarization": "H",
       "SymbolRateKs": 27500,
@@ -6449,15 +6475,6 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "CAGRI FM",
-          "Package": "TURKSAT",
-          "Languages": [
-            "tur"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "RADYO 7",
           "Package": "TURKSAT",
           "Languages": [
@@ -6496,19 +6513,11 @@
     {
       "FrequencyMHz": 12728.9,
       "Polarization": "H",
-      "SymbolRateKs": 34286,
+      "SymbolRateKs": 28000,
       "Fec": "1/2",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "Service01",
-          "Package": "FFmpeg",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12729,

@@ -201,7 +201,7 @@
   },
   {
     "Slot": "23.5E",
-    "DisplayName": "Astra 3 / Paksat",
+    "DisplayName": "Astra 3",
     "IsFree": true
   },
   {
@@ -542,6 +542,16 @@
   {
     "Slot": "9.1W",
     "DisplayName": "Eutelsat 5",
+    "IsFree": false
+  },
+  {
+    "Slot": "16.5E",
+    "DisplayName": "Eutelsat 7",
+    "IsFree": false
+  },
+  {
+    "Slot": "74.5E",
+    "DisplayName": "Express AT1",
     "IsFree": false
   }
 ]

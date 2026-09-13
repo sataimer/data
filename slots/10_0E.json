@@ -1700,7 +1700,7 @@
           "IsFta": true
         },
         {
-          "Name": "Salisbury EDI B",
+          "Name": "Salisbury EDI A",
           "Package": "BFBS",
           "Languages": [],
           "Type": "Data",
@@ -1806,6 +1806,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 11302.1,
+      "Polarization": "H",
+      "SymbolRateKs": 10000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 11322.8,
       "Polarization": "H",
       "SymbolRateKs": 2000,
@@ -1890,9 +1899,9 @@
       "FrequencyMHz": 12523.3,
       "Polarization": "H",
       "SymbolRateKs": 10038,
-      "Fec": "2/3",
+      "Fec": "13/18",
       "Standard": "DVB-S2X",
-      "Modulation": "AUTO",
+      "Modulation": "16APSK",
       "Channels": []
     },
     {
@@ -1902,6 +1911,15 @@
       "Fec": "1/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12531.6,
+      "Polarization": "V",
+      "SymbolRateKs": 300,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSKStream",
       "Channels": []
     },
     {
@@ -1943,10 +1961,10 @@
     {
       "FrequencyMHz": 12555.2,
       "Polarization": "V",
-      "SymbolRateKs": 1014,
-      "Fec": "3/5",
+      "SymbolRateKs": 1000,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "8PSKStream",
+      "Modulation": "32APSKStream",
       "Channels": []
     },
     {
@@ -2046,6 +2064,15 @@
       "Fec": "None",
       "Standard": "DVB-S2X",
       "Modulation": "AUTOStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12681.7,
+      "Polarization": "H",
+      "SymbolRateKs": 30128,
+      "Fec": "AUTO",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
       "Channels": []
     },
     {

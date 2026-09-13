@@ -26,7 +26,80 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Channel 24 HD Pakistan",
+          "Package": "MIM",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "City 42 News",
+          "Package": "MIM",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "City 41",
+          "Package": "UES",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Rohi TV",
+          "Package": "UES",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Channel 44 UK",
+          "Package": "UES",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "CITY-21",
+          "Package": "MIM",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "CITY",
+          "Package": "MIM",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        },
+        {
+          "Name": "CITY",
+          "Package": "MIM",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 3758,
@@ -53,9 +126,9 @@
       ]
     },
     {
-      "FrequencyMHz": 3766,
+      "FrequencyMHz": 3768,
       "Polarization": "H",
-      "SymbolRateKs": 5600,
+      "SymbolRateKs": 4800,
       "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -136,6 +209,15 @@
       ]
     },
     {
+      "FrequencyMHz": 3833,
+      "Polarization": "H",
+      "SymbolRateKs": 2035,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 3836,
       "Polarization": "H",
       "SymbolRateKs": 3222,
@@ -163,6 +245,13 @@
       "Modulation": "8PSK",
       "Channels": [
         {
+          "Name": "Pashto 1",
+          "Package": "TeleNest",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "VSH News",
           "Package": null,
           "Languages": [
@@ -179,10 +268,35 @@
           "IsFta": true
         },
         {
-          "Name": "See TV",
+          "Name": "Noor TV Pakistan",
+          "Package": "TeleNest",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Al Ehsaan TV",
           "Package": "TeleNest",
           "Languages": [],
-          "Type": "Unknown",
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Paigham TV Pashto",
+          "Package": "TeleNest",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "iFilm English",
+          "Package": "TeleNest",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": true
         }
       ]
@@ -331,7 +445,7 @@
       "FrequencyMHz": 3892.3,
       "Polarization": "H",
       "SymbolRateKs": 3333,
-      "Fec": "5/11",
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": [
@@ -462,7 +576,7 @@
       "FrequencyMHz": 3987.3,
       "Polarization": "H",
       "SymbolRateKs": 3600,
-      "Fec": "5/11",
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -490,7 +604,7 @@
       "FrequencyMHz": 3999.3,
       "Polarization": "H",
       "SymbolRateKs": 6400,
-      "Fec": "5/11",
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -509,7 +623,7 @@
       "FrequencyMHz": 4006,
       "Polarization": "H",
       "SymbolRateKs": 5000,
-      "Fec": "5/6",
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -524,7 +638,7 @@
         },
         {
           "Name": "Lahore Rang HD",
-          "Package": "Mahmood Khaliq",
+          "Package": "Paksat 1R",
           "Languages": [
             "urd"
           ],
@@ -659,7 +773,7 @@
       "FrequencyMHz": 4069.3,
       "Polarization": "H",
       "SymbolRateKs": 4000,
-      "Fec": "5/11",
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -669,6 +783,41 @@
           "Languages": [
             "urd"
           ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4078,
+      "Polarization": "H",
+      "SymbolRateKs": 4800,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "AVT Khyber",
+          "Package": "AVT CHANNELS",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Khyber News",
+          "Package": "AVT CHANNELS",
+          "Languages": [
+            "pus"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Kay-2",
+          "Package": "AVT CHANNELS",
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         }
@@ -807,7 +956,7 @@
       "FrequencyMHz": 4102.3,
       "Polarization": "H",
       "SymbolRateKs": 1600,
-      "Fec": "5/11",
+      "Fec": "3/5",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -876,43 +1025,6 @@
       ]
     },
     {
-      "FrequencyMHz": 4140,
-      "Polarization": "H",
-      "SymbolRateKs": 8000,
-      "Fec": "3/5",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Dunya News",
-          "Package": "NCS",
-          "Languages": [
-            "urd"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Lahore News",
-          "Package": "NCS",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Dunya Entertainment HD",
-          "Package": "NCS",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
-    },
-    {
       "FrequencyMHz": 4147,
       "Polarization": "H",
       "SymbolRateKs": 2960,
@@ -952,6 +1064,90 @@
           "Languages": [
             "urd"
           ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4166,
+      "Polarization": "H",
+      "SymbolRateKs": 8000,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Dunya News",
+          "Package": "NCS",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Lahore News",
+          "Package": "NCS",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Dunya Entertainment HD",
+          "Package": "NCS",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 4180,
+      "Polarization": "H",
+      "SymbolRateKs": 16855,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Geo News",
+          "Package": "GEO TV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Geo Entertainment",
+          "Package": "GEO TV",
+          "Languages": [
+            "urd"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "GEO Kahani",
+          "Package": "GEO TV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Geo Super",
+          "Package": "GEO TV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Geo Tez",
+          "Package": "GEO TV",
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         }

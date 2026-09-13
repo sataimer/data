@@ -536,12 +536,21 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11162,
+      "FrequencyMHz": 11153.7,
       "Polarization": "H",
-      "SymbolRateKs": 14368,
-      "Fec": "5/6",
+      "SymbolRateKs": 5914,
+      "Fec": "1/4",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "QPSKStream",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11172.5,
+      "Polarization": "H",
+      "SymbolRateKs": 29230,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSK",
       "Channels": []
     },
     {
@@ -560,6 +569,15 @@
       "Fec": "3/4",
       "Standard": "DVB-S",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11587.5,
+      "Polarization": "H",
+      "SymbolRateKs": 3000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "32APSKStream",
       "Channels": []
     },
     {
@@ -632,6 +650,15 @@
       "Fec": "1/4",
       "Standard": "DVB-S2X",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 12587.7,
+      "Polarization": "H",
+      "SymbolRateKs": 400,
+      "Fec": "1/2",
+      "Standard": "DVB-S2X",
+      "Modulation": "QPSKStream",
       "Channels": []
     },
     {

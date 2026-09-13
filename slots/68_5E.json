@@ -2231,13 +2231,6 @@
           "IsFta": false
         },
         {
-          "Name": "SPORTS 18 2 HD",
-          "Package": "NW18",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
           "Name": "Star Sports 2 Tamil",
           "Package": "JIO",
           "Languages": [
@@ -4479,7 +4472,7 @@
           "IsFta": true
         },
         {
-          "Name": "Biafra TV",
+          "Name": "ViewMedia Promo",
           "Package": "ViewMedia",
           "Languages": [
             "eng"
@@ -4578,6 +4571,13 @@
           "Languages": [
             "eng"
           ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Morning Cloud TV",
+          "Package": "Sentech",
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },

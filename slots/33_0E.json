@@ -40,10 +40,10 @@
     {
       "FrequencyMHz": 10815.1,
       "Polarization": "H",
-      "SymbolRateKs": 34545,
-      "Fec": "3/5",
-      "Standard": "DVB-S2X",
-      "Modulation": "8PSK",
+      "SymbolRateKs": 30000,
+      "Fec": "None",
+      "Standard": "DVB-S2",
+      "Modulation": "64APSK",
       "Channels": []
     },
     {

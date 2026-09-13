@@ -679,7 +679,7 @@
           "IsFta": false
         },
         {
-          "Name": "Tring Summertime",
+          "Name": "Tring Family HD",
           "Package": "Tring Digital",
           "Languages": [
             "alb"
@@ -930,10 +930,19 @@
     {
       "FrequencyMHz": 10962.1,
       "Polarization": "V",
-      "SymbolRateKs": 17143,
-      "Fec": "5/6",
+      "SymbolRateKs": 625,
+      "Fec": "1/4",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 10962.5,
+      "Polarization": "V",
+      "SymbolRateKs": 312,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
       "Channels": []
     },
     {
@@ -1449,62 +1458,7 @@
       "Fec": "5/6",
       "Standard": "DVB-S2PLS:",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Alpha TV Cyprus",
-          "Package": "HellasSat",
-          "Languages": [
-            "gre"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Antenna TV Cyprus",
-          "Package": "HellasSat",
-          "Languages": [
-            "gre"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Omega Channel Cyprus",
-          "Package": "HellasSat",
-          "Languages": [
-            "gre"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Sigma TV",
-          "Package": "HellasSat",
-          "Languages": [
-            "gre"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Capital TV Cyprus",
-          "Package": "HellasSat",
-          "Languages": [
-            "gre"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Extra Channel Cyprus",
-          "Package": "HellasSat",
-          "Languages": [
-            "gre"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 11854.87,
@@ -1669,7 +1623,7 @@
           "IsFta": false
         },
         {
-          "Name": "Cinemania TV",
+          "Name": "Cine TV Plus",
           "Package": "A1 Bulgaria",
           "Languages": [
             "eng"
@@ -2972,6 +2926,15 @@
           "Package": "A1 BulgariaBulsatcom",
           "Languages": [
             "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "MAX One",
+          "Package": "Bulsatcom",
+          "Languages": [
+            "bul"
           ],
           "Type": "TV",
           "IsFta": false
@@ -4828,6 +4791,13 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "SWDL TX2 HD",
+          "Package": null,
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
         }
       ]
     },
@@ -5980,6 +5950,13 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "SWDL TX14 HD",
+          "Package": null,
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
         }
       ]
     },
@@ -6439,6 +6416,13 @@
           "Languages": [],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "SWDL TX17 HD",
+          "Package": null,
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
         }
       ]
     },
