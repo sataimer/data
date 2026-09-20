@@ -1062,7 +1062,7 @@
         },
         {
           "Name": "Palestine HD",
-          "Package": "Gulfsat",
+          "Package": null,
           "Languages": [
             "ara"
           ],
@@ -1071,14 +1071,14 @@
         },
         {
           "Name": "Quran TV",
-          "Package": "Gulfsat",
+          "Package": null,
           "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
         {
           "Name": "Karbala TV HD",
-          "Package": "Gulsat",
+          "Package": null,
           "Languages": [
             "ara"
           ],
@@ -1087,7 +1087,7 @@
         },
         {
           "Name": "Karbala Documentary",
-          "Package": "Gulfsat",
+          "Package": null,
           "Languages": [
             "ara"
           ],
@@ -1096,7 +1096,7 @@
         },
         {
           "Name": "Al Malakoot",
-          "Package": "Gulfsat",
+          "Package": null,
           "Languages": [
             "ara"
           ],
@@ -1105,7 +1105,7 @@
         },
         {
           "Name": "Al Waqie HD",
-          "Package": "Gulfsat",
+          "Package": null,
           "Languages": [
             "ara"
           ],
@@ -1114,7 +1114,7 @@
         },
         {
           "Name": "Al Awhad TV",
-          "Package": "Gulfsat",
+          "Package": null,
           "Languages": [
             "ara"
           ],
@@ -1140,6 +1140,13 @@
       "Standard": "DVB-S",
       "Modulation": "QPSK",
       "Channels": [
+        {
+          "Name": "Forsa TV",
+          "Package": "MY TV",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
+        },
         {
           "Name": "Al Araby TV",
           "Package": "MY TV",
@@ -2345,24 +2352,6 @@
           "Package": "EUTELSAT",
           "Languages": [],
           "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Juhaina TV",
-          "Package": null,
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Qudaah",
-          "Package": null,
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
           "IsFta": true
         },
         {

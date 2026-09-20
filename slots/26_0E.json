@@ -2610,6 +2610,15 @@
           ],
           "Type": "TV",
           "IsFta": true
+        },
+        {
+          "Name": "Asharq Radio Bloomberg",
+          "Package": "Asharq Bloomberg",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
         }
       ]
     },
@@ -4122,10 +4131,8 @@
         },
         {
           "Name": "Sika TV",
-          "Package": "OFFRICHE",
-          "Languages": [
-            "eng"
-          ],
+          "Package": null,
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },

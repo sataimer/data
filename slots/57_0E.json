@@ -483,110 +483,122 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "MTN INFO",
-          "Package": "MTNTV",
+          "Name": "MTN Info Channel",
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         },
         {
-          "Name": "MTN SE HD",
-          "Package": "MTNTV",
-          "Languages": [],
-          "Type": "Unknown",
+          "Name": "MTN Special Events HD",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "MSNBC",
-          "Package": "MTNTV",
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "FOX NEWS",
-          "Package": "MTNTV",
+          "Name": "Fox News",
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "BLOOMBERG",
-          "Package": "MTNTV",
-          "Languages": [],
-          "Type": "Unknown",
+          "Name": "Bloomberg USA",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "TEMP 1",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "BBC News",
-          "Package": "MTNTV",
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "PRIME JOURNEY",
-          "Package": "MTNTV",
-          "Languages": [],
-          "Type": "Unknown",
+          "Name": "Prime Journey",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "V4",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "Sport 24/24",
-          "Package": "MTNTTV",
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Prime one",
-          "Package": "Harmonic",
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "SPORT24 EXTRA",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
+          "Name": "Sport 24 Extra",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "RTL",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
+          "Name": "RTL Television",
+          "Package": "Anuvu",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "AU CH NEWS",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
+          "Name": "Australia Sky News",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "TV Asia Comedy",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
@@ -594,24 +606,24 @@
           "IsFta": false
         },
         {
-          "Name": "TFC",
-          "Package": "Harmonic",
+          "Name": "TFC Asia Pacific",
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Prime Favorites",
-          "Package": "MTNTV",
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "BBC Marine HD",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
@@ -619,31 +631,33 @@
           "IsFta": false
         },
         {
-          "Name": "TVE",
-          "Package": "MTNTV",
-          "Languages": [],
-          "Type": "Unknown",
+          "Name": "TVE International",
+          "Package": "Anuvu",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Canal 24 Horas",
-          "Package": "MTNTV",
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "AU COMEDY AND DRAMA",
-          "Package": null,
+          "Name": "Australia Comedy and Drama",
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "ABC News 24 Channel",
-          "Package": "Harmonic",
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
@@ -652,7 +666,7 @@
         },
         {
           "Name": "CNN International",
-          "Package": "MTTNTV",
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
@@ -660,66 +674,80 @@
           "IsFta": false
         },
         {
-          "Name": "FOOD",
-          "Package": "MTNTV",
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "HGTV",
-          "Package": "Harmonic",
+          "Name": "Food Network",
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TRAVEL",
-          "Package": "MTNTV",
-          "Languages": [],
-          "Type": "Unknown",
+          "Name": "HGTV UK",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "BBC EARTH",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
+          "Name": "Travel Channel",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "BRIT BOX",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
+          "Name": "BBC Earth",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "BBC LIFESTYLE",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
+          "Name": "Brit Box",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "FRANCE24",
-          "Package": "MTNTV",
-          "Languages": [],
-          "Type": "Unknown",
+          "Name": "BBC Lifestyle",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "France 24 (en Fran\u00E7ais)",
+          "Package": "Anuvu",
+          "Languages": [
+            "fra"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Mediaset Italia",
-          "Package": "Harmonic",
-          "Languages": [],
-          "Type": "Unknown",
+          "Package": "Anuvu",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Rai Italia",
-          "Package": "MTNTV",
+          "Package": "Anuvu",
           "Languages": [
             "ita"
           ],
@@ -728,28 +756,28 @@
         },
         {
           "Name": "CCTV Entertainment",
-          "Package": "Harmonic",
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "CCTV 4",
-          "Package": "MTNTV",
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Metro TV",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "National Geographic UK",
-          "Package": "MTNTV",
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
@@ -758,7 +786,7 @@
         },
         {
           "Name": "MTN Special Events",
-          "Package": "MTNTV",
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "TV",
           "IsFta": false

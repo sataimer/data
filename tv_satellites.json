@@ -553,5 +553,10 @@
     "Slot": "74.5E",
     "DisplayName": "Express AT1",
     "IsFree": false
+  },
+  {
+    "Slot": "75.7E",
+    "DisplayName": "Express AT1",
+    "IsFree": false
   }
 ]

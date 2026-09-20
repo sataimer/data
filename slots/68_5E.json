@@ -561,7 +561,44 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "JAYA PLUS",
+          "Package": "MAVIS SATCOM",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "JAYA TV HD",
+          "Package": "MAVIS SATCOM",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "JAYA MAX",
+          "Package": "MAVIS SATCOM",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "JMOVIE",
+          "Package": "MAVIS SATCOM LIMITED",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        }
+      ]
     },
     {
       "FrequencyMHz": 3816,

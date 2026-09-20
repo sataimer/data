@@ -1057,7 +1057,7 @@
       "Channels": [
         {
           "Name": "MTN Info Channel",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
@@ -1137,7 +1137,7 @@
       "Channels": [
         {
           "Name": "MTN Info Channel",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
@@ -1146,7 +1146,7 @@
         },
         {
           "Name": "MTN Special Events",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
@@ -1155,7 +1155,7 @@
         },
         {
           "Name": "MSNBC Now",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
@@ -1170,19 +1170,12 @@
           "IsFta": false
         },
         {
-          "Name": "Bloomberg Europe",
+          "Name": "Bloomberg USA",
           "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
           "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TEMP 1",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -1260,7 +1253,7 @@
         },
         {
           "Name": "Prime Favorites",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
@@ -1348,7 +1341,7 @@
         },
         {
           "Name": "BBC Earth",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
@@ -1357,7 +1350,7 @@
         },
         {
           "Name": "Brit Box",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
@@ -1366,7 +1359,7 @@
         },
         {
           "Name": "BBC Lifestyle",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [
             "eng"
           ],
@@ -1402,7 +1395,7 @@
         },
         {
           "Name": "Hunan TV",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [
             "chi"
           ],
@@ -1411,7 +1404,7 @@
         },
         {
           "Name": "CMC",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [
             "chi"
           ],
@@ -1450,7 +1443,7 @@
         },
         {
           "Name": "MTN SE 200",
-          "Package": null,
+          "Package": "Anuvu",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false

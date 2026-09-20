@@ -2339,7 +2339,7 @@
             "eng"
           ],
           "Type": "TV",
-          "IsFta": true
+          "IsFta": false
         },
         {
           "Name": "talkSPORT Dist",
@@ -5919,7 +5919,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Karate Kid HD",
+          "Name": "Sky Expendables HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"

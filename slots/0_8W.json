@@ -1283,6 +1283,91 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 10903,
+      "Polarization": "H",
+      "SymbolRateKs": 25000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "Eurosport 1 HD Denmark",
+          "Package": "Allente",
+          "Languages": [
+            "den"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 1 HD Finland",
+          "Package": "Allente",
+          "Languages": [
+            "fin",
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 2 HD Denmark",
+          "Package": "Allente",
+          "Languages": [
+            "den"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 1 HD (N)",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport Sweden HD",
+          "Package": "Allente",
+          "Languages": [
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport Norway HD",
+          "Package": "Allente",
+          "Languages": [
+            "nor"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Eurosport 2 HD Sweden/Finland",
+          "Package": "Allente",
+          "Languages": [
+            "swe",
+            "fin"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TV5 Finland",
+          "Package": "Allente",
+          "Languages": [
+            "fin",
+            "swe"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
+    },
+    {
       "FrequencyMHz": 10903.1,
       "Polarization": "V",
       "SymbolRateKs": 25000,
@@ -1396,91 +1481,6 @@
           "Languages": [],
           "Type": "Data",
           "IsFta": true
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 10903.3,
-      "Polarization": "H",
-      "SymbolRateKs": 25000,
-      "Fec": "3/4",
-      "Standard": "DVB-S2",
-      "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "Eurosport 1 HD Denmark",
-          "Package": "Allente",
-          "Languages": [
-            "den"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Eurosport 1 HD Finland",
-          "Package": "Allente",
-          "Languages": [
-            "fin",
-            "swe"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Eurosport 2 HD Denmark",
-          "Package": "Allente",
-          "Languages": [
-            "den"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Eurosport 1 HD (N)",
-          "Package": "Allente",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "Eurosport Sweden HD",
-          "Package": "Allente",
-          "Languages": [
-            "swe"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Eurosport Norway HD",
-          "Package": "Allente",
-          "Languages": [
-            "nor"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "Eurosport 2 HD Sweden/Finland",
-          "Package": "Allente",
-          "Languages": [
-            "swe",
-            "fin"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "TV5 Finland",
-          "Package": "Allente",
-          "Languages": [
-            "fin",
-            "swe"
-          ],
-          "Type": "TV",
-          "IsFta": false
         }
       ]
     },
@@ -1732,6 +1732,15 @@
           "IsFta": false
         }
       ]
+    },
+    {
+      "FrequencyMHz": 10959.7,
+      "Polarization": "V",
+      "SymbolRateKs": 1363,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSKStream",
+      "Channels": []
     },
     {
       "FrequencyMHz": 10970,
@@ -3658,39 +3667,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11525,
+      "FrequencyMHz": 11537.1,
       "Polarization": "V",
-      "SymbolRateKs": 22035,
-      "Fec": "3/4",
+      "SymbolRateKs": 64655,
+      "Fec": "None",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11542.66,
-      "Polarization": "V",
-      "SymbolRateKs": 3470,
-      "Fec": "7/8",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11548,
-      "Polarization": "V",
-      "SymbolRateKs": 3472,
-      "Fec": "7/8",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
-    },
-    {
-      "FrequencyMHz": 11553,
-      "Polarization": "V",
-      "SymbolRateKs": 6111,
-      "Fec": "3/4",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
+      "Modulation": "AUTO",
       "Channels": []
     },
     {
@@ -4201,7 +4183,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11785.3,
+      "FrequencyMHz": 11785,
       "Polarization": "H",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -6298,7 +6280,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11996.3,
+      "FrequencyMHz": 11996,
       "Polarization": "V",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -7909,7 +7891,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12188.1,
+      "FrequencyMHz": 12187.8,
       "Polarization": "V",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -8483,7 +8465,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12264.8,
+      "FrequencyMHz": 12264.5,
       "Polarization": "V",
       "SymbolRateKs": 28000,
       "Fec": "7/8",
@@ -8844,11 +8826,165 @@
     {
       "FrequencyMHz": 12303,
       "Polarization": "V",
-      "SymbolRateKs": 27500,
-      "Fec": "5/6",
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Nova Sport 5 HD Czech",
+          "Package": "Telly",
+          "Languages": [
+            "cze"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Disney Jr. Central Europe",
+          "Package": "Telly",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinemax HD Eastern Europe",
+          "Package": "Telly",
+          "Languages": [
+            "cze",
+            "eng",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinemax 2 HD",
+          "Package": "Telly",
+          "Languages": [
+            "cze",
+            "eng",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Film Europe",
+          "Package": "Telly",
+          "Languages": [
+            "vo"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Crime \u0026 Investigation Network",
+          "Package": "Telly",
+          "Languages": [
+            "cze",
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TA3 HD",
+          "Package": "Telly",
+          "Languages": [
+            "slk"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Viasat History HD",
+          "Package": "Telly",
+          "Languages": [
+            "cze",
+            "vo",
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Spektrum HD",
+          "Package": "Telly",
+          "Languages": [
+            "cze",
+            "hun",
+            "qad"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nova Action HD",
+          "Package": "Focus SatTelly",
+          "Languages": [
+            "cze"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nova Krimi",
+          "Package": "Focus SatTelly",
+          "Languages": [
+            "cze"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nova Fun HD",
+          "Package": "Focus SatTelly",
+          "Languages": [
+            "cze"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Men.TV",
+          "Package": "Telly",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Dusk International",
+          "Package": "Telly",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Prima Love Slovakia",
+          "Package": "Telly",
+          "Languages": [
+            "cze"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Sport HD",
+          "Package": "Focus SatTelly",
+          "Languages": [
+            "slk"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
     },
     {
       "FrequencyMHz": 12322.3,
@@ -9312,7 +9448,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12379.8,
+      "FrequencyMHz": 12379.5,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "3/4",
@@ -9501,7 +9637,7 @@
       "FrequencyMHz": 12398.8,
       "Polarization": "H",
       "SymbolRateKs": 30000,
-      "Fec": "2/3",
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": [
@@ -10263,7 +10399,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12607.3,
+      "FrequencyMHz": 12607,
       "Polarization": "V",
       "SymbolRateKs": 28800,
       "Fec": "3/5",
@@ -10393,7 +10529,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12643.3,
+      "FrequencyMHz": 12643,
       "Polarization": "V",
       "SymbolRateKs": 28800,
       "Fec": "3/4",
@@ -10494,64 +10630,6 @@
     },
     {
       "FrequencyMHz": 12687,
-      "Polarization": "V",
-      "SymbolRateKs": 28800,
-      "Fec": "3/5",
-      "Standard": "DVB-S2",
-      "Modulation": "QPSK",
-      "Channels": [
-        {
-          "Name": "History HD Europe",
-          "Package": "AllenteTelly",
-          "Languages": [
-            "eng",
-            "cze",
-            "hun",
-            "rus",
-            "tur"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "History 2 HD",
-          "Package": "AllenteTelly",
-          "Languages": [
-            "eng",
-            "cze",
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "History PAN EURO HD_Virtual_ENC",
-          "Package": "Allente",
-          "Languages": [
-            "eng",
-            "cze",
-            "hun",
-            "rus",
-            "tur"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        },
-        {
-          "Name": "History 2 PAN EURO_Virtual_ENC",
-          "Package": "Allente",
-          "Languages": [
-            "eng",
-            "cze",
-            "rus"
-          ],
-          "Type": "Unknown",
-          "IsFta": false
-        }
-      ]
-    },
-    {
-      "FrequencyMHz": 12687.3,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -10691,7 +10769,7 @@
           "IsFta": false
         },
         {
-          "Name": "RADIO MARIA",
+          "Name": "MARIA RADIO",
           "Package": "DigiTV",
           "Languages": [
             "hun"
@@ -10716,6 +10794,64 @@
           ],
           "Type": "Radio",
           "IsFta": true
+        }
+      ]
+    },
+    {
+      "FrequencyMHz": 12687,
+      "Polarization": "V",
+      "SymbolRateKs": 28800,
+      "Fec": "3/5",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSK",
+      "Channels": [
+        {
+          "Name": "History HD Europe",
+          "Package": "AllenteTelly",
+          "Languages": [
+            "eng",
+            "cze",
+            "hun",
+            "rus",
+            "tur"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "History 2 HD",
+          "Package": "AllenteTelly",
+          "Languages": [
+            "eng",
+            "cze",
+            "rus"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "History PAN EURO HD_Virtual_ENC",
+          "Package": "Allente",
+          "Languages": [
+            "eng",
+            "cze",
+            "hun",
+            "rus",
+            "tur"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "History 2 PAN EURO_Virtual_ENC",
+          "Package": "Allente",
+          "Languages": [
+            "eng",
+            "cze",
+            "rus"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
         }
       ]
     },

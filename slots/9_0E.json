@@ -1774,6 +1774,15 @@
       "Modulation": "8PSK",
       "Channels": [
         {
+          "Name": "TEST 11",
+          "Package": "Cosmote",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
           "Name": "Magenta Sport 6",
           "Package": "Cosmote",
           "Languages": [
@@ -3464,6 +3473,15 @@
             "gre"
           ],
           "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "TEST 12",
+          "Package": "Cosmote",
+          "Languages": [
+            "gre"
+          ],
+          "Type": "Unknown",
           "IsFta": false
         },
         {

@@ -37,15 +37,6 @@
           "IsFta": true
         },
         {
-          "Name": "Mojdeh TV",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Derakhte Zendegi",
           "Package": "WNS",
           "Languages": [
@@ -1318,11 +1309,9 @@
           "IsFta": true
         },
         {
-          "Name": "Royal TV Farsi",
+          "Name": "Datis TV",
           "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -1338,9 +1327,7 @@
         {
           "Name": "Arax TV",
           "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
+          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -1363,7 +1350,7 @@
           "IsFta": true
         },
         {
-          "Name": "Datis TV",
+          "Name": "Royal TV",
           "Package": "WNS",
           "Languages": [
             "far"
@@ -1715,6 +1702,15 @@
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
+      "Channels": []
+    },
+    {
+      "FrequencyMHz": 11239.7,
+      "Polarization": "H",
+      "SymbolRateKs": 1100,
+      "Fec": "1/2",
+      "Standard": "DVB-S2",
+      "Modulation": "QPSKStream",
       "Channels": []
     },
     {
@@ -2129,6 +2125,15 @@
         },
         {
           "Name": "Mohabat TV",
+          "Package": "WNS",
+          "Languages": [
+            "far"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "316 TV",
           "Package": "WNS",
           "Languages": [
             "far"

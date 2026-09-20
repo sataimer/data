@@ -3186,6 +3186,13 @@
           "IsFta": true
         },
         {
+          "Name": "DAB Naz",
+          "Package": "Rai",
+          "Languages": [],
+          "Type": "Data",
+          "IsFta": true
+        },
+        {
           "Name": "Rai 3 HD",
           "Package": "Rai",
           "Languages": [

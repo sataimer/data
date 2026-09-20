@@ -217,7 +217,7 @@
           "IsFta": false
         },
         {
-          "Name": "ESPN SEC HD",
+          "Name": "ESPN SEC HD ABS3",
           "Package": null,
           "Languages": [
             "eng"
@@ -361,6 +361,58 @@
         {
           "Name": "Enc 074",
           "Package": "CruiseSat",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 081",
+          "Package": null,
+          "Languages": [],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 082",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 083",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 084",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 085",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Enc 086",
+          "Package": null,
           "Languages": [
             "eng"
           ],

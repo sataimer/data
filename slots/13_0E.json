@@ -3025,15 +3025,6 @@
           "IsFta": true
         },
         {
-          "Name": "RTVi Europe",
-          "Package": "GLOBECAST",
-          "Languages": [
-            "rus"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Eko-TV",
           "Package": "GLOBECAST",
           "Languages": [
@@ -5273,6 +5264,69 @@
             "fra"
           ],
           "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hustler HD",
+          "Package": "AustriasatNovaPlatforma Canal\u002BPolsat Box",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Blue Hustler",
+          "Package": "AustriasatPlatforma Canal\u002BPolsat Box",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Hustler HD SBB",
+          "Package": "Total TV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Hustler HD Nova",
+          "Package": "Nova",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Blue Hustler Nova",
+          "Package": "Nova",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
+          "IsFta": false
+        },
+        {
+          "Name": "Private TV HD",
+          "Package": "Nova",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Blue Hustler SBB",
+          "Package": "Total TV",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Unknown",
           "IsFta": false
         },
         {
@@ -8191,12 +8245,12 @@
           "IsFta": false
         },
         {
-          "Name": "Kabelio Spare1",
+          "Name": "3\u002B Family",
           "Package": "KABELIO.CH",
           "Languages": [
             "ger"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         }
       ]
@@ -11681,7 +11735,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Cinema Family HD",
+          "Name": "DreamWorks Collection HD",
           "Package": "Sky Italia",
           "Languages": [
             "ita",
@@ -12034,7 +12088,7 @@
           "IsFta": false
         },
         {
-          "Name": "Mission: Impossible Collection HD",
+          "Name": "Batman Collection HD",
           "Package": "Sky Italia",
           "Languages": [
             "ita",
@@ -12398,6 +12452,15 @@
           "Package": "STN",
           "Languages": [
             "som"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "TBN Russia",
+          "Package": "IKOMG",
+          "Languages": [
+            "rus"
           ],
           "Type": "TV",
           "IsFta": true

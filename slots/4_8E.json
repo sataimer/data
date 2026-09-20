@@ -801,7 +801,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11727.8,
+      "FrequencyMHz": 11727.5,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -917,7 +917,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11766.3,
+      "FrequencyMHz": 11765.9,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -1576,7 +1576,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11938.8,
+      "FrequencyMHz": 11938.5,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -1801,7 +1801,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11958,
+      "FrequencyMHz": 11957.7,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "5/6",
@@ -2068,7 +2068,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11996.3,
+      "FrequencyMHz": 11996,
       "Polarization": "H",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -2131,7 +2131,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12073.1,
+      "FrequencyMHz": 12072.7,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -2273,7 +2273,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12130.7,
+      "FrequencyMHz": 12130.3,
       "Polarization": "V",
       "SymbolRateKs": 27500,
       "Fec": "3/4",
@@ -2418,7 +2418,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12207.3,
+      "FrequencyMHz": 12207,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "2/3",
@@ -2849,7 +2849,7 @@
       ]
     },
     {
-      "FrequencyMHz": 12437.5,
+      "FrequencyMHz": 12437.2,
       "Polarization": "V",
       "SymbolRateKs": 30000,
       "Fec": "2/3",

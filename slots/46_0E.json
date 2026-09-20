@@ -602,7 +602,57 @@
       "Fec": "5/6",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "MILELE FM",
+          "Package": "MEDIAMAX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "KAMEME FM",
+          "Package": "MEDIAMAX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "MERU FM",
+          "Package": "MEDIAMAX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "MAYIAN FM",
+          "Package": "MEDIAMAX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "EMOO FM",
+          "Package": "MEDIAMAX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "MSENANGU FM",
+          "Package": "MEDIAMAX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "GALAXY FM",
+          "Package": "MEDIAMAX",
+          "Languages": [],
+          "Type": "Radio",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 3999.3,
@@ -1126,7 +1176,17 @@
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": []
+      "Channels": [
+        {
+          "Name": "Lagos TV",
+          "Package": "LAGOS TELEVISION (LTV)",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        }
+      ]
     },
     {
       "FrequencyMHz": 4148,
@@ -1157,7 +1217,7 @@
       "Channels": [
         {
           "Name": "Manchester United TV",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1166,7 +1226,7 @@
         },
         {
           "Name": "AMC Movies Africa",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1175,7 +1235,7 @@
         },
         {
           "Name": "Romanza",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1184,7 +1244,7 @@
         },
         {
           "Name": "National Geographic Channel Africa",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1193,7 +1253,7 @@
         },
         {
           "Name": "Discovery Channel Middle-East \u0026 Africa",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1202,7 +1262,7 @@
         },
         {
           "Name": "ID",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1211,7 +1271,7 @@
         },
         {
           "Name": "Nickelodeon",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1220,7 +1280,7 @@
         },
         {
           "Name": "Boing",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1229,7 +1289,7 @@
         },
         {
           "Name": "Fix \u0026 Foxi",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1238,7 +1298,7 @@
         },
         {
           "Name": "Baby TV",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1247,7 +1307,7 @@
         },
         {
           "Name": "Cbeebies",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1256,7 +1316,7 @@
         },
         {
           "Name": "Boomerang",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1265,7 +1325,7 @@
         },
         {
           "Name": "BBC News",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1274,7 +1334,7 @@
         },
         {
           "Name": "CNN",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1283,7 +1343,7 @@
         },
         {
           "Name": "Star Plus ME",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "hin"
           ],
@@ -1292,7 +1352,7 @@
         },
         {
           "Name": "TBC",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa"
           ],
@@ -1301,7 +1361,7 @@
         },
         {
           "Name": "Tanzania Safari Channel",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa"
           ],
@@ -1310,7 +1370,7 @@
         },
         {
           "Name": "Channel 10",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa"
           ],
@@ -1319,7 +1379,7 @@
         },
         {
           "Name": "StarTV Tanzania",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa"
           ],
@@ -1328,7 +1388,7 @@
         },
         {
           "Name": "ZBC",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa"
           ],
@@ -1337,7 +1397,7 @@
         },
         {
           "Name": "Mahaasin TV",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1346,7 +1406,7 @@
         },
         {
           "Name": "TV Imaan",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa"
           ],
@@ -1355,14 +1415,14 @@
         },
         {
           "Name": "Upendo TV",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [],
           "Type": "TV",
           "IsFta": false
         },
         {
           "Name": "Hope Channel",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1371,7 +1431,7 @@
         },
         {
           "Name": "WRM TV",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1380,7 +1440,7 @@
         },
         {
           "Name": "Emmanuel TV",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1389,7 +1449,7 @@
         },
         {
           "Name": "Arise and Shine TV",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa"
           ],
@@ -1398,7 +1458,7 @@
         },
         {
           "Name": "Tumaini TV",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa"
           ],
@@ -1417,7 +1477,7 @@
       "Channels": [
         {
           "Name": "Azam One HD",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng",
             "swa"
@@ -1427,7 +1487,7 @@
         },
         {
           "Name": "Azam Two HD",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa",
             "eng"
@@ -1437,14 +1497,14 @@
         },
         {
           "Name": "Sinema Zetu",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "UTV",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa",
             "eng"
@@ -1454,35 +1514,35 @@
         },
         {
           "Name": "Azam Sports 1 HD",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "Azam Sports 2 HD",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "Azam Sports 3 HD",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "Azam Sports 4 HD",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [],
           "Type": "Unknown",
           "IsFta": false
         },
         {
           "Name": "Azam Sports 5 HD",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1491,7 +1551,7 @@
         },
         {
           "Name": "ESPN",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1500,7 +1560,7 @@
         },
         {
           "Name": "ESPN 2",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1509,7 +1569,7 @@
         },
         {
           "Name": "MBC 2",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1518,7 +1578,7 @@
         },
         {
           "Name": "MBC Max",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1527,7 +1587,7 @@
         },
         {
           "Name": "MBC Action",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1536,7 +1596,7 @@
         },
         {
           "Name": "KIX Action Channel",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1545,7 +1605,7 @@
         },
         {
           "Name": "Nina TV",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1554,7 +1614,7 @@
         },
         {
           "Name": "Nat Geo WILD",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1563,7 +1623,7 @@
         },
         {
           "Name": "Cartoon Network",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1572,7 +1632,7 @@
         },
         {
           "Name": "Al Jazeera News",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "eng"
           ],
@@ -1581,7 +1641,7 @@
         },
         {
           "Name": "Colors International",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "hin"
           ],
@@ -1590,7 +1650,7 @@
         },
         {
           "Name": "Star Gold",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "hin"
           ],
@@ -1599,7 +1659,7 @@
         },
         {
           "Name": "Clouds TV",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa"
           ],
@@ -1608,7 +1668,7 @@
         },
         {
           "Name": "ZBC 2",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa",
             "eng"
@@ -1618,7 +1678,7 @@
         },
         {
           "Name": "ITV",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa"
           ],
@@ -1627,7 +1687,7 @@
         },
         {
           "Name": "EATV 5",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa"
           ],
@@ -1636,7 +1696,7 @@
         },
         {
           "Name": "Wasafi TV",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa"
           ],
@@ -1645,7 +1705,7 @@
         },
         {
           "Name": "UFM",
-          "Package": "ADBL",
+          "Package": "Azam Digital",
           "Languages": [
             "swa"
           ],
@@ -1664,12 +1724,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 10960.69,
+      "FrequencyMHz": 10962.4,
       "Polarization": "V",
-      "SymbolRateKs": 2500,
-      "Fec": "5/6",
+      "SymbolRateKs": 5454,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "8PSK",
+      "Modulation": "32APSK",
       "Channels": []
     },
     {
@@ -1817,7 +1877,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11024.7,
+      "FrequencyMHz": 11024.4,
       "Polarization": "V",
       "SymbolRateKs": 12700,
       "Fec": "5/6",
@@ -1888,7 +1948,7 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11072.2,
+      "FrequencyMHz": 11071.8,
       "Polarization": "H",
       "SymbolRateKs": 2500,
       "Fec": "3/4",
@@ -1907,7 +1967,7 @@
       ]
     },
     {
-      "FrequencyMHz": 11094.3,
+      "FrequencyMHz": 11094,
       "Polarization": "H",
       "SymbolRateKs": 30000,
       "Fec": "5/6",
@@ -2062,15 +2122,6 @@
           "IsFta": true
         },
         {
-          "Name": "radio Ajara",
-          "Package": "Vector A.G",
-          "Languages": [
-            "geo"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "radio Imedi",
           "Package": "Vector A.G",
           "Languages": [
@@ -2096,10 +2147,10 @@
           "IsFta": true
         },
         {
-          "Name": "radio 1 Arkhi Muz.",
+          "Name": "radio Ajara",
           "Package": "Vector A.G",
           "Languages": [
-            "eng"
+            "rus"
           ],
           "Type": "Radio",
           "IsFta": true

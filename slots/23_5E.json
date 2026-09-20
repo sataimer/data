@@ -241,6 +241,16 @@
           "IsFta": false
         },
         {
+          "Name": "4! Story Czech",
+          "Package": "SkyLink",
+          "Languages": [
+            "hun",
+            "cze"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "Mezzo",
           "Package": "Canal DigitaalSkyLinkTV Vlaanderen",
           "Languages": [
@@ -904,15 +914,6 @@
         },
         {
           "Name": "CS Film",
-          "Package": "SkyLink",
-          "Languages": [
-            "cze"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "CS Horror",
           "Package": "SkyLink",
           "Languages": [
             "cze"
@@ -2735,6 +2736,15 @@
           "IsFta": false
         },
         {
+          "Name": "4! Story TV",
+          "Package": "M7 Group",
+          "Languages": [
+            "hun"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
           "Name": "BNR Nieuwsradio",
           "Package": "Canal DigitaalTV Vlaanderen",
           "Languages": [
@@ -4151,6 +4161,13 @@
           ],
           "Type": "TV",
           "IsFta": false
+        },
+        {
+          "Name": "Belarus Tomorrow",
+          "Package": "Svoboda Satellite",
+          "Languages": [],
+          "Type": "TV",
+          "IsFta": true
         },
         {
           "Name": "TBN Ukraine",

@@ -298,10 +298,12 @@
           "IsFta": true
         },
         {
-          "Name": "TeleVID",
+          "Name": "Tele Vid",
           "Package": "Encoder",
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "esp"
+          ],
+          "Type": "TV",
           "IsFta": true
         }
       ]
@@ -770,21 +772,21 @@
           "IsFta": false
         },
         {
-          "Name": "TELEFE ARG",
+          "Name": "Telefe",
           "Package": null,
           "Languages": [
             "esp"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
-          "Name": "TELEFE INT",
+          "Name": "Telefe Internacional",
           "Package": null,
           "Languages": [
             "esp"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         }
       ]
@@ -1645,12 +1647,12 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "TELEMEDELLIN",
+          "Name": "Telemedellin",
           "Package": "TELEMEDELLIN",
           "Languages": [
             "esp"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         }
       ]
@@ -1664,13 +1666,13 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "ZooMoo TV HD_Buenos_Backup",
+          "Name": "Zoomoo HD",
           "Package": "Encompass",
           "Languages": [
             "eng",
             "esp"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         }
       ]
@@ -2247,10 +2249,12 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "01 BBC One",
+          "Name": "BBC One London",
           "Package": "BFBS",
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -2289,10 +2293,12 @@
           "IsFta": false
         },
         {
-          "Name": "17 Sky News",
+          "Name": "Sky News International",
           "Package": "BFBS",
-          "Languages": [],
-          "Type": "Unknown",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -2699,12 +2705,12 @@
           "IsFta": false
         },
         {
-          "Name": "Cubavision",
+          "Name": "Cubavision Internacional",
           "Package": "OVERON",
           "Languages": [
             "esp"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": true
         }
       ]

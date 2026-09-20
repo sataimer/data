@@ -46,13 +46,6 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "ViewMedia Promo",
-          "Package": "ViewMedia",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Alatawla Cinema",
           "Package": "ViewMedia",
           "Languages": [
@@ -151,9 +144,11 @@
           "IsFta": true
         },
         {
-          "Name": "Ishish TV",
+          "Name": "OSM Health",
           "Package": "ViewMedia",
-          "Languages": [],
+          "Languages": [
+            "ara"
+          ],
           "Type": "TV",
           "IsFta": true
         },
@@ -166,6 +161,15 @@
         },
         {
           "Name": "Al Basira",
+          "Package": "ViewMedia",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "OSM Wasit",
           "Package": "ViewMedia",
           "Languages": [
             "ara"
@@ -1140,13 +1144,6 @@
           "Languages": [
             "ara"
           ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Karbala TV HD",
-          "Package": "KSCG",
-          "Languages": [],
           "Type": "TV",
           "IsFta": true
         },
@@ -5610,11 +5607,164 @@
     {
       "FrequencyMHz": 12111,
       "Polarization": "H",
-      "SymbolRateKs": 27500,
-      "Fec": "5/6",
-      "Standard": "DVB-S",
-      "Modulation": "QPSK",
-      "Channels": []
+      "SymbolRateKs": 30000,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": [
+        {
+          "Name": "History Channel HD Middle-East",
+          "Package": "Orbit Showtime Network",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OSN Showcase Classics",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng",
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nickelodeon Arabia",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng",
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OSN TV iqiyi",
+          "Package": "Harmonic",
+          "Languages": [
+            "chi"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Discovery Channel HD Middle-East \u0026 Africa",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OSN Movies Family",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng",
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OSN Movies Horror",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng",
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "ID Xtra HD MEA",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OSN Movies Comedy HD",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng",
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nick Jr HD Arabia",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng",
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Nick Toons HD Middle-East",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng",
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "OSN TV Pop up",
+          "Package": "Harmonic",
+          "Languages": [
+            "eng",
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Al Yawm",
+          "Package": "Harmonic",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Al Safwa",
+          "Package": "Harmonic",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinema 1",
+          "Package": "Harmonic",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Cinema 2",
+          "Package": "Harmonic",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        }
+      ]
     },
     {
       "FrequencyMHz": 12130,
@@ -6536,15 +6686,6 @@
             "ara"
           ],
           "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Alforat HD 1",
-          "Package": "Nilesat",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
           "IsFta": true
         },
         {
