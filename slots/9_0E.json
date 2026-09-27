@@ -1774,12 +1774,12 @@
       "Modulation": "8PSK",
       "Channels": [
         {
-          "Name": "TEST 11",
+          "Name": "Mad Vibes HD",
           "Package": "Cosmote",
           "Languages": [
             "gre"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -3241,7 +3241,7 @@
           "IsFta": false
         },
         {
-          "Name": "Pop Up HD",
+          "Name": "Magenta Cinema 007",
           "Package": "Cosmote",
           "Languages": [
             "eng"
@@ -3476,12 +3476,12 @@
           "IsFta": false
         },
         {
-          "Name": "TEST 12",
+          "Name": "Mad Rewind HD",
           "Package": "Cosmote",
           "Languages": [
             "gre"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -5305,7 +5305,7 @@
           "IsFta": true
         },
         {
-          "Name": "iL61",
+          "Name": "Club TV Italia",
           "Package": "Persidera",
           "Languages": [
             "ita"
@@ -5314,7 +5314,7 @@
           "IsFta": true
         },
         {
-          "Name": "iL61",
+          "Name": "CLUB TV",
           "Package": "Persidera",
           "Languages": [
             "ita"

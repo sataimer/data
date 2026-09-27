@@ -4882,6 +4882,15 @@
           ],
           "Type": "Radio",
           "IsFta": true
+        },
+        {
+          "Name": "Jordan Radio",
+          "Package": null,
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
         }
       ]
     },
@@ -6075,121 +6084,7 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "KTV 1 HD",
-          "Package": "MOI",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Al-Akhbar",
-          "Package": "MOI",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "KTV 2 HD",
-          "Package": "MOI",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "HD-KTV Sports",
-          "Package": "MOI",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "KTV Sport Plus HD",
-          "Package": "MOI",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "Kuwait Main Program",
-          "Package": "Kuwait Radio",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Kuwait Second Program",
-          "Package": "Kuwait Radio",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Kuwait Holy Quran",
-          "Package": "Kuwait Radio",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Kuwait Easy",
-          "Package": "Kuwait Radio",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Kuwait FM",
-          "Package": "Kuwait Radio",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Kuwait Super Station",
-          "Package": "Kuwait Radio",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Kuwait Old Arabic",
-          "Package": "Kuwait Radio",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Kuwait Dar Al-Ethaa",
-          "Package": "Kuwait Radio",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Kuwait Dana",
-          "Package": "Kuwait Radio",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Kuwait Al-Thikr Al-Hakeem",
-          "Package": "Kuwait Radio",
-          "Languages": [],
-          "Type": "Radio",
-          "IsFta": true
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12188,
@@ -6198,76 +6093,7 @@
       "Fec": "2/3",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
-      "Channels": [
-        {
-          "Name": "beIN Sports 9",
-          "Package": "beIN",
-          "Languages": [
-            "ara",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "beIN Sports News",
-          "Package": "beIN",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
-          "Name": "beIN Sports Xtra 2 HD",
-          "Package": "beIN",
-          "Languages": [
-            "ara",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "beIN Sports 5 HD",
-          "Package": "beIN",
-          "Languages": [
-            "ara",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "beIN Sports 7 HD",
-          "Package": "beIN",
-          "Languages": [
-            "ara",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "beIN Sports Max 6 HD Arabic",
-          "Package": "beIN",
-          "Languages": [
-            "fra"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        },
-        {
-          "Name": "beIN Sports Xtra 4",
-          "Package": "beIN",
-          "Languages": [
-            "ara",
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
-        }
-      ]
+      "Channels": []
     },
     {
       "FrequencyMHz": 12207.3,

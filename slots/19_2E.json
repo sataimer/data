@@ -1400,13 +1400,13 @@
           "IsFta": false
         },
         {
-          "Name": "TEST 1 TXP 64",
+          "Name": "Movistar Baloncesto 4",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -1631,13 +1631,13 @@
           "IsFta": false
         },
         {
-          "Name": "TEST 1 TXP 34",
+          "Name": "Movistar Baloncesto 5",
           "Package": "Movistar\u002B",
           "Languages": [
             "esp",
             "vo"
           ],
-          "Type": "Unknown",
+          "Type": "TV",
           "IsFta": false
         },
         {
@@ -1663,6 +1663,15 @@
         {
           "Name": "UHD1 by ASTRA / HD\u002B",
           "Package": "HD \u002B",
+          "Languages": [
+            "ger"
+          ],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "RTL UHD",
+          "Package": "HD \u002BSky Deutschland",
           "Languages": [
             "ger"
           ],

@@ -231,7 +231,7 @@
   },
   {
     "Slot": "13.0E",
-    "DisplayName": "Hot Bird",
+    "DisplayName": "Hot Bird / Eutelsat 16",
     "IsFree": true
   },
   {
@@ -556,6 +556,11 @@
   },
   {
     "Slot": "75.7E",
+    "DisplayName": "Express AT1",
+    "IsFree": false
+  },
+  {
+    "Slot": "76.9E",
     "DisplayName": "Express AT1",
     "IsFree": false
   }

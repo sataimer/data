@@ -2500,7 +2500,7 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "QVC Extra",
+          "Name": "QVC Christmas",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -5901,7 +5901,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Superhero HD",
+          "Name": "Sky 5* Movies HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -5919,7 +5919,7 @@
           "IsFta": false
         },
         {
-          "Name": "Sky Expendables HD",
+          "Name": "Sky Jurassic HD",
           "Package": "Sky Digital",
           "Languages": [
             "eng"
@@ -6172,15 +6172,6 @@
           ],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "TLC Ireland",
-          "Package": "Sky Digital",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
-          "IsFta": false
         },
         {
           "Name": "Really Ireland",

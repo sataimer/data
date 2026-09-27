@@ -1940,13 +1940,6 @@
           ],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "Sudan TV_Test",
-          "Package": null,
-          "Languages": [],
-          "Type": "Unknown",
-          "IsFta": true
         }
       ]
     },
@@ -4114,13 +4107,6 @@
           "IsFta": true
         },
         {
-          "Name": "Islamic Library TV",
-          "Package": "FFmpeg",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Agbeve TV",
           "Package": null,
           "Languages": [
@@ -4145,7 +4131,7 @@
         },
         {
           "Name": "Reminant TV",
-          "Package": "OFFRICHE",
+          "Package": null,
           "Languages": [
             "eng"
           ],
@@ -5719,6 +5705,60 @@
           "IsFta": true
         },
         {
+          "Name": "Radio tamanrasset",
+          "Package": "TDA",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Bechar",
+          "Package": "TDA",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Tlemcen",
+          "Package": "TDA",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "ZAMEN FM",
+          "Package": "TDA",
+          "Languages": [
+            "eng"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Adrar",
+          "Package": "TDA",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Ghardaia",
+          "Package": "TDA",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
           "Name": "Radio Illizi",
           "Package": "TDA",
           "Languages": [
@@ -5744,10 +5784,10 @@
           "IsFta": true
         },
         {
-          "Name": "ZAMEN FM",
+          "Name": "Radio Batna",
           "Package": "TDA",
           "Languages": [
-            "eng"
+            "ara"
           ],
           "Type": "Radio",
           "IsFta": true
@@ -5780,7 +5820,7 @@
           "IsFta": true
         },
         {
-          "Name": "Radio tamanrasset",
+          "Name": "Radio Naama",
           "Package": "TDA",
           "Languages": [
             "ara"
@@ -5798,7 +5838,7 @@
           "IsFta": true
         },
         {
-          "Name": "Radio Bechar",
+          "Name": "Radio Tref",
           "Package": "TDA",
           "Languages": [
             "ara"
@@ -5807,7 +5847,7 @@
           "IsFta": true
         },
         {
-          "Name": "Radio Tlemcen",
+          "Name": "Radio M\u00E9d\u00E9a",
           "Package": "TDA",
           "Languages": [
             "ara"
@@ -5816,7 +5856,7 @@
           "IsFta": true
         },
         {
-          "Name": "Radio Adrar",
+          "Name": "Radio Mila",
           "Package": "TDA",
           "Languages": [
             "ara"
@@ -5834,43 +5874,25 @@
           "IsFta": true
         },
         {
-          "Name": "Radio Ghardaia",
-          "Package": "TDA",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Batna",
-          "Package": "TDA",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Naama",
-          "Package": "TDA",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Tref",
-          "Package": "TDA",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "Radio Skikda",
+          "Package": "TDA",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Mascara",
+          "Package": "TDA",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Guelma",
           "Package": "TDA",
           "Languages": [
             "ara"
@@ -5897,6 +5919,24 @@
           "IsFta": true
         },
         {
+          "Name": "Radio Bejaia",
+          "Package": "TDA",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Bouira",
+          "Package": "TDA",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
           "Name": "Radio Relizan",
           "Package": "TDA",
           "Languages": [
@@ -5907,60 +5947,6 @@
         },
         {
           "Name": "Radio Annaba",
-          "Package": "TDA",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio M\u00E9d\u00E9a",
-          "Package": "TDA",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Mascara",
-          "Package": "TDA",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio El Bayedh",
-          "Package": "TDA",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Tebessa",
-          "Package": "TDA",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Guelma",
-          "Package": "TDA",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Bouira",
           "Package": "TDA",
           "Languages": [
             "ara"
@@ -5987,6 +5973,24 @@
           "IsFta": true
         },
         {
+          "Name": "Radio El Bayedh",
+          "Package": "TDA",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Tebessa",
+          "Package": "TDA",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
           "Name": "Radio Djelfa",
           "Package": "TDA",
           "Languages": [
@@ -5996,25 +6000,16 @@
           "IsFta": true
         },
         {
-          "Name": "Radio Tipaza",
-          "Package": "TDA",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Mila",
-          "Package": "TDA",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
           "Name": "Radio Ain Defla",
+          "Package": "TDA",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "Radio",
+          "IsFta": true
+        },
+        {
+          "Name": "Radio Tipaza",
           "Package": "TDA",
           "Languages": [
             "ara"
@@ -6069,15 +6064,6 @@
         },
         {
           "Name": "Radio Bordj Bou Arreridj",
-          "Package": "TDA",
-          "Languages": [
-            "ara"
-          ],
-          "Type": "Radio",
-          "IsFta": true
-        },
-        {
-          "Name": "Radio Bejaia",
           "Package": "TDA",
           "Languages": [
             "ara"

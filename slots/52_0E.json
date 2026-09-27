@@ -1375,15 +1375,6 @@
           "IsFta": true
         },
         {
-          "Name": "Project Leon",
-          "Package": "WNS",
-          "Languages": [
-            "far"
-          ],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Rah-e-Farda TV",
           "Package": "WNS",
           "Languages": [

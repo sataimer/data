@@ -127,6 +127,15 @@
           "IsFta": false
         },
         {
+          "Name": "Sky News International",
+          "Package": null,
+          "Languages": [
+            "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "BBC News",
           "Package": "Anuvu",
           "Languages": [
@@ -325,6 +334,15 @@
           "Name": "Mediaset Italia",
           "Package": "Anuvu",
           "Languages": [],
+          "Type": "TV",
+          "IsFta": false
+        },
+        {
+          "Name": "Rai Italia",
+          "Package": "MTNTV",
+          "Languages": [
+            "ita"
+          ],
           "Type": "TV",
           "IsFta": false
         },

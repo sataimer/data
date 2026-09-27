@@ -1141,13 +1141,6 @@
       "Modulation": "QPSK",
       "Channels": [
         {
-          "Name": "Forsa TV",
-          "Package": "MY TV",
-          "Languages": [],
-          "Type": "TV",
-          "IsFta": true
-        },
-        {
           "Name": "Al Araby TV",
           "Package": "MY TV",
           "Languages": [],
@@ -2132,6 +2125,15 @@
           "IsFta": true
         },
         {
+          "Name": "Shihab",
+          "Package": "Nilesat",
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Elmehwar HD",
           "Package": "Nilesat",
           "Languages": [
@@ -2355,6 +2357,15 @@
           "IsFta": true
         },
         {
+          "Name": "Libya Plus TV",
+          "Package": null,
+          "Languages": [
+            "ara"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
           "Name": "Almerqab TV",
           "Package": "Gulfsat",
           "Languages": [
@@ -2411,6 +2422,15 @@
           "Package": "Gulfsat",
           "Languages": [
             "eng"
+          ],
+          "Type": "TV",
+          "IsFta": true
+        },
+        {
+          "Name": "Imam Ali",
+          "Package": null,
+          "Languages": [
+            "ara"
           ],
           "Type": "TV",
           "IsFta": true
@@ -3966,15 +3986,6 @@
             "eng"
           ],
           "Type": "Unknown",
-          "IsFta": true
-        },
-        {
-          "Name": "Nilesat Promo HD",
-          "Package": "Nilesat",
-          "Languages": [
-            "eng"
-          ],
-          "Type": "TV",
           "IsFta": true
         }
       ]

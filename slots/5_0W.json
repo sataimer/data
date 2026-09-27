@@ -1261,7 +1261,7 @@
           "IsFta": true
         },
         {
-          "Name": "ICI  Cotentin",
+          "Name": "ICI Cotentin",
           "Package": "Radio France",
           "Languages": [],
           "Type": "Radio",
@@ -2730,9 +2730,11 @@
           "IsFta": true
         },
         {
-          "Name": "Cittadella Visual Radio TV",
+          "Name": "Taranto TV",
           "Package": "Rai Way",
-          "Languages": [],
+          "Languages": [
+            "ita"
+          ],
           "Type": "TV",
           "IsFta": true
         }

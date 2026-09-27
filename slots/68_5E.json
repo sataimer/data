@@ -1282,13 +1282,6 @@
           "Languages": [],
           "Type": "TV",
           "IsFta": true
-        },
-        {
-          "Name": "OTA",
-          "Package": "INDIA TV",
-          "Languages": [],
-          "Type": "Data",
-          "IsFta": true
         }
       ]
     },
@@ -4345,7 +4338,7 @@
       "FrequencyMHz": 12634,
       "Polarization": "V",
       "SymbolRateKs": 16166,
-      "Fec": "5/6",
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "QPSK",
       "Channels": [

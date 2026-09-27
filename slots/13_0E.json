@@ -2489,6 +2489,15 @@
       ]
     },
     {
+      "FrequencyMHz": 10975.8,
+      "Polarization": "H",
+      "SymbolRateKs": 3600,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 10992.16,
       "Polarization": "V",
       "SymbolRateKs": 27500,
@@ -3237,9 +3246,9 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11084.2,
+      "FrequencyMHz": 11087.1,
       "Polarization": "V",
-      "SymbolRateKs": 14400,
+      "SymbolRateKs": 9875,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -4118,12 +4127,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11195.2,
+      "FrequencyMHz": 11199.6,
       "Polarization": "V",
-      "SymbolRateKs": 8022,
-      "Fec": "25/36",
-      "Standard": "DVB-S2X",
-      "Modulation": "16APSK",
+      "SymbolRateKs": 9875,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -4147,10 +4156,10 @@
     {
       "FrequencyMHz": 11213,
       "Polarization": "V",
-      "SymbolRateKs": 8022,
-      "Fec": "25/36",
-      "Standard": "DVB-S2X",
-      "Modulation": "16APSK",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -6563,10 +6572,10 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11623.5,
+      "FrequencyMHz": 11623.2,
       "Polarization": "V",
-      "SymbolRateKs": 27500,
-      "Fec": "5/6",
+      "SymbolRateKs": 9875,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
       "Channels": []
@@ -6590,9 +6599,9 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11636.8,
+      "FrequencyMHz": 11635.3,
       "Polarization": "V",
-      "SymbolRateKs": 7200,
+      "SymbolRateKs": 9875,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",
@@ -11735,7 +11744,7 @@
           "IsFta": false
         },
         {
-          "Name": "DreamWorks Collection HD",
+          "Name": "Sky Cinema Family HD",
           "Package": "Sky Italia",
           "Languages": [
             "ita",
@@ -12045,6 +12054,15 @@
       "Channels": []
     },
     {
+      "FrequencyMHz": 12423.7,
+      "Polarization": "H",
+      "SymbolRateKs": 7500,
+      "Fec": "5/6",
+      "Standard": "DVB-S2",
+      "Modulation": "8PSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 12437.2,
       "Polarization": "H",
       "SymbolRateKs": 27500,
@@ -12088,7 +12106,7 @@
           "IsFta": false
         },
         {
-          "Name": "Batman Collection HD",
+          "Name": "Fast \u0026 Furious Collection HD",
           "Package": "Sky Italia",
           "Languages": [
             "ita",
@@ -14455,9 +14473,9 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 12704.5,
+      "FrequencyMHz": 12706,
       "Polarization": "H",
-      "SymbolRateKs": 9875,
+      "SymbolRateKs": 7200,
       "Fec": "3/4",
       "Standard": "DVB-S2",
       "Modulation": "8PSK",

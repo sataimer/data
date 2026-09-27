@@ -4369,7 +4369,7 @@
           "IsFta": true
         },
         {
-          "Name": "TKGS DATA",
+          "Name": "TKGS TEST",
           "Package": "TURKSAT",
           "Languages": [],
           "Type": "Data",
@@ -6603,7 +6603,7 @@
           "IsFta": true
         },
         {
-          "Name": "NR1 FM.",
+          "Name": "NR1 OPET RADYOSU",
           "Package": "TURKSAT",
           "Languages": [
             "tur"

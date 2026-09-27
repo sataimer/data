@@ -1202,12 +1202,12 @@
       "Channels": []
     },
     {
-      "FrequencyMHz": 11165.8,
+      "FrequencyMHz": 11166.8,
       "Polarization": "V",
-      "SymbolRateKs": 5000,
-      "Fec": "3/5",
+      "SymbolRateKs": 7200,
+      "Fec": "3/4",
       "Standard": "DVB-S2",
-      "Modulation": "QPSK",
+      "Modulation": "8PSK",
       "Channels": []
     },
     {
@@ -1899,7 +1899,7 @@
       "FrequencyMHz": 12523.3,
       "Polarization": "H",
       "SymbolRateKs": 10038,
-      "Fec": "13/18",
+      "Fec": "3/4",
       "Standard": "DVB-S2X",
       "Modulation": "16APSK",
       "Channels": []

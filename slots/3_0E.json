@@ -2502,6 +2502,15 @@
       ]
     },
     {
+      "FrequencyMHz": 10863,
+      "Polarization": "H",
+      "SymbolRateKs": 9708,
+      "Fec": "2/3",
+      "Standard": "DVB-S2",
+      "Modulation": "16APSK",
+      "Channels": []
+    },
+    {
       "FrequencyMHz": 10870.5,
       "Polarization": "H",
       "SymbolRateKs": 19630,
